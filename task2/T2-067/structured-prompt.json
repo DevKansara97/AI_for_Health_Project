@@ -1,0 +1,71 @@
+{
+  "case_id": "T2-067",
+  "pid": "T2-067",
+  "task": 2,
+  "psa": 4.8,
+  "age": 70,
+  "months": 1,
+  "pirads": "2",
+  "psad": 0.05,
+  "psav": 1.12,
+  "psap": 3.7,
+  "vol": 95.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.5376115,
+  "medhx": "Hypercholesterolaemia, COPD, Osteoarthritis",
+  "meds": "atorvastatin, simvastatin, rosuvastatin, tiotropium, salbutamol PRN",
+  "notes": "PSA 4.8 ng/mL. PI-RADS 2. PSAD 0.05. Prostate volume 95 mL. csPCa 0.54.",
+  "pmhx": [
+    "Hypercholesterolaemia",
+    "COPD",
+    "Osteoarthritis"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "65 kg",
+    "height": "169 cm",
+    "bmi": "22.8",
+    "bp": "140/79 mmHg",
+    "hr": "77 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "27 Jan 2025",
+  "enc_ref": "Dr. T. Hendriks (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for prostate cancer management decision following stable biopsy findings and rising PSA."
+    },
+    {
+      "s": "History",
+      "t": "The patient is a 70-year-old mechanical engineer, never married, living with his partner. He has a history of hypercholesterolaemia, COPD, and osteoarthritis. Medications include atorvastatin, simvastatin, rosuvastatin, tiotropium, and salbutamol PRN. He is a non-smoker, alcohol-free, and plays tennis twice weekly. IPSS score is 28/35, indicating severe LUTS. He has visual impairment requiring large-print correspondence. Recent appointments include a memory clinic baseline screening and biannual dental check-up. PSA trend: 2.9 ng/mL (Dec 2022), 3.7 ng/mL (Jan 2024), 4.8 ng/mL (Jan 2025)."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum, the prostate feels smooth and symmetrically enlarged without nodules, consistent with cT1c. General examination is unremarkable. Visual impairment noted; large-print materials provided."
+    }
+  ],
+  "occupation": "mechanical engineer",
+  "marital": "Never married",
+  "living": "Lives with partner",
+  "next_of_kin": "Adult son (primary contact)",
+  "recent_other": [
+    "Memory clinic — baseline screening",
+    "Dental — biannual check-up"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Tennis 2x/week",
+  "ipss": "IPSS score: 28/35 (severe LUTS)",
+  "admin": "Visual impairment: large-print correspondence requested.",
+  "mri_hospital": "Amsterdam UMC (location AMC)",
+  "bx_isup": 2,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 4,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

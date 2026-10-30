@@ -1,0 +1,18 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "psad": "noted",
+    "ct": "important",
+    "comorbidity": "not_used",
+    "bx_isup": "noted",
+    "bx_gl_sec": "noted",
+    "fh": "decisive",
+    "psa": "noted",
+    "pirads": "decisive",
+    "bx_gl_prim": "noted",
+    "age": "decisive",
+    "cspca": "decisive"
+  },
+  "reveal_sequence": [],
+  "free_text": "Re-biopsy to confirm diagnosis and avoid under treatment with AS"
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "PT-pseudo_c13fda040310",
+  "confidence": "uncertain",
+  "variable_importance": {
+    "psa": "important",
+    "psad": "noted",
+    "vol": "noted",
+    "pirads": "not_used",
+    "dre": "not_used",
+    "fh": "not_used",
+    "comorbidity": "noted",
+    "cspca": "not_used",
+    "age": "not_used",
+    "bx": "decisive"
+  },
+  "sections_accessed": [
+    "previous_notes",
+    "laboratory_results",
+    "psa_trend",
+    "radiology_report"
+  ],
+  "explanation": "Biopsy recommended (risk score 0.65 >= decision threshold 0.64; confidence: uncertain). Main supporting factors: prior biopsy negative; 4 comorbidities. Strongest factor pointing the other way: PSA 6.1 ng/mL (velocity +1.4). The score is very close to the threshold or the models disagree; clinical review is advised. Sections informing this decision: previous_notes, laboratory_results, psa_trend, radiology_report."
+}

@@ -1,0 +1,68 @@
+{
+  "case_id": "T2-123",
+  "pid": "T2-123",
+  "task": 2,
+  "psa": 28.3,
+  "age": 56,
+  "months": 2,
+  "pirads": "5",
+  "psad": 0.4,
+  "psav": 6.06,
+  "psap": 14.0,
+  "vol": 70.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.8709831,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 28.3 ng/mL. PI-RADS 5. PSAD 0.40. Prostate volume 70 mL. csPCa 0.87.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "84 kg",
+    "height": "170 cm",
+    "bmi": "29.1",
+    "bp": "136/86 mmHg",
+    "hr": "69 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "09 Jan 2025",
+  "enc_ref": "Dr. R. van den Berg (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for treatment planning following confirmed high-grade prostate cancer and rapidly rising PSA."
+    },
+    {
+      "s": "History",
+      "t": "Recently retired plumber with a history of prostate cancer diagnosis, currently presenting for treatment decision after biopsy confirmation. The patient is married and lives with his partner, who serves as his primary contact. He maintains a sedentary lifestyle with occasional walking and consumes approximately one unit of alcohol weekly. Recent outpatient appointments include cataract review in ophthalmology, knee follow-up in orthopaedics, and actinic keratosis check in dermatology. No current medications or known allergies. He reports mild lower urinary tract symptoms with an IPSS score of 4/35. There are no comorbidities recorded, and he is a non-smoker."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is smooth, symmetric, and non-nodular, consistent with clinical T stage cT1c. General examination reveals a well-nourished male with stable vital signs, including blood pressure 136/86 mmHg and heart rate 69 bpm. No lymphadenopathy or signs of metastatic disease are noted."
+    }
+  ],
+  "occupation": "retired plumber",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Ophthalmology — cataract review",
+    "Orthopaedic outpatient — knee follow-up",
+    "Dermatology — actinic keratosis check"
+  ],
+  "alcohol": "1 units / week",
+  "exercise": "Sedentary lifestyle, occasional walking",
+  "ipss": "IPSS score: 4/35 (mild LUTS)",
+  "admin": "Interpreter: not required. Consent for data use: signed.",
+  "mri_hospital": "Maastricht UMC+",
+  "bx_isup": 5,
+  "bx_gl_prim": 4,
+  "bx_gl_sec": 5,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

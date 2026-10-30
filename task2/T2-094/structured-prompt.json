@@ -1,0 +1,69 @@
+{
+  "case_id": "T2-094",
+  "pid": "T2-094",
+  "task": 2,
+  "psa": 9.0,
+  "age": 72,
+  "months": 1,
+  "pirads": "4",
+  "psad": 0.18,
+  "psav": 3.37,
+  "psap": 4.4,
+  "vol": 49.0,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.79713064,
+  "medhx": "Hypercholesterolaemia",
+  "meds": "simvastatin, rosuvastatin",
+  "notes": "PSA 9 ng/mL. PI-RADS 4. PSAD 0.18. Prostate volume 49 mL. DRE nodus. csPCa 0.80.",
+  "pmhx": [
+    "Hypercholesterolaemia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "98 kg",
+    "height": "183 cm",
+    "bmi": "29.3",
+    "bp": "100/92 mmHg",
+    "hr": "94 bpm",
+    "smoking": "Ex-smoker (22 pack-yr, quit 2004)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "05 Jan 2025",
+  "enc_ref": "Dr. L. Smits (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of prostate cancer management following rising PSA and repeat biopsy confirmation of low-grade disease."
+    },
+    {
+      "s": "History",
+      "t": "Recently retired factory supervisor with a history of prostate adenocarcinoma diagnosed in early 2023. He has been living with his unmarried partner and maintains a regular walking routine of 45 minutes daily. His alcohol consumption is modest at three units per week. Medical history includes hypercholesterolaemia, managed with simvastatin and rosuvastatin. He recently attended dermatology for actinic keratosis screening and endocrinology for thyroid evaluation. His daughter manages communication and is copied on correspondence with his consent. He denies any new lower urinary tract symptoms, bone pain, or unexplained weight loss."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, a discrete nodule is palpable in the left peripheral zone, consistent with clinical stage cT2a. General examination is unremarkable with no lymphadenopathy or signs of metastatic disease. Vital signs are stable with blood pressure 100/92 mmHg and heart rate 94 bpm."
+    }
+  ],
+  "occupation": "factory supervisor",
+  "marital": "Living with partner (unmarried)",
+  "living": "Lives with partner",
+  "next_of_kin": "Sibling (sister)",
+  "recent_other": [
+    "Dermatology — actinic keratosis check",
+    "Endocrine — thyroid screening"
+  ],
+  "alcohol": "3 units / week",
+  "exercise": "Walking 45 min/day",
+  "ipss": "IPSS score: 2/35 (mild LUTS)",
+  "admin": "Daughter manages communication; CC on letters with patient consent.",
+  "mri_hospital": "Maastricht UMC+",
+  "bx_isup": 1,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 3,
+  "ct": "cT2a",
+  "active_treatment_flag": 0
+}

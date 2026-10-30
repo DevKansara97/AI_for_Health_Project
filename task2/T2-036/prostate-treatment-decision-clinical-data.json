@@ -1,0 +1,103 @@
+{
+  "radiology_report": "Ziekenhuis Gelderse Vallei (Ede)\nDepartment of Radiology\nDate: 27 November 2024\nExam: mpMRI prostate\n\nClinical indication: Re-evaluation of prostate cancer. PSA 8.3 ng/mL. Prior biopsy Gleason 3+3.\n\nFINDINGS:\nMultiparametric MRI of the prostate was performed including T2-weighted, DWI (b=0, 50, 800, 1400 s/mm2), and DCE sequences.\nThe prostate gland measures 40.2 mL in volume.\nT2-weighted imaging shows a homogeneous peripheral zone without focal zonal architecture distortion.\nDiffusion-weighted imaging demonstrates no focal area of restricted diffusion in the peripheral or transition zones.\nDynamic contrast-enhanced sequences show no early focal enhancement suspicious for malignancy.\nNo suspicious lesion is identified.\n\nIMPRESSION:\nNo focal lesion suspicious for clinically significant prostate cancer.\nPI-RADS score: 2\nProstate volume: 40.2 mL\nPSA density: 0.206 ng/mL/mL\nClinical T stage: cT2\ncsPCa predicted probability 0.69907415",
+  "previous_notes": [
+    {
+      "date": "16 May 2024",
+      "author": "Dr. F. de Boer (GP)",
+      "text": "Patient presented with elevated PSA of 3.9 ng/mL, up from 1.7 ng/mL in August 2023. Digital rectal examination was performed, revealing a suspicious nodule. Multiparametric MRI was arranged to further evaluate the prostate. Referred to urology for consideration of biopsy given the rising PSA trend and clinical findings."
+    },
+    {
+      "date": "13 Sep 2024",
+      "author": "Dr. F. de Boer (GP)",
+      "text": "Follow-up visit after prostate biopsy results returned. Pathology confirmed Gleason 3+3 (ISUP grade group 1) carcinoma in the right peripheral zone. Patient was informed of the diagnosis and the low-grade nature of the disease. Discussed options including active surveillance and further evaluation. Patient expressed preference for close monitoring given the recent diagnosis and travel distance to the clinic. Scheduled for urology re-evaluation."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Dec 2022",
+      "val": 6.3
+    },
+    {
+      "date": "Aug 2023",
+      "val": 1.7
+    },
+    {
+      "date": "May 2024",
+      "val": 3.9
+    },
+    {
+      "date": "Jan 2025",
+      "val": 8.3
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "8.3 ng/mL",
+      "date": "27 Nov 2024",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "0.85 ng/mL",
+      "date": "27 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "10%",
+      "date": "27 Nov 2024",
+      "flag": "L"
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "14.9 g/dL",
+      "date": "27 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "4.5 x10^9/L",
+      "date": "27 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "236 x10^9/L",
+      "date": "27 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "107 umol/L",
+      "date": "27 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "27 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "13.7 nmol/L",
+      "date": "27 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "87 U/L",
+      "date": "27 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "146 U/L",
+      "date": "27 Nov 2024",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy timepoint 1 (May 2024):\nHistological examination of the prostate biopsy specimens reveals carcinoma with a Gleason score of 3+3, corresponding to ISUP grade group 1. The tumour is characterized by rounded atypical prostatic tubules lined by single-layer epithelium with large nuclei and prominent nucleoli. No cribriform or intraductal patterns identified. The tumour is located in the peripheral zone, right.\n\nSummary:\nThe histological findings across the available biopsy timepoint remain stable, showing ISUP grade group 1 disease without high-risk architectural patterns.\n\nAI-predicted ISUP grade group (digital pathology): grade group 2."
+}

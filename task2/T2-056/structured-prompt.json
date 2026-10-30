@@ -1,0 +1,70 @@
+{
+  "case_id": "T2-056",
+  "pid": "T2-056",
+  "task": 2,
+  "psa": 5.8,
+  "age": 66,
+  "months": 3,
+  "pirads": "4",
+  "psad": 0.192,
+  "psav": 1.32,
+  "psap": 1.1,
+  "vol": 30.22,
+  "dre": "Abnormal",
+  "bx": "Positive",
+  "cspca": 0.81118125,
+  "medhx": "Hypercholesterolaemia",
+  "meds": "None",
+  "notes": "PSA 5.8 ng/mL. PI-RADS 4. PSAD 0.19. Prostate volume 30 mL. DRE abnormal. csPCa 0.81.",
+  "pmhx": [
+    "Hypercholesterolaemia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "80 kg",
+    "height": "185 cm",
+    "bmi": "23.4",
+    "bp": "130/73 mmHg",
+    "hr": "80 bpm",
+    "smoking": "Current smoker (41 pack-yr)",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "15 Jan 2025",
+  "enc_ref": "Dr. C. Peters (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of prostate cancer management options following a recent PSA surge and repeat biopsy confirmation."
+    },
+    {
+      "s": "History",
+      "t": "Semi-retired musician living with his partner, who prefers flexible appointment scheduling due to his self-employed status. He reports a recent increase in PSA levels, rising from 1.1 ng/mL in August 2024 to 5.8 ng/mL in January 2025, prompting this re-evaluation. He has a history of prostate cancer diagnosed earlier this year, initially managed with active surveillance. He currently experiences mild lower urinary tract symptoms with an IPSS score of 4. He is a current smoker with a 41 pack-year history and abstains from alcohol. He has limited mobility, performing only chair-based exercises, and is currently attending physiotherapy for lower back issues. Recent appointments include thyroid screening with endocrinology and a sleep clinic evaluation for suspected obstructive sleep apnoea. He has hypercholesterolaemia but is not currently taking any active medication."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, an abnormality is palpable in the left peripheral zone at the base, consistent with clinical T stage cT1c. General examination reveals a well-nourished male with a BMI of 23.4 and stable vital signs including a blood pressure of 130/73 mmHg and heart rate of 80 bpm."
+    }
+  ],
+  "occupation": "musician (semi-retired)",
+  "marital": "Divorced",
+  "living": "Lives with partner",
+  "next_of_kin": "Nephew",
+  "recent_other": [
+    "Physiotherapy — lower back, six sessions",
+    "Endocrine — thyroid screening",
+    "Sleep clinic — suspected obstructive sleep apnoea"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Limited mobility — chair-based exercises only",
+  "ipss": "IPSS score: 4/35 (mild LUTS)",
+  "admin": "Patient self-employed; flexible appointment slots requested.",
+  "mri_hospital": "Ziekenhuis Gelderse Vallei (Ede)",
+  "bx_isup": 1,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

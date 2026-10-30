@@ -1,0 +1,72 @@
+{
+  "case_id": "T2-031",
+  "pid": "T2-031",
+  "task": 2,
+  "psa": 6.0,
+  "age": 77,
+  "months": 3,
+  "pirads": "4",
+  "psad": 0.08,
+  "psav": 3.37,
+  "psap": 4.6,
+  "vol": 79.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.7697653,
+  "medhx": "Hypertension, COPD, Osteoarthritis, Benign prostatic hyperplasia, Atrial fibrillation",
+  "meds": "amlodipine, valsartan, lisinopril, metoprolol, tiotropium, salbutamol PRN, paracetamol PRN, tamsulosin, apixaban",
+  "notes": "PSA 6 ng/mL. PI-RADS 4. PSAD 0.08. Prostate volume 79 mL. csPCa 0.77.",
+  "pmhx": [
+    "Hypertension",
+    "COPD",
+    "Osteoarthritis",
+    "Benign prostatic hyperplasia",
+    "Atrial fibrillation"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "80 kg",
+    "height": "184 cm",
+    "bmi": "23.6",
+    "bp": "142/72 mmHg",
+    "hr": "83 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "23 Feb 2025",
+  "enc_ref": "Dr. K. Bakker (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Follow-up consultation to discuss management options following recent biopsy confirmation of Gleason 4+3 prostate adenocarcinoma."
+    },
+    {
+      "s": "History",
+      "t": "Long-standing referral for prostate cancer management in a seventy-seven-year-old retired primary school teacher. The patient has a significant medical history including hypertension, atrial fibrillation on apixaban, chronic obstructive pulmonary disease managed with tiotropium and salbutamol, and osteoarthritis. He lives with his wife and remains physically active, completing a daily forty-five-minute walk, while consuming minimal alcohol. He reports mild lower urinary tract symptoms with an IPSS of 7, currently controlled on tamsulosin, and recently completed a routine surveillance colonoscopy without complications. Given his anxiety regarding invasive procedures, he has requested a thorough discussion of all available therapeutic pathways."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On digital rectal examination, the prostate is enlarged but smooth and symmetrically non-nodular, correlating with a clinical T1c staging. General inspection reveals a well-nourished gentleman with stable vital signs and clear lung fields on auscultation despite his known pulmonary history. Abdominal examination is unremarkable with no palpable lymphadenopathy or organomegaly."
+    }
+  ],
+  "occupation": "retired primary school teacher",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Gastroenterology — surveillance colonoscopy"
+  ],
+  "alcohol": "1 units / week",
+  "exercise": "Walking 45 min/day",
+  "ipss": "IPSS score: 7/35 (mild LUTS)",
+  "admin": "Patient anxious about procedures — allocate extra consult time.",
+  "mri_hospital": "OLVG (Amsterdam)",
+  "bx_isup": 2,
+  "bx_gl_prim": 4,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

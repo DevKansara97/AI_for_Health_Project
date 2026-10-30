@@ -1,0 +1,18 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "pirads": "decisive",
+    "bx_gl_sec": "noted",
+    "fh": "noted",
+    "psad": "noted",
+    "comorbidity": "important",
+    "psa": "important",
+    "bx_gl_prim": "noted",
+    "cspca": "important",
+    "ct": "noted",
+    "bx_isup": "important",
+    "age": "important"
+  },
+  "reveal_sequence": [],
+  "free_text": "Patient with a previous biopsy from 2022. MRI shows a PIRADS 4 lesion. Need confirmatory biopsy"
+}

@@ -1,0 +1,70 @@
+{
+  "case_id": "T2-058",
+  "pid": "T2-058",
+  "task": 2,
+  "psa": 25.0,
+  "age": 59,
+  "months": 1,
+  "pirads": "5",
+  "psad": 0.783,
+  "psav": 6.39,
+  "psap": 16.7,
+  "vol": 31.91,
+  "dre": "Abnormal",
+  "bx": "Positive",
+  "cspca": 0.918368,
+  "medhx": "Hypertension, Benign prostatic hyperplasia",
+  "meds": "None",
+  "notes": "PSA 25 ng/mL. PI-RADS 5. PSAD 0.78. Prostate volume 32 mL. DRE abnormal. csPCa 0.92.",
+  "pmhx": [
+    "Hypertension",
+    "Benign prostatic hyperplasia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "81 kg",
+    "height": "181 cm",
+    "bmi": "24.7",
+    "bp": "140/78 mmHg",
+    "hr": "81 bpm",
+    "smoking": "Ex-smoker (13 pack-yr, quit 2005)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "08 Jan 2025",
+  "enc_ref": "Dr. M. Jansen (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of prostate cancer diagnosis with rising PSA and prior Gleason 4+4 biopsy results to determine optimal treatment strategy."
+    },
+    {
+      "s": "History",
+      "t": "Long-standing referral for prostate cancer management. The patient is a 59-year-old ICT consultant, married, living with his partner. He has a history of hypertension and benign prostatic hyperplasia. Recent PSA trend shows a significant rise from 10.1 ng/mL in June 2023 to 25.0 ng/mL in January 2025, with a notable increase from 16.7 ng/mL in July 2024. He reports mild lower urinary tract symptoms with an IPSS score of 3/35. He is an ex-smoker (13 pack-years, quit in 2005) and consumes 10 units of alcohol weekly. His lifestyle is sedentary with occasional walking. He lives over 90 minutes from the clinic and prefers phone follow-up where clinically safe. Recent appointments include a surveillance colonoscopy with gastroenterology and a pulmonary function test for known COPD follow-up."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum, the prostate feels asymmetrically enlarged with a firm, irregular nodule in the left lobe, consistent with clinical stage cT2c. General examination is unremarkable, with normal vital signs and no signs of distant metastasis."
+    }
+  ],
+  "occupation": "ICT consultant",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Gastroenterology — surveillance colonoscopy",
+    "Pulmonary function test — known COPD follow-up"
+  ],
+  "alcohol": "10 units / week",
+  "exercise": "Sedentary lifestyle, occasional walking",
+  "ipss": "IPSS score: 3/35 (mild LUTS)",
+  "admin": "Lives >90 min from clinic; phone follow-up preferred where clinically safe.",
+  "mri_hospital": "UMCG (Groningen)",
+  "bx_isup": 4,
+  "bx_gl_prim": 4,
+  "bx_gl_sec": 4,
+  "ct": "cT2c",
+  "active_treatment_flag": 0
+}

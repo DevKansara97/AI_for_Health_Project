@@ -1,0 +1,68 @@
+{
+  "case_id": "T2-002",
+  "pid": "T2-002",
+  "task": 2,
+  "psa": 187.0,
+  "age": 74,
+  "months": 1,
+  "pirads": "5",
+  "psad": 3.26,
+  "psav": 52.66,
+  "psap": 0.5,
+  "vol": 57.28,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.964853,
+  "medhx": "Benign prostatic hyperplasia",
+  "meds": "None",
+  "notes": "PSA 187 ng/mL. PI-RADS 5. PSAD 3.26. Prostate volume 57 mL. csPCa 0.96.",
+  "pmhx": [
+    "Benign prostatic hyperplasia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "82 kg",
+    "height": "181 cm",
+    "bmi": "25.0",
+    "bp": "117/81 mmHg",
+    "hr": "62 bpm",
+    "smoking": "Ex-smoker (17 pack-yr, quit 2009)",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "08 Feb 2025",
+  "enc_ref": "Dr. H. Martens (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Marked PSA escalation to 187.0 ng/mL despite prior active surveillance for high-grade prostate cancer."
+    },
+    {
+      "s": "History",
+      "t": "The patient is a 74-year-old factory supervisor living with his partner, with a history of prostate cancer diagnosed in 2023. He has been on active surveillance since then, but recent PSA testing shows a dramatic rise from 0.5 ng/mL in October 2024 to 187.0 ng/mL in February 2025. He reports mild lower urinary tract symptoms (IPSS 7/35) and has benign prostatic hyperplasia. He is an ex-smoker (17 pack-years, quit in 2009) and currently abstains from alcohol. His mobility is limited, and he participates in chair-based exercises only. He has been attending physiotherapy for lower back issues, completing six sessions recently. He denies any bone pain, haematuria, or unexplained weight loss. His adult son is the primary contact for medical decisions."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is symmetrically enlarged with a smooth surface and no palpable nodules, consistent with clinical stage cT1c. General examination is unremarkable, with stable vital signs and no signs of metastatic disease such as lymphadenopathy or hepatosplenomegaly."
+    }
+  ],
+  "occupation": "factory supervisor",
+  "marital": "Living with partner (unmarried)",
+  "living": "Lives with partner",
+  "next_of_kin": "Adult son (primary contact)",
+  "recent_other": [
+    "Physiotherapy — lower back, six sessions"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Limited mobility — chair-based exercises only",
+  "ipss": "IPSS score: 7/35 (mild LUTS)",
+  "admin": "Interpreter: not required. Consent for data use: signed.",
+  "mri_hospital": "Spaarne Gasthuis (Haarlem)",
+  "bx_isup": 4,
+  "bx_gl_prim": 4,
+  "bx_gl_sec": 4,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

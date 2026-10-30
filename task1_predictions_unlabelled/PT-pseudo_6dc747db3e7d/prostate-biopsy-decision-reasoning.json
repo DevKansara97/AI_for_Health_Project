@@ -1,0 +1,19 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "psa": "important",
+    "psad": "noted",
+    "vol": "noted",
+    "pirads": "decisive",
+    "dre": "noted",
+    "fh": "noted",
+    "comorbidity": "noted",
+    "cspca": "not_used",
+    "age": "important",
+    "bx": "important"
+  },
+  "reveal_sequence": [
+    "radiology_report"
+  ],
+  "free_text": "Biopsy recommended (model risk score 0.65 vs decision threshold 0.48). Supporting this: PI-RADS 5 (18 mm lesion). Context: age 76; no prior biopsy. Weighed against it: PSA 3.3 ng/mL. Based on the structured clinical variables and the MRI report."
+}

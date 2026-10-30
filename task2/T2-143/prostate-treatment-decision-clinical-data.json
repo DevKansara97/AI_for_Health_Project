@@ -1,0 +1,100 @@
+{
+  "radiology_report": "Department of Radiology\nUMCG (Groningen)\nDate: 2025-01-15\nExam: mpMRI Prostate\n\nClinical indication: Elevated PSA 4.1 ng/mL, prior biopsy Gleason 3+3. Request for lesion characterization.\n\nFINDINGS:\nThe prostate volume measures 31.0 mL. The transition zone is unremarkable. In the peripheral zone, a focal lesion is identified in the left apical region, measuring approximately 12 x 9 x 8 mm. This area demonstrates restricted diffusion on DWI (b=1400) with corresponding signal drop on the ADC map. On T2-weighted imaging, the lesion appears as a subtle hypointense focus. Dynamic contrast-enhanced sequences show early, focal enhancement in the same region, consistent with the DWI/T2 findings. No extracapsular extension or seminal vesicle invasion is visualized. Pelvic lymph nodes appear unremarkable.\n\nIMPRESSION:\nPI-RADS v2.1 score 4 lesion in the left apical peripheral zone.\nProstate volume 31.0 mL; PSA density 0.13 ng/mL/mL.\nClinical T stage cT1c.\ncsPCa predicted probability 0.8615541",
+  "previous_notes": [
+    {
+      "date": "16 Feb 2024",
+      "author": "Dr. H. Martens (GP)",
+      "text": "Patient presented with a PSA of 2.4 ng/mL. Digital rectal examination was unremarkable. Given the patient's age and PSA level, a multiparametric MRI was arranged, followed by a systematic and targeted biopsy. The biopsy confirmed ISUP grade group 1 prostate cancer. The patient was informed of the diagnosis and discussed initial management options, with a preference expressed for close monitoring rather than immediate intervention."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Jan 2024",
+      "val": 2.4
+    },
+    {
+      "date": "Jul 2024",
+      "val": 3.1
+    },
+    {
+      "date": "Feb 2025",
+      "val": 4.1
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "4.1 ng/mL",
+      "date": "06 Jan 2025",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "0.94 ng/mL",
+      "date": "06 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "23%",
+      "date": "06 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "15.1 g/dL",
+      "date": "06 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "4.8 x10^9/L",
+      "date": "06 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "203 x10^9/L",
+      "date": "06 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "106 umol/L",
+      "date": "06 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "06 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "11.6 nmol/L",
+      "date": "06 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "102 U/L",
+      "date": "06 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "194 U/L",
+      "date": "06 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "HbA1c",
+      "val": "5.9 %",
+      "date": "06 Jan 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy timepoint 1 (2024-02-20): Histological examination of the prostate tissue cores reveals adenocarcinoma. The Gleason score is 3+3, corresponding to ISUP grade group 1. The architectural growth pattern is characterized by branching tumor tubules and not so much fusing tubules. No cribriform or intraductal patterns identified. The tumour location is peripheral zone, apical left.\n\nSummary: The pathological trajectory across the single available biopsy timepoint remains stable at ISUP grade group 1.\n\nAI-predicted ISUP grade group (digital pathology): grade group 2."
+}

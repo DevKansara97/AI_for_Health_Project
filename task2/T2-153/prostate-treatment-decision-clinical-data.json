@@ -1,0 +1,94 @@
+{
+  "radiology_report": "Department of Radiology\nZiekenhuis Gelderse Vallei (Ede)\nDate: 15 January 2025\nExam: Multiparametric MRI prostate (1.5T)\n\nClinical indication: Rising PSA to 4.3 ng/mL with prior biopsy-proven adenocarcinoma; assessment for focal lesion characterisation and PI-RADS scoring.\n\nFINDINGS:\nThe prostate gland demonstrates a total volume of 57.0 mL with preserved zonal anatomy. T2-weighted imaging reveals a homogeneous peripheral zone without discrete mass effect. Diffusion-weighted sequences show no focal area of restricted diffusion exceeding background tissue, and dynamic contrast-enhanced phases demonstrate physiological enhancement without early washout or suspicious focal uptake. A minor area of mild T2 hypointensity is noted in the left apical peripheral zone measuring approximately 8 mm, exhibiting benign signal characteristics without corresponding DWI restriction or DCE enhancement. The central gland shows mild benign prostatic hyperplasia. Seminal vesicles are unremarkable. No lymphadenopathy or osseous abnormalities are identified within the field of view.\n\nIMPRESSION:\nMultiparametric MRI of the prostate demonstrates no focal lesion suspicious for clinically significant disease. Overall assessment is PI-RADS version 2.1 score 2. Prostate volume 57.0 mL yields a PSA density of 0.07 ng/mL/mL. Clinical stage cT1c. csPCa predicted probability 0.2787341.",
+  "previous_notes": [
+    {
+      "date": "01 Sep 2023",
+      "author": "Dr. T. Hendriks (GP)",
+      "text": "The patient attended for routine blood work following a mildly elevated screening PSA of 3.6 ng/mL noted on previous testing. Repeat serum analysis confirmed a gradual upward trend from his baseline, prompting discussion of urological referral for further evaluation. A transrectal ultrasound-guided biopsy was subsequently arranged to clarify the histological status, and the patient was advised to continue routine monitoring while awaiting specialist assessment."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Sep 2022",
+      "val": 3.0
+    },
+    {
+      "date": "Nov 2023",
+      "val": 3.6
+    },
+    {
+      "date": "Feb 2025",
+      "val": 4.3
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "4.3 ng/mL",
+      "date": "02 Feb 2025",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "0.79 ng/mL",
+      "date": "02 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "18%",
+      "date": "02 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "15.9 g/dL",
+      "date": "02 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "7.0 x10^9/L",
+      "date": "02 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "159 x10^9/L",
+      "date": "02 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "95 umol/L",
+      "date": "02 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "02 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "12.8 nmol/L",
+      "date": "02 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "66 U/L",
+      "date": "02 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "174 U/L",
+      "date": "02 Feb 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Histopathological evaluation of the transrectal ultrasound-guided prostate biopsy specimen reveals adenocarcinoma with a Gleason score of 3+4, corresponding to ISUP Grade Group 2. The malignant glands are situated within the peripheral zone at the left apex and demonstrate a growth pattern characterised by mostly separate tubules, very closely packed but also a large amount of fusing and partly also abortive glandular tubules. Careful review confirms that no cribriform or intraductal patterns identified, and perineural invasion is absent. This represents the current histological baseline for disease stratification.\n\nAI-predicted ISUP grade group (digital pathology): grade group 4."
+}

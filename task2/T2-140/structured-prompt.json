@@ -1,0 +1,68 @@
+{
+  "case_id": "T2-140",
+  "pid": "T2-140",
+  "task": 2,
+  "psa": 3.9,
+  "age": 61,
+  "months": 1,
+  "pirads": "5",
+  "psad": 0.124,
+  "psav": 0.57,
+  "psap": 3.3,
+  "vol": 31.47,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.7731299,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 3.9 ng/mL. PI-RADS 5. PSAD 0.12. Prostate volume 31 mL. DRE nodus. csPCa 0.77.",
+  "pmhx": [],
+  "allergies": [
+    "Iodinated contrast (mild)"
+  ],
+  "vitals": {
+    "weight": "83 kg",
+    "height": "181 cm",
+    "bmi": "25.3",
+    "bp": "117/58 mmHg",
+    "hr": "63 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "06 Jan 2025",
+  "enc_ref": "Dr. T. Hendriks (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for treatment planning following a recent prostate biopsy confirming ISUP grade group 4 adenocarcinoma with perineural invasion and imaging suggestive of extracapsular extension."
+    },
+    {
+      "s": "History",
+      "t": "Recently retired secondary school teacher with a history of rising PSA levels over the past three years, culminating in a biopsy-confirmed prostate cancer diagnosis. He lives with his partner and has adult children who visit weekly, providing a strong support network. His lifestyle is largely sedentary, limited to occasional walking, and he consumes minimal alcohol at one unit per week. He reports moderate lower urinary tract symptoms with an IPSS score of 11, primarily characterized by nocturia and a weak stream. He is widowed but currently in a stable partnership, and his partner serves as his primary contact for medical matters. A recent routine chest X-ray was performed and reported as unremarkable. He has no significant comorbidities and takes no regular medication."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum, a firm, irregular nodule is palpable in the left lateral aspect of the prostate, with loss of the normal median sulcus and induration suggestive of extracapsular extension, consistent with clinical stage cT3. General examination is unremarkable with stable vital signs, clear lungs, and a regular cardiac rhythm. No lymphadenopathy or abdominal masses are detected."
+    }
+  ],
+  "occupation": "secondary school teacher",
+  "marital": "Widowed",
+  "living": "Lives with partner; adult children visit weekly",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Radiology — chest X-ray (routine)"
+  ],
+  "alcohol": "1 units / week",
+  "exercise": "Sedentary lifestyle, occasional walking",
+  "ipss": "IPSS score: 11/35 (moderate LUTS)",
+  "admin": "Hard of hearing — speak clearly; prefers written summaries.",
+  "mri_hospital": "Antoni van Leeuwenhoek",
+  "bx_isup": 4,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 5,
+  "ct": "cT3",
+  "active_treatment_flag": 0
+}

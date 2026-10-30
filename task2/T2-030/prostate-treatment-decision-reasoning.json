@@ -1,0 +1,17 @@
+{
+  "confidence": "borderline",
+  "variable_weights": {
+    "age": "important",
+    "ct": "important",
+    "bx_gl_sec": "not_used",
+    "psa": "not_used",
+    "psad": "not_used",
+    "bx_gl_prim": "not_used",
+    "pirads": "important",
+    "fh": "not_used",
+    "bx_isup": "important",
+    "comorbidity": "important"
+  },
+  "reveal_sequence": [],
+  "free_text": "Patient with low risk PCa but high probability of upgrade, severe lower urinary tract symptoms, with an IPSS score of 33/35. Discuss radical prostectomy vs active surveillance and treatment for LUTS"
+}

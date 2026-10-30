@@ -1,0 +1,98 @@
+{
+  "radiology_report": "Ziekenhuis Gelderse Vallei (Ede)\nDepartment of Radiology\nDate: 10 Jan 2025\nExam: mpMRI prostate\n\nClinical indication: Re-evaluation of prostate cancer. PSA 7.0 ng/mL. Prior biopsy Gleason 3+3.\n\nFINDINGS:\nProstate volume: 40.49 mL. T2-weighted imaging demonstrates a focal lesion in the peripheral zone / transition zone at the apex/mid right, measuring approximately 12 mm. This lesion shows restricted diffusion on DWI (b=1400) with corresponding early enhancement on DCE sequences. No extracapsular extension or seminal vesicle invasion is seen. No suspicious lymph nodes or bone lesions.\n\nIMPRESSION:\nPI-RADS 5 lesion in the right peripheral/transition zone apex/mid. PSA density 0.17 ng/mL/mL. Clinical stage cT1c. csPCa predicted probability 0.7916967.",
+  "previous_notes": [
+    {
+      "date": "25 Jul 2023",
+      "author": "Dr. R. van den Berg (GP)",
+      "text": "25 Jul 2023 - Dr. R. van den Berg (GP): Patient presented with elevated PSA of 2.3 ng/mL. DRE was normal. Discussed risks and benefits of prostate biopsy. Patient opted for biopsy. Referred to urology for further evaluation."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Jan 2023",
+      "val": 2.3
+    },
+    {
+      "date": "Sep 2023",
+      "val": 3.3
+    },
+    {
+      "date": "May 2024",
+      "val": 4.8
+    },
+    {
+      "date": "Jan 2025",
+      "val": 7.0
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "7.0 ng/mL",
+      "date": "15 Dec 2024",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "1.43 ng/mL",
+      "date": "15 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "20%",
+      "date": "15 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "15.0 g/dL",
+      "date": "15 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "6.0 x10^9/L",
+      "date": "15 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "262 x10^9/L",
+      "date": "15 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "94 umol/L",
+      "date": "15 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "15 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "8.2 nmol/L",
+      "date": "15 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "49 U/L",
+      "date": "15 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "227 U/L",
+      "date": "15 Dec 2024",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy timepoint 1: Transrectal ultrasound-guided prostate biopsy. Histological examination reveals adenocarcinoma with Gleason score 3+3, corresponding to ISUP grade group 1. The tumour exhibits separate glandular tubules. No cribriform or intraductal patterns identified. The tumour is located in the peripheral zone / transition zone, apex/mid right. Overall trajectory across timepoints shows stable low-grade disease.\n\nAI-predicted ISUP grade group (digital pathology): grade group 3."
+}

@@ -1,0 +1,20 @@
+{
+  "case_id": "PT-pseudo_95d3fd02d5e0",
+  "confidence": "borderline",
+  "variable_importance": {
+    "psa": "not_used",
+    "psad": "not_used",
+    "vol": "not_used",
+    "pirads": "not_used",
+    "dre": "not_used",
+    "fh": "not_used",
+    "comorbidity": "not_used",
+    "cspca": "decisive",
+    "age": "not_used",
+    "bx": "not_used"
+  },
+  "sections_accessed": [
+    "laboratory_results"
+  ],
+  "explanation": "Biopsy recommended (risk score 0.73 >= decision threshold 0.64; confidence: borderline). Strongest factor pointing the other way: csPCa likelihood score 0.65. Evidence is mixed, so the score is close to the decision threshold. Sections informing this decision: laboratory_results."
+}

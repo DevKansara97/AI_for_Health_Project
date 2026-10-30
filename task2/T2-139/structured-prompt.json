@@ -1,0 +1,68 @@
+{
+  "case_id": "T2-139",
+  "pid": "T2-139",
+  "task": 2,
+  "psa": 7.2,
+  "age": 59,
+  "months": 3,
+  "pirads": "4",
+  "psad": 0.21,
+  "psav": 3.81,
+  "psap": 2.9,
+  "vol": 33.96,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.8104203,
+  "medhx": "Osteoarthritis",
+  "meds": "None",
+  "notes": "PSA 7.2 ng/mL. PI-RADS 4. PSAD 0.21. Prostate volume 34 mL. csPCa 0.81.",
+  "pmhx": [
+    "Osteoarthritis"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "68 kg",
+    "height": "178 cm",
+    "bmi": "21.5",
+    "bp": "122/79 mmHg",
+    "hr": "61 bpm",
+    "smoking": "Current smoker (26 pack-yr)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "18 Jan 2025",
+  "enc_ref": "Dr. P. van Dijk (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for prostate cancer management following recent biopsy confirmation of persistent ISUP grade group 1 disease."
+    },
+    {
+      "s": "History",
+      "t": "Long-standing referral for prostate cancer surveillance. The patient is a 59-year-old office administrator who lives alone and prefers phone follow-up due to the 90-minute distance from the clinic. He reports no significant lower urinary tract symptoms, with an IPSS score of 3/35. He is a current smoker with a 26 pack-year history and consumes no alcohol. He performs only chair-based exercises due to limited mobility from osteoarthritis. He is divorced and has a partner who serves as his primary contact. Recent dental check-ups have been biannual. No bone pain or haematuria reported."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum, the prostate is symmetrically enlarged with a smooth contour and no palpable nodules or asymmetry, consistent with clinical stage cT1c. General examination reveals a well-nourished male with stable vital signs and no signs of metastatic disease."
+    }
+  ],
+  "occupation": "office administrator",
+  "marital": "Divorced",
+  "living": "Lives alone",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Dental — biannual check-up"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Limited mobility — chair-based exercises only",
+  "ipss": "IPSS score: 3/35 (mild LUTS)",
+  "admin": "Lives >90 min from clinic; phone follow-up preferred where clinically safe.",
+  "mri_hospital": "UMCG (Groningen)",
+  "bx_isup": 1,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

@@ -1,0 +1,15 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "cspca": "noted",
+    "fh": "not_used",
+    "psa": "important",
+    "comorbidity": "noted",
+    "pirads": "important",
+    "age": "important",
+    "psad": "noted",
+    "ct": "noted"
+  },
+  "reveal_sequence": [],
+  "free_text": "rising PSA and a new PI-RADS 5 lesion on MRI despite two prior negative biopsy results"
+}

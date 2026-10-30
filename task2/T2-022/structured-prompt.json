@@ -1,0 +1,68 @@
+{
+  "case_id": "T2-022",
+  "pid": "T2-022",
+  "task": 2,
+  "psa": 4.5,
+  "age": 63,
+  "months": 3,
+  "pirads": "4",
+  "psad": 0.07,
+  "psav": 0.68,
+  "psap": 3.7,
+  "vol": 73.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.7866596,
+  "medhx": "Benign prostatic hyperplasia",
+  "meds": "None",
+  "notes": "PSA 4.5 ng/mL. PI-RADS 4. PSAD 0.07. Prostate volume 73 mL. csPCa 0.79.",
+  "pmhx": [
+    "Benign prostatic hyperplasia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "82 kg",
+    "height": "173 cm",
+    "bmi": "27.4",
+    "bp": "125/91 mmHg",
+    "hr": "65 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "31 Jan 2025",
+  "enc_ref": "Dr. H. Martens (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of prostate cancer management options following a stable Gleason 3+3 biopsy result and rising PSA trend."
+    },
+    {
+      "s": "History",
+      "t": "Recently retired bus driver with a history of prostate adenocarcinoma diagnosed two years ago. He has been under surveillance but now presents with a PSA of 4.5 ng/mL, up from 3.7 ng/mL in July 2024. He reports moderate lower urinary tract symptoms, with an IPSS score of 19/35, primarily nocturia and weak stream. He is widowed but lives with his partner, and his nephew is his main next-of-kin. He cycles 20 km twice a week and consumes approximately 11 units of alcohol weekly. He had a surveillance colonoscopy recently which was normal. He is hard of hearing and prefers written summaries of discussions."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is enlarged but symmetrically smooth with no discrete nodules or asymmetry, consistent with cT1c. General examination reveals a well-nourished man with stable vital signs, BP 125/91 mmHg and HR 65 bpm. Abdominal examination is unremarkable with no palpable masses or organomegaly."
+    }
+  ],
+  "occupation": "retired bus driver",
+  "marital": "Widowed",
+  "living": "Lives with partner",
+  "next_of_kin": "Nephew",
+  "recent_other": [
+    "Gastroenterology — surveillance colonoscopy"
+  ],
+  "alcohol": "11 units / week",
+  "exercise": "Cycling 2x/week, ~20 km",
+  "ipss": "IPSS score: 19/35 (moderate LUTS)",
+  "admin": "Hard of hearing — speak clearly; prefers written summaries.",
+  "mri_hospital": "LUMC (Leiden)",
+  "bx_isup": 1,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

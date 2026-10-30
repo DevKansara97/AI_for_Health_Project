@@ -1,0 +1,72 @@
+{
+  "case_id": "T2-027",
+  "pid": "T2-027",
+  "task": 2,
+  "psa": 3.5,
+  "age": 73,
+  "months": 3,
+  "pirads": "4",
+  "psad": 0.01,
+  "psav": 0.75,
+  "psap": 1.7,
+  "vol": 99.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.7092595,
+  "medhx": "Hypertension, Type 2 diabetes, Obesity (BMI >30), Benign prostatic hyperplasia",
+  "meds": "amlodipine, valsartan, metoprolol, metformin, empagliflozin, tamsulosin",
+  "notes": "PSA 3.5 ng/mL. PI-RADS 4. PSAD 0.01. Prostate volume 99 mL. csPCa 0.71.",
+  "pmhx": [
+    "Hypertension",
+    "Type 2 diabetes",
+    "Obesity (BMI >30)",
+    "Benign prostatic hyperplasia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "98 kg",
+    "height": "184 cm",
+    "bmi": "28.9",
+    "bp": "126/68 mmHg",
+    "hr": "75 bpm",
+    "smoking": "Ex-smoker (26 pack-yr, quit 2003)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "04 Jan 2025",
+  "enc_ref": "Dr. T. Hendriks (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of treatment strategy for known ISUP grade group 1 prostate cancer following recent biopsy and MRI findings."
+    },
+    {
+      "s": "History",
+      "t": "The patient is a 73-year-old self-employed carpenter living on a working farm with his spouse. He has a medical history significant for hypertension, type 2 diabetes, obesity, and benign prostatic hyperplasia, managed with amlodipine, valsartan, metoprolol, metformin, empagliflozin, and tamsulosin. He is an ex-smoker with a 26 pack-year history, having quit in 2003. His PSA has fluctuated recently, rising to 3.5 ng/mL in January 2025 after a previous peak of 2.9 ng/mL in March 2024. He reports mild lower urinary tract symptoms with an IPSS score of 2/35. Incidental findings include a recent dermatology review for actinic keratosis and a surveillance colonoscopy. He exercises by walking 20 minutes daily and consumes approximately 4 units of alcohol per week. He requests large-print correspondence due to visual impairment."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum, the prostate is enlarged but smooth and symmetric, without palpable nodules or asymmetry, consistent with clinical stage cT1c. General examination is unremarkable, with stable vital signs and no signs of acute distress."
+    }
+  ],
+  "occupation": "self-employed contractor (carpentry)",
+  "marital": "Married",
+  "living": "Lives on a working farm with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Dermatology — actinic keratosis check",
+    "Gastroenterology — surveillance colonoscopy"
+  ],
+  "alcohol": "4 units / week",
+  "exercise": "Walking 20 min/day",
+  "ipss": "IPSS score: 2/35 (mild LUTS)",
+  "admin": "Visual impairment: large-print correspondence requested.",
+  "mri_hospital": "Tergooi MC",
+  "bx_isup": 1,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

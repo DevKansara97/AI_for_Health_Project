@@ -1,0 +1,71 @@
+{
+  "case_id": "T2-073",
+  "pid": "T2-073",
+  "task": 2,
+  "psa": 11.8,
+  "age": 62,
+  "months": 3,
+  "pirads": "4",
+  "psad": 0.19,
+  "psav": 3.97,
+  "psap": 6.4,
+  "vol": 61.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.91,
+  "medhx": "Hypertension, Benign prostatic hyperplasia",
+  "meds": "valsartan, lisinopril, metoprolol, tamsulosin",
+  "notes": "PSA 11.8 ng/mL. PI-RADS 4. PSAD 0.19. Prostate volume 61 mL. csPCa 0.91.",
+  "pmhx": [
+    "Hypertension",
+    "Benign prostatic hyperplasia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "69 kg",
+    "height": "169 cm",
+    "bmi": "24.2",
+    "bp": "116/79 mmHg",
+    "hr": "74 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "13 Feb 2025",
+  "enc_ref": "Dr. S. de Vries (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for prostate cancer management following recent PSA rise and persistent high-risk histological features."
+    },
+    {
+      "s": "History",
+      "t": "Recently retired civil engineer with a history of hypertension and benign prostatic hyperplasia. Current medications include valsartan, lisinopril, metoprolol, and tamsulosin. Reports moderate lower urinary tract symptoms with an IPSS score of 13/35. Non-smoker, consumes 20 units of alcohol weekly, and walks 45 minutes daily. Married, lives with partner, adult son serves as primary contact. Recent ophthalmology review for cataracts and biannual dental check-up completed. No new bone pain or haematuria reported."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is symmetrically enlarged without nodularity or induration, consistent with clinical stage cT1c. General examination reveals a well-nourished male with stable vital signs and no palpable lymphadenopathy."
+    }
+  ],
+  "occupation": "retired civil engineer",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Adult son (primary contact)",
+  "recent_other": [
+    "Ophthalmology — cataract review",
+    "Dental — biannual check-up",
+    "Dermatology — actinic keratosis check"
+  ],
+  "alcohol": "20 units / week",
+  "exercise": "Walking 45 min/day",
+  "ipss": "IPSS score: 13/35 (moderate LUTS)",
+  "admin": "Daughter manages communication; CC on letters with patient consent.",
+  "mri_hospital": "OLVG (Amsterdam)",
+  "bx_isup": 1,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

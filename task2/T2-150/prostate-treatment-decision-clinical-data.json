@@ -1,0 +1,94 @@
+{
+  "radiology_report": "Ziekenhuis Gelderse Vallei (Ede)\nDepartment of Radiology\nDate: 28 Feb 2025\nExam: mpMRI prostate\n\nClinical indication: Rising PSA to 2.7 ng/mL with prior negative biopsy; assessment for PI-RADS scoring.\n\nFINDINGS: Prostate volume measures 56.0 mL. T2-weighted imaging demonstrates a homogeneous peripheral zone without discrete mass lesions. Diffusion-weighted imaging shows no focal restricted diffusion, and dynamic contrast-enhanced sequences reveal no early focal enhancement. A small, well-circumscribed 8 mm area of mild T2 hypointensity is noted in the left anterior peripheral zone, demonstrating isointense diffusion and no wash-in on DCE, consistent with benign prostatic hyperplasia or focal prostatitis. The central gland shows typical age-related hyperplastic changes. Neurovascular bundles are intact. No seminal vesicle invasion or pelvic lymphadenopathy is identified.\n\nIMPRESSION: Benign-appearing peripheral zone finding without suspicious focal lesion. PI-RADS v2.1 score: 2. PSA density: 0.05 ng/mL/mL. Clinical T stage: cT1c. csPCa predicted probability 0.48990974.",
+  "previous_notes": [
+    {
+      "date": "05 Mar 2024",
+      "author": "Dr. P. van Dijk (GP)",
+      "text": "The patient attended for follow-up of a mildly elevated prostate-specific antigen level of 2.1 ng/mL detected on routine screening. A transperineal systematic biopsy was arranged and performed without complications, with results subsequently communicated to the patient indicating benign prostatic tissue. Given the persistent but slow PSA rise and the patient's severe lower urinary tract symptoms, a referral to urology was initiated for comprehensive re-evaluation and discussion of long-term management options."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Oct 2023",
+      "val": 1.7
+    },
+    {
+      "date": "Jun 2024",
+      "val": 2.1
+    },
+    {
+      "date": "Feb 2025",
+      "val": 2.7
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "2.7 ng/mL",
+      "date": "03 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "Free PSA",
+      "val": "0.63 ng/mL",
+      "date": "03 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "23%",
+      "date": "03 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "14.5 g/dL",
+      "date": "03 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "5.1 x10^9/L",
+      "date": "03 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "220 x10^9/L",
+      "date": "03 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "115 umol/L",
+      "date": "03 Feb 2025",
+      "flag": "H"
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "03 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "17.6 nmol/L",
+      "date": "03 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "76 U/L",
+      "date": "03 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "184 U/L",
+      "date": "03 Feb 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Specimen: Transperineal systematic biopsy (05 Mar 2024)\nMicroscopic examination of the submitted prostatic tissue cores reveals benign glandular architecture with no evidence of malignancy. The glands are lined by a single layer of epithelial cells without nuclear atypia or architectural distortion. The final histological diagnosis is benign prostatic tissue, corresponding to a Gleason score of 0+0 and ISUP Grade Group 0.\n\nTrajectory summary: Histological evaluation across the available biopsy timepoint remains stable with no malignant features identified.\n\nAI-predicted ISUP grade group (digital pathology): grade group 5."
+}

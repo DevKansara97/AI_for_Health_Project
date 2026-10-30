@@ -1,0 +1,98 @@
+{
+  "radiology_report": "Spaarne Gasthuis (Haarlem)\nRadiology Dept\nDate: 20 Jan 2025\nExam: mpMRI prostate\n\nClinical indication: Rising PSA (187.0 ng/mL), prior biopsy Gleason 4+4, evaluate for local extent and suspicious lesions.\n\nFINDINGS:\nProstate volume: 57.28 mL.\nT2-weighted imaging demonstrates a focal, ill-defined hypointense lesion in the right peripheral zone, extending towards the right seminal vesicle. On diffusion-weighted imaging, the lesion shows marked restricted diffusion with high signal intensity on b=1400 images and corresponding low ADC values. Dynamic contrast-enhanced sequences reveal early, intense enhancement of the lesion relative to the surrounding glandular tissue. The right seminal vesicle shows asymmetrical enlargement and signal alteration consistent with tumour infiltration. No suspicious lymphadenopathy or bone lesions are identified within the field of view.\n\nIMPRESSION:\nPI-RADS 5 lesion in the right peripheral zone with seminal vesicle involvement.\nProstate volume 57.28 mL; PSA density 3.26 ng/mL/mL.\nClinical stage cT1c.\ncsPCa predicted probability 0.964853.",
+  "previous_notes": [
+    {
+      "date": "19 Feb 2023",
+      "author": "Dr. H. Martens (GP)",
+      "text": "Patient presented with elevated PSA of 17.4 ng/mL in February 2023. Digital rectal examination was unremarkable. Multiparametric MRI was arranged, showing a PI-RADS 5 lesion in the right peripheral zone. Transperineal biopsy was performed, revealing Gleason 4+4 (ISUP grade group 4) adenocarcinoma with cribriform pattern and perineural invasion. The patient was referred to urology for further management discussion. At that time, he opted for active surveillance after reviewing the risks and benefits of immediate intervention, citing his age and comorbidities. Follow-up PSA was scheduled for six months later."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Feb 2024",
+      "val": 17.4
+    },
+    {
+      "date": "Jun 2024",
+      "val": 10.2
+    },
+    {
+      "date": "Oct 2024",
+      "val": 0.5
+    },
+    {
+      "date": "Feb 2025",
+      "val": 187.0
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "187.0 ng/mL",
+      "date": "09 Jan 2025",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "27.75 ng/mL",
+      "date": "09 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "15%",
+      "date": "09 Jan 2025",
+      "flag": "L"
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "14.9 g/dL",
+      "date": "09 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "3.9 x10^9/L",
+      "date": "09 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "331 x10^9/L",
+      "date": "09 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "102 umol/L",
+      "date": "09 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "09 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "11.4 nmol/L",
+      "date": "09 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "75 U/L",
+      "date": "09 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "200 U/L",
+      "date": "09 Jan 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy specimen, 19 Feb 2023:\nHistological examination reveals adenocarcinoma of the prostate. The Gleason score is 4+4, corresponding to ISUP grade group 4. The tumour exhibits a predominant cribriform growth pattern. Perineural invasion is present. The tumour is located in the seminal vesicles, right.\n\nSummary of trajectory:\nThe histological findings across the single documented biopsy timepoint demonstrate high-grade disease with cribriform architecture and perineural invasion, consistent with aggressive biological behaviour.\n\nAI-predicted ISUP grade group (digital pathology): grade group 5."
+}

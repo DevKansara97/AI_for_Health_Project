@@ -1,0 +1,72 @@
+{
+  "case_id": "T2-132",
+  "pid": "T2-132",
+  "task": 2,
+  "psa": 8.4,
+  "age": 51,
+  "months": 3,
+  "pirads": "4",
+  "psad": 0.187,
+  "psav": 3.48,
+  "psap": 1.4,
+  "vol": 45.02,
+  "dre": "Suspicious",
+  "bx": "Positive",
+  "cspca": 0.7531718,
+  "medhx": "Lower abdominal surgery",
+  "meds": "None",
+  "notes": "PSA 8.4 ng/mL. PI-RADS 4. PSAD 0.19. Prostate volume 45 mL. DRE suspicious. csPCa 0.75.",
+  "pmhx": [
+    "Lower abdominal surgery"
+  ],
+  "allergies": [
+    "NSAIDs"
+  ],
+  "vitals": {
+    "weight": "87 kg",
+    "height": "173 cm",
+    "bmi": "29.1",
+    "bp": "126/77 mmHg",
+    "hr": "78 bpm",
+    "smoking": "Current smoker (39 pack-yr)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "18 Feb 2025",
+  "enc_ref": "Dr. T. Hendriks (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for treatment decision following recent biopsy confirming ISUP grade group 2 prostate cancer."
+    },
+    {
+      "s": "History",
+      "t": "51-year-old active dairy farmer with a history of rising PSA levels. PSA was 0.8 ng/mL in March 2023 and 1.4 ng/mL in March 2024, before rising sharply to 8.4 ng/mL in February 2025. He has a history of lower abdominal surgery. He is a current smoker with a 39 pack-year history. He is married and lives with his partner, who is his primary contact. He reports moderate lower urinary tract symptoms with an IPSS score of 9. He swims once a week and consumes approximately 4 units of alcohol per week. He has attended a memory clinic for baseline screening and a pain clinic for chronic shoulder pain. He has a known allergy to NSAIDs. He requests large-print correspondence due to visual impairment."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, a suspicious nodule is palpated in the mid left peripheral zone, consistent with clinical stage cT1c. General examination is unremarkable with stable vital signs."
+    }
+  ],
+  "occupation": "active dairy farmer",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Memory clinic — baseline screening",
+    "Pain clinic — chronic shoulder pain",
+    "Podiatry — routine foot care"
+  ],
+  "alcohol": "4 units / week",
+  "exercise": "Swimming 1x/week",
+  "ipss": "IPSS score: 9/35 (moderate LUTS)",
+  "admin": "Visual impairment: large-print correspondence requested.",
+  "mri_hospital": "Catharina Ziekenhuis (Eindhoven)",
+  "bx_isup": 2,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 4,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

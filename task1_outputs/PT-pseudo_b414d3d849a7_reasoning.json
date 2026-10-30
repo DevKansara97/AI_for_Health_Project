@@ -1,0 +1,22 @@
+{
+  "case_id": "PT-pseudo_b414d3d849a7",
+  "confidence": "clear",
+  "variable_importance": {
+    "psa": "noted",
+    "psad": "not_used",
+    "vol": "not_used",
+    "pirads": "not_used",
+    "dre": "not_used",
+    "fh": "not_used",
+    "comorbidity": "not_used",
+    "cspca": "not_used",
+    "age": "not_used",
+    "bx": "decisive"
+  },
+  "sections_accessed": [
+    "previous_notes",
+    "laboratory_results",
+    "psa_trend"
+  ],
+  "explanation": "Biopsy not recommended (risk score 0.42 < decision threshold 0.64; confidence: clear). Main supporting factors: prior biopsy positive, prior ISUP 4; PSA 5.0 ng/mL (velocity +0.7); DRE: nodus. Strongest factor pointing the other way: prostate volume 35 mL. Sections informing this decision: previous_notes, laboratory_results, psa_trend."
+}

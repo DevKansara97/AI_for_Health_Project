@@ -1,0 +1,94 @@
+{
+  "radiology_report": "Department of Radiology\nUMCG (Groningen)\nDate: 22 December 2024\nExam: mpMRI prostate\nClinical indication: PSA 5.2 ng/mL, suspected prostate cancer\n\nFINDINGS:\nThe prostate measures 47.0 mL in volume. On T2-weighted imaging, a focal lesion is identified in the peripheral zone at the right base. This lesion appears markedly hypointense. On DWI, the lesion demonstrates restricted diffusion with high signal intensity on the high b-value images and corresponding low signal on the ADC map. Dynamic contrast-enhanced (DCE) imaging shows early and intense enhancement of the lesion. No evidence of extracapsular extension, seminal vesicle invasion, or suspicious lymphadenopathy is seen.\n\nIMPRESSION:\nPI-RADS v2.1 score 5 lesion in the right peripheral zone base, approximately 12 mm in diameter.\nProstate volume 47.0 mL, PSA density 0.11 ng/mL/mL.\nClinical T stage cT2a.\ncsPCa predicted probability 0.8199149.",
+  "previous_notes": [
+    {
+      "date": "18 May 2024",
+      "author": "Dr. E. Mulder (GP)",
+      "text": "PSA measured at 2.3 ng/mL. Given the rising PSA trend from 1.0 ng/mL the previous year, a multiparametric MRI was arranged. The patient was informed of the results and referred to urology for further evaluation and possible biopsy."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Jan 2023",
+      "val": 1.0
+    },
+    {
+      "date": "Jan 2024",
+      "val": 2.3
+    },
+    {
+      "date": "Jan 2025",
+      "val": 5.2
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "5.2 ng/mL",
+      "date": "22 Dec 2024",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "0.67 ng/mL",
+      "date": "22 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "13%",
+      "date": "22 Dec 2024",
+      "flag": "L"
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "14.8 g/dL",
+      "date": "22 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "3.5 x10^9/L",
+      "date": "22 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "234 x10^9/L",
+      "date": "22 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "101 umol/L",
+      "date": "22 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "22 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "10.6 nmol/L",
+      "date": "22 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "73 U/L",
+      "date": "22 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "261 U/L",
+      "date": "22 Dec 2024",
+      "flag": ""
+    }
+  ],
+  "family_history": "Yes",
+  "pathology_report": "Biopsy timepoint 1: Peripheral zone biopsy specimens demonstrate adenocarcinoma with a Gleason score of 3+3, corresponding to ISUP grade group 1. The tumour is located in the peripheral zone at the right base. The growth pattern is characterized by tubules. Notably, a cribriform pattern is present within the tumour.\n\nAI-predicted ISUP grade group (digital pathology): grade group 3."
+}

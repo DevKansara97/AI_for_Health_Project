@@ -1,0 +1,21 @@
+{
+  "case_id": "PT-pseudo_3cc88c81f35a",
+  "confidence": "clear",
+  "variable_importance": {
+    "psa": "not_used",
+    "psad": "not_used",
+    "vol": "not_used",
+    "pirads": "decisive",
+    "dre": "not_used",
+    "fh": "not_used",
+    "comorbidity": "not_used",
+    "cspca": "not_used",
+    "age": "not_used",
+    "bx": "not_used"
+  },
+  "sections_accessed": [
+    "radiology_report",
+    "laboratory_results"
+  ],
+  "explanation": "Biopsy not recommended (risk score 0.51 < decision threshold 0.64; confidence: clear). Main supporting factors: PI-RADS 2; PSA 8.3 ng/mL (velocity +0.8); csPCa likelihood score 0.70. Strongest factor pointing the other way: prostate volume 40 mL. Sections informing this decision: radiology_report, laboratory_results."
+}

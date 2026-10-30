@@ -1,0 +1,102 @@
+{
+  "radiology_report": "Bravis Ziekenhuis\nDepartment of Radiology\nDate: 15 Jan 2025\nExam: mpMRI Prostate\nClinical indication: PSA 15.0 ng/mL, prior biopsy Gleason 3+3, PI-RADS 5\nFINDINGS: Prostate volume measures 60.0 mL. A dominant lesion is identified in the mid transition zone, measuring approximately 12 mm. On T2-weighted imaging, it appears as a focal area of low signal intensity. Diffusion-weighted imaging demonstrates marked restricted diffusion with low apparent diffusion coefficient values. Dynamic contrast-enhanced sequences show early and intense enhancement. No extracapsular extension or seminal vesicle invasion is seen.\nIMPRESSION: PI-RADS 5 lesion in the mid transition zone. Prostate volume 60.0 mL, PSA density 0.25 ng/mL/mL. Clinical T stage cT1c. csPCa predicted probability 0.7430781.",
+  "previous_notes": [
+    {
+      "date": "28 Jun 2024",
+      "author": "Dr. S. de Vries (GP)",
+      "text": "Patient presented with elevated PSA of 10.9 ng/mL. Discussed rising PSA trend over the past year. Referred to urology for re-evaluation and consideration of repeat biopsy. Patient informed of potential for disease progression despite prior low-grade findings."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Mar 2022",
+      "val": 4.2
+    },
+    {
+      "date": "Dec 2022",
+      "val": 5.8
+    },
+    {
+      "date": "Sep 2023",
+      "val": 7.9
+    },
+    {
+      "date": "May 2024",
+      "val": 10.9
+    },
+    {
+      "date": "Feb 2025",
+      "val": 15.0
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "15.0 ng/mL",
+      "date": "08 Feb 2025",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "1.91 ng/mL",
+      "date": "08 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "13%",
+      "date": "08 Feb 2025",
+      "flag": "L"
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "17.2 g/dL",
+      "date": "08 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "7.2 x10^9/L",
+      "date": "08 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "295 x10^9/L",
+      "date": "08 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "159 umol/L",
+      "date": "08 Feb 2025",
+      "flag": "H"
+    },
+    {
+      "name": "eGFR",
+      "val": "<60 mL/min/1.73m2",
+      "date": "08 Feb 2025",
+      "flag": "L"
+    },
+    {
+      "name": "Testosterone",
+      "val": "24.8 nmol/L",
+      "date": "08 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "80 U/L",
+      "date": "08 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "190 U/L",
+      "date": "08 Feb 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy 1 (Mar 2022): Histological examination reveals adenocarcinoma. The Gleason score is 3+3, corresponding to ISUP grade group 1. No cribriform or intraductal patterns identified. The tumour is located in the transition zone, mid.\n\nBiopsy 2 (Feb 2025): Histological examination reveals adenocarcinoma. The Gleason score is 3+3, corresponding to ISUP grade group 1. No cribriform or intraductal patterns identified. The tumour is located in the transition zone, mid.\n\nSummary: The histological trajectory across timepoints shows a stable Gleason score of 3+3 and reported ISUP grade group 1.\n\nAI-predicted ISUP grade group (digital pathology): grade group 3."
+}

@@ -1,0 +1,103 @@
+{
+  "radiology_report": "Maastricht UMC+\nImaging Department\nDate: 12 February 2025\nExam: mpMRI Prostate\nClinical indication: PSA 9.5 ng/mL, prior biopsy Gleason 3+4. PI-RADS assessment requested.\nFINDINGS: The prostate volume measures 49.29 mL. T2-weighted images demonstrate a focal area of low signal intensity in the transition zone, mid right, measuring approximately 8 mm in its greatest dimension. This region shows restricted diffusion on DWI (b=1400) with corresponding mild enhancement on DCE. No extracapsular extension or seminal vesicle invasion is identified. No suspicious pelvic lymph nodes are seen.\nIMPRESSION: PI-RADS 3 lesion in the transition zone, mid right. Prostate volume 49.29 mL, PSA density 0.193 ng/mL/mL. Clinical stage cT2. csPCa predicted probability 0.6352939.",
+  "previous_notes": [
+    {
+      "date": "19 Oct 2024",
+      "author": "Dr. N. Kuiper (GP)",
+      "text": "19 Oct 2024 - Dr. N. Kuiper (GP): Patient attended for routine follow-up. PSA measured at 0.8 ng/mL, a marked decrease from previous values. Discussed ongoing surveillance plan. Patient remains asymptomatic from a urological perspective. Will continue annual PSA monitoring."
+    },
+    {
+      "date": "26 Aug 2023",
+      "author": "Dr. N. Kuiper (GP)",
+      "text": "26 Aug 2023 - Dr. N. Kuiper (GP): Patient presented for PSA monitoring. Value was 8.4 ng/mL, stable compared to December 2022. Discussed the recent biopsy results showing no malignancy. Patient advised to continue routine screening. No new symptoms reported."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Dec 2022",
+      "val": 8.5
+    },
+    {
+      "date": "Sep 2023",
+      "val": 8.4
+    },
+    {
+      "date": "Jun 2024",
+      "val": 0.8
+    },
+    {
+      "date": "Feb 2025",
+      "val": 9.5
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "9.5 ng/mL",
+      "date": "08 Jan 2025",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "1.50 ng/mL",
+      "date": "08 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "16%",
+      "date": "08 Jan 2025",
+      "flag": "L"
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "14.9 g/dL",
+      "date": "08 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "5.8 x10^9/L",
+      "date": "08 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "221 x10^9/L",
+      "date": "08 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "99 umol/L",
+      "date": "08 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "08 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "10.5 nmol/L",
+      "date": "08 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "74 U/L",
+      "date": "08 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "199 U/L",
+      "date": "08 Jan 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy 1 (2023): The specimen showed benign prostatic tissue with no evidence of malignancy. Gleason score 0+0, ISUP grade group 0. No cribriform or intraductal patterns identified. No perineural invasion was observed. The sampling was located in the transition zone, mid right.\n\nBiopsy 2 (2025): The specimen revealed adenocarcinoma. Gleason score 3+4, ISUP grade group 2. The growth pattern was acinar. No cribriform or intraductal patterns identified. The tumour was located in the transition zone, mid right.\n\nOverall, there has been an upgrade from benign findings to ISUP grade group 2 adenocarcinoma across the two biopsy timepoints.\n\nAI-predicted ISUP grade group (digital pathology): grade group 2."
+}

@@ -1,0 +1,71 @@
+{
+  "case_id": "T2-083",
+  "pid": "T2-083",
+  "task": 2,
+  "psa": 15.0,
+  "age": 68,
+  "months": 1,
+  "pirads": "5",
+  "psad": 0.25,
+  "psav": 2.9,
+  "psap": 10.9,
+  "vol": 60.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.7430781,
+  "medhx": "Type 2 diabetes, Hypercholesterolaemia, COPD, Chronic kidney disease",
+  "meds": "metformin, simvastatin, rosuvastatin, salbutamol PRN",
+  "notes": "PSA 15 ng/mL. PI-RADS 5. PSAD 0.25. Prostate volume 60 mL. csPCa 0.74.",
+  "pmhx": [
+    "Type 2 diabetes",
+    "Hypercholesterolaemia",
+    "COPD",
+    "Chronic kidney disease"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "77 kg",
+    "height": "181 cm",
+    "bmi": "23.5",
+    "bp": "123/68 mmHg",
+    "hr": "76 bpm",
+    "smoking": "Ex-smoker (33 pack-yr, quit 2015)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "23 Feb 2025",
+  "enc_ref": "Dr. S. de Vries (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for prostate cancer management following persistent PSA elevation and prior biopsy findings."
+    },
+    {
+      "s": "History",
+      "t": "The patient is a 68-year-old retired butcher with a history of prostate cancer diagnosed on prior biopsy. He has comorbidities including type 2 diabetes, hypercholesterolaemia, COPD, and chronic kidney disease. He is currently managed with metformin, simvastatin, rosuvastatin, and salbutamol PRN. He lives alone, though his adult son is his primary contact. He reports limited mobility, using a frame and engaging only in chair-based exercises. He consumes approximately 4 units of alcohol weekly and is an ex-smoker (33 pack-years, quit in 2015). His IPSS score is 17/35, indicating moderate LUTS. He had a stable cardiology review in autumn 2024."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is non-palpable with no nodularity or asymmetry, consistent with cT1c. General examination reveals a well-nourished man with stable vitals. No lymphadenopathy or abdominal masses are noted."
+    }
+  ],
+  "occupation": "retired butcher",
+  "marital": "Married",
+  "living": "Lives alone",
+  "next_of_kin": "Adult son (primary contact)",
+  "recent_other": [
+    "Cardiology — annual review (stable, autumn 2024)"
+  ],
+  "alcohol": "4 units / week",
+  "exercise": "Limited mobility — chair-based exercises only",
+  "ipss": "IPSS score: 17/35 (moderate LUTS)",
+  "admin": "Mobility limitation (frame); ground-floor consult room preferred.",
+  "mri_hospital": "Bravis Ziekenhuis",
+  "bx_isup": 1,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

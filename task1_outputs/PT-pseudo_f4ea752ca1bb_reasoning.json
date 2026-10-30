@@ -1,0 +1,22 @@
+{
+  "case_id": "PT-pseudo_f4ea752ca1bb",
+  "confidence": "borderline",
+  "variable_importance": {
+    "psa": "not_used",
+    "psad": "not_used",
+    "vol": "not_used",
+    "pirads": "noted",
+    "dre": "not_used",
+    "fh": "not_used",
+    "comorbidity": "not_used",
+    "cspca": "not_used",
+    "age": "noted",
+    "bx": "decisive"
+  },
+  "sections_accessed": [
+    "previous_notes",
+    "laboratory_results",
+    "radiology_report"
+  ],
+  "explanation": "Biopsy recommended (risk score 0.72 >= decision threshold 0.64; confidence: borderline). Main supporting factors: no prior biopsy. Strongest factor pointing the other way: PI-RADS 4. Evidence is mixed, so the score is close to the decision threshold. Sections informing this decision: previous_notes, laboratory_results, radiology_report."
+}

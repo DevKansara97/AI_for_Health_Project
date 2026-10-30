@@ -1,0 +1,196 @@
+case_id,source,risk_score,biopsy_recommendation,confidence,true_label
+PT-pseudo_0020cfca66c8,labelled (out-of-fold),0.58,no,borderline,0.0
+PT-pseudo_0169468160c6,labelled (out-of-fold),0.381,no,clear,1.0
+PT-pseudo_01b643727538,labelled (out-of-fold),0.634,no,uncertain,0.0
+PT-pseudo_033f1a8e1503,labelled (out-of-fold),0.84,yes,clear,1.0
+PT-pseudo_0615b2bd8504,labelled (out-of-fold),0.38,no,borderline,0.0
+PT-pseudo_062a1125899d,labelled (out-of-fold),0.763,yes,clear,1.0
+PT-pseudo_06b319f42fcb,labelled (out-of-fold),0.64,yes,uncertain,1.0
+PT-pseudo_075dd468b384,labelled (out-of-fold),0.579,no,borderline,1.0
+PT-pseudo_079636ac5644,labelled (out-of-fold),0.646,yes,uncertain,0.0
+PT-pseudo_0930885168c9,labelled (out-of-fold),0.438,no,borderline,1.0
+PT-pseudo_099651db404e,labelled (out-of-fold),0.766,yes,clear,1.0
+PT-pseudo_0bd72f429a8b,labelled (out-of-fold),0.568,no,borderline,1.0
+PT-pseudo_0cdfb9410718,labelled (out-of-fold),0.657,yes,uncertain,1.0
+PT-pseudo_0de7e606ca70,labelled (out-of-fold),0.81,yes,clear,1.0
+PT-pseudo_11345b8a7ab3,labelled (out-of-fold),0.631,no,uncertain,0.0
+PT-pseudo_11574b12444b,labelled (out-of-fold),0.597,no,borderline,1.0
+PT-pseudo_1185f6a68df0,labelled (out-of-fold),0.791,yes,clear,1.0
+PT-pseudo_11fe9c6ca833,labelled (out-of-fold),0.538,no,clear,0.0
+PT-pseudo_132e0000c0e0,labelled (out-of-fold),0.766,yes,clear,1.0
+PT-pseudo_138092c2a6be,labelled (out-of-fold),0.673,yes,borderline,1.0
+PT-pseudo_152344add0f1,labelled (out-of-fold),0.751,yes,clear,1.0
+PT-pseudo_175e6ad47991,labelled (out-of-fold),0.639,no,uncertain,0.0
+PT-pseudo_17f110c9e142,labelled (out-of-fold),0.387,no,clear,0.0
+PT-pseudo_180352970ace,labelled (out-of-fold),0.748,yes,clear,1.0
+PT-pseudo_1a4e0cf3b927,labelled (out-of-fold),0.578,no,borderline,0.0
+PT-pseudo_1dc32184cab6,labelled (out-of-fold),0.767,yes,clear,0.0
+PT-pseudo_20a7e91c494c,labelled (out-of-fold),0.567,no,borderline,0.0
+PT-pseudo_20ba3f0f6ca0,labelled (out-of-fold),0.752,yes,clear,1.0
+PT-pseudo_21e7fa67a79e,labelled (out-of-fold),0.495,no,clear,1.0
+PT-pseudo_249def42388a,labelled (out-of-fold),0.721,yes,borderline,1.0
+PT-pseudo_25007bb807d7,labelled (out-of-fold),0.836,yes,clear,1.0
+PT-pseudo_259484ae733f,labelled (out-of-fold),0.53,no,clear,1.0
+PT-pseudo_2b3ef1d3a505,labelled (out-of-fold),0.46,no,clear,0.0
+PT-pseudo_2cd88bcdf81c,labelled (out-of-fold),0.677,yes,borderline,1.0
+PT-pseudo_2e0346bce3b3,labelled (out-of-fold),0.577,no,borderline,1.0
+PT-pseudo_2e4988b84112,labelled (out-of-fold),0.666,yes,uncertain,0.0
+PT-pseudo_2eef4115a253,labelled (out-of-fold),0.643,yes,uncertain,1.0
+PT-pseudo_2ef22b5dd08e,labelled (out-of-fold),0.811,yes,clear,1.0
+PT-pseudo_2fbb84505a45,labelled (out-of-fold),0.42,no,clear,1.0
+PT-pseudo_33c8cd4571fd,labelled (out-of-fold),0.744,yes,clear,1.0
+PT-pseudo_34647958aba3,labelled (out-of-fold),0.624,no,uncertain,0.0
+PT-pseudo_3477ea7065bd,labelled (out-of-fold),0.671,yes,borderline,1.0
+PT-pseudo_3646e0a2ae13,labelled (out-of-fold),0.669,yes,borderline,0.0
+PT-pseudo_36c92fb424ac,labelled (out-of-fold),0.611,no,uncertain,1.0
+PT-pseudo_376de00c8131,labelled (out-of-fold),0.712,yes,borderline,1.0
+PT-pseudo_37d8ae9b27f1,labelled (out-of-fold),0.609,no,borderline,0.0
+PT-pseudo_394e0b8dbeeb,labelled (out-of-fold),0.77,yes,clear,1.0
+PT-pseudo_3b6ea1920967,labelled (out-of-fold),0.652,yes,uncertain,0.0
+PT-pseudo_3cc88c81f35a,labelled (out-of-fold),0.508,no,clear,0.0
+PT-pseudo_3ceacc9b660b,labelled (out-of-fold),0.451,no,clear,0.0
+PT-pseudo_3f75ae876abe,labelled (out-of-fold),0.812,yes,clear,1.0
+PT-pseudo_41ca49bed13d,labelled (out-of-fold),0.735,yes,borderline,1.0
+PT-pseudo_47c373e230b6,labelled (out-of-fold),0.639,yes,uncertain,1.0
+PT-pseudo_47d8b39fd07f,labelled (out-of-fold),0.479,no,clear,0.0
+PT-pseudo_48fb60dfd22f,labelled (out-of-fold),0.786,yes,clear,1.0
+PT-pseudo_4a2fa7bc3595,labelled (out-of-fold),0.657,yes,uncertain,1.0
+PT-pseudo_4a4fedfc1f51,labelled (out-of-fold),0.79,yes,clear,1.0
+PT-pseudo_4b950525e6a8,labelled (out-of-fold),0.413,no,clear,0.0
+PT-pseudo_4bfd4ec864d8,labelled (out-of-fold),0.759,yes,clear,1.0
+PT-pseudo_4c6b2b2bbf94,labelled (out-of-fold),0.555,no,borderline,0.0
+PT-pseudo_4d54f04e26ae,labelled (out-of-fold),0.626,no,uncertain,1.0
+PT-pseudo_4e545d350c5b,labelled (out-of-fold),0.799,yes,clear,1.0
+PT-pseudo_4edb17f79e46,labelled (out-of-fold),0.774,yes,clear,1.0
+PT-pseudo_4f33b0253633,labelled (out-of-fold),0.587,no,uncertain,0.0
+PT-pseudo_52213169f58b,labelled (out-of-fold),0.857,yes,clear,1.0
+PT-pseudo_562159dc2cc6,labelled (out-of-fold),0.606,no,borderline,0.0
+PT-pseudo_575cb2819e96,labelled (out-of-fold),0.748,yes,clear,1.0
+PT-pseudo_590e7b237744,labelled (out-of-fold),0.795,yes,clear,0.0
+PT-pseudo_b9aa0df93f2a,labelled (out-of-fold),0.649,yes,uncertain,1.0
+PT-pseudo_b9f0b7018502,labelled (out-of-fold),0.527,no,clear,1.0
+PT-pseudo_c03b1168ff4d,labelled (out-of-fold),0.563,no,borderline,1.0
+PT-pseudo_c12bcf838ec8,labelled (out-of-fold),0.538,no,borderline,0.0
+PT-pseudo_c13fda040310,labelled (out-of-fold),0.652,yes,uncertain,1.0
+PT-pseudo_c39e94a13920,labelled (out-of-fold),0.447,no,clear,1.0
+PT-pseudo_c55496c11421,labelled (out-of-fold),0.535,no,clear,0.0
+PT-pseudo_c7277954c60f,labelled (out-of-fold),0.447,no,borderline,0.0
+PT-pseudo_c9d31197c533,labelled (out-of-fold),0.411,no,clear,0.0
+PT-pseudo_cac2563c222a,labelled (out-of-fold),0.488,no,clear,1.0
+PT-pseudo_cce5d47c05dd,labelled (out-of-fold),0.448,no,borderline,0.0
+PT-pseudo_d217629c323a,labelled (out-of-fold),0.63,no,uncertain,0.0
+PT-pseudo_d38917f87b35,labelled (out-of-fold),0.453,no,clear,0.0
+PT-pseudo_d3d6b421d0aa,labelled (out-of-fold),0.578,no,borderline,1.0
+PT-pseudo_d3e975d025e6,labelled (out-of-fold),0.746,yes,clear,1.0
+PT-pseudo_d49b896a09e6,labelled (out-of-fold),0.761,yes,clear,1.0
+PT-pseudo_d5ceb6b4204f,labelled (out-of-fold),0.426,no,borderline,1.0
+PT-pseudo_d7d26761c714,labelled (out-of-fold),0.396,no,clear,0.0
+PT-pseudo_d95b3a02898e,labelled (out-of-fold),0.549,no,borderline,0.0
+PT-pseudo_dcd61cf9b443,labelled (out-of-fold),0.749,yes,borderline,0.0
+PT-pseudo_dcd7bf13a6f4,labelled (out-of-fold),0.701,yes,borderline,1.0
+PT-pseudo_dd011d696387,labelled (out-of-fold),0.68,yes,borderline,1.0
+PT-pseudo_e001f4d06517,labelled (out-of-fold),0.651,yes,uncertain,1.0
+PT-pseudo_598f1d8f4e08,unlabelled (final model),0.631,no,uncertain,
+PT-pseudo_5af00f9153c2,unlabelled (final model),0.616,no,uncertain,
+PT-pseudo_5dc2eb70fbd7,unlabelled (final model),0.452,no,borderline,
+PT-pseudo_5f263f325019,unlabelled (final model),0.67,yes,borderline,
+PT-pseudo_62c93b0c3dba,unlabelled (final model),0.674,yes,borderline,
+PT-pseudo_6457372f9532,unlabelled (final model),0.706,yes,borderline,
+PT-pseudo_665cf811e172,unlabelled (final model),0.706,yes,borderline,
+PT-pseudo_668c2a174afc,unlabelled (final model),0.808,yes,clear,
+PT-pseudo_67728e41a2fa,unlabelled (final model),0.5,no,clear,
+PT-pseudo_6a100adb6ac3,unlabelled (final model),0.448,no,clear,
+PT-pseudo_6b6ee002f75d,unlabelled (final model),0.648,yes,uncertain,
+PT-pseudo_6c8ef835ea42,unlabelled (final model),0.75,yes,clear,
+PT-pseudo_6d2ecb82cc52,unlabelled (final model),0.559,no,borderline,
+PT-pseudo_6d6abf7f6fb5,unlabelled (final model),0.808,yes,clear,
+PT-pseudo_6d83f9e49421,unlabelled (final model),0.602,no,borderline,
+PT-pseudo_6dc747db3e7d,unlabelled (final model),0.642,yes,uncertain,
+PT-pseudo_6df4f23de04a,unlabelled (final model),0.596,no,borderline,
+PT-pseudo_723f490ff7ce,unlabelled (final model),0.336,no,borderline,
+PT-pseudo_7423d1c19560,unlabelled (final model),0.808,yes,clear,
+PT-pseudo_76bfeeb8b8b8,unlabelled (final model),0.633,no,uncertain,
+PT-pseudo_7bcbfa157137,unlabelled (final model),0.722,yes,borderline,
+PT-pseudo_7be89ab28e92,unlabelled (final model),0.446,no,clear,
+PT-pseudo_7dbdcd6f9064,unlabelled (final model),0.543,no,borderline,
+PT-pseudo_7dd989c35f87,unlabelled (final model),0.644,yes,uncertain,
+PT-pseudo_7efca1668c87,unlabelled (final model),0.381,no,clear,
+PT-pseudo_7f85fe245d6c,unlabelled (final model),0.736,yes,borderline,
+PT-pseudo_80d551b63772,unlabelled (final model),0.559,no,borderline,
+PT-pseudo_8137531888a0,unlabelled (final model),0.24,no,borderline,
+PT-pseudo_8192345b35fa,unlabelled (final model),0.326,no,borderline,
+PT-pseudo_819642c63ff9,unlabelled (final model),0.601,no,borderline,
+PT-pseudo_825bc8328913,unlabelled (final model),0.772,yes,clear,
+PT-pseudo_837f1dcfb56d,unlabelled (final model),0.464,no,borderline,
+PT-pseudo_83f690a06c81,unlabelled (final model),0.64,yes,uncertain,
+PT-pseudo_84ce0e4a9eed,unlabelled (final model),0.357,no,borderline,
+PT-pseudo_8636aa471ef7,unlabelled (final model),0.499,no,clear,
+PT-pseudo_8654c4ff4d10,unlabelled (final model),0.636,no,uncertain,
+PT-pseudo_87cbc2052e90,unlabelled (final model),0.636,no,uncertain,
+PT-pseudo_8967e0df17fc,unlabelled (final model),0.541,no,clear,
+PT-pseudo_9187d18278f9,unlabelled (final model),0.685,yes,borderline,
+PT-pseudo_926c37508fe2,unlabelled (final model),0.357,no,borderline,
+PT-pseudo_927456f47c99,unlabelled (final model),0.744,yes,clear,
+PT-pseudo_938ba8a478e6,unlabelled (final model),0.429,no,clear,
+PT-pseudo_93c180f13bd8,unlabelled (final model),0.524,no,borderline,
+PT-pseudo_945da5c635c4,unlabelled (final model),0.517,no,clear,
+PT-pseudo_956f2054a1ea,unlabelled (final model),0.734,yes,borderline,
+PT-pseudo_958f2377f288,unlabelled (final model),0.633,no,uncertain,
+PT-pseudo_95d3fd02d5e0,unlabelled (final model),0.729,yes,borderline,
+PT-pseudo_97a7a14b3c3d,unlabelled (final model),0.581,no,borderline,
+PT-pseudo_9835e080606c,unlabelled (final model),0.604,no,borderline,
+PT-pseudo_98f71f146763,unlabelled (final model),0.675,yes,borderline,
+PT-pseudo_9988c23725e6,unlabelled (final model),0.826,yes,clear,
+PT-pseudo_99e3dc40a451,unlabelled (final model),0.674,yes,borderline,
+PT-pseudo_9ac935d9650f,unlabelled (final model),0.812,yes,clear,
+PT-pseudo_9df1617405c1,unlabelled (final model),0.397,no,clear,
+PT-pseudo_9ff22a71b795,unlabelled (final model),0.726,yes,borderline,
+PT-pseudo_a2ed5cd06259,unlabelled (final model),0.703,yes,borderline,
+PT-pseudo_a32d7e3c3cdf,unlabelled (final model),0.512,no,clear,
+PT-pseudo_a37319c14573,unlabelled (final model),0.676,yes,borderline,
+PT-pseudo_a424617e164e,unlabelled (final model),0.633,no,uncertain,
+PT-pseudo_a4f6e7273fc3,unlabelled (final model),0.472,no,clear,
+PT-pseudo_a5292377e539,unlabelled (final model),0.776,yes,clear,
+PT-pseudo_a62fdda714c0,unlabelled (final model),0.828,yes,clear,
+PT-pseudo_a64ead56f586,unlabelled (final model),0.602,no,borderline,
+PT-pseudo_a9a20522674d,unlabelled (final model),0.725,yes,borderline,
+PT-pseudo_a9acda639666,unlabelled (final model),0.763,yes,clear,
+PT-pseudo_ac05cda1a88a,unlabelled (final model),0.564,no,borderline,
+PT-pseudo_ac1dc724676e,unlabelled (final model),0.635,no,uncertain,
+PT-pseudo_acad53162dba,unlabelled (final model),0.759,yes,clear,
+PT-pseudo_acc7bae9e286,unlabelled (final model),0.455,no,clear,
+PT-pseudo_aed2e170b8e6,unlabelled (final model),0.485,no,clear,
+PT-pseudo_af12e08190bd,unlabelled (final model),0.685,yes,borderline,
+PT-pseudo_afbc5ebc0d4e,unlabelled (final model),0.349,no,borderline,
+PT-pseudo_b00a553261d2,unlabelled (final model),0.658,yes,uncertain,
+PT-pseudo_b0321645a5de,unlabelled (final model),0.74,yes,clear,
+PT-pseudo_b28f2ad6069e,unlabelled (final model),0.47,no,clear,
+PT-pseudo_b414d3d849a7,unlabelled (final model),0.423,no,clear,
+PT-pseudo_b477d3bd8246,unlabelled (final model),0.635,no,uncertain,
+PT-pseudo_b59dce24e94a,unlabelled (final model),0.534,no,borderline,
+PT-pseudo_b63dfe0f311e,unlabelled (final model),0.262,no,borderline,
+PT-pseudo_b69f6fab2a86,unlabelled (final model),0.42,no,borderline,
+PT-pseudo_b6db06db35d7,unlabelled (final model),0.548,no,borderline,
+PT-pseudo_b8115e954c12,unlabelled (final model),0.408,no,borderline,
+PT-pseudo_e1bb1e86b054,unlabelled (final model),0.555,no,borderline,
+PT-pseudo_e288564d7111,unlabelled (final model),0.646,yes,uncertain,
+PT-pseudo_e5104a16c8bb,unlabelled (final model),0.431,no,borderline,
+PT-pseudo_e91d5fe837cb,unlabelled (final model),0.507,no,clear,
+PT-pseudo_e9fbcdc890f2,unlabelled (final model),0.474,no,clear,
+PT-pseudo_ee512fea9006,unlabelled (final model),0.774,yes,clear,
+PT-pseudo_ef2309676161,unlabelled (final model),0.576,no,uncertain,
+PT-pseudo_ef66ca71e996,unlabelled (final model),0.572,no,uncertain,
+PT-pseudo_ef8ea220bdc6,unlabelled (final model),0.394,no,clear,
+PT-pseudo_f1083e2e01d8,unlabelled (final model),0.537,no,clear,
+PT-pseudo_f2ec9a9b4d4a,unlabelled (final model),0.73,yes,borderline,
+PT-pseudo_f3a2af65a42f,unlabelled (final model),0.385,no,borderline,
+PT-pseudo_f41131a1bc0b,unlabelled (final model),0.58,no,borderline,
+PT-pseudo_f4ea752ca1bb,unlabelled (final model),0.72,yes,borderline,
+PT-pseudo_f80c073525b1,unlabelled (final model),0.769,yes,clear,
+PT-pseudo_f87b704d91af,unlabelled (final model),0.581,no,borderline,
+PT-pseudo_f99f0627e536,unlabelled (final model),0.657,yes,uncertain,
+PT-pseudo_fa31cd663f5a,unlabelled (final model),0.674,yes,borderline,
+PT-pseudo_fa4a71ae9a34,unlabelled (final model),0.411,no,clear,
+PT-pseudo_fab43a43b7e6,unlabelled (final model),0.638,no,uncertain,
+PT-pseudo_fc6cf5262222,unlabelled (final model),0.664,yes,uncertain,
+PT-pseudo_fdd4ff09679e,unlabelled (final model),0.596,no,borderline,

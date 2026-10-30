@@ -1,0 +1,68 @@
+{
+  "case_id": "T2-122",
+  "pid": "T2-122",
+  "task": 2,
+  "psa": 3.8,
+  "age": 69,
+  "months": 2,
+  "pirads": "4",
+  "psad": 0.126,
+  "psav": 1.78,
+  "psap": 2.0,
+  "vol": 30.21,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.79094493,
+  "medhx": "Lower abdominal surgery",
+  "meds": "None",
+  "notes": "PSA 3.8 ng/mL. PI-RADS 4. PSAD 0.13. Prostate volume 30 mL. DRE nodus. csPCa 0.79.",
+  "pmhx": [
+    "Lower abdominal surgery"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "58 kg",
+    "height": "167 cm",
+    "bmi": "20.8",
+    "bp": "146/78 mmHg",
+    "hr": "80 bpm",
+    "smoking": "Ex-smoker (13 pack-yr, quit 2018)",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "02 Feb 2025",
+  "enc_ref": "Dr. M. Jansen (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for prior prostate cancer diagnosis to discuss treatment options."
+    },
+    {
+      "s": "History",
+      "t": "Recently retired harbour pilot (semi-retired) with a history of lower abdominal surgery. The patient reports moderate lower urinary tract symptoms, IPSS score 8/35. He is married but lives alone, with his spouse as the primary next-of-kin. He exercises regularly, running 3 times a week for 5 km, and consumes approximately 6 units of alcohol weekly. He is an ex-smoker, having quit in 2018 after 13 pack-years. He attends a pain clinic for chronic shoulder pain. No active medications or known allergies. PSA trend shows a significant rise from 1.1 ng/mL in November 2023 to 3.8 ng/mL in February 2025."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, a nodule is palpable in the right lobe, consistent with clinical T stage cT2. General examination reveals a well-nourished male with stable vitals, BP 146/78 mmHg, HR 80 bpm. No lymphadenopathy or hepatosplenomegaly detected."
+    }
+  ],
+  "occupation": "harbour pilot (semi-retired)",
+  "marital": "Married",
+  "living": "Lives alone",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Pain clinic — chronic shoulder pain"
+  ],
+  "alcohol": "6 units / week",
+  "exercise": "Running 3x/week, 5 km",
+  "ipss": "IPSS score: 8/35 (moderate LUTS)",
+  "admin": "Interpreter (Arabic) requested for next visit.",
+  "mri_hospital": "Amsterdam UMC (location AMC)",
+  "bx_isup": 2,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 4,
+  "ct": "cT2",
+  "active_treatment_flag": 0
+}

@@ -1,0 +1,18 @@
+{
+  "confidence": "borderline",
+  "variable_weights": {
+    "ct": "noted",
+    "bx_gl_sec": "important",
+    "psa": "important",
+    "fh": "not_used",
+    "cspca": "noted",
+    "pirads": "noted",
+    "psad": "noted",
+    "age": "noted",
+    "bx_gl_prim": "important",
+    "comorbidity": "noted",
+    "bx_isup": "important"
+  },
+  "reveal_sequence": [],
+  "free_text": "The patients has also LUTS impacting on quality of life and a clinically-significant prostate cancer. \nSTAGING is mandatory (PET-PSMA). If M0, shared decision-making is recommended to allow THE PATIENT decide between radical prostatectomy vs radiotherapy + ADT"
+}

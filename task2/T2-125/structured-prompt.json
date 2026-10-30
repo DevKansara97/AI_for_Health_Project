@@ -1,0 +1,71 @@
+{
+  "case_id": "T2-125",
+  "pid": "T2-125",
+  "task": 2,
+  "psa": 6.7,
+  "age": 68,
+  "months": 1,
+  "pirads": "4",
+  "psad": 0.2,
+  "psav": 1.74,
+  "psap": 3.4,
+  "vol": 36.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.7934635,
+  "medhx": "Type 2 diabetes, Chronic kidney disease, Benign prostatic hyperplasia",
+  "meds": "empagliflozin",
+  "notes": "PSA 6.7 ng/mL. PI-RADS 4. PSAD 0.20. Prostate volume 36 mL. csPCa 0.79.",
+  "pmhx": [
+    "Type 2 diabetes",
+    "Chronic kidney disease",
+    "Benign prostatic hyperplasia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "78 kg",
+    "height": "170 cm",
+    "bmi": "27.0",
+    "bp": "132/71 mmHg",
+    "hr": "73 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "13 Jan 2025",
+  "enc_ref": "Dr. R. Visser (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of prior prostate cancer diagnosis with recent PSA rise to 6.7 ng/mL and new MRI findings."
+    },
+    {
+      "s": "History",
+      "t": "The patient is a 68-year-old retired butcher, widowed but living with a partner, who presents for re-evaluation of his prostate cancer. He has a history of type 2 diabetes managed with empagliflozin, chronic kidney disease with an eGFR <60 mL/min/1.73m2, and benign prostatic hyperplasia with an IPSS score of 16/35. He is a non-smoker, consumes 2 units of alcohol per week, and maintains an active lifestyle by running 3x/week. He has had stable cardiology reviews in autumn 2024 and recently completed an audiology hearing test. His next-of-kin is his adult son, who is the primary contact. He prefers morning appointments due to reliance on public transport."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is smooth and non-nodular, consistent with a cT1c stage. General examination reveals a well-nourished male with stable vitals and no signs of acute distress."
+    }
+  ],
+  "occupation": "retired butcher",
+  "marital": "Widowed",
+  "living": "Lives with partner",
+  "next_of_kin": "Adult son (primary contact)",
+  "recent_other": [
+    "Audiology — hearing test",
+    "Cardiology — annual review (stable, autumn 2024)"
+  ],
+  "alcohol": "2 units / week",
+  "exercise": "Running 3x/week, 5 km",
+  "ipss": "IPSS score: 16/35 (moderate LUTS)",
+  "admin": "Patient prefers morning appointments (public transport).",
+  "mri_hospital": "Ziekenhuis Gelderse Vallei (Ede)",
+  "bx_isup": 1,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

@@ -1,0 +1,108 @@
+{
+  "radiology_report": "Catharina Ziekenhuis (Eindhoven)\nImaging Department\nDate: 15 January 2025\nExam: mpMRI Prostate\n\nClinical indication: Rising PSA (19.0 ng/mL) and palpable nodule. Prior biopsy confirmed ISUP GG3. Staging and surveillance.\n\nFINDINGS:\nThe prostate volume measures 65.0 mL. The peripheral zone of the right apex and mid-gland demonstrates a focal area of restricted diffusion and early enhancement on dynamic contrast-enhanced sequences. This lesion appears hypointense on T2-weighted images and measures approximately 18 mm in maximal dimension. The lesion is confined within the prostatic capsule without evidence of extracapsular extension or seminal vesicle invasion. No suspicious lymphadenopathy or bone marrow replacement is noted within the field of view.\n\nIMPRESSION:\nPI-RADS 4 lesion in the right peripheral zone, apex/mid-gland. Prostate volume 65.0 mL; PSA density 0.29 ng/mL/mL. Clinical T stage cT2a. csPCa predicted probability 0.7148355.",
+  "previous_notes": [
+    {
+      "date": "16 Jun 2024",
+      "author": "Dr. L. Smits (GP)",
+      "text": "Patient presented with a significantly elevated PSA of 17.8 ng/mL, a sharp rise from 2.3 ng/mL in February 2023. A digital rectal examination revealed a suspicious nodule on the right side. I discussed the high suspicion of prostate cancer and the need for tissue diagnosis. The patient was referred to the urology department for mpMRI and subsequent biopsy. He was advised to continue his current medication regimen for hypertension and COPD."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Feb 2023",
+      "val": 2.3
+    },
+    {
+      "date": "Aug 2023",
+      "val": 17.8
+    },
+    {
+      "date": "Feb 2024",
+      "val": 9.7
+    },
+    {
+      "date": "Aug 2024",
+      "val": 7.4
+    },
+    {
+      "date": "Feb 2025",
+      "val": 19.0
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "19.0 ng/mL",
+      "date": "28 Dec 2024",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "2.91 ng/mL",
+      "date": "28 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "15%",
+      "date": "28 Dec 2024",
+      "flag": "L"
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "13.9 g/dL",
+      "date": "28 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "5.4 x10^9/L",
+      "date": "28 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "309 x10^9/L",
+      "date": "28 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "95 umol/L",
+      "date": "28 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "28 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "11.4 nmol/L",
+      "date": "28 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "86 U/L",
+      "date": "28 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "127 U/L",
+      "date": "28 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "HbA1c",
+      "val": "6.4 %",
+      "date": "28 Dec 2024",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy 1 (16 June 2024): Histological examination of the prostate tissue cores reveals adenocarcinoma. The Gleason score is 4+3, corresponding to ISUP grade group 3. The growth pattern is characterized by poorly formed tubules lined by single-layer epithelium and closely packed with a tendency to fuse. Elsewhere extensive cribriform growth is present, and focally even solid areas with pseudo lumina and an area with loose rows of 'splaying' cells are identified. A cribriform pattern is present. Perineural invasion is confirmed. The tumour is located in the peripheral zone, apex/mid right.\n\nTrajectory: The histological findings remain consistent with the prior biopsy, demonstrating persistent high-grade disease with aggressive morphological features.\n\nAI-predicted ISUP grade group (digital pathology): grade group 4."
+}

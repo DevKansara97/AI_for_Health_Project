@@ -1,0 +1,98 @@
+{
+  "radiology_report": "Amsterdam UMC (location VUmc)\nDepartment of Radiology\n\nDate: 10 Feb 2025\nExam: mpMRI Prostate\n\nClinical indication: Re-evaluation of known prostate cancer. PSA 8.3 ng/mL. Previous biopsy confirmed Gleason 3+5 (ISUP GG4) with high-risk features. Assessment for local staging and extent of disease.\n\nFINDINGS:\nProstate volume: 38.54 mL.\nT2-weighted imaging demonstrates a large, ill-defined hypo-intense lesion in the peripheral zone of the right mid-base. On diffusion-weighted imaging (DWI), this area shows marked restriction with corresponding low ADC values, indicating high cellularity. Dynamic contrast-enhanced (DCE) sequences reveal early, intense enhancement of the same region.\nThere is clear evidence of extracapsular extension, with the lesion breaching the prostatic capsule laterally and posteriorly. There is suspicious involvement of the right seminal vesicle, characterized by irregular contour and signal alteration within the vesicle parenchyma. No suspicious pelvic lymphadenopathy is identified. No bone metastases are visible on the limited field of view.\n\nIMPRESSION:\nPI-RADS v2.1: 5 (Highly suspicious for clinically significant prostate cancer).\nPSA density: 0.215 ng/mL/mL.\nClinical T stage: cT3b (due to seminal vesicle invasion).\ncsPCa predicted probability: 0.86351734.",
+  "previous_notes": [
+    {
+      "date": "16 Feb 2024",
+      "author": "Dr. K. Bakker (GP)",
+      "text": "Patient presented for routine follow-up. PSA was measured at 0.7 ng/mL, representing a significant decrease from previous values. Given the stable biochemical status and prior diagnosis, it was decided to continue monitoring with repeat PSA testing in 12 months. The patient reported no new urinary symptoms and was advised to report any changes promptly."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "May 2022",
+      "val": 6.3
+    },
+    {
+      "date": "Apr 2023",
+      "val": 3.0
+    },
+    {
+      "date": "Mar 2024",
+      "val": 0.7
+    },
+    {
+      "date": "Feb 2025",
+      "val": 8.3
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "8.3 ng/mL",
+      "date": "30 Dec 2024",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "2.22 ng/mL",
+      "date": "30 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "27%",
+      "date": "30 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "14.2 g/dL",
+      "date": "30 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "5.7 x10^9/L",
+      "date": "30 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "265 x10^9/L",
+      "date": "30 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "90 umol/L",
+      "date": "30 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "30 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "14.6 nmol/L",
+      "date": "30 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "70 U/L",
+      "date": "30 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "189 U/L",
+      "date": "30 Dec 2024",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy Timepoint 1 (Prior):\nHistological examination of the previous prostate biopsy specimen reveals adenocarcinoma. The Gleason score is reported as 4+3, corresponding to ISUP Grade Group 3. The tumor is located in the left side of the prostate. High-risk pathological features are present, specifically the cribriform pattern and intraductal carcinoma (IDC-P).\n\nBiopsy Timepoint 2 (Current):\nHistological examination of the current prostate biopsy specimen reveals adenocarcinoma. The Gleason score is reported as 3+5, corresponding to ISUP Grade Group 4. The tumor is located in the peripheral zone, mid-base right. The growth pattern is characterized by cribriform and fused elements. High-risk pathological features are present, specifically the cribriform pattern and intraductal carcinoma (IDC-P).\n\nSummary:\nThe pathological trajectory demonstrates a shift in Gleason pattern dominance from primary pattern 4 (GG3) to primary pattern 5 (GG4), with persistent high-risk features including cribriform architecture and intraductal carcinoma across both timepoints.\n\nAI-predicted ISUP grade group (digital pathology): Timepoint 1 — grade group 3; Timepoint 2 — grade group 5."
+}

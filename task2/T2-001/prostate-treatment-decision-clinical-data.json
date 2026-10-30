@@ -1,0 +1,102 @@
+{
+  "radiology_report": "Bravis Ziekenhuis\nDepartment of Radiology\nDate: 27 Jan 2025\nExam: mpMRI Prostate\nClinical indication: PSA 4.7 ng/mL, PI-RADS 2.\nFINDINGS: Prostate volume measures 33.46 mL. T2-weighted imaging shows a homogeneous peripheral zone without focal lesions. Diffusion-weighted imaging demonstrates no areas of restricted diffusion. Dynamic contrast-enhanced sequences show no suspicious early enhancement. No extracapsular extension or seminal vesicle involvement. No lymphadenopathy.\nIMPRESSION: PI-RADS 2. PSA density 0.14 ng/mL/mL. Clinical T stage cT1c. csPCa predicted probability 0.59620297.",
+  "previous_notes": [
+    {
+      "date": "07 Feb 2023",
+      "author": "Dr. R. Visser (GP)",
+      "text": "07 Feb 2023 - Dr. R. Visser (GP): Patient presented with elevated PSA of 1.6 ng/mL. Digital rectal examination was performed and referred to urology for further evaluation. PSA repeated in April 2024 showed increase to 2.1 ng/mL."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Jan 2024",
+      "val": 1.6
+    },
+    {
+      "date": "Apr 2024",
+      "val": 2.1
+    },
+    {
+      "date": "Jul 2024",
+      "val": 2.7
+    },
+    {
+      "date": "Oct 2024",
+      "val": 3.6
+    },
+    {
+      "date": "Jan 2025",
+      "val": 4.7
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "4.7 ng/mL",
+      "date": "03 Jan 2025",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "0.67 ng/mL",
+      "date": "03 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "14%",
+      "date": "03 Jan 2025",
+      "flag": "L"
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "13.7 g/dL",
+      "date": "03 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "5.0 x10^9/L",
+      "date": "03 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "316 x10^9/L",
+      "date": "03 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "107 umol/L",
+      "date": "03 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "03 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "15.6 nmol/L",
+      "date": "03 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "81 U/L",
+      "date": "03 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "186 U/L",
+      "date": "03 Jan 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "Yes",
+  "pathology_report": "Timepoint 1 (Jan 2024): Prostate tissue biopsy reveals Gleason 3+3, ISUP grade group 1. Growth pattern is acinar. No cribriform or intraductal patterns identified. Tumour location is peripheral zone, ventral left.\n\nTrajectory: Stable low-grade disease across timepoints.\n\nAI-predicted ISUP grade group (digital pathology): grade group 2."
+}

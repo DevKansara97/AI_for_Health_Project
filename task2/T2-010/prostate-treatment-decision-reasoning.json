@@ -1,0 +1,15 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "pirads": "decisive",
+    "ct": "noted",
+    "fh": "noted",
+    "comorbidity": "important",
+    "age": "important",
+    "psad": "noted",
+    "psa": "noted",
+    "cspca": "noted"
+  },
+  "reveal_sequence": [],
+  "free_text": "60 yo Patient with a negative biopsy and a PIRADS 5 lesion."
+}

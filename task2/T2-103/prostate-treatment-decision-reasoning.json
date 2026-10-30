@@ -1,0 +1,18 @@
+{
+  "confidence": "borderline",
+  "variable_weights": {
+    "ct": "noted",
+    "bx_gl_sec": "important",
+    "cspca": "important",
+    "psa": "noted",
+    "pirads": "important",
+    "bx_isup": "important",
+    "bx_gl_prim": "noted",
+    "fh": "noted",
+    "psad": "noted",
+    "age": "decisive",
+    "comorbidity": "noted"
+  },
+  "reveal_sequence": [],
+  "free_text": "ALTERNATIVE: radiation therapy with short course of ADT. \nShared decision-making with the patient"
+}

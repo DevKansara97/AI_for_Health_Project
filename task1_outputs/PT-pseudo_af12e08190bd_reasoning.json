@@ -1,0 +1,22 @@
+{
+  "case_id": "PT-pseudo_af12e08190bd",
+  "confidence": "borderline",
+  "variable_importance": {
+    "psa": "noted",
+    "psad": "not_used",
+    "vol": "not_used",
+    "pirads": "not_used",
+    "dre": "not_used",
+    "fh": "not_used",
+    "comorbidity": "not_used",
+    "cspca": "important",
+    "age": "not_used",
+    "bx": "decisive"
+  },
+  "sections_accessed": [
+    "previous_notes",
+    "psa_trend",
+    "laboratory_results"
+  ],
+  "explanation": "Biopsy recommended (risk score 0.69 >= decision threshold 0.64; confidence: borderline). Main supporting factors: prior biopsy negative; PSA 5.8 ng/mL (velocity +1.0); prostate volume 39 mL. Strongest factor pointing the other way: csPCa likelihood score 0.41. Evidence is mixed, so the score is close to the decision threshold. Sections informing this decision: previous_notes, psa_trend, laboratory_results."
+}

@@ -1,0 +1,103 @@
+{
+  "radiology_report": "Antoni van Leeuwenhoek\nDepartment of Radiology\nDate: 24 Nov 2024\nExam: mpMRI prostate\n\nClinical indication: PSA 3.9 ng/mL, rising trend, prior biopsy Gleason 3+5. Request for staging and lesion characterization.\n\nFINDINGS:\nProstate volume: 31.47 mL.\nT2-weighted imaging reveals a focal, ill-defined hypo-intense lesion within the left peripheral zone, approximately 18 mm in maximal dimension, abutting the anterior capsule and demonstrating indistinct margins suggestive of extracapsular extension. Diffusion-weighted imaging shows marked restricted diffusion in the corresponding region with high signal on high b-value images and low ADC values. Dynamic contrast-enhanced sequences demonstrate early, intense enhancement of the lesion relative to surrounding glandular tissue. No suspicious lymphadenopathy or bone marrow replacement is identified.\n\nIMPRESSION:\nPI-RADS v2.1 category 5 lesion in the left peripheral zone.\nPSA density: 0.124 ng/mL/mL.\nClinical T stage: cT3 based on imaging features.\ncsPCa predicted probability 0.7731299.",
+  "previous_notes": [
+    {
+      "date": "16 Jul 2023",
+      "author": "Dr. T. Hendriks (GP)",
+      "text": "16 Jul 2023 - Dr. T. Hendriks (GP):\nPatient returned for routine PSA monitoring. Result was 2.7 ng/mL, showing a gradual increase from the previous value of 2.3 ng/mL in April 2022. Discussed the slow rise and the need for continued surveillance. Advised repeat testing in approximately 12 months and maintained current watchful approach without immediate urological referral."
+    },
+    {
+      "date": "11 May 2024",
+      "author": "Dr. T. Hendriks (GP)",
+      "text": "11 May 2024 - Dr. T. Hendriks (GP):\nPSA re-evaluation showed further elevation to 3.3 ng/mL. Patient reported no new urinary symptoms but expressed concern about the rising trend. Given the persistent increase and the patient's age, a referral to urology was initiated for further assessment and potential biopsy discussion. Patient informed about the referral process and asked to bring all previous lab results to the specialist appointment."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Apr 2022",
+      "val": 2.3
+    },
+    {
+      "date": "Mar 2023",
+      "val": 2.7
+    },
+    {
+      "date": "Feb 2024",
+      "val": 3.3
+    },
+    {
+      "date": "Jan 2025",
+      "val": 3.9
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "3.9 ng/mL",
+      "date": "24 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "Free PSA",
+      "val": "0.70 ng/mL",
+      "date": "24 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "18%",
+      "date": "24 Nov 2024",
+      "flag": "L"
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "15.1 g/dL",
+      "date": "24 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "7.6 x10^9/L",
+      "date": "24 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "309 x10^9/L",
+      "date": "24 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "79 umol/L",
+      "date": "24 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "24 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "12.9 nmol/L",
+      "date": "24 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "95 U/L",
+      "date": "24 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "202 U/L",
+      "date": "24 Nov 2024",
+      "flag": ""
+    }
+  ],
+  "family_history": "Yes",
+  "pathology_report": "Biopsy timepoint 1 (11 May 2024):\nHistological examination of the prostate tissue specimens reveals acinar adenocarcinoma. The Gleason score is 3+5, corresponding to ISUP grade group 4. Perineural invasion is identified. The tumour is located in the left side of the prostate. No cribriform or intraductal patterns are identified.\n\nSummary of trajectory:\nThe histological grade group remains consistent at ISUP 4 across the available biopsy timepoint, with persistent perineural invasion.\n\nAI-predicted ISUP grade group (digital pathology): grade group 4."
+}

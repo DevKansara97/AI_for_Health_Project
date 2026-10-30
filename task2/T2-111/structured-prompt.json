@@ -1,0 +1,67 @@
+{
+  "case_id": "T2-111",
+  "pid": "T2-111",
+  "task": 2,
+  "psa": 3.87,
+  "age": 74,
+  "months": 3,
+  "pirads": "4",
+  "psad": 0.09,
+  "psav": 0.95,
+  "psap": 1.4,
+  "vol": 43.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.7713526,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 3.87 ng/mL. PI-RADS 4. PSAD 0.09. Prostate volume 43 mL. csPCa 0.77.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "79 kg",
+    "height": "177 cm",
+    "bmi": "25.2",
+    "bp": "122/64 mmHg",
+    "hr": "59 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "06 Jan 2025",
+  "enc_ref": "Dr. T. Hendriks (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of prostate cancer following recent PSA rise and prior biopsy findings."
+    },
+    {
+      "s": "History",
+      "t": "The patient is a 74-year-old retired truck driver who presents for urological re-evaluation. He has a known diagnosis of prostate cancer, initially identified on biopsy. His PSA levels have risen from 1.4 ng/mL in April 2024 to 3.87 ng/mL in January 2025. He reports no urinary symptoms, with an IPSS score of 4/35. He is widowed and lives with his partner, with a long-time friend as his next of kin. He cycles approximately 20 km twice weekly and consumes about 4 units of alcohol per week. Recent appointments included routine podiatry care and a flu vaccination administered by the GP practice nurse. He has no recorded comorbidities and takes no regular medication."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Digital rectal examination reveals a normal prostate without palpable nodules or asymmetry, consistent with clinical stage cT1c. General examination is unremarkable, with stable vital signs and no signs of systemic illness."
+    }
+  ],
+  "occupation": "retired truck driver",
+  "marital": "Widowed",
+  "living": "Lives with partner",
+  "next_of_kin": "Long-time friend (no close family)",
+  "recent_other": [
+    "Podiatry — routine foot care",
+    "GP practice nurse — flu vaccination"
+  ],
+  "alcohol": "4 units / week",
+  "exercise": "Cycling 2x/week, ~20 km",
+  "ipss": "IPSS score: 4/35 (mild LUTS)",
+  "admin": "Patient self-employed; flexible appointment slots requested.",
+  "mri_hospital": "Erasmus MC",
+  "bx_isup": 2,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 4,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

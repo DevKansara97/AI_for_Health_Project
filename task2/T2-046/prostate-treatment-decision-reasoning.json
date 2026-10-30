@@ -1,0 +1,15 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "age": "important",
+    "pirads": "important",
+    "comorbidity": "noted",
+    "psa": "noted",
+    "ct": "important",
+    "fh": "noted",
+    "cspca": "noted",
+    "psad": "important"
+  },
+  "reveal_sequence": [],
+  "free_text": "rising PSA and prior negative biopsy in low suspicious MRI."
+}

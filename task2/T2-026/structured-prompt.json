@@ -1,0 +1,70 @@
+{
+  "case_id": "T2-026",
+  "pid": "T2-026",
+  "task": 2,
+  "psa": 12.0,
+  "age": 72,
+  "months": 1,
+  "pirads": "4",
+  "psad": 0.313,
+  "psav": 2.41,
+  "psap": 7.6,
+  "vol": 38.29,
+  "dre": "Normal",
+  "bx": "Negative",
+  "cspca": 0.8336016,
+  "medhx": "Other, vasectomie",
+  "meds": "None",
+  "notes": "PSA 12 ng/mL. PI-RADS 4. PSAD 0.31. Prostate volume 38 mL. csPCa 0.83.",
+  "pmhx": [
+    "Other",
+    "vasectomie"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "69 kg",
+    "height": "168 cm",
+    "bmi": "24.4",
+    "bp": "123/73 mmHg",
+    "hr": "60 bpm",
+    "smoking": "Current smoker (17 pack-yr)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "14 Feb 2025",
+  "enc_ref": "Dr. L. Smits (GP)",
+  "enc_type": "Re-evaluation - prior negative biopsy",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for rising PSA to 12.0 ng/mL and a new PI-RADS 4 lesion despite a previous negative biopsy."
+    },
+    {
+      "s": "History",
+      "t": "The patient is a 72-year-old retired carpenter, currently living alone and divorced. He has a history of vasectomy and is a current smoker with a 17 pack-year history. He consumes approximately 26 units of alcohol weekly and maintains an active lifestyle with tennis twice a week. His LUTS are minimal with an IPSS of 2/35. He recently attended endocrine screening for thyroid function and a biannual dental check-up. He reports no bone pain, haematuria, or weight loss. He is anxious about invasive procedures and has requested a thorough discussion of all management pathways."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is symmetrically enlarged and smooth without nodules or asymmetry, consistent with clinical stage cT1c. General examination is unremarkable with stable vitals and no signs of lymphadenopathy or bony tenderness."
+    }
+  ],
+  "occupation": "retired carpenter",
+  "marital": "Divorced",
+  "living": "Lives alone",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Endocrine — thyroid screening",
+    "Dental — biannual check-up"
+  ],
+  "alcohol": "26 units / week",
+  "exercise": "Tennis 2x/week",
+  "ipss": "IPSS score: 2/35 (mild LUTS)",
+  "admin": "Patient anxious about procedures — allocate extra consult time.",
+  "mri_hospital": "Antoni van Leeuwenhoek",
+  "bx_isup": 0,
+  "bx_gl_prim": 0,
+  "bx_gl_sec": 0,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

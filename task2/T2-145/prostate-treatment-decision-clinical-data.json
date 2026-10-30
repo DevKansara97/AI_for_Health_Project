@@ -1,0 +1,98 @@
+{
+  "radiology_report": "Department of Radiology\nUMCG (Groningen)\nDate: 10 Jan 2025\nExam: mpMRI prostate\nClinical indication: PSA 7.5 ng/mL, prior biopsy Gleason 3+3. Evaluate for focal lesion.\nFINDINGS: Prostate volume 42.0 mL. T2WI shows a focal hypointense lesion in the peripheral zone, mid left, measuring approximately 12 mm. DWI demonstrates restricted diffusion (high b-value signal, low ADC). Dynamic contrast enhancement shows early focal uptake. No extracapsular extension or seminal vesicle invasion seen.\nIMPRESSION: PI-RADS 4 lesion in peripheral zone, mid left. PSA density 0.179 ng/mL/mL. Clinical stage cT1c. csPCa predicted probability 0.0.",
+  "previous_notes": [
+    {
+      "date": "01 Sep 2023",
+      "author": "Dr. R. Visser (GP)",
+      "text": "01 Sep 2023 - Dr. R. Visser (GP): Patient attended for routine follow-up. PSA was 4.3 ng/mL, showing a rise from previous levels. Discussed the need for further urological assessment. Referred to urology for biopsy evaluation."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Nov 2022",
+      "val": 3.3
+    },
+    {
+      "date": "Aug 2023",
+      "val": 4.3
+    },
+    {
+      "date": "May 2024",
+      "val": 5.7
+    },
+    {
+      "date": "Feb 2025",
+      "val": 7.5
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "7.5 ng/mL",
+      "date": "05 Feb 2025",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "1.60 ng/mL",
+      "date": "05 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "21%",
+      "date": "05 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "15.3 g/dL",
+      "date": "05 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "7.0 x10^9/L",
+      "date": "05 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "254 x10^9/L",
+      "date": "05 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "116 umol/L",
+      "date": "05 Feb 2025",
+      "flag": "H"
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "05 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "14.3 nmol/L",
+      "date": "05 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "63 U/L",
+      "date": "05 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "119 U/L",
+      "date": "05 Feb 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy 1 (01 Sep 2023): Microscopic examination reveals benign prostatic tissue with focal adenocarcinoma. The carcinoma demonstrates an acinar growth pattern and is assigned a Gleason score of 3+3, corresponding to ISUP grade group 1. No cribriform or intraductal patterns identified. The tumour is located in the peripheral zone, mid left.\n\nSummary: Histological findings across timepoints remain stable, with persistent ISUP grade group 1 disease."
+}

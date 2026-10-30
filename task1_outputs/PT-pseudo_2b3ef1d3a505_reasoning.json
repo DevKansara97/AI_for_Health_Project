@@ -1,0 +1,23 @@
+{
+  "case_id": "PT-pseudo_2b3ef1d3a505",
+  "confidence": "clear",
+  "variable_importance": {
+    "psa": "decisive",
+    "psad": "noted",
+    "vol": "noted",
+    "pirads": "not_used",
+    "dre": "noted",
+    "fh": "not_used",
+    "comorbidity": "not_used",
+    "cspca": "not_used",
+    "age": "not_used",
+    "bx": "important"
+  },
+  "sections_accessed": [
+    "psa_trend",
+    "previous_notes",
+    "laboratory_results",
+    "radiology_report"
+  ],
+  "explanation": "Biopsy not recommended (risk score 0.46 < decision threshold 0.64; confidence: clear). Main supporting factors: PSA 4.2 ng/mL (velocity +0.7); prior biopsy positive, prior ISUP 1; PSA density 0.06. Sections informing this decision: psa_trend, previous_notes, laboratory_results, radiology_report."
+}

@@ -1,0 +1,68 @@
+{
+  "case_id": "T2-129",
+  "pid": "T2-129",
+  "task": 2,
+  "psa": 10.0,
+  "age": 60,
+  "months": 1,
+  "pirads": "5",
+  "psad": 0.372,
+  "psav": 2.35,
+  "psap": 7.0,
+  "vol": 26.91,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.8577571,
+  "medhx": "Chronic kidney disease",
+  "meds": "None",
+  "notes": "PSA 10 ng/mL. PI-RADS 5. PSAD 0.37. Prostate volume 27 mL. DRE nodus. csPCa 0.86.",
+  "pmhx": [
+    "Chronic kidney disease"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "68 kg",
+    "height": "181 cm",
+    "bmi": "20.8",
+    "bp": "127/74 mmHg",
+    "hr": "65 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "11 Feb 2025",
+  "enc_ref": "Dr. H. Martens (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Return to urology clinic for treatment decision regarding known prostate adenocarcinoma following recent biopsy confirmation."
+    },
+    {
+      "s": "History",
+      "t": "Mechanical engineer, currently living with his unmarried partner and adult child in a multi-generational household. He is a non-smoker, abstains from alcohol, and cycles approximately 20 km twice weekly. His only significant medical history is chronic kidney disease with baseline creatinine 157 umol/L and eGFR <60 mL/min/1.73m2. He reports mild lower urinary tract symptoms (IPSS 4/35) without nocturia or urgency. Recently evaluated at the sleep clinic for suspected obstructive sleep apnoea. He has no history of cardiovascular disease or diabetes mellitus."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On digital rectal examination, a firm nodule is palpable in the right peripheral zone apex, consistent with clinical stage cT2a. The prostate is non-tender and approximately 27 mL in volume. General examination reveals a well-nourished male with stable vital signs, BP 127/74 mmHg, HR 65 bpm, and no signs of peripheral edema or lymphadenopathy."
+    }
+  ],
+  "occupation": "mechanical engineer",
+  "marital": "Living with partner (unmarried)",
+  "living": "Lives with adult child (multi-generational household)",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Sleep clinic — suspected obstructive sleep apnoea"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Cycling 2x/week, ~20 km",
+  "ipss": "IPSS score: 4/35 (mild LUTS)",
+  "admin": "Visual impairment: large-print correspondence requested.",
+  "mri_hospital": "UMCG (Groningen)",
+  "bx_isup": 2,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 4,
+  "ct": "cT2a",
+  "active_treatment_flag": 0
+}

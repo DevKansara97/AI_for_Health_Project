@@ -1,0 +1,64 @@
+{
+  "case_id": "T2-120",
+  "pid": "T2-120",
+  "task": 2,
+  "psa": 4.53,
+  "age": 65,
+  "months": 3,
+  "pirads": "5",
+  "psad": 0.12,
+  "psav": 1.0,
+  "psap": 2.5,
+  "vol": 41.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.84312165,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 4.53 ng/mL. PI-RADS 5. PSAD 0.12. Prostate volume 41 mL. csPCa 0.84.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "106 kg",
+    "height": "192 cm",
+    "bmi": "28.8",
+    "bp": "110/77 mmHg",
+    "hr": "71 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "08 Feb 2025",
+  "enc_ref": "Dr. F. de Boer (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for prostate cancer management decision following stable Gleason 3+3 biopsy with high-risk features and rising PSA."
+    },
+    {
+      "s": "History",
+      "t": "The patient is a 65-year-old retired shopkeeper who presents for re-evaluation of his prostate cancer diagnosis. He reports no urinary symptoms, with an IPSS score of 5/35 indicating mild LUTS. He is married and lives in a ground-floor apartment with his partner, who is supportive of his care. He is an avid cyclist, commuting five times a week, and abstains from alcohol. He has no significant comorbidities and takes no regular medications. His PSA has risen from 2.5 ng/mL in May 2023 to 4.53 ng/mL in February 2025, with a dip to 1.5 ng/mL in December 2023. He expresses significant anxiety about invasive procedures and has requested a thorough discussion of all options. His adult son is the primary next-of-kin contact and is involved in care discussions."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is smooth and symmetric with no palpable nodules or asymmetry, consistent with clinical stage cT1c. General examination reveals a well-nourished male with stable vital signs and no lymphadenopathy. Abdominal examination is unremarkable with no organomegaly or masses."
+    }
+  ],
+  "occupation": "retired shopkeeper",
+  "marital": "Married",
+  "living": "Lives in ground-floor apartment with partner",
+  "next_of_kin": "Adult son (primary contact)",
+  "recent_other": [],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Cycling 5x/week (commuter)",
+  "ipss": "IPSS score: 5/35 (mild LUTS)",
+  "admin": "Patient anxious about procedures — allocate extra consult time.",
+  "mri_hospital": "Erasmus MC",
+  "bx_isup": 1,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

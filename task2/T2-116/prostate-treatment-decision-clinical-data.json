@@ -1,0 +1,107 @@
+{
+  "radiology_report": "Imaging Department, Antoni van Leeuwenhoek Hospital\nDate: 10 December 2024\nExam: Multiparametric MRI of the prostate\nClinical indication: Elevated PSA 6.1 ng/mL, prior biopsy confirmed ISUP grade group 1 adenocarcinoma. Re-staging and assessment for focal lesion.\nFINDINGS: Prostate volume measures 73.0 mL. The peripheral zone demonstrates homogeneous signal intensity on T2-weighted imaging. A focal area of restricted diffusion is noted in the left transition zone, measuring approximately 12 mm in maximum diameter. This region demonstrates corresponding early enhancement on dynamic contrast-enhanced sequences and a focal drop in apparent diffusion coefficient values. The neurovascular bundles appear intact bilaterally. No suspicious lymphadenopathy or osseous lesions are identified within the field of view.\nIMPRESSION: PI-RADS v2.1 category 4 lesion in the left transition zone. Prostate-specific antigen density 0.08 ng/mL/mL. Clinical stage cT1c. csPCa predicted probability 0.81674135.",
+  "previous_notes": [
+    {
+      "date": "27 Jul 2023",
+      "author": "Dr. H. Martens (GP)",
+      "text": "The patient presented with a PSA of 5.3 ng/mL, representing a rise from baseline values of 2.9 ng/mL recorded earlier in the year. After excluding urinary tract infection and ensuring adequate bladder emptying, a referral was initiated to urology for further evaluation. The patient was advised to continue his current cardiovascular and diabetic medications without alteration."
+    },
+    {
+      "date": "19 Sep 2024",
+      "author": "Dr. H. Martens (GP)",
+      "text": "Follow-up visit noted a PSA of 2.7 ng/mL, which prompted reassurance and continuation of the current surveillance strategy. The patient reported stable lower urinary tract symptoms managed with tamsulosin and no new systemic complaints. Given the prior biopsy-confirmed low-grade adenocarcinoma, routine laboratory monitoring and clinical review were arranged."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Feb 2022",
+      "val": 2.9
+    },
+    {
+      "date": "Oct 2022",
+      "val": 2.9
+    },
+    {
+      "date": "Jul 2023",
+      "val": 5.3
+    },
+    {
+      "date": "Apr 2024",
+      "val": 2.7
+    },
+    {
+      "date": "Jan 2025",
+      "val": 6.1
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "6.1 ng/mL",
+      "date": "05 Dec 2024",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "0.87 ng/mL",
+      "date": "05 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "14%",
+      "date": "05 Dec 2024",
+      "flag": "L"
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "14.6 g/dL",
+      "date": "05 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "6.2 x10^9/L",
+      "date": "05 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "239 x10^9/L",
+      "date": "05 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "87 umol/L",
+      "date": "05 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "05 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "14.5 nmol/L",
+      "date": "05 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "98 U/L",
+      "date": "05 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "181 U/L",
+      "date": "05 Dec 2024",
+      "flag": ""
+    }
+  ],
+  "family_history": "Yes",
+  "pathology_report": "Histological examination of the initial prostate biopsy specimens reveals adenocarcinoma. The architectural pattern corresponds to a Gleason score of 3+3, classified as ISUP grade group 1, with the tumour focus localized to the left transition zone. Review of the biopsy trajectory indicates that histological findings have remained stable across the documented timepoint, consistent with a low-grade disease profile.\n\nAI-predicted ISUP grade group (digital pathology): grade group 5."
+}

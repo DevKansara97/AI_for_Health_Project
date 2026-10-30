@@ -1,0 +1,67 @@
+{
+  "case_id": "T2-045",
+  "pid": "T2-045",
+  "task": 2,
+  "psa": 9.2,
+  "age": 72,
+  "months": 2,
+  "pirads": "4",
+  "psad": 0.16,
+  "psav": 1.59,
+  "psap": 5.5,
+  "vol": 57.0,
+  "dre": "Nodus",
+  "bx": "Negative",
+  "cspca": 0.7709042,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 9.2 ng/mL. PI-RADS 4. PSAD 0.16. Prostate volume 57 mL. DRE nodus. csPCa 0.77.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "80 kg",
+    "height": "174 cm",
+    "bmi": "26.4",
+    "bp": "131/75 mmHg",
+    "hr": "85 bpm",
+    "smoking": "Current smoker (42 pack-yr)",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "22 Jan 2025",
+  "enc_ref": "Dr. L. Smits (GP)",
+  "enc_type": "Re-evaluation - prior negative biopsy",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for rising PSA to 9.2 ng/mL and new palpable nodule despite two prior negative biopsies."
+    },
+    {
+      "s": "History",
+      "t": "Recently retired harbour pilot (semi-retired) with a 42 pack-year smoking history. Widowed, currently living with an adult child in a multi-generational household. Reports mild LUTS (IPSS 5) and exercises by swimming once weekly. Alcohol consumption is minimal at 1 unit per week. PSA has risen from 4.5 ng/mL in Aug 2023 to 9.2 ng/mL in Jan 2025, with an intermediate dip to 5.5 ng/mL in Jul 2024. Two prior systematic biopsies (Aug 2023, Jan 2025) were negative for malignancy. Recent appointments include a surveillance colonoscopy and orthopaedic follow-up for knee osteoarthritis. No current medications or known allergies. Patient expresses anxiety regarding further procedures and requests thorough discussion of options."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum, a discrete, firm nodule is palpated in the left peripheral zone, consistent with clinical T2a staging. General examination is unremarkable with normal vital signs and no signs of systemic illness. Abdominal and genitourinary exams are otherwise normal."
+    }
+  ],
+  "occupation": "harbour pilot (semi-retired)",
+  "marital": "Widowed",
+  "living": "Lives with adult child (multi-generational household)",
+  "next_of_kin": "Nephew",
+  "recent_other": [
+    "Gastroenterology — surveillance colonoscopy",
+    "Orthopaedic outpatient — knee follow-up"
+  ],
+  "alcohol": "1 units / week",
+  "exercise": "Swimming 1x/week",
+  "ipss": "IPSS score: 5/35 (mild LUTS)",
+  "admin": "Patient anxious about procedures — allocate extra consult time.",
+  "mri_hospital": "Antoni van Leeuwenhoek",
+  "bx_isup": 0,
+  "bx_gl_prim": 0,
+  "bx_gl_sec": 0,
+  "ct": "cT2a",
+  "active_treatment_flag": 0
+}

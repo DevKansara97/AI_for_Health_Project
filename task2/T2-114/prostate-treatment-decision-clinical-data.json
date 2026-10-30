@@ -1,0 +1,109 @@
+{
+  "radiology_report": "LUMC (Leiden)\nImaging Department\nDate: 27 Feb 2025\nExam: mpMRI Prostate\nClinical indication: PSA 7.8 ng/mL, PI-RADS 4.\nFINDINGS: Prostate volume measures 47.17 mL. DWI and T2-weighted sequences demonstrate a focal lesion in the right peripheral zone, approximately 12 mm in diameter. The lesion exhibits restricted diffusion on high b-value DWI and corresponding early enhancement on DCE sequences, consistent with a suspicious focus. No evidence of extracapsular extension or seminal vesicle invasion is identified.\nIMPRESSION: PI-RADS 4 lesion in the right peripheral zone. Prostate volume 47.17 mL. PSA density 0.165 ng/mL/mL. Clinical stage cT1c. csPCa predicted probability 0.75055045.",
+  "previous_notes": [
+    {
+      "date": "02 Jul 2024",
+      "author": "Dr. T. Hendriks (GP)",
+      "text": "The patient presented for routine follow-up. PSA was measured at 4.1 ng/mL. Physical examination was unremarkable. The patient was advised to continue monitoring."
+    },
+    {
+      "date": "30 Oct 2024",
+      "author": "Dr. T. Hendriks (GP)",
+      "text": "The patient returned for scheduled re-evaluation. PSA had risen to 7.8 ng/mL. Given the prior biopsy findings and current PSA trend, the patient was referred to urology for further assessment."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Jul 2023",
+      "val": 5.3
+    },
+    {
+      "date": "Jan 2024",
+      "val": 1.5
+    },
+    {
+      "date": "Aug 2024",
+      "val": 4.1
+    },
+    {
+      "date": "Feb 2025",
+      "val": 7.8
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "7.8 ng/mL",
+      "date": "25 Jan 2025",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "1.86 ng/mL",
+      "date": "25 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "24%",
+      "date": "25 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "14.0 g/dL",
+      "date": "25 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "8.3 x10^9/L",
+      "date": "25 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "274 x10^9/L",
+      "date": "25 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "93 umol/L",
+      "date": "25 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "25 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "9.1 nmol/L",
+      "date": "25 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "113 U/L",
+      "date": "25 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "177 U/L",
+      "date": "25 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "HbA1c",
+      "val": "5.7 %",
+      "date": "25 Jan 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy timepoint 1: Histological examination of the prostate tissue samples reveals adenocarcinoma with a Gleason score of 4+3 (tertiary 5), corresponding to ISUP grade group 2. The reported ISUP grade group is 2. The Gleason score is 4+3 (tertiary 5). The ISUP grade group is 2.\n\nSummary: The histological trajectory across the single biopsy timepoint demonstrates a stable presentation of ISUP grade group 2 disease."
+}

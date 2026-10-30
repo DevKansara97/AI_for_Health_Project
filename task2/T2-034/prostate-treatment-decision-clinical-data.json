@@ -1,0 +1,102 @@
+{
+  "radiology_report": "Jeroen Bosch Ziekenhuis ('s-Hertogenbosch)\nImaging Department\nDate: 15 November 2024\nExam: mpMRI Prostate\n\nClinical indication: Elevated PSA 9.2 ng/mL. Prior negative biopsy. Evaluate for clinically significant prostate cancer.\n\nFINDINGS:\nProstate volume is 53.0 mL.\nT2-weighted imaging demonstrates a focal hypointense lesion in the mid left peripheral zone, measuring approximately 12 mm in greatest dimension.\nDiffusion-weighted imaging shows restricted diffusion at this site with corresponding high signal on ADC mapping.\nDynamic contrast-enhanced sequences reveal early, intense enhancement of the same lesion.\nNo extraprostatic extension or seminal vesicle invasion is identified.\nNo suspicious lymphadenopathy or distant metastases are seen.\n\nIMPRESSION:\nPI-RADS 4 lesion in the mid left peripheral zone.\nPSA density: 0.17 ng/mL/mL.\nClinical stage: cT2a.\ncsPCa predicted probability 0.78939086.",
+  "previous_notes": [
+    {
+      "date": "20 Jan 2023",
+      "author": "Dr. P. van Dijk (GP)",
+      "text": "Patient presented with a PSA of 2.1 ng/mL. Digital rectal examination was unremarkable. Given the normal PSA and DRE, no further urological investigation was initiated at this time. Routine follow-up was arranged."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Nov 2022",
+      "val": 2.1
+    },
+    {
+      "date": "Jun 2023",
+      "val": 3.0
+    },
+    {
+      "date": "Dec 2023",
+      "val": 4.4
+    },
+    {
+      "date": "Jun 2024",
+      "val": 6.4
+    },
+    {
+      "date": "Jan 2025",
+      "val": 9.2
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "9.2 ng/mL",
+      "date": "04 Dec 2024",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "2.10 ng/mL",
+      "date": "04 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "23%",
+      "date": "04 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "15.9 g/dL",
+      "date": "04 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "4.6 x10^9/L",
+      "date": "04 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "217 x10^9/L",
+      "date": "04 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "95 umol/L",
+      "date": "04 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "04 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "17.3 nmol/L",
+      "date": "04 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "87 U/L",
+      "date": "04 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "247 U/L",
+      "date": "04 Dec 2024",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy timepoint 1: Prostate needle biopsy specimens were received. Histological examination reveals benign prostatic tissue. No malignant glands are identified. The Gleason score is 0+0, corresponding to ISUP grade group 0. No cribriform or intraductal patterns are identified. Perineural invasion is absent. The sampling was taken from the mid left region. \n\nOverall trajectory: The histological findings have remained stable across the single available biopsy timepoint, with no evidence of malignancy."
+}

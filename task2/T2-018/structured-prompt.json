@@ -1,0 +1,70 @@
+{
+  "case_id": "T2-018",
+  "pid": "T2-018",
+  "task": 2,
+  "psa": 28.0,
+  "age": 61,
+  "months": 2,
+  "pirads": "5",
+  "psad": 0.28,
+  "psav": 19.63,
+  "psap": 18.6,
+  "vol": 100.0,
+  "dre": "Normal",
+  "bx": "Negative",
+  "cspca": 0.3807473,
+  "medhx": "Hypertension",
+  "meds": "amlodipine, valsartan",
+  "notes": "PSA 28 ng/mL. PI-RADS 5. PSAD 0.28. Prostate volume 100 mL. csPCa 0.38.",
+  "pmhx": [
+    "Hypertension"
+  ],
+  "allergies": [
+    "NSAIDs"
+  ],
+  "vitals": {
+    "weight": "73 kg",
+    "height": "178 cm",
+    "bmi": "23.0",
+    "bp": "149/74 mmHg",
+    "hr": "67 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "11 Jan 2025",
+  "enc_ref": "Dr. R. van den Berg (GP)",
+  "enc_type": "Re-evaluation - prior negative biopsy",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of discordant findings between a high-risk MRI and a prior negative biopsy in the setting of rapidly rising PSA."
+    },
+    {
+      "s": "History",
+      "t": "Recently retired shopkeeper with a history of hypertension managed on amlodipine and valsartan. The patient is married and resides in an independent unit within a retirement community, with his spouse as primary contact. He reports moderate lower urinary tract symptoms, quantified by an IPSS score of 10/35, but denies haematuria, bone pain, or unexplained weight loss. Lifestyle includes light weight-training twice weekly and complete abstinence from alcohol. A chest X-ray was recently performed as part of routine surveillance, showing no acute abnormalities. The patient's daughter manages communication and is copied on correspondence with his consent."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is enlarged but smooth and symmetric, with no discrete nodules or asymmetry, consistent with clinical stage cT1c. General examination is unremarkable, with stable vital signs and no signs of systemic illness."
+    }
+  ],
+  "occupation": "retired shopkeeper",
+  "marital": "Married",
+  "living": "Lives in retirement community (independent unit)",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Radiology — chest X-ray (routine)"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Light weight-training at home, 2x/week",
+  "ipss": "IPSS score: 10/35 (moderate LUTS)",
+  "admin": "Daughter manages communication; CC on letters with patient consent.",
+  "mri_hospital": "OLVG (Amsterdam)",
+  "bx_isup": 0,
+  "bx_gl_prim": 0,
+  "bx_gl_sec": 0,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

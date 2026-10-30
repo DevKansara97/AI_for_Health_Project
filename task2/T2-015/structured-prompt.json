@@ -1,0 +1,68 @@
+{
+  "case_id": "T2-015",
+  "pid": "T2-015",
+  "task": 2,
+  "psa": 190.0,
+  "age": 57,
+  "months": 1,
+  "pirads": "5",
+  "psad": 4.097,
+  "psav": 79.48,
+  "psap": 16.4,
+  "vol": 46.38,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.9718793,
+  "medhx": "Chronic kidney disease",
+  "meds": "None",
+  "notes": "PSA 190 ng/mL. PI-RADS 5. PSAD 4.10. Prostate volume 46 mL. csPCa 0.97.",
+  "pmhx": [
+    "Chronic kidney disease"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "104 kg",
+    "height": "177 cm",
+    "bmi": "33.2",
+    "bp": "115/74 mmHg",
+    "hr": "71 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "25 Feb 2025",
+  "enc_ref": "Dr. R. Visser (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for definitive management of high-volume, high-grade prostate adenocarcinoma following a dramatic PSA surge to 190.0 ng/mL."
+    },
+    {
+      "s": "History",
+      "t": "This 57-year-old retired accountant presents for re-evaluation of his known prostate cancer. His PSA trajectory has been steep, rising from 3.0 ng/mL in mid-2022 to 16.4 ng/mL in April 2024, and now 190.0 ng/mL this February. He lives alone, though his unmarried partner serves as his primary next-of-kin and support. He reports moderate lower urinary tract symptoms, quantified by an IPSS of 15. He is a non-smoker, consumes approximately 8 units of alcohol weekly, and maintains an active lifestyle with cycling five times a week for commuting. He has a background of chronic kidney disease, with recent labs showing an eGFR below 60 mL/min/1.73m2. He recently attended a dermatology appointment for a routine check of actinic keratoses. He prefers morning appointments due to reliance on public transport."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is smooth, symmetric, and non-tender, with no palpable nodules or asymmetry, consistent with clinical stage cT1c. The patient is in no acute distress, and general examination is unremarkable with stable vital signs."
+    }
+  ],
+  "occupation": "retired accountant",
+  "marital": "Living with partner (unmarried)",
+  "living": "Lives alone",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Dermatology — actinic keratosis check"
+  ],
+  "alcohol": "8 units / week",
+  "exercise": "Cycling 5x/week (commuter)",
+  "ipss": "IPSS score: 15/35 (moderate LUTS)",
+  "admin": "Patient prefers morning appointments (public transport).",
+  "mri_hospital": "Spaarne Gasthuis (Haarlem)",
+  "bx_isup": 3,
+  "bx_gl_prim": 4,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

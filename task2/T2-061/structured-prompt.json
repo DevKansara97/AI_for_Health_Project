@@ -1,0 +1,70 @@
+{
+  "case_id": "T2-061",
+  "pid": "T2-061",
+  "task": 2,
+  "psa": 6.4,
+  "age": 62,
+  "months": 3,
+  "pirads": "4",
+  "psad": 0.154,
+  "psav": 0.6,
+  "psap": 4.0,
+  "vol": 41.62,
+  "dre": "Suspicious",
+  "bx": "Positive",
+  "cspca": 0.80504376,
+  "medhx": "Inguinal hernial repair",
+  "meds": "None",
+  "notes": "PSA 6.4 ng/mL. PI-RADS 4. PSAD 0.15. Prostate volume 42 mL. DRE suspicious. csPCa 0.81.",
+  "pmhx": [
+    "Inguinal hernial repair"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "91 kg",
+    "height": "173 cm",
+    "bmi": "30.4",
+    "bp": "108/71 mmHg",
+    "hr": "78 bpm",
+    "smoking": "Ex-smoker (39 pack-yr, quit 2021)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "03 Feb 2025",
+  "enc_ref": "Dr. P. van Dijk (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for treatment decision following diagnosis of ISUP grade group 4 prostate cancer."
+    },
+    {
+      "s": "History",
+      "t": "The patient is a 62-year-old semi-retired musician living with his partner in a ground-floor apartment. He was diagnosed with prostate cancer following a biopsy in June 2024. His PSA has fluctuated, measuring 5.1 ng/mL in March 2022, 4.0 ng/mL in August 2023, and 6.4 ng/mL in February 2025. He reports moderate lower urinary tract symptoms with an IPSS score of 19/35. He has a history of inguinal hernial repair and is a former smoker with a 39 pack-year history, having quit in 2021. He consumes approximately 2 units of alcohol per week and leads a sedentary lifestyle with occasional walking. He recently attended routine appointments for a chest X-ray, podiatry, and thyroid screening."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, a suspicious nodule is palpable in the prostate, consistent with a clinical T stage of cT1c. General examination reveals a stable patient with normal vital signs. Abdominal examination is unremarkable with no palpable masses or lymphadenopathy."
+    }
+  ],
+  "occupation": "musician (semi-retired)",
+  "marital": "Living with partner (unmarried)",
+  "living": "Lives in ground-floor apartment with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Radiology — chest X-ray (routine)",
+    "Podiatry — routine foot care",
+    "Endocrine — thyroid screening"
+  ],
+  "alcohol": "2 units / week",
+  "exercise": "Sedentary lifestyle, occasional walking",
+  "ipss": "IPSS score: 19/35 (moderate LUTS)",
+  "admin": "Interpreter: not required. Consent for data use: signed.",
+  "mri_hospital": "Ziekenhuis Gelderse Vallei (Ede)",
+  "bx_isup": 4,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 5,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

@@ -1,0 +1,72 @@
+{
+  "case_id": "T2-127",
+  "pid": "T2-127",
+  "task": 2,
+  "psa": 7.7,
+  "age": 71,
+  "months": 1,
+  "pirads": "3",
+  "psad": 0.11,
+  "psav": 4.07,
+  "psap": 4.5,
+  "vol": 73.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.6079056,
+  "medhx": "Type 2 diabetes, Hypercholesterolaemia, Osteoarthritis, Benign prostatic hyperplasia",
+  "meds": "empagliflozin, simvastatin, paracetamol PRN",
+  "notes": "PSA 7.7 ng/mL. PI-RADS 3. PSAD 0.11. Prostate volume 73 mL. csPCa 0.61.",
+  "pmhx": [
+    "Type 2 diabetes",
+    "Hypercholesterolaemia",
+    "Osteoarthritis",
+    "Benign prostatic hyperplasia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "78 kg",
+    "height": "175 cm",
+    "bmi": "25.5",
+    "bp": "114/88 mmHg",
+    "hr": "70 bpm",
+    "smoking": "Current smoker (28 pack-yr)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "01 Mar 2025",
+  "enc_ref": "Dr. R. van den Berg (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of rising PSA and stable low-grade biopsy findings to determine the most appropriate management strategy."
+    },
+    {
+      "s": "History",
+      "t": "This 71-year-old hospital porter presents for a urology re-evaluation following a prior prostate cancer diagnosis. He has a significant smoking history of 28 pack-years and is currently alcohol-free. His medical history includes type 2 diabetes managed with empagliflozin, hypercholesterolaemia treated with simvastatin, and osteoarthritis for which he uses paracetamol as needed. He reports mild lower urinary tract symptoms with an IPSS score of 7. He is married but lives alone, with his adult son living nearby; his daughter manages his medical communications. He recently attended an audiology appointment for a hearing test and a pain clinic for chronic shoulder pain, which are unrelated to his urological concerns. He performs gardening but does not engage in structured exercise."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is non-palpable for nodules or asymmetry, consistent with clinical stage cT1c. General examination reveals a well-nourished male with stable vital signs, blood pressure 114/88 mmHg, and heart rate 70 bpm. No abdominal masses or lymphadenopathy is detected."
+    }
+  ],
+  "occupation": "hospital porter",
+  "marital": "Married",
+  "living": "Lives alone; adult son nearby",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Audiology — hearing test",
+    "Pain clinic — chronic shoulder pain"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Gardening, no structured exercise",
+  "ipss": "IPSS score: 7/35 (mild LUTS)",
+  "admin": "Daughter manages communication; CC on letters with patient consent.",
+  "mri_hospital": "Tergooi MC",
+  "bx_isup": 1,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

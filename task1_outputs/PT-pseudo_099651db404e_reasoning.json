@@ -1,0 +1,22 @@
+{
+  "case_id": "PT-pseudo_099651db404e",
+  "confidence": "clear",
+  "variable_importance": {
+    "psa": "noted",
+    "psad": "not_used",
+    "vol": "not_used",
+    "pirads": "noted",
+    "dre": "not_used",
+    "fh": "not_used",
+    "comorbidity": "not_used",
+    "cspca": "noted",
+    "age": "noted",
+    "bx": "decisive"
+  },
+  "sections_accessed": [
+    "previous_notes",
+    "laboratory_results",
+    "radiology_report"
+  ],
+  "explanation": "Biopsy recommended (risk score 0.77 >= decision threshold 0.64; confidence: clear). Main supporting factors: prior biopsy negative; PI-RADS 5; age 54. Strongest factor pointing the other way: PSA 5.9 ng/mL (velocity +1.0). Sections informing this decision: previous_notes, laboratory_results, radiology_report."
+}

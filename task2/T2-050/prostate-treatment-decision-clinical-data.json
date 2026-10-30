@@ -1,0 +1,103 @@
+{
+  "radiology_report": "OLVG (Amsterdam)\nDepartment of Radiology\nDate: 24 Jan 2025\nExam: mpMRI Prostate\nClinical indication: PSA 11.2 ng/mL, prior biopsy Gleason 4+4, PI-RADS 5\nFINDINGS: Prostate volume measures 61.0 mL. A dominant lesion is identified in the peripheral zone at the mid-base, bilateral in distribution. The lesion demonstrates restricted diffusion on DWI (high signal on b=1400), corresponding low ADC values, and early enhancement on DCE sequences. T2-weighted images show a focal area of low signal intensity. No extracapsular extension or seminal vesicle invasion is identified.\nIMPRESSION: PI-RADS 5 lesion in the peripheral zone, mid-base bilateral. Prostate volume 61.0 mL, PSA density 0.18 ng/mL/mL, clinical T stage cT1c. csPCa predicted probability 0.8541575.",
+  "previous_notes": [
+    {
+      "date": "03 Aug 2023",
+      "author": "Dr. H. Martens (GP)",
+      "text": "Patient presented for routine follow-up. PSA was measured at 2.5 ng/mL. Discussed ongoing management and medication adherence. Referred to urology for further evaluation given prior biopsy results."
+    },
+    {
+      "date": "29 May 2024",
+      "author": "Dr. H. Martens (GP)",
+      "text": "Re-evaluation visit. PSA had risen to 0.8 ng/mL in previous testing but current trends warrant attention. Discussed symptoms and comorbidities. Referred to urology for comprehensive assessment and decision-making regarding treatment options."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Mar 2022",
+      "val": 8.3
+    },
+    {
+      "date": "Feb 2023",
+      "val": 2.5
+    },
+    {
+      "date": "Feb 2024",
+      "val": 0.8
+    },
+    {
+      "date": "Jan 2025",
+      "val": 11.2
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "11.2 ng/mL",
+      "date": "02 Jan 2025",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "2.21 ng/mL",
+      "date": "02 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "20%",
+      "date": "02 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "15.8 g/dL",
+      "date": "02 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "6.0 x10^9/L",
+      "date": "02 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "173 x10^9/L",
+      "date": "02 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "98 umol/L",
+      "date": "02 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "02 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "10.5 nmol/L",
+      "date": "02 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "66 U/L",
+      "date": "02 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "230 U/L",
+      "date": "02 Jan 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy timepoint 1: Histological examination reveals adenocarcinoma with a Gleason score of 4+4, corresponding to ISUP grade group 4. The growth pattern is cribriform, with cribriform pattern present identified as a high-risk feature. The tumour is located in the peripheral zone, mid-base bilateral.\n\nSummary of trajectory: The histological findings remain consistent with ISUP grade group 4 disease across the documented biopsy timepoint, characterized by a cribriform growth pattern in the peripheral zone.\n\nAI-predicted ISUP grade group (digital pathology): grade group 5."
+}

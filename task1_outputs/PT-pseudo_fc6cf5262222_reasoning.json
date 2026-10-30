@@ -1,0 +1,20 @@
+{
+  "case_id": "PT-pseudo_fc6cf5262222",
+  "confidence": "uncertain",
+  "variable_importance": {
+    "psa": "not_used",
+    "psad": "not_used",
+    "vol": "not_used",
+    "pirads": "decisive",
+    "dre": "not_used",
+    "fh": "not_used",
+    "comorbidity": "not_used",
+    "cspca": "not_used",
+    "age": "decisive",
+    "bx": "not_used"
+  },
+  "sections_accessed": [
+    "laboratory_results"
+  ],
+  "explanation": "Biopsy recommended (risk score 0.66 >= decision threshold 0.64; confidence: uncertain). Main supporting factors: age 61; PI-RADS 4. The score is very close to the threshold or the models disagree; clinical review is advised. Sections informing this decision: laboratory_results."
+}

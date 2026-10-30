@@ -1,0 +1,20 @@
+{
+  "case_id": "PT-pseudo_11345b8a7ab3",
+  "confidence": "uncertain",
+  "variable_importance": {
+    "psa": "decisive",
+    "psad": "not_used",
+    "vol": "not_used",
+    "pirads": "noted",
+    "dre": "not_used",
+    "fh": "not_used",
+    "comorbidity": "not_used",
+    "cspca": "not_used",
+    "age": "not_used",
+    "bx": "not_used"
+  },
+  "sections_accessed": [
+    "psa_trend"
+  ],
+  "explanation": "Biopsy not recommended (risk score 0.63 < decision threshold 0.64; confidence: uncertain). Main supporting factors: PSA 113.0 ng/mL (velocity +13.3); PI-RADS 5. The score is very close to the threshold or the models disagree; clinical review is advised. Sections informing this decision: psa_trend."
+}

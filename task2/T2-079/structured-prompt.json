@@ -1,0 +1,71 @@
+{
+  "case_id": "T2-079",
+  "pid": "T2-079",
+  "task": 2,
+  "psa": 13.0,
+  "age": 75,
+  "months": 2,
+  "pirads": "5",
+  "psad": 0.18,
+  "psav": 1.91,
+  "psap": 8.0,
+  "vol": 72.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.78197306,
+  "medhx": "Hypertension, COPD, Osteoarthritis, Atrial fibrillation",
+  "meds": "amlodipine, lisinopril, metoprolol, paracetamol PRN, apixaban",
+  "notes": "PSA 13 ng/mL. PI-RADS 5. PSAD 0.18. Prostate volume 72 mL. csPCa 0.78.",
+  "pmhx": [
+    "Hypertension",
+    "COPD",
+    "Osteoarthritis",
+    "Atrial fibrillation"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "78 kg",
+    "height": "185 cm",
+    "bmi": "22.8",
+    "bp": "147/81 mmHg",
+    "hr": "61 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "02 Feb 2025",
+  "enc_ref": "Dr. M. Jansen (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of prostate cancer management options following a recent PSA rise to 13.0 ng/mL and confirmation of ISUP grade group 3 disease on prior biopsy."
+    },
+    {
+      "s": "History",
+      "t": "Long-standing referral for management of known prostate cancer, now presenting with a marked PSA increase. The patient is a 75-year-old retired bank clerk, widowed but living with his partner. Medical history is notable for hypertension, COPD, osteoarthritis, and atrial fibrillation, managed with amlodipine, lisinopril, metoprolol, and apixaban. He is a non-smoker, abstains from alcohol, and maintains a daily walking routine of 45 minutes. Recent appointments include a surveillance colonoscopy with gastroenterology. He reports moderate lower urinary tract symptoms, consistent with an IPSS score of 16. The patient has previously declined participation in research trials. There are no new bone pains or haematuria reported."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is symmetrically enlarged and non-nodular, consistent with a clinical T stage of cT1c. General examination reveals a well-nourished patient with stable vital signs, including a blood pressure of 147/81 mmHg and a heart rate of 61 bpm. No lymphadenopathy or signs of metastatic disease are evident on physical inspection."
+    }
+  ],
+  "occupation": "retired bank clerk",
+  "marital": "Widowed",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Gastroenterology — surveillance colonoscopy"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Walking 45 min/day",
+  "ipss": "IPSS score: 16/35 (moderate LUTS)",
+  "admin": "Patient declined research participation previously; respect for AS-related trials.",
+  "mri_hospital": "Antoni van Leeuwenhoek",
+  "bx_isup": 3,
+  "bx_gl_prim": 4,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

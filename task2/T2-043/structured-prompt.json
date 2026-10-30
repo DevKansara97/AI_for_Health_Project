@@ -1,0 +1,70 @@
+{
+  "case_id": "T2-043",
+  "pid": "T2-043",
+  "task": 2,
+  "psa": 4.7,
+  "age": 63,
+  "months": 2,
+  "pirads": "4",
+  "psad": 0.07,
+  "psav": 2.11,
+  "psap": 2.8,
+  "vol": 56.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.78553134,
+  "medhx": "Hypercholesterolaemia, Chronic kidney disease, Osteoarthritis",
+  "meds": "atorvastatin, simvastatin, rosuvastatin, paracetamol PRN",
+  "notes": "PSA 4.7 ng/mL. PI-RADS 4. PSAD 0.07. Prostate volume 56 mL. csPCa 0.79.",
+  "pmhx": [
+    "Hypercholesterolaemia",
+    "Chronic kidney disease",
+    "Osteoarthritis"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "102 kg",
+    "height": "181 cm",
+    "bmi": "31.1",
+    "bp": "119/68 mmHg",
+    "hr": "71 bpm",
+    "smoking": "Ex-smoker (17 pack-yr, quit 2008)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "16 Jan 2025",
+  "enc_ref": "Dr. T. Hendriks (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of prostate cancer management options following recent biopsy confirmation of persistent low-grade disease."
+    },
+    {
+      "s": "History",
+      "t": "The patient is a 63-year-old active dairy farmer with a history of prostate cancer diagnosed on biopsy in 2022, showing Gleason 3+3 (ISUP GG1). He has been under active surveillance with regular PSA monitoring, which has risen from 1.7 ng/mL in June 2022 to 2.8 ng/mL in September 2023, and now 4.7 ng/mL in January 2025. He reports severe lower urinary tract symptoms, with an IPSS score of 35/35, causing significant bother. He is divorced and lives with his adult daughter in a multi-generational household. He has a sedentary lifestyle with occasional walking and does not consume alcohol. He is currently taking atorvastatin, simvastatin, and rosuvastatin for hypercholesterolaemia, and paracetamol as needed for osteoarthritis. He also has chronic kidney disease with an eGFR <60 mL/min/1.73m2. He recently attended an audiology appointment for a hearing test. He is an ex-smoker with a 17 pack-year history, having quit in 2008."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On digital rectal examination, the prostate is symmetrically enlarged and smooth without palpable nodules or asymmetry, consistent with clinical stage cT1c. General examination reveals a stable patient with normal cardiopulmonary findings and mild joint stiffness in the knees."
+    }
+  ],
+  "occupation": "active dairy farmer",
+  "marital": "Divorced",
+  "living": "Lives with adult child (multi-generational household)",
+  "next_of_kin": "Adult daughter (primary contact)",
+  "recent_other": [
+    "Audiology — hearing test"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Sedentary lifestyle, occasional walking",
+  "ipss": "IPSS score: 35/35 (severe LUTS)",
+  "admin": "Patient self-employed; flexible appointment slots requested.",
+  "mri_hospital": "Jeroen Bosch Ziekenhuis ('s-Hertogenbosch)",
+  "bx_isup": 1,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

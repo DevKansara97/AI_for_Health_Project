@@ -1,0 +1,68 @@
+{
+  "case_id": "T2-113",
+  "pid": "T2-113",
+  "task": 2,
+  "psa": 8.7,
+  "age": 72,
+  "months": 3,
+  "pirads": "5",
+  "psad": 0.4,
+  "psav": 1.19,
+  "psap": 6.3,
+  "vol": 23.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.8609265,
+  "medhx": "Chronic kidney disease",
+  "meds": "None",
+  "notes": "PSA 8.7 ng/mL. PI-RADS 5. PSAD 0.40. Prostate volume 23 mL. csPCa 0.86.",
+  "pmhx": [
+    "Chronic kidney disease"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "91 kg",
+    "height": "184 cm",
+    "bmi": "26.9",
+    "bp": "127/72 mmHg",
+    "hr": "74 bpm",
+    "smoking": "Current smoker (38 pack-yr)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "01 Jan 2025",
+  "enc_ref": "Dr. P. van Dijk (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of prostate cancer management options following stable but high-grade biopsy findings and rising PSA."
+    },
+    {
+      "s": "History",
+      "t": "This 72-year-old ICT consultant, married and living with his partner, presents for urological re-evaluation. His medical history is notable for chronic kidney disease with an eGFR <60 mL/min/1.73m2 and anaemia (haemoglobin 12.3 g/dL). He is a current smoker with a 38 pack-year history and abstains from alcohol. He reports mild lower urinary tract symptoms with an IPSS score of 6/35. He maintains a daily walking routine of 20 minutes and recently completed six sessions of physiotherapy for lower back discomfort. His daughter manages communication and is copied on correspondence with his consent. He has no known drug allergies and takes no active medications."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate feels normal with no palpable nodules or asymmetry, consistent with clinical stage cT1c. General examination is unremarkable with stable vital signs (BP 127/72 mmHg, HR 74 bpm) and no signs of systemic compromise."
+    }
+  ],
+  "occupation": "ICT consultant",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Adult son (primary contact)",
+  "recent_other": [
+    "Physiotherapy — lower back, six sessions"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Walking 20 min/day",
+  "ipss": "IPSS score: 6/35 (mild LUTS)",
+  "admin": "Daughter manages communication; CC on letters with patient consent.",
+  "mri_hospital": "Amsterdam UMC (location AMC)",
+  "bx_isup": 4,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 5,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

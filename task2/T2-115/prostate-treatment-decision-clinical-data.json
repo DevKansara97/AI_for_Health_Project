@@ -1,0 +1,108 @@
+{
+  "radiology_report": "Bravis Ziekenhuis\nDepartment of Radiology\nDate: 18 Nov 2024\nExam: mpMRI Prostate\nClinical indication: PSA 3.4 ng/mL, PI-RADS 3.\nFINDINGS: Prostate volume measures 58.0 mL. T2-weighted images demonstrate a focal area of hypointensity in the peripheral zone of the left mid-gland, measuring approximately 8 mm in maximal dimension. This lesion shows restricted diffusion on DWI/ADC maps and demonstrates early enhancement on DCE sequences. No evidence of extracapsular extension or seminal vesicle invasion is identified.\nIMPRESSION: PI-RADS 3 lesion in the left mid-gland peripheral zone. Clinical stage cT1c. PSA density 0.05 ng/mL/mL. csPCa predicted probability 0.71182245.",
+  "previous_notes": [
+    {
+      "date": "13 Jan 2023",
+      "author": "Dr. K. Bakker (GP)",
+      "text": "Patient presented with a PSA of 1.4 ng/mL. DRE was normal. Decision was made to monitor PSA annually. Patient was informed of the results and follow-up plan."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Jan 2023",
+      "val": 1.4
+    },
+    {
+      "date": "Jul 2023",
+      "val": 1.7
+    },
+    {
+      "date": "Jan 2024",
+      "val": 2.2
+    },
+    {
+      "date": "Jul 2024",
+      "val": 2.7
+    },
+    {
+      "date": "Jan 2025",
+      "val": 3.4
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "3.4 ng/mL",
+      "date": "18 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "Free PSA",
+      "val": "0.84 ng/mL",
+      "date": "18 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "25%",
+      "date": "18 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "16.6 g/dL",
+      "date": "18 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "6.1 x10^9/L",
+      "date": "18 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "291 x10^9/L",
+      "date": "18 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "99 umol/L",
+      "date": "18 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "18 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "15.2 nmol/L",
+      "date": "18 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "84 U/L",
+      "date": "18 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "168 U/L",
+      "date": "18 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "HbA1c",
+      "val": "5.9 %",
+      "date": "18 Nov 2024",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy timepoint 1 (Jan 2023): Histological examination reveals benign prostatic tissue. No evidence of carcinoma is identified. Gleason score 0+0, ISUP grade group 0. No cribriform or intraductal patterns identified. No perineural invasion observed.\n\nSummary: The biopsy findings have remained stable across timepoints, with no histological progression identified.\n\nAI-predicted ISUP grade group (digital pathology): grade group 5."
+}

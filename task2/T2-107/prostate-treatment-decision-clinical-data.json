@@ -1,0 +1,103 @@
+{
+  "radiology_report": "Tergooi MC\nDepartment of Radiology\nDate: 15 Feb 2025\nExam: mpMRI prostate\n\nClinical indication: Re-evaluation of known prostate cancer. PSA 15.0 ng/mL, PI-RADS 5.\n\nFINDINGS:\nProstate volume: 63.76 mL. PSA density 0.24 ng/mL/mL.\nT2-weighted imaging demonstrates a focal, markedly hypointense lesion within the peripheral zone of the right posterolateral base, measuring approximately 18 mm in maximum diameter. On diffusion-weighted imaging, the lesion exhibits restricted diffusion with high signal intensity and corresponding low ADC values. Dynamic contrast-enhanced sequences show early, intense enhancement of the lesion relative to the surrounding gland. No extracapsular extension or seminal vesicle invasion is identified on the current imaging.\n\nIMPRESSION:\nPI-RADS 5 lesion in the right peripheral zone. Clinical stage cT1c. csPCa predicted probability 0.87020874.",
+  "previous_notes": [
+    {
+      "date": "07 Mar 2024",
+      "author": "Dr. R. van den Berg (GP)",
+      "text": "The patient attended for routine monitoring of his prostate health. His PSA was measured at 9.8 ng/mL, representing a significant rise from the 6.4 ng/mL recorded in July 2023. Given the accelerating PSA velocity and the prior biopsy findings, a repeat imaging assessment was scheduled to guide further management."
+    },
+    {
+      "date": "13 Mar 2023",
+      "author": "Dr. R. van den Berg (GP)",
+      "text": "The patient presented with a PSA of 6.4 ng/mL, which had risen from 4.2 ng/mL in October 2022. He reported no new lower urinary tract symptoms. A transrectal ultrasound-guided biopsy was performed during this period, which confirmed the presence of adenocarcinoma. He was referred to urology for specialist review and discussion of treatment options."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Oct 2022",
+      "val": 4.2
+    },
+    {
+      "date": "Jul 2023",
+      "val": 6.4
+    },
+    {
+      "date": "May 2024",
+      "val": 9.8
+    },
+    {
+      "date": "Mar 2025",
+      "val": 15.0
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "15.0 ng/mL",
+      "date": "01 Feb 2025",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "3.96 ng/mL",
+      "date": "01 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "26%",
+      "date": "01 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "13.3 g/dL",
+      "date": "01 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "6.5 x10^9/L",
+      "date": "01 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "248 x10^9/L",
+      "date": "01 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "75 umol/L",
+      "date": "01 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "01 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "7.5 nmol/L",
+      "date": "01 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "79 U/L",
+      "date": "01 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "258 U/L",
+      "date": "01 Feb 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy timepoint 1: Microscopic examination of the prostate tissue cores reveals adenocarcinoma. The Gleason score is 4+3, corresponding to ISUP grade group 3. The growth pattern is characterized by mostly fused tubules and cribriform and glomeruloid tubules. A cribriform pattern is present. Perineural invasion is not identified. The tumour is located in the peripheral zone, right. \n\nSummary: The histological findings across the biopsy timepoints demonstrate a stable grade profile with persistent ISUP grade group 3 disease and high-risk architectural features.\n\nAI-predicted ISUP grade group (digital pathology): grade group 4."
+}

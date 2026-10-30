@@ -1,0 +1,67 @@
+{
+  "case_id": "T2-040",
+  "pid": "T2-040",
+  "task": 2,
+  "psa": 6.9,
+  "age": 70,
+  "months": 1,
+  "pirads": "5",
+  "psad": 0.12,
+  "psav": 1.91,
+  "psap": 4.5,
+  "vol": 57.4,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.84531116,
+  "medhx": "Type 2 diabetes, Coronary artery disease",
+  "meds": "metformin, aspirin 80 mg, atorvastatin, metoprolol",
+  "notes": "PSA 6.9 ng/mL. PI-RADS 5. PSAD 0.12. Prostate volume 57 mL. csPCa 0.85.",
+  "pmhx": [
+    "Type 2 diabetes",
+    "Coronary artery disease"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "105 kg",
+    "height": "187 cm",
+    "bmi": "30.0",
+    "bp": "122/46 mmHg",
+    "hr": "80 bpm",
+    "smoking": "Ex-smoker (34 pack-yr, quit 2016)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "15 Jan 2025",
+  "enc_ref": "Dr. M. Jansen (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for treatment options following recent biopsy confirmation of high-grade prostate cancer."
+    },
+    {
+      "s": "History",
+      "t": "Long-standing referral for management of biopsy-proven prostate cancer. The patient is a 70-year-old factory supervisor who lives alone but maintains regular contact with his adult son, who is his primary next of kin. He has a significant medical history including type 2 diabetes managed with metformin, and coronary artery disease treated with aspirin, atorvastatin, and metoprolol. He is an ex-smoker with a 34 pack-year history, having quit in 2016. His PSA has risen steadily from 1.3 ng/mL in late 2022 to 6.9 ng/mL in January 2025. He reports mild lower urinary tract symptoms with an IPSS of 6, and engages in light weight training twice weekly. He consumes approximately 11 units of alcohol per week. No recent other appointments are noted, and an Arabic interpreter has been requested for future visits."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is symmetrically enlarged but smooth and non-nodular, consistent with a cT1c stage. General examination reveals stable vital signs with a blood pressure of 122/46 mmHg and heart rate of 80 bpm. No lymphadenopathy or edema is observed."
+    }
+  ],
+  "occupation": "factory supervisor",
+  "marital": "Married",
+  "living": "Lives alone",
+  "next_of_kin": "Adult son (primary contact)",
+  "recent_other": [],
+  "alcohol": "11 units / week",
+  "exercise": "Light weight-training at home, 2x/week",
+  "ipss": "IPSS score: 6/35 (mild LUTS)",
+  "admin": "Interpreter (Arabic) requested for next visit.",
+  "mri_hospital": "Erasmus MC",
+  "bx_isup": 4,
+  "bx_gl_prim": 4,
+  "bx_gl_sec": 4,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

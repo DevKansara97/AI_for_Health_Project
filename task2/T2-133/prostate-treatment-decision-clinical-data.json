@@ -1,0 +1,99 @@
+{
+  "radiology_report": "Erasmus MC\nDepartment of Radiology\nDate: 15 January 2025\nExam: mpMRI Prostate (3T)\n\nClinical indication: Re-evaluation of elevated PSA (4.4 ng/mL) and prior biopsy-proven prostate cancer. Previous biopsy Gleason 4+3 (ISUP GG 3).\n\nFINDINGS:\nProstate volume is calculated at 34.0 mL. T2-weighted imaging demonstrates a focal, ill-defined hypointense lesion within the peripheral zone and transition zone at the mid-base on the right side, measuring approximately 12 mm in maximal diameter. This lesion demonstrates restricted diffusion on DWI (b=1400 s/mm2) with corresponding signal drop on the ADC map. Dynamic contrast-enhanced (DCE) sequences show early, marked enhancement of this region. The central gland shows benign hyperplastic changes without suspicious focal lesions. No extracapsular extension or seminal vesicle invasion is identified on T2-weighted sequences. No suspicious pelvic lymphadenopathy is noted.\n\nIMPRESSION:\n- PI-RADS v2.1 category 5 lesion in the right mid-base peripheral/transition zone.\n- Prostate volume 34.0 mL, PSA density 0.12 ng/mL/mL.\n- Clinical T stage: cT1c.\n- csPCa predicted probability 0.84688765.",
+  "previous_notes": [
+    {
+      "date": "11 Aug 2023",
+      "author": "Dr. K. Bakker (GP)",
+      "text": "Patient presented for routine follow-up and discussion of recent biopsy results from February 2023. The biopsy confirmed prostate cancer, Gleason 4+3 (ISUP GG 3). We discussed the implications of this diagnosis and the need for further staging and treatment planning. The patient was referred to the urology department for a comprehensive evaluation and MDT discussion. He was advised to monitor for any new urinary symptoms."
+    },
+    {
+      "date": "12 Feb 2023",
+      "author": "Dr. K. Bakker (GP)",
+      "text": "Initial consultation regarding elevated PSA levels. PSA was measured at 4.0 ng/mL, which was a new finding for this patient. A transrectal ultrasound was performed, and the prostate volume was estimated. Given the elevated PSA and age, a prostate biopsy was scheduled. The patient was informed about the procedure and potential risks. He was advised to stop any blood-thinning medications prior to the biopsy."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Feb 2023",
+      "val": 4.0
+    },
+    {
+      "date": "Feb 2024",
+      "val": 4.2
+    },
+    {
+      "date": "Feb 2025",
+      "val": 4.4
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "4.4 ng/mL",
+      "date": "03 Jan 2025",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "0.75 ng/mL",
+      "date": "03 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "17%",
+      "date": "03 Jan 2025",
+      "flag": "L"
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "12.7 g/dL",
+      "date": "03 Jan 2025",
+      "flag": "L"
+    },
+    {
+      "name": "WBC",
+      "val": "2.9 x10^9/L",
+      "date": "03 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "170 x10^9/L",
+      "date": "03 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "92 umol/L",
+      "date": "03 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "03 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "12.1 nmol/L",
+      "date": "03 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "64 U/L",
+      "date": "03 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "137 U/L",
+      "date": "03 Jan 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy 1 (February 2023): Histological examination of the prostate tissue cores reveals adenocarcinoma. The Gleason score is 4+3, corresponding to an ISUP grade group 3. The malignant glands exhibit a growth pattern of complex fusing or partly cribriform tubules. A cribriform pattern is present as a high-risk feature. Perineural invasion is identified. The tumour is located in the peripheral zone / transition zone, mid-base right.\n\nBiopsy 2 (January 2025): Repeat histological examination confirms the presence of adenocarcinoma. The Gleason score remains 4+3, corresponding to an ISUP grade group 3. The growth pattern is again described as complex fusing or partly cribriform tubules. A cribriform pattern is present. Perineural invasion is confirmed. The tumour location is consistent with the previous finding in the peripheral zone / transition zone, mid-base right.\n\nSummary: The histological trajectory across the two biopsy timepoints is stable, with no change in Gleason score or ISUP grade group, though high-risk morphological features including cribriform architecture and perineural invasion persist.\n\nAI-predicted ISUP grade group (digital pathology): grade group 5."
+}

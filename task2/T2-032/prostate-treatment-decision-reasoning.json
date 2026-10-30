@@ -1,0 +1,15 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "fh": "noted",
+    "cspca": "noted",
+    "age": "important",
+    "pirads": "noted",
+    "comorbidity": "noted",
+    "ct": "important",
+    "psa": "important",
+    "psad": "important"
+  },
+  "reveal_sequence": [],
+  "free_text": "patient with 2 negative Biopsy, low PSA denisty, continue psa monitoring"
+}

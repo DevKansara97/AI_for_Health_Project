@@ -1,0 +1,69 @@
+{
+  "case_id": "T2-110",
+  "pid": "T2-110",
+  "task": 2,
+  "psa": 5.2,
+  "age": 56,
+  "months": 2,
+  "pirads": "5",
+  "psad": 0.11,
+  "psav": 3.39,
+  "psap": 2.3,
+  "vol": 47.0,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.8199149,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 5.2 ng/mL. PI-RADS 5. PSAD 0.11. Prostate volume 47 mL. DRE nodus. csPCa 0.82.",
+  "pmhx": [],
+  "allergies": [
+    "Latex"
+  ],
+  "vitals": {
+    "weight": "67 kg",
+    "height": "174 cm",
+    "bmi": "22.1",
+    "bp": "116/85 mmHg",
+    "hr": "71 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "13 Jan 2025",
+  "enc_ref": "Dr. E. Mulder (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for treatment planning following the diagnosis of prostate cancer."
+    },
+    {
+      "s": "History",
+      "t": "This 56-year-old active dairy farmer is married and lives with his partner. He reports severe lower urinary tract symptoms with an IPSS score of 20/35, which has been gradually worsening. He exercises by walking 45 minutes daily and consumes approximately 10 units of alcohol per week. His medical history is otherwise unremarkable, with no significant comorbidities. He recently attended a biannual dental check-up and a vascular surgery consultation for varicose veins. He has no known drug allergies except for latex."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On digital rectal examination, a palpable nodule is felt, consistent with a clinical T stage of cT2a. General examination is unremarkable with stable vital signs."
+    }
+  ],
+  "occupation": "active dairy farmer",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Adult daughter (primary contact)",
+  "recent_other": [
+    "Dental — biannual check-up",
+    "Vascular surgery — varicose veins consult"
+  ],
+  "alcohol": "10 units / week",
+  "exercise": "Walking 45 min/day",
+  "ipss": "IPSS score: 20/35 (severe LUTS)",
+  "admin": "Visual impairment: large-print correspondence requested.",
+  "mri_hospital": "UMCG (Groningen)",
+  "bx_isup": 1,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 3,
+  "ct": "cT2a",
+  "active_treatment_flag": 0
+}

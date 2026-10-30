@@ -1,0 +1,69 @@
+{
+  "case_id": "T2-053",
+  "pid": "T2-053",
+  "task": 2,
+  "psa": 12.0,
+  "age": 70,
+  "months": 3,
+  "pirads": "4",
+  "psad": 0.23,
+  "psav": 2.12,
+  "psap": 3.5,
+  "vol": 52.0,
+  "dre": "Normal",
+  "bx": "Negative",
+  "cspca": 0.51779693,
+  "medhx": "COPD, Osteoarthritis",
+  "meds": "tiotropium",
+  "notes": "PSA 12 ng/mL. PI-RADS 4. PSAD 0.23. Prostate volume 52 mL. csPCa 0.52.",
+  "pmhx": [
+    "COPD",
+    "Osteoarthritis"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "48 kg",
+    "height": "159 cm",
+    "bmi": "19.0",
+    "bp": "120/84 mmHg",
+    "hr": "70 bpm",
+    "smoking": "Current smoker (35 pack-yr)",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "05 Feb 2025",
+  "enc_ref": "Dr. R. Visser (GP)",
+  "enc_type": "Re-evaluation - prior negative biopsy",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for rising PSA to 12.0 ng/mL despite prior negative biopsy and new PI-RADS 4 lesion on MRI."
+    },
+    {
+      "s": "History",
+      "t": "Long-standing referral for prostate cancer risk assessment. The patient is a 70-year-old retired postal worker, married, living with an adult child in a multi-generational household. He is a current smoker with a 35 pack-year history and cycles five times weekly for commuting. Medical history includes COPD managed with tiotropium and osteoarthritis. He reports mild lower urinary tract symptoms with an IPSS score of 3/35. Recent appointments include a pain clinic visit for chronic shoulder pain. He prefers morning appointments due to reliance on public transport. PSA has risen significantly from 3.5 ng/mL in October 2024 to 12.0 ng/mL in February 2025, prompting this re-evaluation."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is smooth, symmetric, and non-tender with no palpable nodules or asymmetry, consistent with clinical stage cT1c. General examination reveals a well-nourished male with stable vital signs. Respiratory auscultation shows mild expiratory wheezing consistent with known COPD."
+    }
+  ],
+  "occupation": "retired postal worker",
+  "marital": "Married",
+  "living": "Lives with adult child (multi-generational household)",
+  "next_of_kin": "Long-time friend (no close family)",
+  "recent_other": [
+    "Pain clinic — chronic shoulder pain"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Cycling 5x/week (commuter)",
+  "ipss": "IPSS score: 3/35 (mild LUTS)",
+  "admin": "Patient prefers morning appointments (public transport).",
+  "mri_hospital": "Jeroen Bosch Ziekenhuis ('s-Hertogenbosch)",
+  "bx_isup": 0,
+  "bx_gl_prim": 0,
+  "bx_gl_sec": 0,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

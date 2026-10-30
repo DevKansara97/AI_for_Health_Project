@@ -1,0 +1,105 @@
+{
+  "radiology_report": "Spaarne Gasthuis (Haarlem)\nRadiology Dept\nDate: 20 Dec 2024\nExam: mpMRI prostate\n\nClinical indication: Rising PSA (9.3 ng/mL), prior biopsy Gleason 4+3.\n\nFINDINGS:\nProstate volume measures 18.03 mL. T2-weighted imaging demonstrates a focal hypo-intense lesion in the right peripheral zone. Diffusion-weighted imaging shows marked restricted diffusion within this region, with corresponding early enhancement on dynamic contrast-enhanced sequences. The lesion measures approximately 12 mm in maximum diameter. No extracapsular extension or seminal vesicle invasion is visualized.\n\nIMPRESSION:\nPI-RADS 5 lesion in the right peripheral zone.\nPSA density: 0.516 ng/mL/mL.\nClinical T stage: cT1c.\ncsPCa predicted probability 0.85247576.",
+  "previous_notes": [
+    {
+      "date": "17 Sep 2024",
+      "author": "Dr. P. van Dijk (GP)",
+      "text": "17 Sep 2024 - Dr. P. van Dijk (GP): Patient attended for routine follow-up of known prostate cancer diagnosis. PSA was noted to be rising significantly, prompting referral back to urology for re-evaluation of treatment options. Discussed the rapid PSA increase with the patient and his daughter, who manages communication."
+    },
+    {
+      "date": "25 Jul 2023",
+      "author": "Dr. P. van Dijk (GP)",
+      "text": "25 Jul 2023 - Dr. P. van Dijk (GP): Initial presentation with elevated PSA. Transrectal ultrasound-guided biopsy was performed. Results returned showing Gleason 4+3 adenocarcinoma. Discussed findings with patient and referred to urology for initial management discussion."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Dec 2023",
+      "val": 1.2
+    },
+    {
+      "date": "Jul 2024",
+      "val": 3.3
+    },
+    {
+      "date": "Jan 2025",
+      "val": 9.3
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "9.3 ng/mL",
+      "date": "24 Dec 2024",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "2.45 ng/mL",
+      "date": "24 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "26%",
+      "date": "24 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "15.3 g/dL",
+      "date": "24 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "3.6 x10^9/L",
+      "date": "24 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "232 x10^9/L",
+      "date": "24 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "97 umol/L",
+      "date": "24 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "24 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "13.1 nmol/L",
+      "date": "24 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "78 U/L",
+      "date": "24 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "184 U/L",
+      "date": "24 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "HbA1c",
+      "val": "5.6 %",
+      "date": "24 Dec 2024",
+      "flag": ""
+    }
+  ],
+  "family_history": "Yes",
+  "pathology_report": "Biopsy timepoint 1:\nHistological examination of the prostate tissue reveals adenocarcinoma with a Gleason score of 4+3, corresponding to ISUP grade group 3. The growth pattern is characterized by cribriform and glomeruloid architecture, partly also acinar. A cribriform pattern is present. The tumour is located in the right side of the prostate.\n\nSummary: The histological findings across the available biopsy timepoint demonstrate ISUP grade group 3 disease with high-risk architectural features.\n\nAI-predicted ISUP grade group (digital pathology): grade group 4."
+}

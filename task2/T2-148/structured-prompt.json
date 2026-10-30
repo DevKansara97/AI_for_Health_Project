@@ -1,0 +1,70 @@
+{
+  "case_id": "T2-148",
+  "pid": "T2-148",
+  "task": 2,
+  "psa": 12.0,
+  "age": 66,
+  "months": 2,
+  "pirads": "3",
+  "psad": 0.12,
+  "psav": 6.61,
+  "psap": 5.1,
+  "vol": 103.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.455,
+  "medhx": "Hypertension, Chronic kidney disease",
+  "meds": "valsartan, lisinopril, metoprolol",
+  "notes": "PSA 12 ng/mL. PI-RADS 3. PSAD 0.12. Prostate volume 103 mL. csPCa 0.46.",
+  "pmhx": [
+    "Hypertension",
+    "Chronic kidney disease"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "84 kg",
+    "height": "177 cm",
+    "bmi": "26.8",
+    "bp": "153/74 mmHg",
+    "hr": "68 bpm",
+    "smoking": "Ex-smoker (19 pack-yr, quit 2003)",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "20 Jan 2025",
+  "enc_ref": "Dr. M. Jansen (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Multidisciplinary team review for treatment planning following recent histological confirmation of intermediate-risk prostate adenocarcinoma."
+    },
+    {
+      "s": "History",
+      "t": "Long-standing referral for management of newly diagnosed prostate cancer in a 66-year-old civil engineer. The patient reports a gradual rise in prostate-specific antigen over the past eighteen months, progressing from 2.2 ng/mL in late 2023 to 12.0 ng/mL currently, with a calculated velocity of 6.61 ng/mL per year. He manages hypertension and chronic kidney disease with valsartan, lisinopril, and metoprolol, with recent renal function showing a creatinine of 143 umol/L and eGFR below 60 mL/min/1.73m². He is married, resides with his partner, and maintains a routine of daily twenty-minute walks while abstaining completely from alcohol. Recent non-urological appointments included an audiology assessment and an endocrine screening for thyroid function. He travels over ninety minutes to reach the clinic and prefers telephone follow-up, while his nephew serves as his designated next-of-kin."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum, the prostate gland feels symmetrically enlarged and smooth without palpable nodules or asymmetry, consistent with a clinical stage of cT1c. General examination reveals stable vital signs with a heart rate of 68 bpm and body mass index of 26.8 kg/m². The patient is in no acute distress, with clear lungs and regular cardiac rhythm on auscultation."
+    }
+  ],
+  "occupation": "civil engineer",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Nephew",
+  "recent_other": [
+    "Audiology — hearing test",
+    "Endocrine — thyroid screening"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Walking 20 min/day",
+  "ipss": "IPSS score: 0/35 (mild LUTS)",
+  "admin": "Lives >90 min from clinic; phone follow-up preferred where clinically safe.",
+  "mri_hospital": "Maastricht UMC+",
+  "bx_isup": 3,
+  "bx_gl_prim": 4,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

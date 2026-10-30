@@ -1,0 +1,18 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "psad": "important",
+    "pirads": "important",
+    "bx_gl_sec": "important",
+    "age": "noted",
+    "cspca": "not_used",
+    "psa": "noted",
+    "ct": "noted",
+    "bx_gl_prim": "important",
+    "comorbidity": "not_used",
+    "bx_isup": "important",
+    "fh": "noted"
+  },
+  "reveal_sequence": [],
+  "free_text": "70 year patient with ISUP2 cancer."
+}

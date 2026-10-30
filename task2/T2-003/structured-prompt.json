@@ -1,0 +1,71 @@
+{
+  "case_id": "T2-003",
+  "pid": "T2-003",
+  "task": 2,
+  "psa": 9.3,
+  "age": 70,
+  "months": 1,
+  "pirads": "5",
+  "psad": 0.516,
+  "psav": 3.85,
+  "psap": 3.3,
+  "vol": 18.03,
+  "dre": "Suspicious",
+  "bx": "Positive",
+  "cspca": 0.85247576,
+  "medhx": "Hypertension, Type 2 diabetes",
+  "meds": "None",
+  "notes": "PSA 9.3 ng/mL. PI-RADS 5. PSAD 0.52. Prostate volume 18 mL. DRE suspicious. csPCa 0.85.",
+  "pmhx": [
+    "Hypertension",
+    "Type 2 diabetes"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "76 kg",
+    "height": "187 cm",
+    "bmi": "21.7",
+    "bp": "139/63 mmHg",
+    "hr": "72 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "15 Jan 2025",
+  "enc_ref": "Dr. P. van Dijk (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for treatment decision following rapid PSA rise and prior biopsy-proven Gleason 4+3 prostate cancer."
+    },
+    {
+      "s": "History",
+      "t": "Recently retired logistics manager with a history of hypertension and type 2 diabetes mellitus. The patient was diagnosed with prostate cancer earlier this year following an elevated PSA, with biopsy confirming Gleason 4+3 disease. Since then, PSA levels have risen sharply from 1.2 ng/mL in December 2023 to 9.3 ng/mL in January 2025. He reports moderate lower urinary tract symptoms with an IPSS score of 16/35. Socially, he is married, lives with his partner, and has adult children who visit weekly. He consumes approximately 24 units of alcohol per week and maintains a sedentary lifestyle with occasional walking. Recent appointments include a pulmonary function test for known COPD, quarterly diabetes nurse reviews, and a stable annual cardiology review in autumn 2024."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, a suspicious nodule is palpable in the right peripheral zone of the prostate, consistent with clinical stage cT1c. The prostate is small, measuring approximately 18 mL. General examination reveals a well-nourished man with stable vital signs, blood pressure 139/63 mmHg, and heart rate 72 bpm."
+    }
+  ],
+  "occupation": "retired logistics manager",
+  "marital": "Married",
+  "living": "Lives with partner; adult children visit weekly",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Pulmonary function test — known COPD follow-up",
+    "Diabetes nurse — quarterly review",
+    "Cardiology — annual review (stable, autumn 2024)"
+  ],
+  "alcohol": "24 units / week",
+  "exercise": "Sedentary lifestyle, occasional walking",
+  "ipss": "IPSS score: 16/35 (moderate LUTS)",
+  "admin": "Daughter manages communication; CC on letters with patient consent.",
+  "mri_hospital": "Spaarne Gasthuis (Haarlem)",
+  "bx_isup": 3,
+  "bx_gl_prim": 4,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

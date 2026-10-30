@@ -1,0 +1,67 @@
+{
+  "case_id": "T2-066",
+  "pid": "T2-066",
+  "task": 2,
+  "psa": 11.0,
+  "age": 65,
+  "months": 2,
+  "pirads": "4",
+  "psad": 0.187,
+  "psav": 2.86,
+  "psap": 8.0,
+  "vol": 58.95,
+  "dre": "Suspicious",
+  "bx": "Positive",
+  "cspca": 0.8033811,
+  "medhx": "Coronary artery disease, Benign prostatic hyperplasia",
+  "meds": "None",
+  "notes": "PSA 11 ng/mL. PI-RADS 4. PSAD 0.19. Prostate volume 59 mL. DRE suspicious. csPCa 0.80.",
+  "pmhx": [
+    "Coronary artery disease",
+    "Benign prostatic hyperplasia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "116 kg",
+    "height": "189 cm",
+    "bmi": "32.5",
+    "bp": "118/83 mmHg",
+    "hr": "75 bpm",
+    "smoking": "Ex-smoker (29 pack-yr, quit 2011)",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "06 Feb 2025",
+  "enc_ref": "Dr. F. de Boer (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for treatment planning following confirmed prostate adenocarcinoma and recent PSA progression."
+    },
+    {
+      "s": "History",
+      "t": "This 65-year-old retired firefighter presents for urological follow-up. He has a known history of coronary artery disease and benign prostatic hyperplasia. His PSA levels have shown a consistent upward trend, rising from 4.2 ng/mL in December 2023 to 11.0 ng/mL in February 2025. He reports moderate lower urinary tract symptoms with an IPSS score of 16. He is married and resides in a multi-generational household with his adult child. He is an ex-smoker with a 29 pack-year history, having quit in 2011, and currently abstains from alcohol. He engages in gardening but does not participate in structured exercise. He notes that his commute to the clinic involves over an hour of travel by train."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On digital rectal examination, the prostate is enlarged with a suspicious irregularity noted in the mid left peripheral zone. General physical examination is unremarkable with stable vital signs."
+    }
+  ],
+  "occupation": "retired firefighter",
+  "marital": "Married",
+  "living": "Lives with adult child (multi-generational household)",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Gardening, no structured exercise",
+  "ipss": "IPSS score: 16/35 (moderate LUTS)",
+  "admin": "Patient travels 60+ min by train to clinic; allow buffer.",
+  "mri_hospital": "Amsterdam UMC (location AMC)",
+  "bx_isup": 1,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

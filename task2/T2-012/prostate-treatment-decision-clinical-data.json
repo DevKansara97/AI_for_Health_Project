@@ -1,0 +1,99 @@
+{
+  "radiology_report": "Amsterdam UMC (location AMC)\nDepartment of Radiology\nDate: 15 January 2025\nExam: mpMRI Prostate\n\nClinical indication: Rising PSA (5.2 ng/mL), prior biopsy-proven prostate cancer. Request for staging and lesion characterization.\n\nFINDINGS:\nThe prostate measures 34.49 mL in volume. T2-weighted imaging demonstrates a focal, ill-defined area of low signal intensity within the left peripheral zone, measuring approximately 12 x 9 mm. This lesion demonstrates restricted diffusion on DWI (b=1400) with corresponding hyperenhancement on DCE sequences. No extracapsular extension or seminal vesicle invasion is identified. The neurovascular bundles appear preserved. No suspicious lymphadenopathy or osseous metastases are seen.\n\nIMPRESSION:\nPI-RADS v2.1 score 4 lesion in the left peripheral zone.\nProstate volume 34.49 mL; PSA density 0.151 ng/mL/mL.\nClinical T stage: cT1c.\ncsPCa predicted probability 0.5618297.",
+  "previous_notes": [
+    {
+      "date": "07 Aug 2023",
+      "author": "Dr. T. Hendriks (GP)",
+      "text": "Patient presented with a PSA of 2.8 ng/mL, an increase from previous values. Discussed the rising trend and the plan for repeat monitoring. Referred to urology for further evaluation and potential biopsy."
+    },
+    {
+      "date": "08 Feb 2023",
+      "author": "Dr. T. Hendriks (GP)",
+      "text": "Initial presentation with elevated PSA of 1.5 ng/mL. Discussed risk factors and the need for baseline monitoring. Advised repeat PSA in one year and referred for initial urological assessment."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Aug 2022",
+      "val": 1.5
+    },
+    {
+      "date": "Nov 2023",
+      "val": 2.8
+    },
+    {
+      "date": "Jan 2025",
+      "val": 5.2
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "5.2 ng/mL",
+      "date": "02 Jan 2025",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "1.13 ng/mL",
+      "date": "02 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "22%",
+      "date": "02 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "13.6 g/dL",
+      "date": "02 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "6.1 x10^9/L",
+      "date": "02 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "230 x10^9/L",
+      "date": "02 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "104 umol/L",
+      "date": "02 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "02 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "12.2 nmol/L",
+      "date": "02 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "59 U/L",
+      "date": "02 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "189 U/L",
+      "date": "02 Jan 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy 1 (August 2023): Histological examination of the prostate tissue specimens reveals adenocarcinoma, Gleason score 3+4, corresponding to ISUP grade group 2. The malignant glands are located in the peripheral zone, mid left. Notably, a cribriform pattern is present within the tumour tissue.\n\nBiopsy 2 (January 2025): Repeat histological assessment demonstrates adenocarcinoma, Gleason score 3+3, classified as ISUP grade group 1. The tumour is situated in the peripheral zone, left. The growth pattern is characterized as cribriform, and the high-risk cribriform pattern is confirmed to be present.\n\nOverall, the histological trajectory shows a downgrading of the formal Gleason score and ISUP grade group from the initial to the most recent sampling, despite the persistent presence of cribriform architecture.\n\nAI-predicted ISUP grade group (digital pathology): Timepoint 1 — grade group 3; Timepoint 2 — grade group 3."
+}

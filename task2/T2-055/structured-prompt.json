@@ -1,0 +1,66 @@
+{
+  "case_id": "T2-055",
+  "pid": "T2-055",
+  "task": 2,
+  "psa": 12.6,
+  "age": 69,
+  "months": 3,
+  "pirads": "5",
+  "psad": 0.13,
+  "psav": 1.89,
+  "psap": 9.6,
+  "vol": 104.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.80894667,
+  "medhx": "Osteoarthritis",
+  "meds": "paracetamol PRN",
+  "notes": "PSA 12.6 ng/mL. PI-RADS 5. PSAD 0.13. Prostate volume 104 mL. csPCa 0.81.",
+  "pmhx": [
+    "Osteoarthritis"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "76 kg",
+    "height": "178 cm",
+    "bmi": "24.0",
+    "bp": "125/74 mmHg",
+    "hr": "74 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "14 Jan 2025",
+  "enc_ref": "Dr. R. van den Berg (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for prior prostate cancer diagnosis with rising PSA and severe lower urinary tract symptoms."
+    },
+    {
+      "s": "History",
+      "t": "The patient is a 69-year-old retired postal worker who presents for re-evaluation of his prostate cancer. He has a history of osteoarthritis and takes paracetamol as needed. He is married but currently lives alone, with his spouse as his primary contact. He reports severe lower urinary tract symptoms, with an IPSS score of 34/35. He consumes 2 units of alcohol per week and walks 20 minutes daily. He is a non-smoker. His PSA has risen progressively from 4.3 ng/mL in October 2022 to 12.6 ng/mL in January 2025. He has expressed anxiety regarding procedures, and extra consultation time has been allocated."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate feels normal without palpable nodules or asymmetry, consistent with cT1c. General examination is unremarkable with stable vital signs and no signs of systemic illness."
+    }
+  ],
+  "occupation": "retired postal worker",
+  "marital": "Married",
+  "living": "Lives alone",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [],
+  "alcohol": "2 units / week",
+  "exercise": "Walking 20 min/day",
+  "ipss": "IPSS score: 34/35 (severe LUTS)",
+  "admin": "Patient anxious about procedures — allocate extra consult time.",
+  "mri_hospital": "Amsterdam UMC (location VUmc)",
+  "bx_isup": 1,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

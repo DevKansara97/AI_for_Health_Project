@@ -1,0 +1,107 @@
+{
+  "radiology_report": "Erasmus MC\nDepartment of Radiology\nDate: 12 December 2024\nExam: mpMRI Prostate (3T)\n\nClinical indication: Elevated PSA 6.2 ng/mL, rising trend. Prior biopsy Gleason 3+4. Evaluate for focal lesion and local staging.\n\nFINDINGS:\nProstate volume: 23.05 mL.\nT2-weighted imaging demonstrates a focal hypo-intense lesion in the peripheral zone of the left posterolateral base, measuring approximately 12 x 10 mm. On diffusion-weighted imaging, this region shows marked restricted diffusion with low ADC values. Dynamic contrast-enhanced sequences demonstrate early and rapid wash-in of contrast within the same region. The transition zone appears unremarkable. No evidence of extracapsular extension, seminal vesicle invasion, or suspicious lymphadenopathy.\n\nIMPRESSION:\nFocal lesion in the left peripheral zone consistent with PI-RADS v2.1 category 4.\nProstate volume 23.05 mL; PSA density 0.269 ng/mL/mL.\nClinical T stage: cT1c.\ncsPCa predicted probability 0.8429154.",
+  "previous_notes": [
+    {
+      "date": "05 Sep 2024",
+      "author": "Dr. P. van Dijk (GP)",
+      "text": "05 Sep 2024 - Dr. P. van Dijk (GP): Patient presented for follow-up of rising PSA, now 4.3 ng/mL. A transrectal ultrasound-guided biopsy was performed. The patient tolerated the procedure well and was discharged with standard antibiotic prophylaxis instructions. Awaiting pathology results."
+    },
+    {
+      "date": "13 Jul 2023",
+      "author": "Dr. P. van Dijk (GP)",
+      "text": "13 Jul 2023 - Dr. P. van Dijk (GP): Routine screening revealed an initial PSA of 1.4 ng/mL, which was within normal limits. The patient was advised to continue annual monitoring. No urinary symptoms or abnormalities on initial digital rectal examination were noted at that time."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Dec 2023",
+      "val": 1.4
+    },
+    {
+      "date": "Mar 2024",
+      "val": 2.0
+    },
+    {
+      "date": "Jun 2024",
+      "val": 2.9
+    },
+    {
+      "date": "Sep 2024",
+      "val": 4.3
+    },
+    {
+      "date": "Jan 2025",
+      "val": 6.2
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "6.2 ng/mL",
+      "date": "16 Dec 2024",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "1.11 ng/mL",
+      "date": "16 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "18%",
+      "date": "16 Dec 2024",
+      "flag": "L"
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "14.5 g/dL",
+      "date": "16 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "7.8 x10^9/L",
+      "date": "16 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "276 x10^9/L",
+      "date": "16 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "80 umol/L",
+      "date": "16 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "16 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "12.9 nmol/L",
+      "date": "16 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "85 U/L",
+      "date": "16 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "158 U/L",
+      "date": "16 Dec 2024",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy 1 (05 September 2024): Prostate tissue fragments are submitted. Histological examination reveals a focus of acinar adenocarcinoma in the peripheral zone, left side. The tumour is assigned a Gleason score of 3+4, corresponding to ISUP grade group 2. No cribriform or intraductal patterns are identified. Perineural invasion is not present.\n\nBiopsy trajectory: The histological findings remain stable across the available biopsy timepoints, with persistent ISUP grade group 2 disease.\n\nAI-predicted ISUP grade group (digital pathology): grade group 2."
+}

@@ -1,0 +1,99 @@
+{
+  "radiology_report": "Antoni van Leeuwenhoek\nDepartment of Radiology\nDate: 28 Jan 2025\nExam: mpMRI prostate\n\nClinical indication: PSA 8.7 ng/mL (rising from 1.0 ng/mL in Feb 2024). Prior biopsy confirmed ISUP GG1 prostate cancer. Staging and lesion characterization.\n\nFINDINGS:\nProstate volume is 36.0 mL. Peripheral zone demonstrates a 9 mm area of restricted diffusion in the left mid-gland peripheral zone, corresponding to a PI-RADS 3 lesion. T2-weighted sequences show subtle hypointensity in the same region. Dynamic contrast-enhanced imaging demonstrates early wash-in without definitive wash-out. No extracapsular extension, seminal vesicle invasion, or suspicious lymphadenopathy is identified. No distant metastatic disease on the limited field of view.\n\nIMPRESSION:\nPI-RADS 3 lesion in the left mid-peripheral zone.\nPSA density 0.25 ng/mL/mL.\nClinical stage cT1c.\ncsPCa predicted probability 0.8735656.",
+  "previous_notes": [
+    {
+      "date": "23 Feb 2023",
+      "author": "Dr. H. Martens (GP)",
+      "text": "Routine check-up for a 70-year-old man. Blood pressure stable. Lipid profile reviewed; simvastatin continued. Patient reports mild lower urinary tract symptoms but no haematuria or dysuria. PSA checked as part of general screening: 1.0 ng/mL. Advised to continue annual monitoring."
+    },
+    {
+      "date": "17 Jun 2024",
+      "author": "Dr. H. Martens (GP)",
+      "text": "Follow-up for rising PSA. Previous value was 1.0 ng/mL in Feb 2024; current PSA is 2.9 ng/mL. Digital rectal examination normal. Discussed the possibility of benign prostatic hyperplasia versus early malignancy. Referred to urology for further evaluation and possible biopsy. Patient continues simvastatin and aspirin for coronary artery disease."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Feb 2024",
+      "val": 1.0
+    },
+    {
+      "date": "Aug 2024",
+      "val": 2.9
+    },
+    {
+      "date": "Feb 2025",
+      "val": 8.7
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "8.7 ng/mL",
+      "date": "25 Jan 2025",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "1.84 ng/mL",
+      "date": "25 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "21%",
+      "date": "25 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "16.2 g/dL",
+      "date": "25 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "7.1 x10^9/L",
+      "date": "25 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "208 x10^9/L",
+      "date": "25 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "93 umol/L",
+      "date": "25 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "25 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "14.2 nmol/L",
+      "date": "25 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "63 U/L",
+      "date": "25 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "203 U/L",
+      "date": "25 Jan 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy 1 (Aug 2024): The submitted prostate tissue fragments demonstrate acinar adenocarcinoma. The Gleason score is 3+3, corresponding to ISUP grade group 1. A cribriform pattern is present within the malignant glands. The trajectory across the single available timepoint shows stable low-grade disease by formal grading criteria, although the presence of high-risk architectural features is noted.\n\nAI-predicted ISUP grade group (digital pathology): grade group 4."
+}

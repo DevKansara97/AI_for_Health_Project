@@ -1,0 +1,71 @@
+{
+  "case_id": "T2-050",
+  "pid": "T2-050",
+  "task": 2,
+  "psa": 11.2,
+  "age": 70,
+  "months": 1,
+  "pirads": "5",
+  "psad": 0.18,
+  "psav": 0.99,
+  "psap": 0.8,
+  "vol": 61.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.8541575,
+  "medhx": "Hypercholesterolaemia, Coronary artery disease, Osteoarthritis",
+  "meds": "atorvastatin, rosuvastatin, aspirin 80 mg, metoprolol, paracetamol PRN",
+  "notes": "PSA 11.2 ng/mL. PI-RADS 5. PSAD 0.18. Prostate volume 61 mL. csPCa 0.85.",
+  "pmhx": [
+    "Hypercholesterolaemia",
+    "Coronary artery disease",
+    "Osteoarthritis"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "70 kg",
+    "height": "192 cm",
+    "bmi": "19.0",
+    "bp": "120/84 mmHg",
+    "hr": "66 bpm",
+    "smoking": "Current smoker (30 pack-yr)",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "24 Jan 2025",
+  "enc_ref": "Dr. H. Martens (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for prior prostate cancer diagnosis to determine optimal management strategy."
+    },
+    {
+      "s": "History",
+      "t": "Long-standing referral for prostate cancer management. The patient is a 70-year-old retired greenhouse horticulturalist, married and living with his partner. He reports moderate lower urinary tract symptoms with an IPSS score of 15/35. Medical history includes hypercholesterolaemia, coronary artery disease, and osteoarthritis. He is a current smoker with a 30 pack-year history, consumes 6 units of alcohol weekly, and maintains a sedentary lifestyle with occasional walking. Recent appointments include a pain clinic visit for chronic shoulder pain and an orthopaedic outpatient follow-up for knee issues. He is hard of hearing and prefers written summaries for better comprehension."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is non-palpable with no nodules or asymmetry, consistent with clinical stage cT1c. General examination reveals stable vital signs with blood pressure 120/84 mmHg and heart rate 66 bpm. No acute abnormalities are noted on systemic review."
+    }
+  ],
+  "occupation": "retired greenhouse horticulturalist",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Adult son (primary contact)",
+  "recent_other": [
+    "Pain clinic — chronic shoulder pain",
+    "Orthopaedic outpatient — knee follow-up"
+  ],
+  "alcohol": "6 units / week",
+  "exercise": "Sedentary lifestyle, occasional walking",
+  "ipss": "IPSS score: 15/35 (moderate LUTS)",
+  "admin": "Hard of hearing — speak clearly; prefers written summaries.",
+  "mri_hospital": "OLVG (Amsterdam)",
+  "bx_isup": 4,
+  "bx_gl_prim": 4,
+  "bx_gl_sec": 4,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

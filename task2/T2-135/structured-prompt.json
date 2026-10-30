@@ -1,0 +1,70 @@
+{
+  "case_id": "T2-135",
+  "pid": "T2-135",
+  "task": 2,
+  "psa": 82.0,
+  "age": 55,
+  "months": 2,
+  "pirads": "5",
+  "psad": 1.281,
+  "psav": 47.1,
+  "psap": 5.8,
+  "vol": 64.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.9339169,
+  "medhx": "Hypertension, Hypercholesterolaemia, Benign prostatic hyperplasia",
+  "meds": "amlodipine, metoprolol, atorvastatin, tamsulosin",
+  "notes": "PSA 82 ng/mL. PI-RADS 5. PSAD 1.28. Prostate volume 64 mL. csPCa 0.93.",
+  "pmhx": [
+    "Hypertension",
+    "Hypercholesterolaemia",
+    "Benign prostatic hyperplasia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "101 kg",
+    "height": "177 cm",
+    "bmi": "32.2",
+    "bp": "140/81 mmHg",
+    "hr": "73 bpm",
+    "smoking": "Current smoker (30 pack-yr)",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "01 Jan 2025",
+  "enc_ref": "Dr. H. Martens (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for treatment decision following confirmed high-grade prostate cancer diagnosis."
+    },
+    {
+      "s": "History",
+      "t": "Recently relocated and currently living with his sister, this semi-retired harbour pilot presents for urological follow-up. He has a known history of hypertension and hypercholesterolaemia, managed with amlodipine, metoprolol, and atorvastatin. Benign prostatic hyperplasia is treated with tamsulosin, and he reports an IPSS score of 6, indicating mild lower urinary tract symptoms. He is a current smoker with a 30 pack-year history and recently completed a pulmonary function test for known COPD follow-up. Alcohol consumption is minimal at one unit per week, and he maintains a daily walking routine of 20 minutes. He travels over 60 minutes by train to reach the clinic, which has been accommodated in scheduling."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On digital rectal examination, the prostate is non-palpable for nodularity or asymmetry, consistent with a clinical T stage of cT1c. General examination reveals stable vital signs with a blood pressure of 140/81 mmHg and a heart rate of 73 bpm. No peripheral oedema or lymphadenopathy is noted."
+    }
+  ],
+  "occupation": "harbour pilot (semi-retired)",
+  "marital": "Married",
+  "living": "Recently relocated; lives with sister",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Pulmonary function test — known COPD follow-up"
+  ],
+  "alcohol": "1 units / week",
+  "exercise": "Walking 20 min/day",
+  "ipss": "IPSS score: 6/35 (mild LUTS)",
+  "admin": "Patient travels 60+ min by train to clinic; allow buffer.",
+  "mri_hospital": "LUMC (Leiden)",
+  "bx_isup": 4,
+  "bx_gl_prim": 4,
+  "bx_gl_sec": 4,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

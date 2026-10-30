@@ -1,0 +1,70 @@
+{
+  "case_id": "T2-100",
+  "pid": "T2-100",
+  "task": 2,
+  "psa": 5.8,
+  "age": 58,
+  "months": 1,
+  "pirads": "4",
+  "psad": 0.15,
+  "psav": 1.31,
+  "psap": 4.1,
+  "vol": 39.0,
+  "dre": "Normal",
+  "bx": "Negative",
+  "cspca": 0.40801913,
+  "medhx": "Obesity (BMI >30)",
+  "meds": "None",
+  "notes": "PSA 5.8 ng/mL. PI-RADS 4. PSAD 0.15. Prostate volume 39 mL. csPCa 0.41.",
+  "pmhx": [
+    "Obesity (BMI >30)"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "59 kg",
+    "height": "176 cm",
+    "bmi": "19.0",
+    "bp": "112/80 mmHg",
+    "hr": "81 bpm",
+    "smoking": "Current smoker (33 pack-yr)",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "26 Feb 2025",
+  "enc_ref": "Dr. T. Hendriks (GP)",
+  "enc_type": "Re-evaluation - prior negative biopsy",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for rising PSA and new PI-RADS 4 lesion following a previous negative biopsy."
+    },
+    {
+      "s": "History",
+      "t": "The patient is a 58-year-old factory supervisor who lives with his unmarried partner. He has a history of a negative prostate biopsy in April 2022 when his PSA was 2.8 ng/mL. Since then, his PSA has risen steadily, reaching 5.8 ng/mL in February 2025. He reports no lower urinary tract symptoms, with an IPSS score of 1. He is a current smoker with a 33 pack-year history but consumes no alcohol. He maintains an active lifestyle, cycling approximately 30 km three times a week, although he notes a mobility limitation requiring the use of a frame. He has recently attended appointments for suspected obstructive sleep apnoea, varicose veins, and baseline memory screening, none of which are directly related to his urological concerns. He is currently taking no active medications."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum, the prostate is non-palpable and smooth, consistent with a clinical T stage of cT1c. General examination reveals a man in no acute distress, with blood pressure 112/80 mmHg and heart rate 81 bpm. He demonstrates limited mobility, utilizing a frame for ambulation."
+    }
+  ],
+  "occupation": "factory supervisor",
+  "marital": "Living with partner (unmarried)",
+  "living": "Lives with partner",
+  "next_of_kin": "Adult daughter (primary contact)",
+  "recent_other": [
+    "Vascular surgery — varicose veins consult",
+    "Sleep clinic — suspected obstructive sleep apnoea",
+    "Memory clinic — baseline screening"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Cycling 3x/week, ~30 km",
+  "ipss": "IPSS score: 1/35 (mild LUTS)",
+  "admin": "Mobility limitation (frame); ground-floor consult room preferred.",
+  "mri_hospital": "Amsterdam UMC (location VUmc)",
+  "bx_isup": 0,
+  "bx_gl_prim": 0,
+  "bx_gl_sec": 0,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

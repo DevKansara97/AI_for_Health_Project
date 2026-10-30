@@ -1,0 +1,18 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "comorbidity": "not_used",
+    "cspca": "noted",
+    "bx_gl_sec": "noted",
+    "psa": "important",
+    "bx_gl_prim": "important",
+    "pirads": "important",
+    "ct": "noted",
+    "fh": "noted",
+    "bx_isup": "important",
+    "age": "noted",
+    "psad": "important"
+  },
+  "reveal_sequence": [],
+  "free_text": "Active treatment by either radical prostatectomy + LND vs radiation therapy + ADT (shared decision-making). I would offer prostatectomy."
+}

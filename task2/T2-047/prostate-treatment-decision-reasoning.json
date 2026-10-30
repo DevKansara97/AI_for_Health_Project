@@ -1,0 +1,15 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "cspca": "noted",
+    "fh": "noted",
+    "psa": "important",
+    "comorbidity": "important",
+    "age": "important",
+    "pirads": "important",
+    "ct": "noted",
+    "psad": "important"
+  },
+  "reveal_sequence": [],
+  "free_text": "52 yo with persistent PSA elevation and PI-RADS 5 lesion but two consecutive negative biopsies. Repeat PSA in 6 months"
+}

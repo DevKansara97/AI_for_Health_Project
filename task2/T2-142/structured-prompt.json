@@ -1,0 +1,71 @@
+{
+  "case_id": "T2-142",
+  "pid": "T2-142",
+  "task": 2,
+  "psa": 10.0,
+  "age": 69,
+  "months": 3,
+  "pirads": "5",
+  "psad": 0.349,
+  "psav": 5.73,
+  "psap": 4.5,
+  "vol": 28.64,
+  "dre": "Abnormal",
+  "bx": "Positive",
+  "cspca": 0.83261764,
+  "medhx": "Hypertension, COPD",
+  "meds": "amlodipine, valsartan, metoprolol, tiotropium, salbutamol PRN",
+  "notes": "PSA 10 ng/mL. PI-RADS 5. PSAD 0.35. Prostate volume 29 mL. DRE abnormal. csPCa 0.83.",
+  "pmhx": [
+    "Hypertension",
+    "COPD"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "92 kg",
+    "height": "190 cm",
+    "bmi": "25.5",
+    "bp": "147/93 mmHg",
+    "hr": "60 bpm",
+    "smoking": "Ex-smoker (26 pack-yr, quit 2008)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "20 Feb 2025",
+  "enc_ref": "Dr. M. Jansen (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Urgent re-evaluation for rising PSA and confirmed prostate cancer to discuss definitive management options."
+    },
+    {
+      "s": "History",
+      "t": "The patient is a 69-year-old retired plumber with a history of hypertension and COPD, currently managed with amlodipine, valsartan, metoprolol, tiotropium, and salbutamol as needed. He is widowed and currently lives with his partner, though he has declined to nominate a next of kin for medical records. He reports mild lower urinary tract symptoms with an IPSS score of 3/35 and engages in gardening for exercise, though he has no structured fitness routine. He consumes approximately 12 units of alcohol weekly and is an ex-smoker with a 26 pack-year history, having quit in 2008. Recent appointments have included a vascular surgery consult for varicose veins, a sleep clinic visit for suspected obstructive sleep apnoea, and a baseline screening at the memory clinic. His PSA has risen significantly from 2.0 ng/mL in January 2024 to 4.5 ng/mL in August 2024, and now 10.0 ng/mL in February 2025. He lives more than 90 minutes from the clinic and prefers telephone follow-up where clinically safe."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum, the prostate feels enlarged with a distinct, firm nodule palpable at the base, consistent with clinical stage cT1c. General examination reveals stable vital signs with a blood pressure of 147/93 mmHg and heart rate of 60 bpm. No lymphadenopathy or signs of metastatic disease are noted on physical inspection."
+    }
+  ],
+  "occupation": "retired plumber",
+  "marital": "Widowed",
+  "living": "Lives with partner",
+  "next_of_kin": "None recorded — patient declines to nominate",
+  "recent_other": [
+    "Vascular surgery — varicose veins consult",
+    "Sleep clinic — suspected obstructive sleep apnoea",
+    "Memory clinic — baseline screening"
+  ],
+  "alcohol": "12 units / week",
+  "exercise": "Gardening, no structured exercise",
+  "ipss": "IPSS score: 3/35 (mild LUTS)",
+  "admin": "Lives >90 min from clinic; phone follow-up preferred where clinically safe.",
+  "mri_hospital": "Tergooi MC",
+  "bx_isup": 2,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 4,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

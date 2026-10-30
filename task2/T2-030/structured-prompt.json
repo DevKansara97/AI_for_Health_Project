@@ -1,0 +1,69 @@
+{
+  "case_id": "T2-030",
+  "pid": "T2-030",
+  "task": 2,
+  "psa": 7.6,
+  "age": 65,
+  "months": 2,
+  "pirads": "5",
+  "psad": 0.121,
+  "psav": 1.56,
+  "psap": 3.5,
+  "vol": 63.0,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.0,
+  "medhx": "Type 2 diabetes, Obesity (BMI >30)",
+  "meds": "metformin, empagliflozin",
+  "notes": "PSA 7.6 ng/mL. PI-RADS 5. PSAD 0.12. Prostate volume 63 mL. DRE nodus. csPCa 0.00.",
+  "pmhx": [
+    "Type 2 diabetes",
+    "Obesity (BMI >30)"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "96 kg",
+    "height": "179 cm",
+    "bmi": "30.0",
+    "bp": "122/73 mmHg",
+    "hr": "79 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "06 Jan 2025",
+  "enc_ref": "Dr. P. van Dijk (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for prostate cancer management following recent biopsy and rising PSA."
+    },
+    {
+      "s": "History",
+      "t": "Recently retired primary school teacher with a history of type 2 diabetes and obesity, managed with metformin and empagliflozin. He lives alone, though his adult daughter is his primary contact. He reports limited mobility, performing only chair-based exercises, and consumes 14 units of alcohol weekly. He has severe lower urinary tract symptoms, with an IPSS score of 33/35. He was recently seen at the sleep clinic for suspected obstructive sleep apnoea. He travels over 60 minutes by train to the clinic, requiring scheduling buffers. His PSA has risen from 3.3 ng/mL in July 2023 to 7.6 ng/mL in January 2025, prompting this re-evaluation."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, a nodule is palpated, consistent with clinical stage cT2a. General examination reveals a BMI of 30.0, with blood pressure 122/73 mmHg and heart rate 79 bpm. No lymphadenopathy or organomegaly is noted."
+    }
+  ],
+  "occupation": "retired primary school teacher",
+  "marital": "Married",
+  "living": "Lives alone",
+  "next_of_kin": "Adult daughter (primary contact)",
+  "recent_other": [
+    "Sleep clinic — suspected obstructive sleep apnoea"
+  ],
+  "alcohol": "14 units / week",
+  "exercise": "Limited mobility — chair-based exercises only",
+  "ipss": "IPSS score: 33/35 (severe LUTS)",
+  "admin": "Patient travels 60+ min by train to clinic; allow buffer.",
+  "mri_hospital": "Radboudumc",
+  "bx_isup": 1,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 3,
+  "ct": "cT2a",
+  "active_treatment_flag": 0
+}

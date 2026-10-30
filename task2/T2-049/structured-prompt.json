@@ -1,0 +1,70 @@
+{
+  "case_id": "T2-049",
+  "pid": "T2-049",
+  "task": 2,
+  "psa": 11.7,
+  "age": 68,
+  "months": 2,
+  "pirads": "4",
+  "psad": 0.281,
+  "psav": 4.2,
+  "psap": 8.0,
+  "vol": 41.58,
+  "dre": "Abnormal",
+  "bx": "Positive",
+  "cspca": 0.6642831,
+  "medhx": "Coronary artery disease, Osteoarthritis",
+  "meds": "None",
+  "notes": "PSA 11.7 ng/mL. PI-RADS 4. PSAD 0.28. Prostate volume 42 mL. DRE abnormal. csPCa 0.66.",
+  "pmhx": [
+    "Coronary artery disease",
+    "Osteoarthritis"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "66 kg",
+    "height": "164 cm",
+    "bmi": "24.5",
+    "bp": "93/81 mmHg",
+    "hr": "72 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "08 Jan 2025",
+  "enc_ref": "Dr. R. van den Berg (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of rising PSA and discordant pathology features following prior prostate cancer diagnosis."
+    },
+    {
+      "s": "History",
+      "t": "The patient is a 68-year-old graphic designer, now living independently in a retirement community, who presents for urological follow-up after a significant rise in PSA from 3.7 ng/mL in May 2023 to 11.7 ng/mL in January 2025. He has a history of coronary artery disease and osteoarthritis, but takes no active medications and reports no allergies. He is a non-smoker, consumes approximately 3 units of alcohol weekly, and enjoys hiking on weekends. He reports moderate lower urinary tract symptoms with an IPSS score of 9. He recently attended the sleep clinic for suspected obstructive sleep apnoea and had a cataract review in ophthalmology. He lives over 90 minutes from the clinic and prefers telephone follow-up where clinically safe. He is divorced and his brother acts as his next of kin."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum, the prostate is enlarged and firm with a palpable nodule in the right mid peripheral zone, consistent with clinical stage cT1c. General examination reveals a well-nourished man with stable vital signs, blood pressure 93/81 mmHg, and heart rate 72 bpm. No lymphadenopathy or signs of metastatic disease are noted on systemic review."
+    }
+  ],
+  "occupation": "graphic designer",
+  "marital": "Divorced",
+  "living": "Lives in retirement community (independent unit)",
+  "next_of_kin": "Sibling (brother)",
+  "recent_other": [
+    "Sleep clinic — suspected obstructive sleep apnoea",
+    "Ophthalmology — cataract review"
+  ],
+  "alcohol": "3 units / week",
+  "exercise": "Hiking on weekends",
+  "ipss": "IPSS score: 9/35 (moderate LUTS)",
+  "admin": "Lives >90 min from clinic; phone follow-up preferred where clinically safe.",
+  "mri_hospital": "Maastricht UMC+",
+  "bx_isup": 1,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

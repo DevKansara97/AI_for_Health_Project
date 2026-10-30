@@ -1,0 +1,18 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "bx_gl_sec": "noted",
+    "comorbidity": "noted",
+    "fh": "noted",
+    "bx_isup": "important",
+    "ct": "noted",
+    "bx_gl_prim": "not_used",
+    "age": "decisive",
+    "psa": "decisive",
+    "psad": "not_used",
+    "pirads": "important",
+    "cspca": "not_used"
+  },
+  "reveal_sequence": [],
+  "free_text": "patient with high suspicion of Metastatic disease given the high PSA value. Should undergo staging to decide medical therapy and local treatment"
+}

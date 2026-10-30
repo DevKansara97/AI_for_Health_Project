@@ -1,0 +1,71 @@
+{
+  "case_id": "T2-023",
+  "pid": "T2-023",
+  "task": 2,
+  "psa": 11.0,
+  "age": 69,
+  "months": 3,
+  "pirads": "5",
+  "psad": 0.108,
+  "psav": 3.49,
+  "psap": 7.4,
+  "vol": 101.95,
+  "dre": "Abnormal",
+  "bx": "Positive",
+  "cspca": 0.77544403,
+  "medhx": "TURT, Upper abdominal surgery",
+  "meds": "None",
+  "notes": "PSA 11 ng/mL. PI-RADS 5. PSAD 0.11. Prostate volume 102 mL. DRE abnormal. csPCa 0.78.",
+  "pmhx": [
+    "TURT",
+    "Upper abdominal surgery"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "106 kg",
+    "height": "190 cm",
+    "bmi": "29.4",
+    "bp": "126/70 mmHg",
+    "hr": "63 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "15 Feb 2025",
+  "enc_ref": "Dr. F. de Boer (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Referral for multidisciplinary treatment decision regarding newly diagnosed ISUP grade group 2 prostate cancer with rapidly rising PSA."
+    },
+    {
+      "s": "History",
+      "t": "Recently retired civil servant presenting for re-evaluation following a prior prostate cancer diagnosis. The patient is widowed but lives with his partner, with adult children visiting weekly. Medical history is notable for TURT and a prior upper abdominal surgery. He is a non-smoker with no active medications or known allergies. Lifestyle includes hiking on weekends and moderate alcohol consumption of 9 units per week. Recent unrelated appointments include dermatology for actinic keratosis, audiology for a hearing test, and vascular surgery for varicose veins. IPSS score is 8/35, indicating moderate lower urinary tract symptoms."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is enlarged and demonstrates an abnormal nodularity consistent with clinical stage cT1c. General examination is unremarkable with stable vital signs."
+    }
+  ],
+  "occupation": "retired civil servant",
+  "marital": "Widowed",
+  "living": "Lives with partner; adult children visit weekly",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Dermatology — actinic keratosis check",
+    "Audiology — hearing test",
+    "Vascular surgery — varicose veins consult"
+  ],
+  "alcohol": "9 units / week",
+  "exercise": "Hiking on weekends",
+  "ipss": "IPSS score: 8/35 (moderate LUTS)",
+  "admin": "Patient prefers morning appointments (public transport).",
+  "mri_hospital": "Catharina Ziekenhuis (Eindhoven)",
+  "bx_isup": 2,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 4,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

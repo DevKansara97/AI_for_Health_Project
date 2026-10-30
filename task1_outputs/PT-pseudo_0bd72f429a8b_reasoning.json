@@ -1,0 +1,21 @@
+{
+  "case_id": "PT-pseudo_0bd72f429a8b",
+  "confidence": "borderline",
+  "variable_importance": {
+    "psa": "not_used",
+    "psad": "not_used",
+    "vol": "not_used",
+    "pirads": "not_used",
+    "dre": "noted",
+    "fh": "not_used",
+    "comorbidity": "not_used",
+    "cspca": "important",
+    "age": "noted",
+    "bx": "decisive"
+  },
+  "sections_accessed": [
+    "previous_notes",
+    "laboratory_results"
+  ],
+  "explanation": "Biopsy not recommended (risk score 0.57 < decision threshold 0.64; confidence: borderline). Main supporting factors: prior biopsy positive; csPCa likelihood score 0.40; DRE: nodus. Strongest factor pointing the other way: age 56. Evidence is mixed, so the score is close to the decision threshold. Sections informing this decision: previous_notes, laboratory_results."
+}

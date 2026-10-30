@@ -1,0 +1,18 @@
+{
+  "confidence": "borderline",
+  "variable_weights": {
+    "bx_isup": "decisive",
+    "psa": "important",
+    "comorbidity": "decisive",
+    "ct": "important",
+    "cspca": "noted",
+    "age": "noted",
+    "bx_gl_sec": "not_used",
+    "pirads": "not_used",
+    "bx_gl_prim": "not_used",
+    "psad": "not_used",
+    "fh": "important"
+  },
+  "reveal_sequence": [],
+  "free_text": "Patient with Severe LUTS, low risk PCa. Discuss continue surveillance and LUTS treatment vs Radical Prostatectomy with nerve sparing"
+}

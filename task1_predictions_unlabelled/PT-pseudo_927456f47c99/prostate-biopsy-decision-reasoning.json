@@ -1,0 +1,19 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "psa": "important",
+    "psad": "noted",
+    "vol": "noted",
+    "pirads": "decisive",
+    "dre": "noted",
+    "fh": "noted",
+    "comorbidity": "noted",
+    "cspca": "not_used",
+    "age": "important",
+    "bx": "noted"
+  },
+  "reveal_sequence": [
+    "radiology_report"
+  ],
+  "free_text": "Biopsy recommended (model risk score 0.82 vs decision threshold 0.48). Supporting this: PI-RADS 4 (12 mm lesion); PSA density 0.22. Context: PSA 6.6 ng/mL with rising velocity (+2.1); age 59. Weighed against it: DRE normal. Based on the structured clinical variables and the MRI report."
+}

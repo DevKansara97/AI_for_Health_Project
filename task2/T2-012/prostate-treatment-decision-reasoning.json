@@ -1,0 +1,18 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "psa": "important",
+    "bx_isup": "decisive",
+    "psad": "not_used",
+    "comorbidity": "noted",
+    "pirads": "important",
+    "age": "important",
+    "bx_gl_sec": "not_used",
+    "fh": "not_used",
+    "ct": "not_used",
+    "cspca": "not_used",
+    "bx_gl_prim": "not_used"
+  },
+  "reveal_sequence": [],
+  "free_text": "Dowgrading from intermediate risk to low risk PCa"
+}

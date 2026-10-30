@@ -1,0 +1,108 @@
+{
+  "radiology_report": "Radboudumc\nDepartment of Radiology\nDate: 15 January 2025\nExam: Multiparametric MRI prostate\nClinical indication: PSA 7.68 ng/mL, prior negative biopsy, evaluate for focal lesion.\nFINDINGS: The prostate measures 80.93 mL. T2-weighted imaging demonstrates a heterogeneous peripheral zone signal. Diffusion-weighted imaging (DWI) shows a focal area of restricted diffusion in the left posterolateral peripheral zone, measuring approximately 8 mm in maximal dimension. This area demonstrates corresponding early enhancement on dynamic contrast-enhanced (DCE) sequences. The central gland shows benign-appearing nodular hyperplasia without suspicious focal lesions. No extraprostatic extension or seminal vesicle invasion is identified.\nIMPRESSION: Focal lesion in the left posterolateral peripheral zone, PI-RADS 3. Prostate volume 80.93 mL, PSA density 0.1 ng/mL/mL. Clinical stage cT1c. csPCa predicted probability 0.7373852.",
+  "previous_notes": [
+    {
+      "date": "18 Feb 2023",
+      "author": "Dr. T. Hendriks (GP)",
+      "text": "Patient presented with elevated PSA of 3.8 ng/mL. Digital rectal examination was unremarkable. Discussed the possibility of benign prostatic hyperplasia versus early malignancy. Arranged for multiparametric MRI and transrectal ultrasound-guided prostate biopsy to further evaluate the cause of the PSA elevation. Patient educated on the procedure and potential risks."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Dec 2023",
+      "val": 3.8
+    },
+    {
+      "date": "Mar 2024",
+      "val": 4.9
+    },
+    {
+      "date": "Jul 2024",
+      "val": 2.2
+    },
+    {
+      "date": "Oct 2024",
+      "val": 2.7
+    },
+    {
+      "date": "Feb 2025",
+      "val": 7.68
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "7.7 ng/mL",
+      "date": "09 Jan 2025",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "0.87 ng/mL",
+      "date": "09 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "11%",
+      "date": "09 Jan 2025",
+      "flag": "L"
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "14.8 g/dL",
+      "date": "09 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "4.8 x10^9/L",
+      "date": "09 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "195 x10^9/L",
+      "date": "09 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "100 umol/L",
+      "date": "09 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "09 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "12.9 nmol/L",
+      "date": "09 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "58 U/L",
+      "date": "09 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "222 U/L",
+      "date": "09 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "HbA1c",
+      "val": "6.4 %",
+      "date": "09 Jan 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy timepoint 1: Prostate tissue samples were received for histological examination. Microscopic evaluation reveals benign prostatic glands and stroma. No adenocarcinoma is identified. The Gleason score is 0+0, corresponding to ISUP grade group 0. No cribriform or intraductal patterns are identified. Perineural invasion is absent.\n\nBiopsy timepoint 2 (current): Prostate tissue samples were received for histological examination. Microscopic evaluation reveals benign prostatic glands and stroma. No adenocarcinoma is identified. The Gleason score is 0+0, corresponding to ISUP grade group 0. No cribriform or intraductal patterns are identified. Perineural invasion is absent.\n\nSummary: Histological findings remain benign across both biopsy timepoints with no formal progression in reported ISUP grade group.\n\nAI-predicted ISUP grade group (digital pathology): grade group 5."
+}

@@ -1,0 +1,70 @@
+{
+  "case_id": "T2-029",
+  "pid": "T2-029",
+  "task": 2,
+  "psa": 8.4,
+  "age": 70,
+  "months": 2,
+  "pirads": "4",
+  "psad": 0.1,
+  "psav": 2.92,
+  "psap": 4.1,
+  "vol": 78.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.44532543,
+  "medhx": "Type 2 diabetes",
+  "meds": "None",
+  "notes": "PSA 8.4 ng/mL. PI-RADS 4. PSAD 0.10. Prostate volume 78 mL. csPCa 0.45.",
+  "pmhx": [
+    "Type 2 diabetes"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "84 kg",
+    "height": "170 cm",
+    "bmi": "29.1",
+    "bp": "108/77 mmHg",
+    "hr": "75 bpm",
+    "smoking": "Current smoker (43 pack-yr)",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "24 Feb 2025",
+  "enc_ref": "Dr. H. Martens (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of prior prostate cancer diagnosis to discuss management options following stable histology and rising PSA."
+    },
+    {
+      "s": "History",
+      "t": "Recently retired primary school teacher with a history of type 2 diabetes. He lives alone but his spouse remains his primary contact. He continues to play tennis twice weekly and consumes approximately three units of alcohol per week. He reports mild lower urinary tract symptoms with an IPSS score of 5. He is a current smoker with a 43 pack-year history. Recent appointments include endocrine screening for thyroid function and orthopaedic follow-up for his knee. He is hard of hearing and prefers written summaries of clinical discussions."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum, the prostate is symmetrically enlarged without palpable nodules or asymmetry, consistent with clinical stage cT1c. General examination is unremarkable with stable vital signs and no signs of systemic illness."
+    }
+  ],
+  "occupation": "primary school teacher",
+  "marital": "Married",
+  "living": "Lives alone",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Endocrine — thyroid screening",
+    "Dental — biannual check-up",
+    "Orthopaedic outpatient — knee follow-up"
+  ],
+  "alcohol": "3 units / week",
+  "exercise": "Tennis 2x/week",
+  "ipss": "IPSS score: 5/35 (mild LUTS)",
+  "admin": "Hard of hearing — speak clearly; prefers written summaries.",
+  "mri_hospital": "Jeroen Bosch Ziekenhuis ('s-Hertogenbosch)",
+  "bx_isup": 1,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

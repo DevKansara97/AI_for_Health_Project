@@ -1,0 +1,71 @@
+{
+  "case_id": "T2-101",
+  "pid": "T2-101",
+  "task": 2,
+  "psa": 19.0,
+  "age": 81,
+  "months": 3,
+  "pirads": "4",
+  "psad": 0.29,
+  "psav": 6.89,
+  "psap": 7.4,
+  "vol": 65.0,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.7148355,
+  "medhx": "Hypertension, COPD, Osteoarthritis",
+  "meds": "amlodipine, valsartan, metoprolol, tiotropium, salbutamol PRN",
+  "notes": "PSA 19 ng/mL. PI-RADS 4. PSAD 0.29. Prostate volume 65 mL. DRE nodus. csPCa 0.71.",
+  "pmhx": [
+    "Hypertension",
+    "COPD",
+    "Osteoarthritis"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "89 kg",
+    "height": "184 cm",
+    "bmi": "26.3",
+    "bp": "130/82 mmHg",
+    "hr": "71 bpm",
+    "smoking": "Ex-smoker (32 pack-yr, quit 2022)",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "11 Feb 2025",
+  "enc_ref": "Dr. L. Smits (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for treatment planning following confirmed high-grade prostate cancer and recent PSA surge."
+    },
+    {
+      "s": "History",
+      "t": "This 81-year-old active dairy farmer presents for urological follow-up after a biopsy-proven prostate cancer diagnosis. He has a history of hypertension, COPD, and osteoarthritis, managed with amlodipine, valsartan, metoprolol, tiotropium, and salbutamol PRN. His PSA levels have shown significant fluctuation, rising from 2.3 ng/mL in February 2023 to 17.8 ng/mL in August 2023, then decreasing to 7.4 ng/mL by August 2024, before surging again to 19.0 ng/mL in February 2025. He reports severe lower urinary tract symptoms, with an IPSS score of 33/35, which significantly impacts his daily life. He lives with his unmarried partner and maintains an active lifestyle, cycling approximately 30 km three times a week. His sister is his primary next-of-kin. Recent cardiology review in autumn 2024 was stable, and he continues routine podiatry care for foot health."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum, a firm, irregular nodule is palpated in the right peripheral zone, consistent with clinical stage cT2a. The remainder of the prostate is moderately enlarged. General examination reveals stable vital signs, with blood pressure at 130/82 mmHg and heart rate at 71 bpm. No lymphadenopathy or abdominal masses are noted."
+    }
+  ],
+  "occupation": "active dairy farmer",
+  "marital": "Living with partner (unmarried)",
+  "living": "Lives with partner",
+  "next_of_kin": "Sibling (sister)",
+  "recent_other": [
+    "Cardiology — annual review (stable, autumn 2024)",
+    "Podiatry — routine foot care"
+  ],
+  "alcohol": "1 units / week",
+  "exercise": "Cycling 3x/week, ~30 km",
+  "ipss": "IPSS score: 33/35 (severe LUTS)",
+  "admin": "Patient travels 60+ min by train to clinic; allow buffer.",
+  "mri_hospital": "Catharina Ziekenhuis (Eindhoven)",
+  "bx_isup": 3,
+  "bx_gl_prim": 4,
+  "bx_gl_sec": 3,
+  "ct": "cT2a",
+  "active_treatment_flag": 0
+}

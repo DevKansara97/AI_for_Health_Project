@@ -1,0 +1,71 @@
+{
+  "case_id": "T2-086",
+  "pid": "T2-086",
+  "task": 2,
+  "psa": 17.0,
+  "age": 70,
+  "months": 2,
+  "pirads": "5",
+  "psad": 0.35,
+  "psav": 4.41,
+  "psap": 9.5,
+  "vol": 48.89,
+  "dre": "Normal",
+  "bx": "Negative",
+  "cspca": 0.86317605,
+  "medhx": "Hypertension, Benign prostatic hyperplasia",
+  "meds": "amlodipine, valsartan, metoprolol, tamsulosin",
+  "notes": "PSA 17 ng/mL. PI-RADS 5. PSAD 0.35. Prostate volume 49 mL. csPCa 0.86.",
+  "pmhx": [
+    "Hypertension",
+    "Benign prostatic hyperplasia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "86 kg",
+    "height": "172 cm",
+    "bmi": "29.1",
+    "bp": "140/79 mmHg",
+    "hr": "77 bpm",
+    "smoking": "Ex-smoker (24 pack-yr, quit 2023)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "13 Jan 2025",
+  "enc_ref": "Dr. N. Kuiper (GP)",
+  "enc_type": "Re-evaluation - prior negative biopsy",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for markedly elevated PSA and a new PI-RADS 5 lesion despite a previous negative biopsy."
+    },
+    {
+      "s": "History",
+      "t": "The patient is a 70-year-old widowed dairy farmer who lives alone, with his adult daughter as his primary contact. He has a history of hypertension and benign prostatic hyperplasia, managed with amlodipine, valsartan, metoprolol, and tamsulosin. He is an ex-smoker with a 24 pack-year history, having quit in 2023, and consumes approximately 25 units of alcohol weekly. His mobility is limited to chair-based exercises. He reports mild lower urinary tract symptoms with an IPSS score of 7/35. Recent appointments included a routine chest X-ray, a surveillance colonoscopy, and a vascular surgery consultation for varicose veins. He has no known drug allergies. The PSA trend has been concerning, rising from 3.0 ng/mL in September 2022 to 5.3 ng/mL in July 2023, 9.5 ng/mL in April 2024, and 17.0 ng/mL in January 2025."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is smooth, symmetric, and non-tender, with no palpable nodules or asymmetry, consistent with a clinical stage of cT1c. The patient is in no acute distress, with stable vital signs and a BMI of 29.1. Abdominal examination is unremarkable, and there is no peripheral edema or lymphadenopathy."
+    }
+  ],
+  "occupation": "active dairy farmer",
+  "marital": "Widowed",
+  "living": "Lives alone",
+  "next_of_kin": "Adult daughter (primary contact)",
+  "recent_other": [
+    "Radiology — chest X-ray (routine)",
+    "Gastroenterology — surveillance colonoscopy",
+    "Vascular surgery — varicose veins consult"
+  ],
+  "alcohol": "25 units / week",
+  "exercise": "Limited mobility — chair-based exercises only",
+  "ipss": "IPSS score: 7/35 (mild LUTS)",
+  "admin": "Patient self-employed; flexible appointment slots requested.",
+  "mri_hospital": "Antoni van Leeuwenhoek",
+  "bx_isup": 0,
+  "bx_gl_prim": 0,
+  "bx_gl_sec": 0,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

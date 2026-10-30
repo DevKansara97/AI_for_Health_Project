@@ -1,0 +1,70 @@
+{
+  "case_id": "T2-075",
+  "pid": "T2-075",
+  "task": 2,
+  "psa": 6.2,
+  "age": 66,
+  "months": 2,
+  "pirads": "4",
+  "psad": 0.269,
+  "psav": 1.67,
+  "psap": 4.3,
+  "vol": 23.05,
+  "dre": "Suspicious",
+  "bx": "Positive",
+  "cspca": 0.8429154,
+  "medhx": "Diabetes",
+  "meds": "None",
+  "notes": "PSA 6.2 ng/mL. PI-RADS 4. PSAD 0.27. Prostate volume 23 mL. DRE suspicious. csPCa 0.84.",
+  "pmhx": [
+    "Diabetes"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "74 kg",
+    "height": "180 cm",
+    "bmi": "22.8",
+    "bp": "124/74 mmHg",
+    "hr": "64 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "03 Jan 2025",
+  "enc_ref": "Dr. P. van Dijk (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for treatment planning following a recent diagnosis of ISUP grade group 2 prostate cancer."
+    },
+    {
+      "s": "History",
+      "t": "This 66-year-old mechanical engineer is married and lives with his partner. He reports a sedentary lifestyle with only occasional walking, and consumes approximately three units of alcohol per week. His medical history is significant for diabetes, for which he is currently not on active medication. He has recently attended appointments at the sleep clinic for suspected obstructive sleep apnoea, endocrinology for thyroid screening, and physiotherapy for lower back pain. He reports mild lower urinary tract symptoms with an IPSS score of 7. Due to his residence being over 90 minutes from the clinic, he prefers phone follow-up where clinically safe. His PSA has shown a consistent upward trend from 1.4 ng/mL in December 2023 to 6.2 ng/mL in January 2025."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, a suspicious nodule is palpated in the left peripheral zone, consistent with a clinical stage cT1c. General examination reveals a well-nourished man with a BMI of 22.8, blood pressure of 124/74 mmHg, and a heart rate of 64 bpm."
+    }
+  ],
+  "occupation": "mechanical engineer",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Sleep clinic — suspected obstructive sleep apnoea",
+    "Endocrine — thyroid screening",
+    "Physiotherapy — lower back, six sessions"
+  ],
+  "alcohol": "3 units / week",
+  "exercise": "Sedentary lifestyle, occasional walking",
+  "ipss": "IPSS score: 7/35 (mild LUTS)",
+  "admin": "Lives >90 min from clinic; phone follow-up preferred where clinically safe.",
+  "mri_hospital": "Erasmus MC",
+  "bx_isup": 2,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 4,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

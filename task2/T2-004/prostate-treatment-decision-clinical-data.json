@@ -1,0 +1,99 @@
+{
+  "radiology_report": "Amsterdam UMC (location AMC)\nDepartment of Radiology\nDate: 29 Jan 2025\nExam: mpMRI Prostate\n\nClinical indication: Rising PSA (160.0 ng/mL), prior biopsy Gleason 3+4, clinical suspicion for extracapsular extension.\n\nFINDINGS:\nProstate volume is 60.71 mL. T2-weighted imaging demonstrates a large, ill-defined, hypointense lesion within the left transition zone extending into the peripheral zone, measuring approximately 32 x 28 mm. On DWI, the lesion shows markedly restricted diffusion with corresponding high signal on the ADC map. Dynamic contrast-enhanced sequences reveal early, intense, and persistent enhancement of the same region. There is clear disruption of the prostatic capsule along the left posterolateral aspect with indistinct fat planes, consistent with extracapsular extension. The neurovascular bundles appear involved. No seminal vesicle invasion is definitively identified. No suspicious pelvic lymphadenopathy or distant metastases are seen.\n\nIMPRESSION:\nPI-RADS 5 lesion in the left transition/peripheral zone.\nPSA density: 2.635 ng/mL/mL.\nClinical T stage: cT3a.\ncsPCa predicted probability 0.95889634.",
+  "previous_notes": [
+    {
+      "date": "18 Jun 2024",
+      "author": "Dr. F. de Boer (GP)",
+      "text": "18 Jun 2024 - Dr. F. de Boer (GP): Patient presented for routine follow-up. PSA measured at 12.7 ng/mL, which was stable compared to previous values. Discussed ongoing surveillance plan and scheduled next PSA test in 12 months. Patient reported no new urinary symptoms."
+    },
+    {
+      "date": "24 Feb 2023",
+      "author": "Dr. F. de Boer (GP)",
+      "text": "24 Feb 2023 - Dr. F. de Boer (GP): Initial PSA screening revealed 16.6 ng/mL. Digital rectal examination was performed and noted as abnormal. Referred to urology for further evaluation and consideration of biopsy. Patient advised to monitor for any lower urinary tract symptoms."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Mar 2023",
+      "val": 16.6
+    },
+    {
+      "date": "Mar 2024",
+      "val": 12.7
+    },
+    {
+      "date": "Feb 2025",
+      "val": 160.0
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "160.0 ng/mL",
+      "date": "29 Jan 2025",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "16.71 ng/mL",
+      "date": "29 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "10%",
+      "date": "29 Jan 2025",
+      "flag": "L"
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "13.6 g/dL",
+      "date": "29 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "4.7 x10^9/L",
+      "date": "29 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "163 x10^9/L",
+      "date": "29 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "72 umol/L",
+      "date": "29 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "29 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "11.7 nmol/L",
+      "date": "29 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "55 U/L",
+      "date": "29 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "185 U/L",
+      "date": "29 Jan 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy timepoint 1 (oldest):\nHistological examination reveals adenocarcinoma of the prostate with a Gleason score of 3+4, corresponding to ISUP grade group 2. The tumour is located in the transition zone, mid left. The growth pattern consists of separate tubules and an excess of abortive tubules with some fusion. No cribriform or intraductal patterns identified.\n\nSummary trajectory:\nThe histological findings remain consistent with ISUP grade group 2 across the available biopsy timepoints, showing no formal grade upgrade.\n\nAI-predicted ISUP grade group (digital pathology): grade group 5."
+}

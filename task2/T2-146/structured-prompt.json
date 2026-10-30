@@ -1,0 +1,70 @@
+{
+  "case_id": "T2-146",
+  "pid": "T2-146",
+  "task": 2,
+  "psa": 4.4,
+  "age": 68,
+  "months": 1,
+  "pirads": "5",
+  "psad": 0.048,
+  "psav": 1.47,
+  "psap": 3.5,
+  "vol": 91.11,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.78277797,
+  "medhx": "Obesity (BMI >30)",
+  "meds": "None",
+  "notes": "PSA 4.4 ng/mL. PI-RADS 5. PSAD 0.05. Prostate volume 91 mL. csPCa 0.78.",
+  "pmhx": [
+    "Obesity (BMI >30)"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "78 kg",
+    "height": "187 cm",
+    "bmi": "22.3",
+    "bp": "138/81 mmHg",
+    "hr": "68 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "12 Jan 2025",
+  "enc_ref": "Dr. H. Martens (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of prostate cancer diagnosis following histological progression on repeat biopsy."
+    },
+    {
+      "s": "History",
+      "t": "Long-standing referral for prostate cancer management. The patient is a 68-year-old delivery driver, never married, living alone with his adult son as primary contact. He has a history of obesity (BMI >30), although his current BMI is 22.3. He is a non-smoker, consumes 3 units of alcohol per week, and exercises by walking 45 minutes daily. His IPSS score is 12/35, indicating moderate lower urinary tract symptoms. He has had recent appointments with cardiology (stable, autumn 2024), physiotherapy for lower back pain (six sessions), and a baseline screening at the memory clinic. He has no active medications and no known allergies."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is non-palpable, consistent with cT1c staging. General examination is unremarkable, with normal vital signs including blood pressure of 138/81 mmHg and heart rate of 68 bpm."
+    }
+  ],
+  "occupation": "delivery driver",
+  "marital": "Never married",
+  "living": "Lives alone",
+  "next_of_kin": "Adult son (primary contact)",
+  "recent_other": [
+    "Cardiology — annual review (stable, autumn 2024)",
+    "Physiotherapy — lower back, six sessions",
+    "Memory clinic — baseline screening"
+  ],
+  "alcohol": "3 units / week",
+  "exercise": "Walking 45 min/day",
+  "ipss": "IPSS score: 12/35 (moderate LUTS)",
+  "admin": "Interpreter: not required. Consent for data use: signed.",
+  "mri_hospital": "UMCG (Groningen)",
+  "bx_isup": 4,
+  "bx_gl_prim": 4,
+  "bx_gl_sec": 4,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

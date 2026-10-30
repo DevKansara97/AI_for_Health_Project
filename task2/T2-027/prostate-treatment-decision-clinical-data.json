@@ -1,0 +1,113 @@
+{
+  "radiology_report": "Tergooi MC\nDepartment of Radiology\nDate: 12 Nov 2024\nExam: mpMRI prostate\n\nClinical indication: Re-evaluation of known prostate cancer. PSA 3.5 ng/mL.\n\nFINDINGS:\nThe prostate gland is enlarged, with a calculated volume of 99.0 mL. The peripheral zone demonstrates heterogeneous signal intensity. A focal lesion is identified in the left apical peripheral zone, measuring approximately 14 x 12 mm. On T2-weighted imaging, the lesion appears as a focal area of low signal intensity. Diffusion-weighted imaging shows restricted diffusion within this region, corresponding to low apparent diffusion coefficient (ADC) values. Dynamic contrast-enhanced (DCE) sequences demonstrate early and intense enhancement of the lesion compared to the surrounding benign tissue. No evidence of extracapsular extension, seminal vesicle invasion, or pelvic lymphadenopathy is observed.\n\nIMPRESSION:\nFocal lesion in the left apical peripheral zone, PI-RADS 4.\nProstate volume 99.0 mL, PSA density 0.01 ng/mL/mL.\nClinical T stage cT1c.\ncsPCa predicted probability 0.7092595.",
+  "previous_notes": [
+    {
+      "date": "09 May 2024",
+      "author": "Dr. T. Hendriks (GP)",
+      "text": "Patient reviewed in general practice for rising PSA, now 2.9 ng/mL following a nadir of 1.1 ng/mL in October 2023. Given the prior diagnosis of ISUP grade group 1 prostate cancer, a repeat biopsy was arranged to assess for histological progression. Referred to urology for further evaluation."
+    },
+    {
+      "date": "06 Sep 2024",
+      "author": "Dr. T. Hendriks (GP)",
+      "text": "Follow-up visit discussing the recent biopsy results and MRI findings. The patient reports stable mild lower urinary tract symptoms, managed with tamsulosin. Comorbidities of hypertension and type 2 diabetes are well controlled on current medication. Referred to urology for re-evaluation of treatment options given the persistent disease and AI-predicted grade group shift."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "May 2023",
+      "val": 1.5
+    },
+    {
+      "date": "Oct 2023",
+      "val": 1.1
+    },
+    {
+      "date": "Mar 2024",
+      "val": 2.9
+    },
+    {
+      "date": "Aug 2024",
+      "val": 1.7
+    },
+    {
+      "date": "Jan 2025",
+      "val": 3.5
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "3.5 ng/mL",
+      "date": "03 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Free PSA",
+      "val": "0.91 ng/mL",
+      "date": "03 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "26%",
+      "date": "03 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "13.8 g/dL",
+      "date": "03 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "4.3 x10^9/L",
+      "date": "03 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "228 x10^9/L",
+      "date": "03 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "113 umol/L",
+      "date": "03 Dec 2024",
+      "flag": "H"
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "03 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "17.5 nmol/L",
+      "date": "03 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "65 U/L",
+      "date": "03 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "209 U/L",
+      "date": "03 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "HbA1c",
+      "val": "6.0 %",
+      "date": "03 Dec 2024",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy timepoint 1 (09 May 2024): Histological examination of the prostate tissue reveals a Gleason score of 3+3, corresponding to ISUP grade group 1. The growth pattern is acinar. No cribriform or intraductal patterns are identified. Perineural invasion is absent. The tumour is located in the peripheral zone, apex left.\n\nBiopsy timepoint 2 (03 Dec 2024): The most recent biopsy demonstrates a Gleason score of 3+3, reported as ISUP grade group 1. The growth pattern is acinar. No cribriform or intraductal patterns are identified. Perineural invasion is not seen. The tumour is located in the peripheral zone, apex left.\n\nSummary: The histological trajectory across both timepoints remains stable at ISUP grade group 1.\n\nAI-predicted ISUP grade group (digital pathology): grade group 2."
+}

@@ -1,0 +1,69 @@
+{
+  "case_id": "T2-106",
+  "pid": "T2-106",
+  "task": 2,
+  "psa": 7.3,
+  "age": 64,
+  "months": 3,
+  "pirads": "5",
+  "psad": 0.11,
+  "psav": 1.2,
+  "psap": 6.6,
+  "vol": 64.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.854789,
+  "medhx": "Hypertension",
+  "meds": "amlodipine, valsartan, metoprolol",
+  "notes": "PSA 7.3 ng/mL. PI-RADS 5. PSAD 0.11. Prostate volume 64 mL. csPCa 0.85.",
+  "pmhx": [
+    "Hypertension"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "87 kg",
+    "height": "191 cm",
+    "bmi": "23.8",
+    "bp": "122/73 mmHg",
+    "hr": "70 bpm",
+    "smoking": "Ex-smoker (30 pack-yr, quit 2003)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "16 Jan 2025",
+  "enc_ref": "Dr. H. Martens (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of prostate cancer management options following a repeat biopsy confirming persistent ISUP grade group 2 disease."
+    },
+    {
+      "s": "History",
+      "t": "The patient is a 64-year-old office administrator with a known history of prostate cancer, initially diagnosed in 2022. He has been under urological follow-up since then. His PSA has fluctuated, with a recent rise to 7.3 ng/mL in January 2025. He reports severe lower urinary tract symptoms, with an IPSS score of 30/35, which significantly impacts his quality of life. He is married but lives alone, with his adult daughter acting as his primary contact for medical communications. He is an ex-smoker (30 pack-years, quit in 2003) and enjoys hiking on weekends. He consumes approximately 7 units of alcohol per week. His comorbidities include hypertension, managed with amlodipine, valsartan, and metoprolol. He recently attended a vascular surgery consultation for varicose veins and received his flu vaccination from the GP practice nurse."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is non-palpable, consistent with a cT1c stage. General examination is unremarkable, with stable vital signs and no signs of acute distress."
+    }
+  ],
+  "occupation": "office administrator",
+  "marital": "Married",
+  "living": "Lives alone; adult daughter is primary contact",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Vascular surgery — varicose veins consult",
+    "GP practice nurse — flu vaccination"
+  ],
+  "alcohol": "7 units / week",
+  "exercise": "Hiking on weekends",
+  "ipss": "IPSS score: 30/35 (severe LUTS)",
+  "admin": "Daughter manages communication; CC on letters with patient consent.",
+  "mri_hospital": "Jeroen Bosch Ziekenhuis ('s-Hertogenbosch)",
+  "bx_isup": 2,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 4,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

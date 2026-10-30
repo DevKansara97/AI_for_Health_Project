@@ -1,0 +1,98 @@
+{
+  "radiology_report": "LUMC (Leiden)\nImaging Department\nDate: 17 Feb 2025\nExam: mpMRI Prostate\nClinical indication: PSA 12.4 ng/mL, prior biopsy Gleason 3+4, PI-RADS 3\nFINDINGS: Prostate volume measures 149.0 mL. T2-weighted imaging demonstrates a focal area of hypointensity in the left peripheral zone, approximately 12 mm in craniocaudal dimension. This region shows restricted diffusion on DWI/ADC maps with corresponding subtle enhancement on DCE sequences. No extracapsular extension or seminal vesicle invasion is identified. No suspicious lymphadenopathy or osseous lesions.\nIMPRESSION: PI-RADS 3 lesion in the left peripheral zone. Prostate-specific antigen density 0.08 ng/mL/mL. Clinical stage cT1c. csPCa predicted probability 0.58010316.",
+  "previous_notes": [
+    {
+      "date": "23 Feb 2024",
+      "author": "Dr. P. van Dijk (GP)",
+      "text": "Patient presented with elevated PSA of 4.4 ng/mL. Discussed options for further evaluation. Referred to urology for specialist assessment."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "May 2023",
+      "val": 2.6
+    },
+    {
+      "date": "Dec 2023",
+      "val": 4.4
+    },
+    {
+      "date": "Jul 2024",
+      "val": 7.4
+    },
+    {
+      "date": "Feb 2025",
+      "val": 12.4
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "12.4 ng/mL",
+      "date": "05 Jan 2025",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "2.61 ng/mL",
+      "date": "05 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "21%",
+      "date": "05 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "13.7 g/dL",
+      "date": "05 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "4.1 x10^9/L",
+      "date": "05 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "270 x10^9/L",
+      "date": "05 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "84 umol/L",
+      "date": "05 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "05 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "16.3 nmol/L",
+      "date": "05 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "75 U/L",
+      "date": "05 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "137 U/L",
+      "date": "05 Jan 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy timepoint 1 (May 2023): Histological examination reveals infiltrating carcinoma, partly well-formed but partly also poorly formed and fusing tubules, consistent with Gleason score 3+4 and ISUP grade group 2. No cribriform or intraductal patterns identified. Perineural invasion is absent. The tumour is located in the peripheral zone.\nBiopsy timepoint 2 (Feb 2025): Histological examination reveals infiltrating carcinoma, partly well-formed but partly also poorly formed and fusing tubules, consistent with Gleason score 3+4 and ISUP grade group 2. No cribriform or intraductal patterns identified. Perineural invasion is absent. The tumour is located in the peripheral zone.\nSummary: Stable histological grade across both biopsy timepoints.\n\nAI-predicted ISUP grade group (digital pathology): grade group 5."
+}

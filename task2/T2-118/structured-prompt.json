@@ -1,0 +1,68 @@
+{
+  "case_id": "T2-118",
+  "pid": "T2-118",
+  "task": 2,
+  "psa": 7.5,
+  "age": 67,
+  "months": 2,
+  "pirads": "4",
+  "psad": 0.11,
+  "psav": 2.68,
+  "psap": 4.7,
+  "vol": 68.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.71243304,
+  "medhx": "Hypercholesterolaemia",
+  "meds": "atorvastatin, simvastatin, rosuvastatin",
+  "notes": "PSA 7.5 ng/mL. PI-RADS 4. PSAD 0.11. Prostate volume 68 mL. csPCa 0.71.",
+  "pmhx": [
+    "Hypercholesterolaemia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "114 kg",
+    "height": "180 cm",
+    "bmi": "35.2",
+    "bp": "127/63 mmHg",
+    "hr": "49 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "18 Jan 2025",
+  "enc_ref": "Dr. T. Hendriks (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of prostate cancer management options following stable Gleason 3+3 findings on repeat biopsy and rising PSA trend."
+    },
+    {
+      "s": "History",
+      "t": "Long-standing referral for prostate cancer follow-up. The patient is a 67-year-old retired civil engineer, married, residing in an assisted-living facility with his spouse as primary contact. He has hypercholesterolaemia managed with statins, though current medication list includes atorvastatin, simvastatin, and rosuvastatin. PSA has risen steadily from 1.8 ng/mL in April 2022 to 7.5 ng/mL in January 2025. He reports moderate LUTS with an IPSS score of 9/35. He is a non-smoker, drinks minimally, and plays tennis twice weekly. Recently completed six sessions of physiotherapy for lower back discomfort, which is mechanical in nature. He expresses anxiety about invasive procedures and requests thorough discussion of all options."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is non-palpable with no nodules or asymmetry, consistent with cT1c. General examination is unremarkable, with BMI 35.2 and stable vital signs including bradycardia at 49 bpm. No signs of metastatic disease or acute pathology."
+    }
+  ],
+  "occupation": "retired civil engineer",
+  "marital": "Married",
+  "living": "Lives in assisted-living facility",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Physiotherapy — lower back, six sessions"
+  ],
+  "alcohol": "1 units / week",
+  "exercise": "Tennis 2x/week",
+  "ipss": "IPSS score: 9/35 (moderate LUTS)",
+  "admin": "Patient anxious about procedures — allocate extra consult time.",
+  "mri_hospital": "Antoni van Leeuwenhoek",
+  "bx_isup": 1,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

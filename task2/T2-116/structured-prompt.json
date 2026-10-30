@@ -1,0 +1,72 @@
+{
+  "case_id": "T2-116",
+  "pid": "T2-116",
+  "task": 2,
+  "psa": 6.1,
+  "age": 61,
+  "months": 2,
+  "pirads": "4",
+  "psad": 0.08,
+  "psav": 0.93,
+  "psap": 2.7,
+  "vol": 73.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.81674135,
+  "medhx": "Type 2 diabetes, Coronary artery disease, Benign prostatic hyperplasia",
+  "meds": "metformin, aspirin 80 mg, atorvastatin, metoprolol, tamsulosin",
+  "notes": "PSA 6.1 ng/mL. PI-RADS 4. PSAD 0.08. Prostate volume 73 mL. csPCa 0.82.",
+  "pmhx": [
+    "Type 2 diabetes",
+    "Coronary artery disease",
+    "Benign prostatic hyperplasia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "81 kg",
+    "height": "177 cm",
+    "bmi": "25.9",
+    "bp": "112/80 mmHg",
+    "hr": "72 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "17 Jan 2025",
+  "enc_ref": "Dr. H. Martens (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of biopsy-confirmed prostate adenocarcinoma to discuss definitive management options following recent multiparametric imaging and laboratory review."
+    },
+    {
+      "s": "History",
+      "t": "Recently retired mechanical engineer with a known history of biopsy-confirmed ISUP grade group 1 prostate adenocarcinoma, currently presenting for treatment planning. He manages type 2 diabetes and coronary artery disease with metformin, atorvastatin, metoprolol, and low-dose aspirin, while tamsulosin provides adequate relief for moderate lower urinary tract symptoms. Socially, he resides in a multi-generational household with his adult child and relies on a long-time friend for primary support, given his single marital status. His daily routine is largely sedentary aside from occasional walking, and he consumes approximately three units of alcohol weekly. Recent clinical encounters include a stable cardiology review in autumn 2024, a routine influenza vaccination administered by the practice nurse, and a baseline cognitive screening at the memory clinic. He has been provided with large-print correspondence to accommodate his visual impairment, and recent laboratory review in early December confirmed a PSA of 6.1 ng/mL with a free fraction of 14%, alongside stable renal and hepatic function."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is non-tender and symmetrically enlarged without palpable nodules or asymmetry, correlating with a clinical stage of cT1c. General examination reveals a well-nourished male with stable vital signs, blood pressure 112/80 mmHg, heart rate 72 bpm, clear lung fields, and regular cardiac rhythm without murmurs. Peripheral pulses are intact bilaterally and there is no peripheral oedema or lymphadenopathy."
+    }
+  ],
+  "occupation": "retired mechanical engineer",
+  "marital": "Never married",
+  "living": "Lives with adult child (multi-generational household)",
+  "next_of_kin": "Long-time friend (no close family)",
+  "recent_other": [
+    "GP practice nurse — flu vaccination",
+    "Cardiology — annual review (stable, autumn 2024)",
+    "Memory clinic — baseline screening"
+  ],
+  "alcohol": "3 units / week",
+  "exercise": "Sedentary lifestyle, occasional walking",
+  "ipss": "IPSS score: 16/35 (moderate LUTS)",
+  "admin": "Visual impairment: large-print correspondence requested.",
+  "mri_hospital": "Antoni van Leeuwenhoek",
+  "bx_isup": 1,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

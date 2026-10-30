@@ -1,0 +1,69 @@
+{
+  "case_id": "T2-025",
+  "pid": "T2-025",
+  "task": 2,
+  "psa": 4.2,
+  "age": 55,
+  "months": 2,
+  "pirads": "5",
+  "psad": 0.06,
+  "psav": 0.81,
+  "psap": 3.0,
+  "vol": 69.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.81166416,
+  "medhx": "Hypertension, Obesity (BMI >30)",
+  "meds": "amlodipine, lisinopril, metoprolol",
+  "notes": "PSA 4.2 ng/mL. PI-RADS 5. PSAD 0.06. Prostate volume 69 mL. csPCa 0.81.",
+  "pmhx": [
+    "Hypertension",
+    "Obesity (BMI >30)"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "77 kg",
+    "height": "171 cm",
+    "bmi": "26.3",
+    "bp": "145/77 mmHg",
+    "hr": "76 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "27 Feb 2025",
+  "enc_ref": "Dr. T. Hendriks (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of known low-grade prostate cancer with rising PSA and high-risk MRI findings to determine optimal management strategy."
+    },
+    {
+      "s": "History",
+      "t": "Long-standing referral for prostate cancer management. The patient is a 55-year-old office administrator who lives with his partner. He has a history of hypertension managed with amlodipine, lisinopril, and metoprolol. He reports moderate lower urinary tract symptoms with an IPSS score of 10. He is a non-smoker, consumes 25 units of alcohol weekly, and enjoys hiking on weekends. He recently attended an audiology appointment for a hearing test. He expresses anxiety about medical procedures, which has been noted in prior visits. His PSA has risen steadily from 1.6 ng/mL in June 2023 to 4.2 ng/mL in February 2025."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is symmetrically enlarged without palpable nodules or asymmetry, consistent with clinical stage cT1c. General examination reveals a well-nourished male with a BMI of 26.3. Blood pressure is 145/77 mmHg and heart rate is 76 bpm. No peripheral edema or lymphadenopathy is noted."
+    }
+  ],
+  "occupation": "office administrator",
+  "marital": "Never married",
+  "living": "Lives with partner",
+  "next_of_kin": "Long-time friend (no close family)",
+  "recent_other": [
+    "Audiology — hearing test"
+  ],
+  "alcohol": "25 units / week",
+  "exercise": "Hiking on weekends",
+  "ipss": "IPSS score: 10/35 (moderate LUTS)",
+  "admin": "Patient anxious about procedures — allocate extra consult time.",
+  "mri_hospital": "Amsterdam UMC (location VUmc)",
+  "bx_isup": 1,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

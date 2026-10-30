@@ -1,0 +1,15 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "psad": "important",
+    "pirads": "important",
+    "age": "noted",
+    "fh": "noted",
+    "comorbidity": "noted",
+    "psa": "important",
+    "cspca": "not_used",
+    "ct": "not_used"
+  },
+  "reveal_sequence": [],
+  "free_text": "NO cancer. PSA 2 years"
+}

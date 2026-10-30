@@ -1,0 +1,104 @@
+{
+  "radiology_report": "Amsterdam UMC (location AMC)\nDepartment of Radiology\nDate: 21 Feb 2025\nExam: mpMRI Prostate\n\nClinical indication: PSA 70.0 ng/mL, prior biopsy Gleason 4+4.\n\nFINDINGS:\nProstate volume measures 105.0 mL. T2-weighted imaging demonstrates a focal lesion in the peripheral zone, mid to apex left, measuring approximately 18 mm. This lesion shows restricted diffusion on DWI with corresponding early enhancement on DCE, consistent with PI-RADS 5. No extracapsular extension or seminal vesicle invasion is visualized.\n\nIMPRESSION:\nPI-RADS 5 lesion, peripheral zone mid/apex left.\nPSAD: 0.67 ng/mL/mL.\nClinical stage: cT1c.\ncsPCa predicted probability 0.8852009",
+  "previous_notes": [
+    {
+      "date": "27 Feb 2024",
+      "author": "Dr. C. Peters (GP)",
+      "text": "Patient presented with PSA 1.1 ng/mL, which was significantly lower than the previous value of 15.7 ng/mL. Clinical assessment was unremarkable, and the decision was made to continue routine monitoring without immediate intervention. Follow-up was scheduled for early 2025 to reassess PSA dynamics."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Apr 2022",
+      "val": 1.7
+    },
+    {
+      "date": "Mar 2023",
+      "val": 15.7
+    },
+    {
+      "date": "Mar 2024",
+      "val": 1.1
+    },
+    {
+      "date": "Feb 2025",
+      "val": 70.0
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "70.0 ng/mL",
+      "date": "27 Jan 2025",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "15.70 ng/mL",
+      "date": "27 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "22%",
+      "date": "27 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "15.3 g/dL",
+      "date": "27 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "6.9 x10^9/L",
+      "date": "27 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "230 x10^9/L",
+      "date": "27 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "69 umol/L",
+      "date": "27 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "27 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "14.7 nmol/L",
+      "date": "27 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "80 U/L",
+      "date": "27 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "135 U/L",
+      "date": "27 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "HbA1c",
+      "val": "6.3 %",
+      "date": "27 Jan 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy 1: The specimen reveals adenocarcinoma with a Gleason score of 4+4, corresponding to ISUP grade group 4. The growth pattern is predominantly cribriform, with cribriform pattern present identified as a high-risk feature. The tumour is located in the peripheral zone, mid/apex left.\n\nSummary: The biopsy trajectory shows a stable high-grade disease profile across the evaluated timepoint.\n\nAI-predicted ISUP grade group (digital pathology): grade group 5."
+}

@@ -1,0 +1,18 @@
+{
+  "confidence": "borderline",
+  "variable_weights": {
+    "cspca": "not_used",
+    "bx_gl_prim": "important",
+    "pirads": "important",
+    "ct": "important",
+    "age": "important",
+    "fh": "noted",
+    "bx_isup": "important",
+    "psa": "important",
+    "bx_gl_sec": "important",
+    "psad": "noted",
+    "comorbidity": "noted"
+  },
+  "reveal_sequence": [],
+  "free_text": "Patient with localized intermediate unfavorable PCa."
+}

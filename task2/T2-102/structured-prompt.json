@@ -1,0 +1,70 @@
+{
+  "case_id": "T2-102",
+  "pid": "T2-102",
+  "task": 2,
+  "psa": 4.8,
+  "age": 67,
+  "months": 1,
+  "pirads": "4",
+  "psad": 0.07,
+  "psav": 1.63,
+  "psap": 3.5,
+  "vol": 68.0,
+  "dre": "Nodus",
+  "bx": "Negative",
+  "cspca": 0.800129,
+  "medhx": "Osteoarthritis, Benign prostatic hyperplasia",
+  "meds": "paracetamol PRN, tamsulosin",
+  "notes": "PSA 4.8 ng/mL. PI-RADS 4. PSAD 0.07. Prostate volume 68 mL. DRE nodus. csPCa 0.80.",
+  "pmhx": [
+    "Osteoarthritis",
+    "Benign prostatic hyperplasia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "72 kg",
+    "height": "177 cm",
+    "bmi": "23.0",
+    "bp": "103/76 mmHg",
+    "hr": "75 bpm",
+    "smoking": "Ex-smoker (23 pack-yr, quit 2003)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "01 Mar 2025",
+  "enc_ref": "Dr. M. Jansen (GP)",
+  "enc_type": "Re-evaluation - prior negative biopsy",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of rising PSA and PI-RADS 4 MRI finding following a previously negative biopsy."
+    },
+    {
+      "s": "History",
+      "t": "Recently retired carpenter with a history of osteoarthritis and benign prostatic hyperplasia, currently managed with tamsulosin. He reports mild lower urinary tract symptoms with an IPSS score of 0/35. The patient has been anxious about procedures and requested extra consult time. He is married, lives with his partner, and exercises by walking 45 minutes daily. He consumes 2 units of alcohol per week and is an ex-smoker (23 pack-years, quit in 2003). Recent appointments included thyroid screening with Endocrinology and cataract review with Ophthalmology."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum, a nodule is palpable in the prostate, consistent with clinical stage cT2a. The general examination is unremarkable, with normal vital signs and no signs of metastatic disease."
+    }
+  ],
+  "occupation": "retired carpenter",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Sibling (sister)",
+  "recent_other": [
+    "Endocrine — thyroid screening",
+    "Ophthalmology — cataract review"
+  ],
+  "alcohol": "2 units / week",
+  "exercise": "Walking 45 min/day",
+  "ipss": "IPSS score: 0/35 (mild LUTS)",
+  "admin": "Patient anxious about procedures — allocate extra consult time.",
+  "mri_hospital": "UMCG (Groningen)",
+  "bx_isup": 0,
+  "bx_gl_prim": 0,
+  "bx_gl_sec": 0,
+  "ct": "cT2a",
+  "active_treatment_flag": 0
+}

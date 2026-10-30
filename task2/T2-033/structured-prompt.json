@@ -1,0 +1,73 @@
+{
+  "case_id": "T2-033",
+  "pid": "T2-033",
+  "task": 2,
+  "psa": 4.8,
+  "age": 67,
+  "months": 1,
+  "pirads": "4",
+  "psad": 0.053,
+  "psav": 1.23,
+  "psap": 3.8,
+  "vol": 90.82,
+  "dre": "Abnormal",
+  "bx": "Positive",
+  "cspca": 0.46945655,
+  "medhx": "Hypercholesterolaemia, Coronary artery disease",
+  "meds": "None",
+  "notes": "PSA 4.8 ng/mL. PI-RADS 4. PSAD 0.05. Prostate volume 91 mL. DRE abnormal. csPCa 0.47.",
+  "pmhx": [
+    "Hypercholesterolaemia",
+    "Coronary artery disease"
+  ],
+  "allergies": [
+    "NSAIDs"
+  ],
+  "vitals": {
+    "weight": "73 kg",
+    "height": "183 cm",
+    "bmi": "21.8",
+    "bp": "118/93 mmHg",
+    "hr": "78 bpm",
+    "smoking": "Ex-smoker (25 pack-yr, quit 2009)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "15 Feb 2025",
+  "enc_ref": "Dr. S. de Vries (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of known low-risk prostate cancer with rising PSA levels."
+    },
+    {
+      "s": "History",
+      "t": "The patient is a 67-year-old retired postal worker, married, and living with his partner. He has a history of hypercholesterolaemia and coronary artery disease, for which he is not currently taking any active medication. He is an ex-smoker, having quit in 2009 after a 25 pack-year history. His PSA has been rising steadily, from 1.8 ng/mL in July 2022 to 4.8 ng/mL in February 2025. He was diagnosed with prostate cancer in 2022, Gleason 3+3, ISUP grade group 1, and opted for active surveillance. He reports moderate lower urinary tract symptoms, with an IPSS score of 8/35. He enjoys cycling five times a week as a commuter and consumes approximately three units of alcohol per week. He recently had consultations for varicose veins, a dental check-up, and a cataract review, none of which are related to his prostate condition. He travels over 60 minutes by train to the clinic for his appointments."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On digital rectal examination, the prostate is enlarged and an abnormality is palpable in the right base, consistent with clinical stage cT1c. The general examination is unremarkable, with no signs of lymphadenopathy or bone tenderness. The patient's cardiovascular examination is stable, with a blood pressure of 118/93 mmHg and a heart rate of 78 bpm."
+    }
+  ],
+  "occupation": "retired postal worker",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Adult son (primary contact)",
+  "recent_other": [
+    "Vascular surgery — varicose veins consult",
+    "Dental — biannual check-up",
+    "Ophthalmology — cataract review"
+  ],
+  "alcohol": "3 units / week",
+  "exercise": "Cycling 5x/week (commuter)",
+  "ipss": "IPSS score: 8/35 (moderate LUTS)",
+  "admin": "Patient travels 60+ min by train to clinic; allow buffer.",
+  "mri_hospital": "Tergooi MC",
+  "bx_isup": 1,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

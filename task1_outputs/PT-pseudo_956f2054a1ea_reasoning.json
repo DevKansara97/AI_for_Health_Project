@@ -1,0 +1,20 @@
+{
+  "case_id": "PT-pseudo_956f2054a1ea",
+  "confidence": "borderline",
+  "variable_importance": {
+    "psa": "not_used",
+    "psad": "not_used",
+    "vol": "not_used",
+    "pirads": "decisive",
+    "dre": "decisive",
+    "fh": "not_used",
+    "comorbidity": "not_used",
+    "cspca": "not_used",
+    "age": "not_used",
+    "bx": "not_used"
+  },
+  "sections_accessed": [
+    "laboratory_results"
+  ],
+  "explanation": "Biopsy recommended (risk score 0.73 >= decision threshold 0.64; confidence: borderline). Main supporting factors: PI-RADS 5. Strongest factor pointing the other way: DRE: nodus. Evidence is mixed, so the score is close to the decision threshold. Sections informing this decision: laboratory_results."
+}

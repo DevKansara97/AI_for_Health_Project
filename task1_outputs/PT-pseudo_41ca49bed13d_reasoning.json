@@ -1,0 +1,23 @@
+{
+  "case_id": "PT-pseudo_41ca49bed13d",
+  "confidence": "borderline",
+  "variable_importance": {
+    "psa": "noted",
+    "psad": "not_used",
+    "vol": "noted",
+    "pirads": "not_used",
+    "dre": "not_used",
+    "fh": "not_used",
+    "comorbidity": "not_used",
+    "cspca": "not_used",
+    "age": "not_used",
+    "bx": "decisive"
+  },
+  "sections_accessed": [
+    "previous_notes",
+    "psa_trend",
+    "laboratory_results",
+    "radiology_report"
+  ],
+  "explanation": "Biopsy recommended (risk score 0.74 >= decision threshold 0.64; confidence: borderline). Main supporting factors: no prior biopsy; prostate volume 19 mL; age 47. Strongest factor pointing the other way: PSA 14.0 ng/mL (velocity +2.8). Evidence is mixed, so the score is close to the decision threshold. Sections informing this decision: previous_notes, psa_trend, laboratory_results, radiology_report."
+}

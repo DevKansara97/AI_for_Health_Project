@@ -1,0 +1,68 @@
+{
+  "case_id": "T2-088",
+  "pid": "T2-088",
+  "task": 2,
+  "psa": 4.6,
+  "age": 67,
+  "months": 2,
+  "pirads": "5",
+  "psad": 0.153,
+  "psav": 2.32,
+  "psap": 2.4,
+  "vol": 30.02,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.8208632,
+  "medhx": "Hypertension",
+  "meds": "metoprolol",
+  "notes": "PSA 4.6 ng/mL. PI-RADS 5. PSAD 0.15. Prostate volume 30 mL. csPCa 0.82.",
+  "pmhx": [
+    "Hypertension"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "99 kg",
+    "height": "183 cm",
+    "bmi": "29.6",
+    "bp": "146/76 mmHg",
+    "hr": "78 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "27 Jan 2025",
+  "enc_ref": "Dr. H. Martens (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for treatment decision following recent biopsy confirmation of prostate adenocarcinoma."
+    },
+    {
+      "s": "History",
+      "t": "This 67-year-old male is an active dairy farmer who cycles approximately 30 km three times a week. He is married but currently lives alone, with his daughter managing communication and correspondence. He has a history of hypertension, currently controlled on metoprolol. He consumes alcohol moderately, around 8 units per week. He reports no lower urinary tract symptoms, with an IPSS score of 0. He recently attended a routine podiatry appointment for foot care. He has no known drug allergies."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is symmetrically enlarged and smooth, with no palpable nodules or asymmetry, consistent with clinical stage cT1c. General examination reveals a well-nourished man with stable vital signs, including a blood pressure of 146/76 mmHg and a heart rate of 78 bpm."
+    }
+  ],
+  "occupation": "active dairy farmer",
+  "marital": "Married",
+  "living": "Lives alone",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Podiatry — routine foot care"
+  ],
+  "alcohol": "8 units / week",
+  "exercise": "Cycling 3x/week, ~30 km",
+  "ipss": "IPSS score: 0/35 (mild LUTS)",
+  "admin": "Daughter manages communication; CC on letters with patient consent.",
+  "mri_hospital": "Antoni van Leeuwenhoek",
+  "bx_isup": 1,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

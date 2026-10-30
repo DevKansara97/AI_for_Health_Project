@@ -1,0 +1,69 @@
+{
+  "case_id": "T2-069",
+  "pid": "T2-069",
+  "task": 2,
+  "psa": 5.7,
+  "age": 67,
+  "months": 2,
+  "pirads": "5",
+  "psad": 0.134,
+  "psav": 2.44,
+  "psap": 4.6,
+  "vol": 42.59,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.8136245,
+  "medhx": "Lower abdominal surgery",
+  "meds": "None",
+  "notes": "PSA 5.7 ng/mL. PI-RADS 5. PSAD 0.13. Prostate volume 43 mL. csPCa 0.81.",
+  "pmhx": [
+    "Lower abdominal surgery"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "74 kg",
+    "height": "183 cm",
+    "bmi": "22.1",
+    "bp": "96/61 mmHg",
+    "hr": "76 bpm",
+    "smoking": "Ex-smoker",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "25 Feb 2025",
+  "enc_ref": "Dr. P. van Dijk (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for definitive management options following confirmed prostate cancer diagnosis."
+    },
+    {
+      "s": "History",
+      "t": "Recently retired civil servant with a history of prostate cancer diagnosed on biopsy in October 2024. The patient reports mild lower urinary tract symptoms with an IPSS score of 4/35. He lives alone, widowed, and maintains an active lifestyle with running three times weekly. Recent appointments include a sleep clinic evaluation for suspected obstructive sleep apnoea and a stable cardiology review in autumn 2024. He is an ex-smoker and consumes approximately 8 units of alcohol per week. No current medications or known allergies. The patient has requested flexible appointment slots due to his self-employed status."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum, the prostate feels normal in consistency and contour without palpable nodules, correlating with a clinical T stage of cTx. General examination is unremarkable with stable vital signs and no signs of systemic illness."
+    }
+  ],
+  "occupation": "retired civil servant",
+  "marital": "Widowed",
+  "living": "Lives alone",
+  "next_of_kin": "Niece",
+  "recent_other": [
+    "Sleep clinic — suspected obstructive sleep apnoea",
+    "Cardiology — annual review (stable, autumn 2024)"
+  ],
+  "alcohol": "8 units / week",
+  "exercise": "Running 3x/week, 5 km",
+  "ipss": "IPSS score: 4/35 (mild LUTS)",
+  "admin": "Patient self-employed; flexible appointment slots requested.",
+  "mri_hospital": "UMCG (Groningen)",
+  "bx_isup": 2,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 4,
+  "ct": "cTx",
+  "active_treatment_flag": 0
+}

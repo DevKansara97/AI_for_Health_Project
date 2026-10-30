@@ -1,0 +1,109 @@
+{
+  "radiology_report": "LUMC (Leiden)\nImaging Department\nDate: 18 Feb 2025\nExam: mpMRI Prostate\nClinical indication: PSA 6.0 ng/mL, PI-RADS 5.\nFINDINGS: Prostate volume measures 65.77 mL. DWI demonstrates a focal area of restricted diffusion in the peripheral zone, bilateral, measuring approximately 18 x 14 mm. Corresponding low signal on T2WI and early enhancement on DCE. No extraprostatic extension or seminal vesicle involvement. No suspicious lymphadenopathy.\nIMPRESSION: PI-RADS 5 lesion, bilateral peripheral zone. PSA density 0.091 ng/mL/mL. Clinical stage cTx. csPCa predicted probability 0.71155435.",
+  "previous_notes": [
+    {
+      "date": "24 Feb 2024",
+      "author": "Dr. L. Smits (GP)",
+      "text": "24 Feb 2024 - Dr. L. Smits (GP): Patient presented with rising PSA levels, now 2.7 ng/mL. Discussed the need for further urological evaluation given the trend. Referred to urology for assessment and possible biopsy."
+    },
+    {
+      "date": "28 Aug 2023",
+      "author": "Dr. L. Smits (GP)",
+      "text": "28 Aug 2023 - Dr. L. Smits (GP): Patient reported mild lower urinary tract symptoms. PSA measured at 1.8 ng/mL. Advised monitoring and lifestyle modifications. Scheduled follow-up in 6 months."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Nov 2023",
+      "val": 1.8
+    },
+    {
+      "date": "Apr 2024",
+      "val": 2.7
+    },
+    {
+      "date": "Sep 2024",
+      "val": 4.0
+    },
+    {
+      "date": "Feb 2025",
+      "val": 6.0
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "6.0 ng/mL",
+      "date": "10 Jan 2025",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "1.17 ng/mL",
+      "date": "10 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "20%",
+      "date": "10 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "14.6 g/dL",
+      "date": "10 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "7.5 x10^9/L",
+      "date": "10 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "234 x10^9/L",
+      "date": "10 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "180 umol/L",
+      "date": "10 Jan 2025",
+      "flag": "H"
+    },
+    {
+      "name": "eGFR",
+      "val": "<60 mL/min/1.73m2",
+      "date": "10 Jan 2025",
+      "flag": "L"
+    },
+    {
+      "name": "Testosterone",
+      "val": "12.6 nmol/L",
+      "date": "10 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "61 U/L",
+      "date": "10 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "165 U/L",
+      "date": "10 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "HbA1c",
+      "val": "6.2 %",
+      "date": "10 Jan 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy timepoint 1: The specimen shows acinar adenocarcinoma with a Gleason score of 3+4, corresponding to ISUP grade group 2. No cribriform or intraductal patterns identified. Perineural invasion is present. The tumour is located in the peripheral zone, bilateral.\n\nSummary: The biopsy findings have remained stable across the available timepoint, showing persistent ISUP grade group 2 disease with perineural invasion.\n\nAI-predicted ISUP grade group (digital pathology): grade group 4."
+}

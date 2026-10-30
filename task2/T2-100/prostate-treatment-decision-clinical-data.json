@@ -1,0 +1,98 @@
+{
+  "radiology_report": "Amsterdam UMC (location VUmc)\nDepartment of Radiology\n\nExamination: mpMRI Prostate (3T)\nDate: 15 January 2025\n\nClinical Indication:\nElevated PSA (5.8 ng/mL) with rising trend. Previous biopsy negative. Evaluation for clinically significant prostate cancer.\n\nFindings:\nThe prostate volume is calculated at 39.0 mL. The peripheral zone demonstrates a focal lesion in the left posterior mid-gland. On T2-weighted imaging, this area appears as a discrete, low-signal intensity region. Diffusion-weighted imaging (DWI) shows corresponding restricted diffusion with high signal on b1500 images and low ADC values. Dynamic contrast-enhanced (DCE) imaging reveals early, focal enhancement within this region. No extracapsular extension or seminal vesicle invasion is identified. No suspicious lymphadenopathy or osseous lesions are seen.\n\nImpression:\n1. PI-RADS v2.1 score 4 lesion in the left posterior mid-gland peripheral zone.\n2. Prostate volume 39.0 mL; PSA density 0.15 ng/mL/mL.\n3. Clinical T stage cT1c.\n4. csPCa predicted probability 0.40801913",
+  "previous_notes": [
+    {
+      "date": "09 Mar 2023",
+      "author": "Dr. T. Hendriks (GP)",
+      "text": "Patient presented for routine annual check-up. Digital rectal examination was unremarkable with a smooth, symmetric prostate. PSA was measured at 2.3 ng/mL, which is within normal limits for his age. No further urological investigation was indicated at this time, and the patient was advised to continue routine screening."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Apr 2022",
+      "val": 2.8
+    },
+    {
+      "date": "Mar 2023",
+      "val": 2.3
+    },
+    {
+      "date": "Mar 2024",
+      "val": 4.1
+    },
+    {
+      "date": "Feb 2025",
+      "val": 5.8
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "5.8 ng/mL",
+      "date": "21 Jan 2025",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "0.80 ng/mL",
+      "date": "21 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "14%",
+      "date": "21 Jan 2025",
+      "flag": "L"
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "15.0 g/dL",
+      "date": "21 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "2.7 x10^9/L",
+      "date": "21 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "267 x10^9/L",
+      "date": "21 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "97 umol/L",
+      "date": "21 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "21 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "16.5 nmol/L",
+      "date": "21 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "66 U/L",
+      "date": "21 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "165 U/L",
+      "date": "21 Jan 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy timepoint 1 (April 2022):\nHistological examination of the prostate tissue cores reveals benign prostatic hyperplasia and chronic prostatitis. No malignant glands are identified. The Gleason score is reported as 0+0, corresponding to ISUP Grade Group 0. No cribriform or intraductal patterns are identified. Perineural invasion is not present.\n\nSummary:\nThe patient has undergone one previous biopsy which was negative for malignancy. The current clinical picture involves a rising PSA and a PI-RADS 4 lesion, prompting re-evaluation despite the prior negative histological finding.\n\nAI-predicted ISUP grade group (digital pathology): grade group 4."
+}

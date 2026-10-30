@@ -1,0 +1,71 @@
+{
+  "case_id": "T2-084",
+  "pid": "T2-084",
+  "task": 2,
+  "psa": 8.1,
+  "age": 71,
+  "months": 1,
+  "pirads": "5",
+  "psad": 0.14,
+  "psav": 1.95,
+  "psap": 4.8,
+  "vol": 47.0,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.82094896,
+  "medhx": "Type 2 diabetes, COPD, Osteoarthritis, Benign prostatic hyperplasia",
+  "meds": "empagliflozin, tiotropium, salbutamol PRN, paracetamol PRN",
+  "notes": "PSA 8.1 ng/mL. PI-RADS 5. PSAD 0.14. Prostate volume 47 mL. DRE nodus. csPCa 0.82.",
+  "pmhx": [
+    "Type 2 diabetes",
+    "COPD",
+    "Osteoarthritis",
+    "Benign prostatic hyperplasia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "82 kg",
+    "height": "182 cm",
+    "bmi": "24.8",
+    "bp": "116/84 mmHg",
+    "hr": "68 bpm",
+    "smoking": "Ex-smoker (26 pack-yr, quit 2018)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "23 Jan 2025",
+  "enc_ref": "Dr. S. de Vries (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of prostate cancer management options following rising PSA and PI-RADS 5 lesion despite initial ISUP grade group 1 biopsy."
+    },
+    {
+      "s": "History",
+      "t": "Long-standing referral for prostate cancer follow-up. Recently retired shopkeeper, married, living with partner. Medical history includes type 2 diabetes managed with empagliflozin, COPD on tiotropium and salbutamol PRN, and osteoarthritis. Patient cycles five times weekly for commuting and consumes approximately seven units of alcohol weekly. Reports moderate lower urinary tract symptoms (IPSS 14). No recent bone pain or haematuria. Recent colonoscopy surveillance was unremarkable. Flexible appointment scheduling requested due to self-employed status."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum, a firm nodule is palpable in the right lateral aspect of the prostate, consistent with clinical T2a staging. General examination is unremarkable with stable vital signs and no signs of metastatic disease."
+    }
+  ],
+  "occupation": "retired shopkeeper",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Sibling (brother)",
+  "recent_other": [
+    "Gastroenterology — surveillance colonoscopy"
+  ],
+  "alcohol": "7 units / week",
+  "exercise": "Cycling 5x/week (commuter)",
+  "ipss": "IPSS score: 14/35 (moderate LUTS)",
+  "admin": "Patient self-employed; flexible appointment slots requested.",
+  "mri_hospital": "LUMC (Leiden)",
+  "bx_isup": 1,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 3,
+  "ct": "cT2a",
+  "active_treatment_flag": 0
+}

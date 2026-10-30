@@ -1,0 +1,18 @@
+{
+  "confidence": "borderline",
+  "variable_weights": {
+    "bx_isup": "important",
+    "psad": "important",
+    "age": "important",
+    "fh": "noted",
+    "comorbidity": "important",
+    "ct": "noted",
+    "bx_gl_sec": "noted",
+    "pirads": "important",
+    "psa": "important",
+    "cspca": "noted",
+    "bx_gl_prim": "noted"
+  },
+  "reveal_sequence": [],
+  "free_text": "Patient with an intermediate risk PCa, PSA \u003e10, 100 ml prostate causing LUTS. Treatment could assess both cancer and BPH symptoms"
+}

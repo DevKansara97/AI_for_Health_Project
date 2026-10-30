@@ -1,0 +1,18 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "ct": "important",
+    "psad": "noted",
+    "bx_gl_prim": "noted",
+    "age": "noted",
+    "comorbidity": "noted",
+    "bx_isup": "important",
+    "cspca": "noted",
+    "psa": "decisive",
+    "pirads": "noted",
+    "bx_gl_sec": "noted",
+    "fh": "not_used"
+  },
+  "reveal_sequence": [],
+  "free_text": "patient should undergo PSMA pet given the High PSA and High Gleason Score to decide on the medical therapy and on the need for local treatment."
+}

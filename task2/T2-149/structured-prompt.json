@@ -1,0 +1,73 @@
+{
+  "case_id": "T2-149",
+  "pid": "T2-149",
+  "task": 2,
+  "psa": 1.6,
+  "age": 63,
+  "months": 2,
+  "pirads": "2",
+  "psad": 0.06,
+  "psav": 0.14,
+  "psap": 0.9,
+  "vol": 32.0,
+  "dre": "Normal",
+  "bx": "Negative",
+  "cspca": 0.6872062,
+  "medhx": "Hypertension, COPD, Obesity (BMI >30), Benign prostatic hyperplasia, Atrial fibrillation",
+  "meds": "amlodipine, valsartan, metoprolol, salbutamol PRN, tamsulosin",
+  "notes": "PSA 1.6 ng/mL. PI-RADS 2. PSAD 0.06. Prostate volume 32 mL. csPCa 0.69.",
+  "pmhx": [
+    "Hypertension",
+    "COPD",
+    "Obesity (BMI >30)",
+    "Benign prostatic hyperplasia",
+    "Atrial fibrillation"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "86 kg",
+    "height": "179 cm",
+    "bmi": "26.8",
+    "bp": "135/87 mmHg",
+    "hr": "60 bpm",
+    "smoking": "Current smoker (45 pack-yr)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "06 Jan 2025",
+  "enc_ref": "Dr. F. de Boer (GP)",
+  "enc_type": "Re-evaluation - prior negative biopsy",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "The patient attends this multidisciplinary consultation to discuss management options following a recent PSA rise to 1.6 ng/mL despite a previously negative biopsy and a PI-RADS 2 magnetic resonance imaging scan."
+    },
+    {
+      "s": "History",
+      "t": "Recently retired accountant with a complex medical background including long-standing hypertension, atrial fibrillation, moderate chronic obstructive pulmonary disease, and documented obesity, currently managed on amlodipine, valsartan, metoprolol, and as-needed salbutamol. He resides with his long-term partner and explicitly declines to nominate a next-of-kin for clinical correspondence. Lower urinary tract symptoms have progressively worsened, yielding an IPSS score of 23/35, which has been partially addressed with tamsulosin. Social history is notable for moderate alcohol consumption averaging 13 units weekly and a consistent routine of light home weight-training twice per week. He prefers morning clinic appointments to accommodate public transport schedules and recently completed a seasonal influenza vaccination alongside a routine chest radiograph at the practice. Incidental findings from his general practice records include a mild, asymptomatic benign liver cyst and a history of seasonal allergic rhinitis managed with oral antihistamines."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum, the prostate gland feels smooth and symmetrically enlarged without palpable nodules or induration, consistent with a clinical stage of cT1c. General inspection reveals a well-nourished gentleman with stable vital signs, clear lung fields on auscultation despite his known pulmonary history, and no peripheral edema or lymphadenopathy."
+    }
+  ],
+  "occupation": "retired accountant",
+  "marital": "Never married",
+  "living": "Lives with partner",
+  "next_of_kin": "None recorded — patient declines to nominate",
+  "recent_other": [
+    "GP practice nurse — flu vaccination",
+    "Radiology — chest X-ray (routine)"
+  ],
+  "alcohol": "13 units / week",
+  "exercise": "Light weight-training at home, 2x/week",
+  "ipss": "IPSS score: 23/35 (severe LUTS)",
+  "admin": "Patient prefers morning appointments (public transport).",
+  "mri_hospital": "Amsterdam UMC (location VUmc)",
+  "bx_isup": 0,
+  "bx_gl_prim": 0,
+  "bx_gl_sec": 0,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

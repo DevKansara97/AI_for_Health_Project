@@ -1,0 +1,68 @@
+{
+  "case_id": "T2-046",
+  "pid": "T2-046",
+  "task": 2,
+  "psa": 7.4,
+  "age": 57,
+  "months": 3,
+  "pirads": "3",
+  "psad": 0.16,
+  "psav": 2.91,
+  "psap": 4.9,
+  "vol": 45.0,
+  "dre": "Normal",
+  "bx": "Negative",
+  "cspca": 0.61967,
+  "medhx": "Hypercholesterolaemia",
+  "meds": "simvastatin, rosuvastatin",
+  "notes": "PSA 7.4 ng/mL. PI-RADS 3. PSAD 0.16. Prostate volume 45 mL. csPCa 0.62.",
+  "pmhx": [
+    "Hypercholesterolaemia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "96 kg",
+    "height": "186 cm",
+    "bmi": "27.7",
+    "bp": "107/90 mmHg",
+    "hr": "70 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "11 Feb 2025",
+  "enc_ref": "Dr. R. van den Berg (GP)",
+  "enc_type": "Re-evaluation - prior negative biopsy",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of rising PSA and prior negative biopsy to determine the most appropriate management strategy."
+    },
+    {
+      "s": "History",
+      "t": "Recently retired self-employed contractor (carpentry) with a history of hypercholesterolaemia managed with simvastatin and rosuvastatin. The patient has experienced a steady rise in PSA levels over the past three years, from 3.3 ng/mL in May 2022 to 7.4 ng/mL in February 2025. A previous systematic biopsy was performed and returned negative for malignancy. He reports moderate lower urinary tract symptoms, with an IPSS score of 19/35, but no haematuria or bone pain. Socially, he is married, lives alone, and consumes approximately three units of alcohol per week. He is currently undergoing routine foot care with a podiatrist. The patient is hard of hearing and prefers written summaries for clarity."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is symmetrically enlarged and non-nodular, consistent with a clinical stage of cT1c. General examination is unremarkable, with normal cardiopulmonary findings and no palpable lymphadenopathy or spinal tenderness."
+    }
+  ],
+  "occupation": "self-employed contractor (carpentry)",
+  "marital": "Married",
+  "living": "Lives alone",
+  "next_of_kin": "Sibling (sister)",
+  "recent_other": [
+    "Podiatry — routine foot care"
+  ],
+  "alcohol": "3 units / week",
+  "exercise": "Gardening, no structured exercise",
+  "ipss": "IPSS score: 19/35 (moderate LUTS)",
+  "admin": "Hard of hearing — speak clearly; prefers written summaries.",
+  "mri_hospital": "Ziekenhuis Gelderse Vallei (Ede)",
+  "bx_isup": 0,
+  "bx_gl_prim": 0,
+  "bx_gl_sec": 0,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

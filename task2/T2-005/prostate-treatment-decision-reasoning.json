@@ -1,0 +1,15 @@
+{
+  "confidence": "borderline",
+  "variable_weights": {
+    "psa": "important",
+    "fh": "noted",
+    "comorbidity": "noted",
+    "cspca": "noted",
+    "psad": "noted",
+    "pirads": "important",
+    "ct": "noted",
+    "age": "not_used"
+  },
+  "reveal_sequence": [],
+  "free_text": "Man with no PCa on previous biopsy. If MRI shows a novel lesion or if MRI was not performed on first biopsy, a target biopsy should be performed."
+}

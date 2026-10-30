@@ -1,0 +1,21 @@
+{
+  "case_id": "PT-pseudo_8654c4ff4d10",
+  "confidence": "uncertain",
+  "variable_importance": {
+    "psa": "decisive",
+    "psad": "noted",
+    "vol": "not_used",
+    "pirads": "noted",
+    "dre": "not_used",
+    "fh": "not_used",
+    "comorbidity": "not_used",
+    "cspca": "not_used",
+    "age": "noted",
+    "bx": "not_used"
+  },
+  "sections_accessed": [
+    "laboratory_results",
+    "psa_trend"
+  ],
+  "explanation": "Biopsy not recommended (risk score 0.64 < decision threshold 0.64; confidence: uncertain). Main supporting factors: PSA 6.9 ng/mL (velocity +1.8); PSA density 0.12. Strongest factor pointing the other way: PI-RADS 4. The score is very close to the threshold or the models disagree; clinical review is advised. Sections informing this decision: laboratory_results, psa_trend."
+}

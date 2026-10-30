@@ -1,0 +1,22 @@
+{
+  "case_id": "PT-pseudo_67728e41a2fa",
+  "confidence": "clear",
+  "variable_importance": {
+    "psa": "important",
+    "psad": "not_used",
+    "vol": "not_used",
+    "pirads": "noted",
+    "dre": "noted",
+    "fh": "not_used",
+    "comorbidity": "important",
+    "cspca": "not_used",
+    "age": "noted",
+    "bx": "decisive"
+  },
+  "sections_accessed": [
+    "laboratory_results",
+    "previous_notes",
+    "psa_trend"
+  ],
+  "explanation": "Biopsy not recommended (risk score 0.50 < decision threshold 0.64; confidence: clear). Main supporting factors: prior biopsy positive, prior ISUP 1; PSA 12.6 ng/mL (velocity +1.5); age 77. Strongest factor pointing the other way: 4 comorbidities. Sections informing this decision: laboratory_results, previous_notes, psa_trend."
+}

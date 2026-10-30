@@ -1,0 +1,23 @@
+{
+  "case_id": "PT-pseudo_837f1dcfb56d",
+  "confidence": "borderline",
+  "variable_importance": {
+    "psa": "noted",
+    "psad": "noted",
+    "vol": "not_used",
+    "pirads": "decisive",
+    "dre": "not_used",
+    "fh": "not_used",
+    "comorbidity": "not_used",
+    "cspca": "noted",
+    "age": "not_used",
+    "bx": "important"
+  },
+  "sections_accessed": [
+    "radiology_report",
+    "previous_notes",
+    "laboratory_results",
+    "psa_trend"
+  ],
+  "explanation": "Biopsy not recommended (risk score 0.46 < decision threshold 0.64; confidence: borderline). Main supporting factors: PI-RADS 2; csPCa likelihood score 0.49; PSA density 0.05. Strongest factor pointing the other way: no prior biopsy. Evidence is mixed, so the score is close to the decision threshold. Sections informing this decision: radiology_report, previous_notes, laboratory_results, psa_trend."
+}

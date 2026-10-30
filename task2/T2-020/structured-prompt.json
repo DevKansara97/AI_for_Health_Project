@@ -1,0 +1,70 @@
+{
+  "case_id": "T2-020",
+  "pid": "T2-020",
+  "task": 2,
+  "psa": 7.0,
+  "age": 74,
+  "months": 1,
+  "pirads": "5",
+  "psad": 0.427,
+  "psav": 1.92,
+  "psap": 4.9,
+  "vol": 16.4,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.8631027,
+  "medhx": "Type 2 diabetes, Hypercholesterolaemia, Obesity (BMI >30)",
+  "meds": "metformin, atorvastatin, simvastatin",
+  "notes": "PSA 7 ng/mL. PI-RADS 5. PSAD 0.43. Prostate volume 16 mL. DRE nodus. csPCa 0.86.",
+  "pmhx": [
+    "Type 2 diabetes",
+    "Hypercholesterolaemia",
+    "Obesity (BMI >30)"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "71 kg",
+    "height": "180 cm",
+    "bmi": "21.9",
+    "bp": "122/65 mmHg",
+    "hr": "74 bpm",
+    "smoking": "Ex-smoker (17 pack-yr, quit 2004)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "19 Jan 2025",
+  "enc_ref": "Dr. C. Peters (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of prostate cancer management options following stable ISUP grade group 2 findings on repeat biopsy."
+    },
+    {
+      "s": "History",
+      "t": "Recently retired civil servant presenting for urological re-evaluation. He has a known history of prostate cancer diagnosed on biopsy, with stable ISUP grade group 2 findings. Medical history includes type 2 diabetes managed with metformin and hypercholesterolaemia treated with atorvastatin and simvastatin. He reports no significant lower urinary tract symptoms, with an IPSS score of 0. Socially, he is married, lives in a ground-floor apartment with his partner, and cycles approximately 20 km twice weekly. He is an ex-smoker who quit in 2004. Recent dental check-ups have been unremarkable. He notes visual impairment requiring large-print correspondence."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum, a distinct nodule is palpable in the left lobe of the prostate, consistent with clinical stage cT2. General examination is unremarkable with stable vital signs and no signs of metastatic disease."
+    }
+  ],
+  "occupation": "retired civil servant",
+  "marital": "Married",
+  "living": "Lives in ground-floor apartment with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Dental — biannual check-up"
+  ],
+  "alcohol": "1 units / week",
+  "exercise": "Cycling 2x/week, ~20 km",
+  "ipss": "IPSS score: 0/35 (mild LUTS)",
+  "admin": "Visual impairment: large-print correspondence requested.",
+  "mri_hospital": "LUMC (Leiden)",
+  "bx_isup": 2,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 4,
+  "ct": "cT2",
+  "active_treatment_flag": 0
+}

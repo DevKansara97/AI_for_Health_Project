@@ -1,0 +1,73 @@
+{
+  "case_id": "T2-077",
+  "pid": "T2-077",
+  "task": 2,
+  "psa": 7.9,
+  "age": 79,
+  "months": 2,
+  "pirads": "4",
+  "psad": 0.07,
+  "psav": 2.67,
+  "psap": 4.3,
+  "vol": 123.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.76090467,
+  "medhx": "Hypertension, Type 2 diabetes, Hypercholesterolaemia, Obesity (BMI >30), Osteoarthritis",
+  "meds": "amlodipine, valsartan, lisinopril, metoprolol, empagliflozin, atorvastatin, simvastatin, paracetamol PRN",
+  "notes": "PSA 7.9 ng/mL. PI-RADS 4. PSAD 0.07. Prostate volume 123 mL. csPCa 0.76.",
+  "pmhx": [
+    "Hypertension",
+    "Type 2 diabetes",
+    "Hypercholesterolaemia",
+    "Obesity (BMI >30)",
+    "Osteoarthritis"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "88 kg",
+    "height": "170 cm",
+    "bmi": "30.4",
+    "bp": "133/78 mmHg",
+    "hr": "72 bpm",
+    "smoking": "Ex-smoker (27 pack-yr, quit 2020)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "08 Jan 2025",
+  "enc_ref": "Dr. R. van den Berg (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of known prostate cancer with recent PSA escalation and prior Gleason 4+3 histology to determine optimal management strategy."
+    },
+    {
+      "s": "History",
+      "t": "Active dairy farmer, married, living with his partner, who travels over an hour by train for these appointments. He reports mild lower urinary tract symptoms with an IPSS score of 3/35. Medical history is significant for hypertension, type 2 diabetes, hypercholesterolaemia, obesity, and osteoarthritis. He is an ex-smoker (27 pack-years, quit in 2020) and consumes approximately 4 units of alcohol weekly. He walks for 20 minutes daily. Recent appointments include a surveillance colonoscopy with gastroenterology and thyroid screening with endocrinology, both unremarkable. He continues to manage his comorbidities with amlodipine, valsartan, lisinopril, metoprolol, empagliflozin, atorvastatin, simvastatin, and paracetamol as needed. He denies any new bone pain, haematuria, or weight loss."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Digital rectal examination reveals a symmetrically enlarged prostate with a smooth surface and no palpable nodules, consistent with clinical stage cT1c. General examination shows a stable, well-nourished male with no signs of acute distress. Abdominal examination is soft and non-tender, with no palpable masses or lymphadenopathy."
+    }
+  ],
+  "occupation": "active dairy farmer",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Gastroenterology — surveillance colonoscopy",
+    "Endocrine — thyroid screening"
+  ],
+  "alcohol": "4 units / week",
+  "exercise": "Walking 20 min/day",
+  "ipss": "IPSS score: 3/35 (mild LUTS)",
+  "admin": "Patient travels 60+ min by train to clinic; allow buffer.",
+  "mri_hospital": "Tergooi MC",
+  "bx_isup": 3,
+  "bx_gl_prim": 4,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

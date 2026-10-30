@@ -1,0 +1,18 @@
+{
+  "confidence": "borderline",
+  "variable_weights": {
+    "comorbidity": "important",
+    "psad": "noted",
+    "bx_gl_prim": "noted",
+    "bx_isup": "important",
+    "age": "noted",
+    "fh": "noted",
+    "ct": "important",
+    "bx_gl_sec": "noted",
+    "cspca": "noted",
+    "pirads": "important",
+    "psa": "important"
+  },
+  "reveal_sequence": [],
+  "free_text": "High risk PCa, needs Staging and then treatment decision between radical prostatectomy and Radiotherapy + ADT vs ARPI."
+}

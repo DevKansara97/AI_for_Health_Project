@@ -1,0 +1,22 @@
+{
+  "case_id": "PT-pseudo_aed2e170b8e6",
+  "confidence": "clear",
+  "variable_importance": {
+    "psa": "decisive",
+    "psad": "not_used",
+    "vol": "noted",
+    "pirads": "not_used",
+    "dre": "not_used",
+    "fh": "not_used",
+    "comorbidity": "not_used",
+    "cspca": "not_used",
+    "age": "not_used",
+    "bx": "not_used"
+  },
+  "sections_accessed": [
+    "psa_trend",
+    "radiology_report",
+    "laboratory_results"
+  ],
+  "explanation": "Biopsy not recommended (risk score 0.48 < decision threshold 0.64; confidence: clear). Main supporting factors: PSA 86.0 ng/mL (velocity +14.9); DRE: nodus; csPCa likelihood score 0.95. Strongest factor pointing the other way: prostate volume 37 mL. Sections informing this decision: psa_trend, radiology_report, laboratory_results."
+}

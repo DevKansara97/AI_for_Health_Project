@@ -1,0 +1,98 @@
+{
+  "radiology_report": "Antoni van Leeuwenhoek\nDepartment of Radiology\nDate: 15 Dec 2024\nExam: mpMRI prostate\n\nClinical indication: PSA 9.2 ng/mL (rising trend from 5.5 ng/mL in Jul 2024), prior systematic biopsy negative. Evaluate for suspicious focal lesion.\n\nFINDINGS:\nProstate volume is 57.0 mL.\nT2-weighted imaging demonstrates a focal area of low signal intensity in the peripheral zone of the left posterolateral base, measuring approximately 12 mm in maximum dimension. This region shows restricted diffusion on high b-value DWI (b=1400) with corresponding hyperintensity on the ADC map. Dynamic contrast-enhanced (DCE) sequences reveal early, marked enhancement of the lesion relative to the surrounding peripheral zone tissue. No extracapsular extension or seminal vesicle invasion is visualized. Neurovascular bundles appear intact. No suspicious lymphadenopathy or bone lesions are identified in the field of view.\n\nIMPRESSION:\nPI-RADS v2.1 score 4: Suspicious lesion in the left peripheral zone.\nProstate volume 57.0 mL; PSA density 0.16 ng/mL/mL.\nClinical T stage: cT2a.\ncsPCa predicted probability 0.7709042.",
+  "previous_notes": [
+    {
+      "date": "27 May 2024",
+      "author": "Dr. L. Smits (GP)",
+      "text": "27 May 2024 - Dr. L. Smits (GP): Patient presents for routine PSA monitoring. PSA measured at 6.3 ng/mL, showing a rise from 4.5 ng/mL in August 2023. DRE performed, no obvious nodules palpated. Patient reports mild lower urinary tract symptoms but no pain or haematuria. Decision made to repeat PSA in 6 months and monitor trend. Patient advised to maintain healthy lifestyle."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Aug 2023",
+      "val": 4.5
+    },
+    {
+      "date": "Jan 2024",
+      "val": 6.3
+    },
+    {
+      "date": "Jul 2024",
+      "val": 5.5
+    },
+    {
+      "date": "Jan 2025",
+      "val": 9.2
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "9.2 ng/mL",
+      "date": "24 Dec 2024",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "2.33 ng/mL",
+      "date": "24 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "25%",
+      "date": "24 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "14.8 g/dL",
+      "date": "24 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "7.6 x10^9/L",
+      "date": "24 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "232 x10^9/L",
+      "date": "24 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "102 umol/L",
+      "date": "24 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "24 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "15.8 nmol/L",
+      "date": "24 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "66 U/L",
+      "date": "24 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "222 U/L",
+      "date": "24 Dec 2024",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy timepoint 1 (Aug 2023): Prostate tissue cores were received for histological evaluation. Microscopic examination reveals benign prostatic hyperplasia and chronic prostatitis. No malignant glands are identified. Gleason score 0+0, ISUP grade group 0. No cribriform or intraductal patterns identified. No perineural invasion. No high-grade prostatic intraepithelial neoplasia.\n\nBiopsy timepoint 2 (Jan 2025): Prostate tissue cores were received for histological evaluation. Microscopic examination reveals benign prostatic hyperplasia and chronic prostatitis. No malignant glands are identified. Gleason score 0+0, ISUP grade group 0. No cribriform or intraductal patterns identified. No perineural invasion.\n\nSummary: Histological findings remain stable across both biopsy timepoints, with no evidence of prostate cancer detected on systematic sampling.\n\nAI-predicted ISUP grade group (digital pathology): grade group 0."
+}

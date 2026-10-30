@@ -1,0 +1,69 @@
+{
+  "case_id": "T2-080",
+  "pid": "T2-080",
+  "task": 2,
+  "psa": 19.0,
+  "age": 70,
+  "months": 2,
+  "pirads": "5",
+  "psad": 0.328,
+  "psav": 9.91,
+  "psap": 5.7,
+  "vol": 57.89,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.75379103,
+  "medhx": "Coronary artery disease, Chronic kidney disease",
+  "meds": "None",
+  "notes": "PSA 19 ng/mL. PI-RADS 5. PSAD 0.33. Prostate volume 58 mL. DRE nodus. csPCa 0.75.",
+  "pmhx": [
+    "Coronary artery disease",
+    "Chronic kidney disease"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "95 kg",
+    "height": "191 cm",
+    "bmi": "26.0",
+    "bp": "126/69 mmHg",
+    "hr": "57 bpm",
+    "smoking": "Ex-smoker (11 pack-yr, quit 2019)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "04 Jan 2025",
+  "enc_ref": "Dr. T. Hendriks (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for treatment options following histological upgrade to ISUP grade group 2 prostate cancer."
+    },
+    {
+      "s": "History",
+      "t": "This 70-year-old retired farmer presents for urological review. He has a significant medical history of coronary artery disease and chronic kidney disease, with a current eGFR below 60 mL/min/1.73m2. His PSA trajectory has been concerning, rising from 1.7 ng/mL in December 2023 to 5.7 ng/mL in June 2024, and now 19.0 ng/mL. He is a married man living with his partner, with adult children visiting weekly; his son acts as his primary contact for medical matters. He is an ex-smoker (11 pack-years, quit in 2019) and consumes approximately 8 units of alcohol per week. He maintains a daily walking routine of 20 minutes. He reports mild lower urinary tract symptoms with an IPSS score of 5. He recently attended an endocrine appointment for thyroid screening."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum, a distinct nodule is palpable, consistent with a clinical T2 stage. General examination is unremarkable with stable vital signs, including a blood pressure of 126/69 mmHg and a heart rate of 57 bpm."
+    }
+  ],
+  "occupation": "retired farmer",
+  "marital": "Married",
+  "living": "Lives with partner; adult children visit weekly",
+  "next_of_kin": "Adult son (primary contact)",
+  "recent_other": [
+    "Endocrine — thyroid screening"
+  ],
+  "alcohol": "8 units / week",
+  "exercise": "Walking 20 min/day",
+  "ipss": "IPSS score: 5/35 (mild LUTS)",
+  "admin": "Patient self-employed; flexible appointment slots requested.",
+  "mri_hospital": "Catharina Ziekenhuis (Eindhoven)",
+  "bx_isup": 2,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 4,
+  "ct": "cT2",
+  "active_treatment_flag": 0
+}

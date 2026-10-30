@@ -1,0 +1,70 @@
+{
+  "case_id": "T2-107",
+  "pid": "T2-107",
+  "task": 2,
+  "psa": 15.0,
+  "age": 73,
+  "months": 2,
+  "pirads": "5",
+  "psad": 0.24,
+  "psav": 4.55,
+  "psap": 9.8,
+  "vol": 63.76,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.87020874,
+  "medhx": "Osteoarthritis",
+  "meds": "paracetamol PRN",
+  "notes": "PSA 15 ng/mL. PI-RADS 5. PSAD 0.24. Prostate volume 64 mL. csPCa 0.87.",
+  "pmhx": [
+    "Osteoarthritis"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "73 kg",
+    "height": "183 cm",
+    "bmi": "21.8",
+    "bp": "121/72 mmHg",
+    "hr": "64 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "02 Mar 2025",
+  "enc_ref": "Dr. R. van den Berg (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "The patient is here for a multidisciplinary re-evaluation regarding treatment options for his known ISUP grade group 3 prostate cancer, following a recent PSA rise to 15.0 ng/mL."
+    },
+    {
+      "s": "History",
+      "t": "Long-standing referral for prostate cancer management. The patient is a 73-year-old retired bus driver who lives with his partner. He has a history of osteoarthritis, for which he takes paracetamol as needed. His PSA has risen steadily over the past three years, from 4.2 ng/mL in October 2022 to 15.0 ng/mL in March 2025. He reports no urinary complaints, with an IPSS score of 0. He is an alcohol-free individual who enjoys hiking on weekends. He recently attended a cardiology review in autumn 2024, which was stable, and a vascular surgery consultation for varicose veins. He also has a known COPD follow-up with pulmonary function testing."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum, the prostate feels symmetrically enlarged without palpable nodules or induration, consistent with a clinical stage cT1c. The patient is in no acute distress, with a blood pressure of 121/72 mmHg and a heart rate of 64 bpm. His general examination is unremarkable."
+    }
+  ],
+  "occupation": "retired bus driver",
+  "marital": "Divorced",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Pulmonary function test — known COPD follow-up",
+    "Cardiology — annual review (stable, autumn 2024)",
+    "Vascular surgery — varicose veins consult"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Hiking on weekends",
+  "ipss": "IPSS score: 0/35 (mild LUTS)",
+  "admin": "Patient prefers morning appointments (public transport).",
+  "mri_hospital": "Tergooi MC",
+  "bx_isup": 3,
+  "bx_gl_prim": 4,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

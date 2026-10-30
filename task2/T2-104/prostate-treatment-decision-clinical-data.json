@@ -1,0 +1,99 @@
+{
+  "radiology_report": "OLVG (Amsterdam)\nDepartment of Radiology\nDate: 15 Jan 2025\nExam: mpMRI Prostate\nClinical indication: PSA 19.0 ng/mL, prior biopsy Gleason 3+4, PI-RADS 4\nFINDINGS: Prostate volume measures 87.5 mL. A focal lesion is identified in the left peripheral zone at the base, measuring approximately 12 x 10 x 9 mm. The lesion demonstrates restricted diffusion on DWI (b=1400) with corresponding low signal on the ADC map. T2-weighted imaging shows a focal area of intermediate signal intensity. Dynamic contrast-enhanced (DCE) imaging reveals early, mild enhancement of the lesion. No extracapsular extension or seminal vesicle invasion is identified. Lymph nodes are unremarkable.\nIMPRESSION: PI-RADS 4 lesion in the left peripheral zone base. Prostate volume 87.5 mL, PSA density 0.217 ng/mL/mL. Clinical T stage cT1c. csPCa predicted probability 0.7858892.",
+  "previous_notes": [
+    {
+      "date": "28 Feb 2023",
+      "author": "Dr. S. de Vries (GP)",
+      "text": "28 Feb 2023 - Dr. S. de Vries (GP): Patient presented with elevated PSA of 10.2 ng/mL. Digital rectal examination was unremarkable. Referred to urology for further evaluation and biopsy. Biopsy confirmed Gleason 3+4, ISUP grade group 2, with cribriform pattern in the left peripheral zone mid. Discussed active surveillance versus treatment options."
+    },
+    {
+      "date": "20 Oct 2024",
+      "author": "Dr. S. de Vries (GP)",
+      "text": "20 Oct 2024 - Dr. S. de Vries (GP): Follow-up visit. PSA increased to 18.5 ng/mL. Repeat biopsy performed, showing Gleason 3+4, ISUP grade group 2, adenocarcinoma without cribriform patterns in the left peripheral zone base. Patient reports moderate LUTS (IPSS 9). Referred to urology for re-evaluation of treatment strategy."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "May 2022",
+      "val": 3.3
+    },
+    {
+      "date": "Sep 2023",
+      "val": 10.2
+    },
+    {
+      "date": "Feb 2025",
+      "val": 19.0
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "19.0 ng/mL",
+      "date": "25 Jan 2025",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "4.05 ng/mL",
+      "date": "25 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "21%",
+      "date": "25 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "14.6 g/dL",
+      "date": "25 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "6.9 x10^9/L",
+      "date": "25 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "237 x10^9/L",
+      "date": "25 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "99 umol/L",
+      "date": "25 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "25 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "9.6 nmol/L",
+      "date": "25 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "80 U/L",
+      "date": "25 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "189 U/L",
+      "date": "25 Jan 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy timepoint 1 (2023): Histological examination of the prostate tissue reveals adenocarcinoma characterized by fusing glandular tubules. The Gleason score is 3+4, corresponding to ISUP grade group 2. A cribriform pattern is present. The tumour is located in the peripheral zone, mid left.\nBiopsy timepoint 2 (2024): The subsequent biopsy demonstrates adenocarcinoma. The Gleason score remains 3+4, consistent with ISUP grade group 2. No cribriform or intraductal patterns are identified. The tumour is situated in the peripheral zone, base left.\nSummary: The histological trajectory shows a stable Gleason score and ISUP grade group across timepoints, with a shift in tumour location from mid to base left and the absence of cribriform patterns in the most recent sample.\n\nAI-predicted ISUP grade group (digital pathology): Timepoint 1 — grade group 2; Timepoint 2 — grade group 3."
+}

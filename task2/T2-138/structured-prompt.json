@@ -1,0 +1,70 @@
+{
+  "case_id": "T2-138",
+  "pid": "T2-138",
+  "task": 2,
+  "psa": 11.0,
+  "age": 61,
+  "months": 3,
+  "pirads": "3",
+  "psad": 0.27,
+  "psav": 4.11,
+  "psap": 6.0,
+  "vol": 41.0,
+  "dre": "Normal",
+  "bx": "Negative",
+  "cspca": 0.581638,
+  "medhx": "Coronary artery disease, Chronic kidney disease",
+  "meds": "aspirin 80 mg, atorvastatin, metoprolol",
+  "notes": "PSA 11 ng/mL. PI-RADS 3. PSAD 0.27. Prostate volume 41 mL. csPCa 0.58.",
+  "pmhx": [
+    "Coronary artery disease",
+    "Chronic kidney disease"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "71 kg",
+    "height": "174 cm",
+    "bmi": "23.5",
+    "bp": "122/71 mmHg",
+    "hr": "66 bpm",
+    "smoking": "Ex-smoker (17 pack-yr, quit 2005)",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "15 Feb 2025",
+  "enc_ref": "Dr. N. Kuiper (GP)",
+  "enc_type": "Re-evaluation - prior negative biopsy",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for rising PSA and prior negative biopsy to discuss management options."
+    },
+    {
+      "s": "History",
+      "t": "Recently retired truck driver with a history of coronary artery disease and chronic kidney disease. He lives alone but is supported by his spouse, who is his primary contact. He consumes approximately 8 units of alcohol weekly and leads a sedentary lifestyle with occasional walking. He reports moderate lower urinary tract symptoms with an IPSS score of 10/35. He is currently taking aspirin, atorvastatin, and metoprolol. He has no known drug allergies. He attends regular dental check-ups and visits the pain clinic for chronic shoulder pain. He has a history of smoking but quit in 2005 after 17 pack-years."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is smooth and non-tender with no palpable nodules, consistent with cT1c staging. General examination is unremarkable with stable vital signs and no signs of acute distress. Visual impairment is noted, and large-print correspondence has been requested."
+    }
+  ],
+  "occupation": "retired truck driver",
+  "marital": "Married",
+  "living": "Lives alone",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Dental — biannual check-up",
+    "Pain clinic — chronic shoulder pain"
+  ],
+  "alcohol": "8 units / week",
+  "exercise": "Sedentary lifestyle, occasional walking",
+  "ipss": "IPSS score: 10/35 (moderate LUTS)",
+  "admin": "Visual impairment: large-print correspondence requested.",
+  "mri_hospital": "LUMC (Leiden)",
+  "bx_isup": 0,
+  "bx_gl_prim": 0,
+  "bx_gl_sec": 0,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

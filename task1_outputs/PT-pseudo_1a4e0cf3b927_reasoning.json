@@ -1,0 +1,22 @@
+{
+  "case_id": "PT-pseudo_1a4e0cf3b927",
+  "confidence": "borderline",
+  "variable_importance": {
+    "psa": "not_used",
+    "psad": "not_used",
+    "vol": "important",
+    "pirads": "not_used",
+    "dre": "not_used",
+    "fh": "not_used",
+    "comorbidity": "not_used",
+    "cspca": "not_used",
+    "age": "not_used",
+    "bx": "decisive"
+  },
+  "sections_accessed": [
+    "previous_notes",
+    "radiology_report",
+    "laboratory_results"
+  ],
+  "explanation": "Biopsy not recommended (risk score 0.58 < decision threshold 0.64; confidence: borderline). Main supporting factors: prior biopsy positive, prior ISUP 2; PI-RADS 5; DRE: nodus. Strongest factor pointing the other way: prostate volume 16 mL. Evidence is mixed, so the score is close to the decision threshold. Sections informing this decision: previous_notes, radiology_report, laboratory_results."
+}

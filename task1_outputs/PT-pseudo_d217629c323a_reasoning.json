@@ -1,0 +1,23 @@
+{
+  "case_id": "PT-pseudo_d217629c323a",
+  "confidence": "uncertain",
+  "variable_importance": {
+    "psa": "important",
+    "psad": "not_used",
+    "vol": "important",
+    "pirads": "not_used",
+    "dre": "not_used",
+    "fh": "not_used",
+    "comorbidity": "not_used",
+    "cspca": "not_used",
+    "age": "not_used",
+    "bx": "decisive"
+  },
+  "sections_accessed": [
+    "previous_notes",
+    "radiology_report",
+    "psa_trend",
+    "laboratory_results"
+  ],
+  "explanation": "Biopsy not recommended (risk score 0.63 < decision threshold 0.64; confidence: uncertain). Main supporting factors: prior biopsy positive, prior ISUP 2; PSA 3.8 ng/mL (velocity +1.4). Strongest factor pointing the other way: prostate volume 30 mL. The score is very close to the threshold or the models disagree; clinical review is advised. Sections informing this decision: previous_notes, radiology_report, psa_trend, laboratory_results."
+}

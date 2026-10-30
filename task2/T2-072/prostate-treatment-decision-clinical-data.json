@@ -1,0 +1,104 @@
+{
+  "radiology_report": "Antoni van Leeuwenhoek\nDepartment of Radiology\nDate: 18 Dec 2024\nExam: mpMRI Prostate\nClinical indication: PSA 15.0 ng/mL, prior biopsy Gleason 3+4, suspected progression.\nFINDINGS: Prostate volume 42.78 mL. T2WI shows a focal hypointense lesion in the right transition zone, measuring 18 x 15 mm. DWI demonstrates marked restricted diffusion in this area with corresponding high signal on the ADC map. DCE shows early, intense enhancement. No extracapsular extension or seminal vesicle invasion. No suspicious lymph nodes or distant metastases.\nIMPRESSION: PI-RADS 5 lesion in the right transition zone. PSA density 0.351 ng/mL/mL. Clinical stage cT1c. csPCa predicted probability 0.85514855.",
+  "previous_notes": [
+    {
+      "date": "03 Jun 2024",
+      "author": "Dr. T. Hendriks (GP)",
+      "text": "Patient presented with elevated PSA of 5.1 ng/mL. Digital rectal examination was unremarkable. Referred to urology for further evaluation including mpMRI and biopsy."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Sep 2023",
+      "val": 3.0
+    },
+    {
+      "date": "Feb 2024",
+      "val": 5.1
+    },
+    {
+      "date": "Aug 2024",
+      "val": 8.8
+    },
+    {
+      "date": "Jan 2025",
+      "val": 15.0
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "15.0 ng/mL",
+      "date": "18 Dec 2024",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "3.07 ng/mL",
+      "date": "18 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "20%",
+      "date": "18 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "14.0 g/dL",
+      "date": "18 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "4.8 x10^9/L",
+      "date": "18 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "262 x10^9/L",
+      "date": "18 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "86 umol/L",
+      "date": "18 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "18 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "18.9 nmol/L",
+      "date": "18 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "67 U/L",
+      "date": "18 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "163 U/L",
+      "date": "18 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "HbA1c",
+      "val": "6.2 %",
+      "date": "18 Dec 2024",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy timepoint 1: The specimen contains adenocarcinoma with a Gleason score of 3+3, corresponding to ISUP grade group 1. No cribriform or intraductal patterns identified. Perineural invasion is absent. The tumour is located in the transition zone, right.\n\nBiopsy timepoint 2: The specimen contains adenocarcinoma with a Gleason score of 3+4, corresponding to ISUP grade group 2. No cribriform or intraductal patterns identified. Perineural invasion is absent. The tumour is located in the transition zone, right.\n\nThe histological findings show an upgrade from ISUP grade group 1 to ISUP grade group 2 across the two biopsy timepoints.\n\nAI-predicted ISUP grade group (digital pathology): Timepoint 1 — grade group 3; Timepoint 2 — grade group 3."
+}

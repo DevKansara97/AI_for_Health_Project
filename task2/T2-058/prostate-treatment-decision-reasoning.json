@@ -1,0 +1,18 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "ct": "noted",
+    "psad": "not_used",
+    "comorbidity": "noted",
+    "bx_gl_sec": "decisive",
+    "age": "decisive",
+    "bx_gl_prim": "decisive",
+    "bx_isup": "decisive",
+    "cspca": "not_used",
+    "pirads": "important",
+    "psa": "important",
+    "fh": "important"
+  },
+  "reveal_sequence": [],
+  "free_text": "Young man with localised high risk PC"
+}

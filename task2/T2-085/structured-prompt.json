@@ -1,0 +1,72 @@
+{
+  "case_id": "T2-085",
+  "pid": "T2-085",
+  "task": 2,
+  "psa": 4.7,
+  "age": 82,
+  "months": 2,
+  "pirads": "5",
+  "psad": 0.13,
+  "psav": 0.75,
+  "psap": 3.5,
+  "vol": 37.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.8442101,
+  "medhx": "Hypertension, Coronary artery disease, Obesity (BMI >30), Osteoarthritis",
+  "meds": "valsartan, lisinopril, atorvastatin, metoprolol, paracetamol PRN",
+  "notes": "PSA 4.7 ng/mL. PI-RADS 5. PSAD 0.13. Prostate volume 37 mL. csPCa 0.84.",
+  "pmhx": [
+    "Hypertension",
+    "Coronary artery disease",
+    "Obesity (BMI >30)",
+    "Osteoarthritis"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "52 kg",
+    "height": "165 cm",
+    "bmi": "19.1",
+    "bp": "138/73 mmHg",
+    "hr": "60 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "12 Jan 2025",
+  "enc_ref": "Dr. F. de Boer (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for treatment planning following stable ISUP grade group 1 prostate cancer with high-risk histological features on repeat biopsy."
+    },
+    {
+      "s": "History",
+      "t": "The patient is an 82-year-old semi-retired harbour pilot living alone, with his adult daughter managing communications and medical correspondence. He has a history of hypertension, coronary artery disease, and osteoarthritis, managed with valsartan, lisinopril, atorvastatin, metoprolol, and paracetamol. He maintains an active lifestyle, running 5 km three times weekly, and consumes 8 units of alcohol per week. Recent appointments include a pain clinic visit for chronic shoulder pain and a sleep clinic evaluation for suspected obstructive sleep apnoea. He reports mild lower urinary tract symptoms with an IPSS score of 5/35. There is no history of haematuria, bone pain, or unexplained weight loss. His PSA has risen steadily from 1.4 ng/mL in March 2023 to 4.7 ng/mL in January 2025."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Digital rectal examination reveals a smooth, symmetrically enlarged prostate without discrete nodules or asymmetry, consistent with clinical stage cT1c. General examination shows a well-nourished patient with stable vital signs and no signs of lymphadenopathy or bone tenderness."
+    }
+  ],
+  "occupation": "harbour pilot (semi-retired)",
+  "marital": "Divorced",
+  "living": "Lives alone",
+  "next_of_kin": "Adult daughter (primary contact)",
+  "recent_other": [
+    "Pain clinic — chronic shoulder pain",
+    "Sleep clinic — suspected obstructive sleep apnoea"
+  ],
+  "alcohol": "8 units / week",
+  "exercise": "Running 3x/week, 5 km",
+  "ipss": "IPSS score: 5/35 (mild LUTS)",
+  "admin": "Daughter manages communication; CC on letters with patient consent.",
+  "mri_hospital": "Ziekenhuis Gelderse Vallei (Ede)",
+  "bx_isup": 1,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

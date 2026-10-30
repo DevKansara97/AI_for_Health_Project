@@ -1,0 +1,109 @@
+{
+  "radiology_report": "Imaging Department\nAntoni van Leeuwenhoek Hospital\nDate: 15 January 2025\nExamination: Multiparametric MRI of the prostate\n\nClinical indication: Prostate-specific antigen 8.8 ng/mL. Evaluation for suspected clinically significant prostate cancer.\n\nFINDINGS:\nThe prostate gland measures 98.0 mL in volume, demonstrating a predominantly benign nodular enlargement with prominent transition zone components. On T2-weighted imaging, a focal hypointense area is identified in the left apical region, extending into the peripheral and transition zones. This region demonstrates restricted diffusion on high b-value DWI sequences with corresponding early enhancement on dynamic contrast-enhanced sequences. No extraprostatic extension, seminal vesicle invasion, or suspicious lymphadenopathy is observed. The neurovascular bundles appear intact.\n\nIMPRESSION:\nFocal lesion in the left apex consistent with PI-RADS v2.1 category 4.\nProstate-specific antigen density: 0.09 ng/mL/mL.\nClinical T stage: cT1c.\ncsPCa predicted probability 0.61692226.",
+  "previous_notes": [
+    {
+      "date": "07 Sep 2023",
+      "author": "Dr. N. Kuiper (GP)",
+      "text": "Routine follow-up visit for blood pressure management and prostate monitoring. The patient reports feeling well with no new urinary complaints. Laboratory results from early August showed a prostate-specific antigen level of 1.6 ng/mL, representing a continued decline from previous measurements. Blood pressure remains adequately controlled on current antihypertensive therapy, and routine blood work was unremarkable."
+    },
+    {
+      "date": "31 Oct 2024",
+      "author": "Dr. N. Kuiper (GP)",
+      "text": "The patient presented for scheduled urological follow-up following his recent prostate biopsy. Histological results confirmed the presence of low-grade adenocarcinoma, which was discussed in detail during the consultation. A repeat prostate-specific antigen measurement in May returned at 1.3 ng/mL, consistent with the initial post-biopsy trajectory. Given the recent sharp rise in antigen levels, the patient has been referred to the urology outpatient clinic for comprehensive re-evaluation and multidisciplinary discussion."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Nov 2022",
+      "val": 7.5
+    },
+    {
+      "date": "Aug 2023",
+      "val": 1.6
+    },
+    {
+      "date": "May 2024",
+      "val": 1.3
+    },
+    {
+      "date": "Feb 2025",
+      "val": 8.8
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "8.8 ng/mL",
+      "date": "30 Jan 2025",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "1.12 ng/mL",
+      "date": "30 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "13%",
+      "date": "30 Jan 2025",
+      "flag": "L"
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "16.0 g/dL",
+      "date": "30 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "7.7 x10^9/L",
+      "date": "30 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "300 x10^9/L",
+      "date": "30 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "85 umol/L",
+      "date": "30 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "30 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "13.2 nmol/L",
+      "date": "30 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "61 U/L",
+      "date": "30 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "152 U/L",
+      "date": "30 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "HbA1c",
+      "val": "6.1 %",
+      "date": "30 Jan 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy Specimen - 12 October 2024\nHistological examination of the submitted prostate tissue cores reveals adenocarcinoma with a Gleason score of 3+4, corresponding to ISUP grade group 2. The malignant glands exhibit an acinar growth pattern. No cribriform or intraductal patterns identified. Perineural invasion is absent. The tumour location is noted within the peripheral zone / transition zone, apex left.\n\nAI-predicted ISUP grade group (digital pathology): grade group 3."
+}

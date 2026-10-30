@@ -1,0 +1,148 @@
+Overview
+
+  - 195 patients × 85 columns. There's one row per patient, and case_id equals folder.
+  - Only 91 patients have a label (56 are 1 and 35 are 0, so about 62% positive). The other 104 are NaN.
+    The 91 labelled patients are exactly the 91 in reasoning_audit.csv, so the label is a clinician's
+    biopsy decision. The audit text shows that label=0 means two different things: either "low risk, no
+    biopsy" or "cancer already confirmed, start treatment or a PSMA-PET instead". That matters for how
+    you model and interpret it.
+  - The label is noisy. In the audit, 18 of the 91 decisions are marked borderline and 15 uncertain. You
+    could use this as a sample weight.
+  - embeddings_mri.csv covers 191 of the 195 patients. Two of the four missing ones are labelled, so
+    you'll need to impute or drop them if you combine the files.
+
+  Things to be careful about
+
+  1. bx is not the target. It maps 1:1 onto enc_type: NaN = "Follow-up – PSA + MRI", Negative = "prior
+     negative biopsy", Positive = "prior PCa diagnosis". It's prior biopsy history. Keep one of the two
+     as a 3-level categorical, not both.
+  2. enc_type is probably your strongest context feature. About 54% of labelled patients already have a
+     PCa diagnosis, and for them "no biopsy" often means "treat now". It's worth adding interaction
+     features (e.g. prior PCa × PI-RADS, prior PCa × PSA).
+
+  Step 1: Drop columns
+
+  ┌───────────────────┬──────────────────────────────────────────────────────────────────────────────┐
+  │      Reason       │                                   Columns                                    │
+  ├───────────────────┼──────────────────────────────────────────────────────────────────────────────┤
+  │ 100% missing      │ ct, lab_wbc_flag, lab_platelets_flag, lab_testosterone_flag,                 │
+  │                   │ lab_alkaline_phosphatase_flag, lab_ldh_flag, lab_hba1c_flag                  │
+  ├───────────────────┼──────────────────────────────────────────────────────────────────────────────┤
+  │ Only one value    │ enc_dept, active_treatment_flag, lab_egfr (always 60), lab_egfr_flag         │
+  ├───────────────────┼──────────────────────────────────────────────────────────────────────────────┤
+  │ IDs or            │ folder, enc_date (all 2025), admin, next_of_kin, enc_ref (13 GP names, a     │
+  │ administrative    │ spurious-correlation risk with n=91)                                         │
+  ├───────────────────┼──────────────────────────────────────────────────────────────────────────────┤
+  │ Duplicates of     │ notes (a template string of psa/pirads/psad/vol/cspca), family_history_raw   │
+  │ another column    │ (→ fh), alcohol (→ alcohol_units_week), smoking (→ smoking_status +          │
+  │                   │ pack_years), lab_psa and psa_last (≈ psa, 94% and 99% identical)             │
+  ├───────────────────┼──────────────────────────────────────────────────────────────────────────────┤
+  │ Can be calculated │ psad = psa/vol (r = 0.9999), bmi from weight/height. Keep the ratio and drop │
+  │  from others      │  the raw parts, or keep both only for tree models.                           │
+  └───────────────────┴──────────────────────────────────────────────────────────────────────────────┘
+
+  Also look at mri_hospital (15 sites) and occupation/marital/living. They're unlikely to be causal, and
+  with 91 samples they mostly add noise. I'd leave them out at first.
+
+  Step 2: Handle missing values (most missingness carries information)
+
+  - *_flag labs (H/L or NaN): NaN means "within range", so encode as −1/0/+1. They're also redundant with
+    the numeric lab value, so you could drop them.
+  - smoking_pack_years (33% NaN): NaN = never-smoker, so fill with 0.
+  - meds (50% NaN), pmhx (46% NaN), and medhx ("Not reported"): treat missing as none. n_comorbidities
+    already summarises these. Optionally add a few binary flags (anticoagulant, 5-ARI, alpha-blocker).
+    5-ARIs like finasteride lower PSA, which is clinically relevant.
+  - lesion_max_mm (55% NaN): about 97 of those reports still describe a lesion size in radiology_report.
+    My quick regex didn't agree with the structured value, so it needs proper extraction from the
+    IMPRESSION or lesion sentence. Otherwise add a lesion_size_missing indicator.
+  - lab_hba1c (77% NaN): likely only measured in diabetics. Use a missing indicator plus median
+    imputation, or drop it.
+  - pirads: one row is NaN ("PI-RADS NA"). Impute it or flag it.
+  - lesion_zone: 7 NaN. Use an "unknown" category.
+
+  Step 3: Encode
+
+  - Ordinal: pirads (2–5), months.
+  - One-hot: enc_type, smoking_status, lesion_zone.
+  - dre: collapse to Normal / Abnormal (Abnormal + Nodus + Suspicious) / Not done. Some levels have only
+    1–4 patients.
+  - Binary: fh, extracapsular_ext, n_allergies.
+
+  Step 4: Clean the numeric columns
+
+  - Strong right skew in psa (up to 190), psad, psav, psap, psa_slope_per_step, psa_last_over_first, and
+    vol. Apply log1p (psav has 6 negative values, so use a signed log or clip at 0) and then a
+    RobustScaler/StandardScaler.
+  - cspca has 5 rows exactly equal to 0.0. That looks like a sentinel or failed model output rather than
+    a real probability. Check those rows and treat them as missing.
+  - psa_trend_values (a "4.2;2.8;0.6;4.7" string): psa_first/max/slope/ratio already summarise it. You
+    could add PSA doubling time or velocity (psav may already be this).
+
+  Step 5: Free-text fields
+
+  note_history, previous_notes, radiology_report, note_chief_complaint, and note_physical_examination are
+  unique per patient. The most valuable things to pull out are:
+  - Prior ISUP/Gleason grade. It's mentioned in about 28 records, and the audit shows clinicians lean on
+    it heavily ("has ISUP3 already → treat").
+  - Active surveillance status.
+  - Lesion growth compared with the previous MRI.
+  
+  Either use regex rules or embed the text with a sentence encoder and reduce it with PCA. With n=91,
+  avoid feeding raw TF-IDF into the model.
+
+  Step 6: Fit the preprocessing correctly
+
+  - Fit the imputers, scalers, and any PCA inside each CV fold (sklearn Pipeline + ColumnTransformer).
+    With 91 samples, fitting on all the data leaks noticeably.
+  - Use repeated stratified k-fold (e.g. 5×10) instead of a single split, and report AUC/balanced
+    accuracy, since the classes are 62/38.
+  - Leave the 104 unlabelled rows out of training (or use them only for semi-supervised experiments). The
+    audit columns (w_*, free_text) are post-decision annotations: don't use them as input features,
+    though they're useful for analysis or explanation.
+
+  If you'd like, I can implement this as a preprocess.py with an sklearn ColumnTransformer pipeline and a
+  cleaned features_clean.csv.
+
+-----------------------------------------------------------------------
+claude --resume 5b2a64d7-4ee6-4aa8-9e29-9a3941630319
+-----------------------------------------------------------------------
+
+dev-kansara@dev-kansara-HP-Laptop-15s-fr4xxx:~/Desktop/CSE624/Project/extracted/task2$ ls
+T2-001  T2-017  T2-033  T2-049  T2-065  T2-081  T2-097  T2-113  T2-129  T2-145
+T2-002  T2-018  T2-034  T2-050  T2-066  T2-082  T2-098  T2-114  T2-130  T2-146
+T2-003  T2-019  T2-035  T2-051  T2-067  T2-083  T2-099  T2-115  T2-131  T2-147
+T2-004  T2-020  T2-036  T2-052  T2-068  T2-084  T2-100  T2-116  T2-132  T2-148
+T2-005  T2-021  T2-037  T2-053  T2-069  T2-085  T2-101  T2-117  T2-133  T2-149
+T2-006  T2-022  T2-038  T2-054  T2-070  T2-086  T2-102  T2-118  T2-134  T2-150
+T2-007  T2-023  T2-039  T2-055  T2-071  T2-087  T2-103  T2-119  T2-135  T2-151
+T2-008  T2-024  T2-040  T2-056  T2-072  T2-088  T2-104  T2-120  T2-136  T2-152
+T2-009  T2-025  T2-041  T2-057  T2-073  T2-089  T2-105  T2-121  T2-137  T2-153
+T2-010  T2-026  T2-042  T2-058  T2-074  T2-090  T2-106  T2-122  T2-138
+T2-011  T2-027  T2-043  T2-059  T2-075  T2-091  T2-107  T2-123  T2-139
+T2-012  T2-028  T2-044  T2-060  T2-076  T2-092  T2-108  T2-124  T2-140
+T2-013  T2-029  T2-045  T2-061  T2-077  T2-093  T2-109  T2-125  T2-141
+T2-014  T2-030  T2-046  T2-062  T2-078  T2-094  T2-110  T2-126  T2-142
+T2-015  T2-031  T2-047  T2-063  T2-079  T2-095  T2-111  T2-127  T2-143
+T2-016  T2-032  T2-048  T2-064  T2-080  T2-096  T2-112  T2-128  T2-144
+dev-kansara@dev-kansara-HP-Laptop-15s-fr4xxx:~/Desktop/CSE624/Project/extracted/task2$ cd T2-001/
+dev-kansara@dev-kansara-HP-Laptop-15s-fr4xxx:~/Desktop/CSE624/Project/extracted/task2/T2-001$ ls
+prostate-modality-level-neural-representations.json
+prostate-treatment-decision-clinical-data.json
+prostate-treatment-decision.json
+prostate-treatment-decision-reasoning.json
+structured-prompt.json
+dev-kansara@dev-kansara-HP-Laptop-15s-fr4xxx:~/Desktop/CSE624/Project/extracted/task2/T2-001$ 
+
+I have attached 1 sample of all files for one person for your reference. The next task is After biopsy, integrate MRI findings, biopsy pathology whole-slide images, and PSA-related variables to recommend a management strategy, with guideline-based reasoning (EAU/NCCN).
+
+Input data
+structured-prompt.json: structured clinical variables, such as PSA, PSA density, PI-RADS category, biopsy ISUP grade group, primary and secondary Gleason patterns, comorbidities, and csPCa likelihood score
+prostate-treatment-decision-clinical-data.json: radiology report, biopsy pathology report, prior clinical notes, PSA trend, laboratory results, and family history
+prostate-modality-level-neural-representations.json: MRI and biopsy-slide neural representations 
+
+Output required
+Treatment recommendation, one of four categories: active_surveillance, active_treatment, continued_surveillance, watchful_waiting
+Structured reasoning including confidence in the treatment recommendation, the importance assigned to the relevant clinical variables, the clinical-data sections/tools accessed by the agent during the decision, and a free-text explanation of the main factors supporting or contradicting the chosen strategy.
+
+Ground truth: Derived retrospectively from biopsy histopathology and PSA-related clinical variables per EAU/NCCN guidelines.
+Expected output per case: Two JSON files (~5 KB) containing the treatment recommendation and structured reasoning trace.

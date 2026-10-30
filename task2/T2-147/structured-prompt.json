@@ -1,0 +1,68 @@
+{
+  "case_id": "T2-147",
+  "pid": "T2-147",
+  "task": 2,
+  "psa": 9.9,
+  "age": 67,
+  "months": 3,
+  "pirads": "2",
+  "psad": 0.19,
+  "psav": 3.49,
+  "psap": 2.5,
+  "vol": 50.0,
+  "dre": "Normal",
+  "bx": "Negative",
+  "cspca": 0.6607788,
+  "medhx": "Hypercholesterolaemia",
+  "meds": "atorvastatin",
+  "notes": "PSA 9.9 ng/mL. PI-RADS 2. PSAD 0.19. Prostate volume 50 mL. csPCa 0.66.",
+  "pmhx": [
+    "Hypercholesterolaemia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "82 kg",
+    "height": "175 cm",
+    "bmi": "26.8",
+    "bp": "112/77 mmHg",
+    "hr": "70 bpm",
+    "smoking": "Ex-smoker (35 pack-yr, quit 2016)",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "28 Jan 2025",
+  "enc_ref": "Dr. R. Visser (GP)",
+  "enc_type": "Re-evaluation - prior negative biopsy",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of persistently elevated prostate-specific antigen levels following a prior negative biopsy and recent multiparametric magnetic resonance imaging."
+    },
+    {
+      "s": "History",
+      "t": "This 67-year-old delivery driver presents for urological follow-up after a marked rise in prostate-specific antigen from 2.5 ng/mL in August to 9.9 ng/mL in January. He lives alone but maintains close contact with his unmarried partner, who serves as his primary next-of-kin and accompanies him to clinic visits. His medical history is notable for hypercholesterolaemia managed with daily atorvastatin, and he is an ex-smoker with a 35 pack-year history who successfully quit in 2016. Lower urinary tract symptoms are mild, and he maintains a sedentary baseline punctuated by daily 20-minute walks, though a recent mobility limitation necessitates the use of a walking frame and a ground-floor consultation room. He consumes approximately one unit of alcohol weekly and recently completed a routine chest radiograph that showed no acute cardiopulmonary abnormalities."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum, the prostate feels smooth, symmetrical, and non-tender with preserved central sulcus, correlating with a clinical T stage of cT1c. General examination reveals a well-nourished male with stable vital signs, clear respiratory fields, and regular cardiac rhythm. Abdominal inspection is unremarkable without palpable masses or organomegaly, and peripheral pulses are intact bilaterally."
+    }
+  ],
+  "occupation": "delivery driver",
+  "marital": "Living with partner (unmarried)",
+  "living": "Lives alone",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Radiology — chest X-ray (routine)"
+  ],
+  "alcohol": "1 units / week",
+  "exercise": "Walking 20 min/day",
+  "ipss": "IPSS score: 7/35 (mild LUTS)",
+  "admin": "Mobility limitation (frame); ground-floor consult room preferred.",
+  "mri_hospital": "Ziekenhuis Gelderse Vallei (Ede)",
+  "bx_isup": 0,
+  "bx_gl_prim": 0,
+  "bx_gl_sec": 0,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

@@ -1,0 +1,70 @@
+{
+  "case_id": "T2-006",
+  "pid": "T2-006",
+  "task": 2,
+  "psa": 13.5,
+  "age": 56,
+  "months": 3,
+  "pirads": "5",
+  "psad": 0.452,
+  "psav": 3.11,
+  "psap": 5.9,
+  "vol": 29.86,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.8947026,
+  "medhx": "Hypercholesterolaemia, Obesity (BMI >30), Osteoarthritis",
+  "meds": "atorvastatin, simvastatin, rosuvastatin",
+  "notes": "PSA 13.5 ng/mL. PI-RADS 5. PSAD 0.45. Prostate volume 30 mL. DRE nodus. csPCa 0.89.",
+  "pmhx": [
+    "Hypercholesterolaemia",
+    "Obesity (BMI >30)",
+    "Osteoarthritis"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "93 kg",
+    "height": "182 cm",
+    "bmi": "28.1",
+    "bp": "116/79 mmHg",
+    "hr": "68 bpm",
+    "smoking": "Ex-smoker (36 pack-yr, quit 2017)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "14 Jan 2025",
+  "enc_ref": "Dr. L. Smits (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for rising PSA and prior prostate cancer diagnosis to discuss treatment options."
+    },
+    {
+      "s": "History",
+      "t": "Recently retired mechanical engineer with a history of prostate cancer diagnosed via biopsy in 2022 (Gleason 3+3) and 2024 (Gleason 3+3). PSA has risen steadily from 4.8 ng/mL in September 2022 to 13.5 ng/mL in January 2025. Patient lives with partner, exercises by running 3x/week, and consumes 3 units of alcohol weekly. Comorbidities include hypercholesterolaemia (on atorvastatin, simvastatin, rosuvastatin), obesity, and osteoarthritis. Ex-smoker (36 pack-yr, quit 2017). No recent bone pain or haematuria. Dermatology follow-up for actinic keratosis check completed recently."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, a nodule is palpated in the mid right transition zone, consistent with cT2a staging. General examination reveals stable vital signs (BP 116/79 mmHg, HR 68 bpm) and no lymphadenopathy or organomegaly."
+    }
+  ],
+  "occupation": "retired mechanical engineer",
+  "marital": "Living with partner (unmarried)",
+  "living": "Lives with partner",
+  "next_of_kin": "Nephew",
+  "recent_other": [
+    "Dermatology — actinic keratosis check"
+  ],
+  "alcohol": "3 units / week",
+  "exercise": "Running 3x/week, 5 km",
+  "ipss": "IPSS score: 12/35 (moderate LUTS)",
+  "admin": "Patient anxious about procedures — allocate extra consult time.",
+  "mri_hospital": "OLVG (Amsterdam)",
+  "bx_isup": 1,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 3,
+  "ct": "cT2a",
+  "active_treatment_flag": 0
+}

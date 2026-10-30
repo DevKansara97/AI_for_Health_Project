@@ -1,0 +1,19 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "psa": "important",
+    "psad": "noted",
+    "vol": "noted",
+    "pirads": "decisive",
+    "dre": "noted",
+    "fh": "noted",
+    "comorbidity": "noted",
+    "cspca": "not_used",
+    "age": "important",
+    "bx": "noted"
+  },
+  "reveal_sequence": [
+    "radiology_report"
+  ],
+  "free_text": "Biopsy recommended (model risk score 0.74 vs decision threshold 0.48). Supporting this: PI-RADS 4 (18 mm lesion); PSA 18.0 ng/mL with rising velocity (+1.2); PSA density 0.19. Context: age 64; prostate volume 95 mL. Weighed against it: DRE normal. Based on the structured clinical variables and the MRI report."
+}

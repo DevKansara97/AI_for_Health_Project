@@ -1,0 +1,15 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "psa": "important",
+    "psad": "noted",
+    "comorbidity": "noted",
+    "cspca": "noted",
+    "ct": "important",
+    "age": "important",
+    "pirads": "important",
+    "fh": "noted"
+  },
+  "reveal_sequence": [],
+  "free_text": "Negative biopsy despite high PSA, no LUTS, Suspicious MRI. PSA surveillance"
+}

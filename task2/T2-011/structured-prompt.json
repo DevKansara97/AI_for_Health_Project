@@ -1,0 +1,69 @@
+{
+  "case_id": "T2-011",
+  "pid": "T2-011",
+  "task": 2,
+  "psa": 5.3,
+  "age": 69,
+  "months": 1,
+  "pirads": "4",
+  "psad": 0.1,
+  "psav": 1.07,
+  "psap": 4.1,
+  "vol": 48.0,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.40281674,
+  "medhx": "Osteoarthritis, Benign prostatic hyperplasia",
+  "meds": "paracetamol PRN, tamsulosin",
+  "notes": "PSA 5.3 ng/mL. PI-RADS 4. PSAD 0.10. Prostate volume 48 mL. DRE nodus. csPCa 0.40.",
+  "pmhx": [
+    "Osteoarthritis",
+    "Benign prostatic hyperplasia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "92 kg",
+    "height": "187 cm",
+    "bmi": "26.3",
+    "bp": "127/65 mmHg",
+    "hr": "71 bpm",
+    "smoking": "Ex-smoker (26 pack-yr, quit 2022)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "04 Jan 2025",
+  "enc_ref": "Dr. R. van den Berg (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for prostate cancer management following stable Gleason 3+4 disease on two biopsies."
+    },
+    {
+      "s": "History",
+      "t": "69-year-old retired bank clerk, married, living with partner. History of osteoarthritis and benign prostatic hyperplasia. Currently takes paracetamol PRN and tamsulosin. No known drug allergies. PSA has risen from 3.1 ng/mL in September 2023 to 5.3 ng/mL in January 2025. Underwent two prostate biopsies, both showing Gleason 3+4, ISUP grade group 2. Moderate lower urinary tract symptoms with an IPSS score of 11. Enjoys cycling twice weekly. Recent routine podiatry visit for foot care. Declined participation in research trials previously."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum, a distinct nodule is palpable in the right posterior prostate, consistent with cT2a disease. General examination is unremarkable with stable vital signs."
+    }
+  ],
+  "occupation": "retired bank clerk",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Podiatry — routine foot care"
+  ],
+  "alcohol": "1 units / week",
+  "exercise": "Cycling 2x/week, ~20 km",
+  "ipss": "IPSS score: 11/35 (moderate LUTS)",
+  "admin": "Patient declined research participation previously; respect for AS-related trials.",
+  "mri_hospital": "Amsterdam UMC (location VUmc)",
+  "bx_isup": 2,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 4,
+  "ct": "cT2a",
+  "active_treatment_flag": 0
+}

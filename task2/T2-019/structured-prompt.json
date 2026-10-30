@@ -1,0 +1,72 @@
+{
+  "case_id": "T2-019",
+  "pid": "T2-019",
+  "task": 2,
+  "psa": 6.9,
+  "age": 67,
+  "months": 2,
+  "pirads": "5",
+  "psad": 0.171,
+  "psav": 2.01,
+  "psap": 4.3,
+  "vol": 40.33,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.8314881,
+  "medhx": "Hypercholesterolaemia, Obesity (BMI >30), Osteoarthritis",
+  "meds": "None",
+  "notes": "PSA 6.9 ng/mL. PI-RADS 5. PSAD 0.17. Prostate volume 40 mL. DRE nodus. csPCa 0.83.",
+  "pmhx": [
+    "Hypercholesterolaemia",
+    "Obesity (BMI >30)",
+    "Osteoarthritis"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "80 kg",
+    "height": "177 cm",
+    "bmi": "25.5",
+    "bp": "139/72 mmHg",
+    "hr": "75 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "04 Jan 2025",
+  "enc_ref": "Dr. E. Mulder (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of prostate cancer diagnosis and discussion of treatment options."
+    },
+    {
+      "s": "History",
+      "t": "The patient is a 67-year-old retired electrical engineer who lives alone and is widowed. He reports a sedentary lifestyle with occasional walking and consumes 6 units of alcohol per week. Medical history includes hypercholesterolaemia, obesity, and osteoarthritis. He has no active medication and no known allergies. He recently attended an endocrine appointment for thyroid screening, an audiology appointment for a hearing test, and a pain clinic visit for chronic shoulder pain. His IPSS score is 10/35, indicating moderate lower urinary tract symptoms."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, a nodule is palpated in the right lobe of the prostate, consistent with clinical stage cT2. The prostate is otherwise smooth and non-tender. General examination is unremarkable with stable vital signs."
+    }
+  ],
+  "occupation": "retired electrical engineer",
+  "marital": "Widowed",
+  "living": "Lives alone",
+  "next_of_kin": "Adult son (primary contact)",
+  "recent_other": [
+    "Endocrine — thyroid screening",
+    "Audiology — hearing test",
+    "Pain clinic — chronic shoulder pain"
+  ],
+  "alcohol": "6 units / week",
+  "exercise": "Sedentary lifestyle, occasional walking",
+  "ipss": "IPSS score: 10/35 (moderate LUTS)",
+  "admin": "Interpreter: not required. Consent for data use: signed.",
+  "mri_hospital": "Antoni van Leeuwenhoek",
+  "bx_isup": 2,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 4,
+  "ct": "cT2",
+  "active_treatment_flag": 0
+}

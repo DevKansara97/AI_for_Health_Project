@@ -1,0 +1,98 @@
+{
+  "radiology_report": "Erasmus MC\nDepartment of Radiology\nDate: 15 January 2025\nExam: mpMRI Prostate (3T)\n\nClinical indication: Elevated PSA 4.53 ng/mL, prior biopsy Gleason 3+3. Assess for focal lesion.\n\nFINDINGS:\nProstate volume is 41.0 mL. The transition zone is unremarkable. In the peripheral zone, right posterolateral aspect, there is a focal lesion measuring approximately 12 mm in maximal diameter. This area demonstrates markedly restricted diffusion on DWI (b=1400), corresponding to a hypointense area on the apparent diffusion coefficient map. On T2-weighted imaging, the lesion appears as a distinct hypointense region. Dynamic contrast-enhanced sequences show early and intense focal enhancement. No extracapsular extension or seminal vesicle invasion is identified. No suspicious pelvic lymphadenopathy.\n\nIMPRESSION:\nPI-RADS 5 lesion in the right peripheral zone.\nPSA density 0.12 ng/mL/mL.\nClinical T stage cT1c.\ncsPCa predicted probability 0.84312165.",
+  "previous_notes": [
+    {
+      "date": "18 Aug 2023",
+      "author": "Dr. F. de Boer (GP)",
+      "text": "Patient presented with incidentally elevated PSA of 2.5 ng/mL. Digital rectal examination was unremarkable. Given the PSA level and age, a transrectal ultrasound-guided systematic biopsy was performed. Pathology returned showing Gleason 3+3, ISUP grade group 1, with noted cribriform pattern and IDC-P. Patient was informed of the findings and the presence of high-risk features. Active surveillance was discussed, but the patient expressed anxiety regarding the high-risk patterns and requested a second opinion on management options. Referred to urology for further evaluation and discussion of treatment pathways."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "May 2023",
+      "val": 2.5
+    },
+    {
+      "date": "Dec 2023",
+      "val": 1.5
+    },
+    {
+      "date": "Jul 2024",
+      "val": 2.5
+    },
+    {
+      "date": "Feb 2025",
+      "val": 4.53
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "4.5 ng/mL",
+      "date": "09 Jan 2025",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "1.23 ng/mL",
+      "date": "09 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "27%",
+      "date": "09 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "13.7 g/dL",
+      "date": "09 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "5.3 x10^9/L",
+      "date": "09 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "307 x10^9/L",
+      "date": "09 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "93 umol/L",
+      "date": "09 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "09 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "10.4 nmol/L",
+      "date": "09 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "83 U/L",
+      "date": "09 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "204 U/L",
+      "date": "09 Jan 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy timepoint 1 (August 2023):\nHistological examination of the prostate biopsy cores reveals adenocarcinoma with an acinar growth pattern. The Gleason score is 3+3, corresponding to ISUP grade group 1. High-risk features are present, specifically cribriform pattern and intraductal carcinoma (IDC-P). Perineural invasion is not observed. The tumour is located in the peripheral zone, right.\n\nBiopsy timepoint 2 (February 2025):\nHistological examination of the prostate biopsy cores reveals adenocarcinoma with an acinar growth pattern. The Gleason score is 3+3, corresponding to ISUP grade group 1. High-risk features are present, specifically cribriform pattern and intraductal carcinoma (IDC-P). Perineural invasion is not observed. The tumour is located in the peripheral zone, right.\n\nSummary: The histological trajectory across timepoints is stable, with persistent ISUP grade group 1 disease and consistent high-risk architectural patterns.\n\nAI-predicted ISUP grade group (digital pathology): grade group 4."
+}

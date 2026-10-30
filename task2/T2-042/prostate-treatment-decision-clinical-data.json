@@ -1,0 +1,94 @@
+{
+  "radiology_report": "Radboudumc\nDepartment of Radiology\nDate: 12 Feb 2025\nExam: Multiparametric MRI prostate\nClinical indication: PSA 11.0 ng/mL, prior negative biopsy, elevated PSA density.\nFINDINGS: Prostate volume measures 31.6 mL. On T2-weighted imaging, a focal hypo-intense lesion is identified in the peripheral zone of the left base, measuring approximately 12 mm. This area demonstrates restricted diffusion on DWI with corresponding high signal on the ADC map and early enhancement on DCE sequences.\nIMPRESSION: PI-RADS 5 lesion in the left peripheral zone. Prostate volume 31.6 mL. PSA density 0.35 ng/mL/mL. Clinical T stage cT1c. csPCa predicted probability 0.664.",
+  "previous_notes": [
+    {
+      "date": "28 Aug 2023",
+      "author": "Dr. S. de Vries (GP)",
+      "text": "Patient presented with a PSA of 4.3 ng/mL and a normal digital rectal examination. Initial multiparametric MRI was unremarkable. A systematic 12-core biopsy was performed, which showed no evidence of malignancy. The patient was advised to continue annual PSA monitoring."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Jan 2024",
+      "val": 4.3
+    },
+    {
+      "date": "Aug 2024",
+      "val": 6.9
+    },
+    {
+      "date": "Feb 2025",
+      "val": 11.0
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "11.0 ng/mL",
+      "date": "07 Jan 2025",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "2.63 ng/mL",
+      "date": "07 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "24%",
+      "date": "07 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "15.5 g/dL",
+      "date": "07 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "6.9 x10^9/L",
+      "date": "07 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "211 x10^9/L",
+      "date": "07 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "89 umol/L",
+      "date": "07 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "07 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "14.1 nmol/L",
+      "date": "07 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "82 U/L",
+      "date": "07 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "192 U/L",
+      "date": "07 Jan 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy 1 (Aug 2024): Microscopic examination of the prostate tissue cores reveals benign prostatic glands with no evidence of malignancy. The Gleason score is 0+0, corresponding to ISUP grade group 0. No cribriform or intraductal patterns are identified. Perineural invasion is absent.\nBiopsy 2 (Feb 2025): Histological review of the recent systematic and targeted cores shows benign prostatic tissue without carcinoma. The Gleason score is reported as 0+0 and ISUP grade group 0. No high-risk architectural patterns such as cribriform or intraductal carcinoma are visualized. Perineural invasion is not seen.\n\nAI-predicted ISUP grade group (digital pathology): grade group 3."
+}

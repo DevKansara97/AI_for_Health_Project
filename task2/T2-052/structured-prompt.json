@@ -1,0 +1,68 @@
+{
+  "case_id": "T2-052",
+  "pid": "T2-052",
+  "task": 2,
+  "psa": 12.3,
+  "age": 70,
+  "months": 1,
+  "pirads": "5",
+  "psad": 0.198,
+  "psav": 3.88,
+  "psap": 3.1,
+  "vol": 62.18,
+  "dre": "Abnormal",
+  "bx": "Positive",
+  "cspca": 0.8065341,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 12.3 ng/mL. PI-RADS 5. PSAD 0.20. Prostate volume 62 mL. DRE abnormal. csPCa 0.81.",
+  "pmhx": [],
+  "allergies": [
+    "Latex"
+  ],
+  "vitals": {
+    "weight": "80 kg",
+    "height": "188 cm",
+    "bmi": "22.6",
+    "bp": "128/89 mmHg",
+    "hr": "67 bpm",
+    "smoking": "Ex-smoker (34 pack-yr, quit 2019)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "29 Jan 2025",
+  "enc_ref": "Dr. M. Jansen (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for treatment planning following recent biopsy upgrade to ISUP grade group 2 prostate cancer."
+    },
+    {
+      "s": "History",
+      "t": "The patient is a 70-year-old self-employed carpenter who continues to work actively, cycling approximately 20 km twice weekly for fitness. He is married and lives with his partner, with his adult son serving as the primary contact for medical matters. He has a history of smoking (34 pack-years) but quit in 2019. He reports no current medication use and has no known comorbidities. His lower urinary tract symptoms are moderate, with an IPSS score of 11/35. He recently completed six sessions of physiotherapy for lower back issues, which are unrelated to his urological concerns. He prefers morning appointments due to reliance on public transport."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is enlarged and an abnormality is palpable, consistent with clinical stage cT1c. The general examination is unremarkable, with stable vital signs including a blood pressure of 128/89 mmHg and a heart rate of 67 bpm. The patient appears well-nourished with a BMI of 22.6."
+    }
+  ],
+  "occupation": "self-employed contractor (carpentry)",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Adult son (primary contact)",
+  "recent_other": [
+    "Physiotherapy — lower back, six sessions"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Cycling 2x/week, ~20 km",
+  "ipss": "IPSS score: 11/35 (moderate LUTS)",
+  "admin": "Patient prefers morning appointments (public transport).",
+  "mri_hospital": "Ziekenhuis Gelderse Vallei (Ede)",
+  "bx_isup": 2,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 4,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

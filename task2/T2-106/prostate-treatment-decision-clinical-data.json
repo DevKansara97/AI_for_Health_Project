@@ -1,0 +1,104 @@
+{
+  "radiology_report": "Jeroen Bosch Ziekenhuis ('s-Hertogenbosch)\nImaging Department\nDate: 15 Dec 2024\nExam: mpMRI Prostate\n\nClinical indication: Elevated PSA 7.3 ng/mL. Prior biopsy Gleason 3+4 (ISUP GG2).\n\nFINDINGS:\nProstate volume 64.0 mL. On T2-weighted imaging, a focal hypo-intense lesion is identified in the right peripheral zone, measuring approximately 18 x 14 x 12 mm. The lesion demonstrates restricted diffusion on high b-value DWI (b=1400) with corresponding hyperintensity on the ADC map. Dynamic contrast-enhanced (DCE) sequences show early, intense focal enhancement in the same region. No extracapsular extension or seminal vesicle invasion is visualized.\n\nIMPRESSION:\nPI-RADS 5 lesion in the right peripheral zone.\nPSA density: 0.11 ng/mL/mL.\nClinical stage: cT1c.\ncsPCa predicted probability: 0.854789.",
+  "previous_notes": [
+    {
+      "date": "22 Jan 2024",
+      "author": "Dr. H. Martens (GP)",
+      "text": "Patient presented with elevated PSA of 6.6 ng/mL. After discussion of the risks and benefits, a repeat prostate biopsy was scheduled. The patient was informed about the procedure and provided with pre-biopsy instructions. The daughter was copied on the referral letters as per the patient's request."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Jul 2022",
+      "val": 4.4
+    },
+    {
+      "date": "May 2023",
+      "val": 0.8
+    },
+    {
+      "date": "Mar 2024",
+      "val": 6.6
+    },
+    {
+      "date": "Jan 2025",
+      "val": 7.3
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "7.3 ng/mL",
+      "date": "18 Dec 2024",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "0.86 ng/mL",
+      "date": "18 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "12%",
+      "date": "18 Dec 2024",
+      "flag": "L"
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "14.8 g/dL",
+      "date": "18 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "6.2 x10^9/L",
+      "date": "18 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "219 x10^9/L",
+      "date": "18 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "86 umol/L",
+      "date": "18 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "18 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "12.6 nmol/L",
+      "date": "18 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "69 U/L",
+      "date": "18 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "177 U/L",
+      "date": "18 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "HbA1c",
+      "val": "6.2 %",
+      "date": "18 Dec 2024",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy 1 (Jul 2022): The histological examination reveals adenocarcinoma of the prostate. The Gleason score is 3+4, corresponding to ISUP grade group 2. The tumour exhibits an acinar growth pattern. A cribriform pattern is present. Perineural invasion is identified. The tumour is located in the peripheral zone, right.\n\nBiopsy 2 (Jan 2025): The histological examination reveals adenocarcinoma of the prostate. The Gleason score is 3+4, corresponding to ISUP grade group 2. The tumour exhibits an acinar growth pattern. A cribriform pattern is present. Perineural invasion is identified. The tumour is located in the peripheral zone, right.\n\nSummary: The histological findings remain stable across both biopsy timepoints, with persistent ISUP grade group 2 disease.\n\nAI-predicted ISUP grade group (digital pathology): grade group 3."
+}

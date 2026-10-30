@@ -1,0 +1,71 @@
+{
+  "case_id": "T2-141",
+  "pid": "T2-141",
+  "task": 2,
+  "psa": 7.0,
+  "age": 69,
+  "months": 3,
+  "pirads": "5",
+  "psad": 0.17,
+  "psav": 1.76,
+  "psap": 4.8,
+  "vol": 40.49,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.7916967,
+  "medhx": "Type 2 diabetes, Hypercholesterolaemia, Osteoarthritis",
+  "meds": "metformin, empagliflozin, simvastatin, rosuvastatin, paracetamol PRN",
+  "notes": "PSA 7 ng/mL. PI-RADS 5. PSAD 0.17. Prostate volume 40 mL. csPCa 0.79.",
+  "pmhx": [
+    "Type 2 diabetes",
+    "Hypercholesterolaemia",
+    "Osteoarthritis"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "95 kg",
+    "height": "180 cm",
+    "bmi": "29.3",
+    "bp": "147/79 mmHg",
+    "hr": "85 bpm",
+    "smoking": "Current smoker (17 pack-yr)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "15 Jan 2025",
+  "enc_ref": "Dr. R. van den Berg (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for treatment decision following prior prostate cancer diagnosis and recent PSA rise."
+    },
+    {
+      "s": "History",
+      "t": "Long-standing referral for prostate cancer management. Patient is a 69-year-old retired logistics manager with a history of type 2 diabetes, hypercholesterolaemia, and osteoarthritis. He is married and lives in an assisted-living facility. PSA trend shows progressive rise from 2.3 ng/mL in Jan 2023 to 7.0 ng/mL in Jan 2025. He reports moderate LUTS with IPSS 15/35. He smokes 17 pack-years and swims once weekly. Recent ophthalmology review for cataracts and quarterly diabetes nurse follow-up are noted. No bone pain or haematuria."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is smooth and symmetric with no palpable nodules, consistent with cT1c. General examination shows stable vitals with BP 147/79 mmHg and HR 85 bpm. No lymphadenopathy or edema."
+    }
+  ],
+  "occupation": "retired logistics manager",
+  "marital": "Married",
+  "living": "Lives in assisted-living facility",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Ophthalmology — cataract review",
+    "Diabetes nurse — quarterly review"
+  ],
+  "alcohol": "1 units / week",
+  "exercise": "Swimming 1x/week",
+  "ipss": "IPSS score: 15/35 (moderate LUTS)",
+  "admin": "Patient prefers morning appointments (public transport).",
+  "mri_hospital": "Ziekenhuis Gelderse Vallei (Ede)",
+  "bx_isup": 1,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

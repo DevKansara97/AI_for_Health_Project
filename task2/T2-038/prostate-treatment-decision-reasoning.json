@@ -1,0 +1,18 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "age": "important",
+    "psad": "noted",
+    "bx_gl_prim": "noted",
+    "ct": "noted",
+    "psa": "decisive",
+    "fh": "noted",
+    "cspca": "noted",
+    "bx_gl_sec": "noted",
+    "bx_isup": "decisive",
+    "comorbidity": "noted",
+    "pirads": "noted"
+  },
+  "reveal_sequence": [],
+  "free_text": "56 yo Patient with intermediate risk PCa, PSA 10,"
+}

@@ -1,0 +1,66 @@
+{
+  "case_id": "T2-074",
+  "pid": "T2-074",
+  "task": 2,
+  "psa": 6.9,
+  "age": 72,
+  "months": 2,
+  "pirads": "4",
+  "psad": 0.121,
+  "psav": 0.59,
+  "psap": 1.7,
+  "vol": 57.11,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.8325768,
+  "medhx": "Benign prostatic hyperplasia",
+  "meds": "None",
+  "notes": "PSA 6.9 ng/mL. PI-RADS 4. PSAD 0.12. Prostate volume 57 mL. csPCa 0.83.",
+  "pmhx": [
+    "Benign prostatic hyperplasia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "96 kg",
+    "height": "186 cm",
+    "bmi": "27.7",
+    "bp": "101/70 mmHg",
+    "hr": "60 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "18 Jan 2025",
+  "enc_ref": "Dr. E. Mulder (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of known prostate cancer to discuss treatment options following recent PSA rise and MRI findings."
+    },
+    {
+      "s": "History",
+      "t": "The patient is a 72-year-old retired primary school teacher who presents for re-evaluation of his prostate cancer diagnosis. He has a history of benign prostatic hyperplasia and has previously undergone a prostate biopsy which revealed ISUP grade group 2 disease. His PSA levels have fluctuated, with values of 5.8 ng/mL in February 2023, 1.7 ng/mL in February 2024, and a recent rise to 6.9 ng/mL in January 2025. He reports mild lower urinary tract symptoms with an IPSS score of 6/35. Socially, he is married but lives alone, with his niece as his next of kin. He enjoys playing tennis twice a week and consumes approximately 3 units of alcohol per week. He is a non-smoker and has no significant occupational exposures. He is currently not on any regular medications and has no known allergies."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is non-palpable with no nodularity or asymmetry detected, consistent with clinical stage cT1c. General examination reveals a well-nourished male with stable vital signs, including a blood pressure of 101/70 mmHg and a heart rate of 60 bpm. No lymphadenopathy or other abnormalities are noted on systemic review."
+    }
+  ],
+  "occupation": "retired primary school teacher",
+  "marital": "Married",
+  "living": "Lives alone",
+  "next_of_kin": "Niece",
+  "recent_other": [],
+  "alcohol": "3 units / week",
+  "exercise": "Tennis 2x/week",
+  "ipss": "IPSS score: 6/35 (mild LUTS)",
+  "admin": "Patient self-employed; flexible appointment slots requested.",
+  "mri_hospital": "Tergooi MC",
+  "bx_isup": 2,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 4,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

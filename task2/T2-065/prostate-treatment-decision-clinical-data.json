@@ -1,0 +1,98 @@
+{
+  "radiology_report": "Ziekenhuis Gelderse Vallei (Ede)\nDepartment of Radiology\nDate: 05 Jan 2025\nExam: mpMRI prostate\n\nClinical indication: Re-evaluation of known prostate cancer. PSA 68.0 ng/mL. Prior biopsy Gleason 4+3 ISUP GG3.\n\nFINDINGS:\nProstate volume is 58.83 mL. T2-weighted imaging demonstrates a large, irregular, hypointense lesion in the right peripheral zone, measuring approximately 32 mm in craniocaudal dimension. Diffusion-weighted imaging shows markedly restricted diffusion in this region. Dynamic contrast-enhanced sequences demonstrate early and intense enhancement of the lesion. There is clear evidence of extracapsular extension, with tumour tissue breaching the prostatic capsule laterally and abutting the neurovascular bundle. No suspicious lymphadenopathy or osseous metastases are identified.\n\nIMPRESSION:\nPI-RADS 5 lesion in the right peripheral zone with extracapsular extension. Clinical T stage cT3. PSA density 1.156 ng/mL/mL. csPCa predicted probability 0.8985173.",
+  "previous_notes": [
+    {
+      "date": "08 Oct 2024",
+      "author": "Dr. S. de Vries (GP)",
+      "text": "Patient presented for routine follow-up. PSA was measured at 16.3 ng/mL, showing a slight increase from previous values. Discussed the stability of the known prostate cancer diagnosis. Arranged for repeat PSA and clinical review in three months."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Oct 2022",
+      "val": 17.4
+    },
+    {
+      "date": "Jul 2023",
+      "val": 14.5
+    },
+    {
+      "date": "May 2024",
+      "val": 16.3
+    },
+    {
+      "date": "Feb 2025",
+      "val": 68.0
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "68.0 ng/mL",
+      "date": "05 Jan 2025",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "9.73 ng/mL",
+      "date": "05 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "14%",
+      "date": "05 Jan 2025",
+      "flag": "L"
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "15.0 g/dL",
+      "date": "05 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "7.1 x10^9/L",
+      "date": "05 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "240 x10^9/L",
+      "date": "05 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "96 umol/L",
+      "date": "05 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "05 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "15.4 nmol/L",
+      "date": "05 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "68 U/L",
+      "date": "05 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "175 U/L",
+      "date": "05 Jan 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "Unknown",
+  "pathology_report": "Biopsy timepoint 1 (oldest):\nHistological examination of the prostate tissue reveals acinar adenocarcinoma. The Gleason score is 4+3, corresponding to ISUP grade group 3. Perineural invasion is present. The tumour is located in the right side of the gland. No cribriform or intraductal patterns are identified.\n\nBiopsy timepoint 2 (latest):\nHistological examination of the prostate tissue reveals acinar adenocarcinoma. The Gleason score is 4+3, corresponding to ISUP grade group 3. Perineural invasion is present. The tumour is located in the right side of the gland. No cribriform or intraductal patterns are identified.\n\nThe histological grade has remained stable across the two biopsy timepoints.\n\nAI-predicted ISUP grade group (digital pathology): grade group 5."
+}

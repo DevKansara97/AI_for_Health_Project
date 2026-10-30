@@ -1,0 +1,99 @@
+{
+  "radiology_report": "Ziekenhuis Gelderse Vallei (Ede)\nDepartment of Radiology\nDate: 15 January 2025\nExam: Multiparametric MRI prostate\n\nClinical indication: Rising PSA to 9.9 ng/mL. Previous biopsy negative. Request for lesion characterization and PI-RADS scoring.\n\nFINDINGS: Prostate volume measures 50.0 mL. The transition zone demonstrates benign nodular enlargement without suspicious diffusion restriction. No suspicious focal lesion is identified. A small, non-suspicious area measuring 6 mm is located in the left posterolateral peripheral zone, showing mildly increased T2 signal and no appreciable restriction on diffusion-weighted imaging or enhancement on dynamic contrast sequences. The neurovascular bundles are symmetric and intact. No suspicious pelvic lymphadenopathy or osseous lesions are visualized within the field of view.\n\nIMPRESSION: Multiparametric MRI of the prostate demonstrates peripheral zone findings classified as PI-RADS 2. Prostate volume is 50.0 mL, yielding a PSA density of 0.19 ng/mL/mL. Clinical T stage is cT1c. csPCa predicted probability 0.6607788.",
+  "previous_notes": [
+    {
+      "date": "03 Feb 2024",
+      "author": "Dr. R. Visser (GP)",
+      "text": "Routine screening visit documented a prostate-specific antigen level of 3.1 ng/mL, which remained within age-adjusted reference ranges. Digital rectal examination was unremarkable, and the patient reported only mild lower urinary tract symptoms with an IPSS of 7. Given the stable biochemical profile and absence of clinical concerns, routine annual monitoring was scheduled."
+    },
+    {
+      "date": "02 Jun 2024",
+      "author": "Dr. R. Visser (GP)",
+      "text": "Follow-up consultation noted a repeat PSA of 2.5 ng/mL, showing a slight decrease from the previous measurement. The patient remained asymptomatic regarding urinary function, and no new comorbidities were reported. A systematic prostate biopsy was subsequently arranged to further evaluate baseline risk, with tissue processing initiated at the time of this visit."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Feb 2024",
+      "val": 3.1
+    },
+    {
+      "date": "Aug 2024",
+      "val": 2.5
+    },
+    {
+      "date": "Jan 2025",
+      "val": 9.9
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "9.9 ng/mL",
+      "date": "09 Jan 2025",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "2.03 ng/mL",
+      "date": "09 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "20%",
+      "date": "09 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "15.7 g/dL",
+      "date": "09 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "7.7 x10^9/L",
+      "date": "09 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "229 x10^9/L",
+      "date": "09 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "99 umol/L",
+      "date": "09 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "09 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "14.5 nmol/L",
+      "date": "09 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "53 U/L",
+      "date": "09 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "171 U/L",
+      "date": "09 Jan 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Histological examination of the prostate tissue specimens obtained via transrectal ultrasound-guided systematic biopsy reveals benign prostatic hyperplasia and focal chronic inflammation. No malignant glands are identified. The Gleason score is reported as 0+0, corresponding to ISUP grade group 0. No cribriform or intraductal patterns identified. Perineural invasion is absent. This represents the initial biopsy performed to date, demonstrating a stable benign histological profile without evidence of carcinoma.\n\nAI-predicted ISUP grade group (digital pathology): grade group 0."
+}

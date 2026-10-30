@@ -1,0 +1,68 @@
+{
+  "case_id": "T2-128",
+  "pid": "T2-128",
+  "task": 2,
+  "psa": 8.3,
+  "age": 66,
+  "months": 3,
+  "pirads": "5",
+  "psad": 0.215,
+  "psav": 0.73,
+  "psap": 0.7,
+  "vol": 38.54,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.86351734,
+  "medhx": "polineuropathie beide onderbenen",
+  "meds": "ciprofloxacine",
+  "notes": "PSA 8.3 ng/mL. PI-RADS 5. PSAD 0.21. Prostate volume 39 mL. DRE nodus. csPCa 0.86.",
+  "pmhx": [
+    "polineuropathie beide onderbenen"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "69 kg",
+    "height": "176 cm",
+    "bmi": "22.3",
+    "bp": "123/58 mmHg",
+    "hr": "73 bpm",
+    "smoking": "Current smoker (30 pack-yr)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "10 Feb 2025",
+  "enc_ref": "Dr. K. Bakker (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for treatment planning following a dramatic PSA rise and biopsy-proven progression to ISUP Grade Group 4 prostate cancer with local extension."
+    },
+    {
+      "s": "History",
+      "t": "This 66-year-old male is a self-employed carpenter who presents with a concerning biochemical and histological progression of his known prostate cancer. His PSA levels were previously stable, dropping to 0.7 ng/mL in March 2024, but have now surged to 8.3 ng/mL in February 2025. He reports moderate lower urinary tract symptoms (IPSS 14/35) but denies bone pain, hematuria, or systemic symptoms such as weight loss or fever. Socially, he is married but lives alone, preferring phone follow-up due to his residence being over 90 minutes from the clinic. He is a current smoker with a 30 pack-year history and consumes approximately 17 units of alcohol per week. He remains physically active, cycling five times a week for commuting. Recent audiology evaluations were conducted for hearing concerns, unrelated to his urological care. He has a history of polyneuropathy in both lower legs and is currently taking ciprofloxacin. He has no known drug allergies."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Digital rectal examination reveals a hard, irregular nodule in the right mid-base of the prostate, with loss of the median sulcus and fixation suggestive of extracapsular extension (cT3b). The abdomen is soft and non-tender, with no palpable lymphadenopathy. General examination is unremarkable, with stable vital signs and no signs of acute distress."
+    }
+  ],
+  "occupation": "self-employed contractor (carpentry)",
+  "marital": "Married",
+  "living": "Lives alone",
+  "next_of_kin": "Sibling (brother)",
+  "recent_other": [
+    "Audiology — hearing test"
+  ],
+  "alcohol": "17 units / week",
+  "exercise": "Cycling 5x/week (commuter)",
+  "ipss": "IPSS score: 14/35 (moderate LUTS)",
+  "admin": "Lives >90 min from clinic; phone follow-up preferred where clinically safe.",
+  "mri_hospital": "Amsterdam UMC (location VUmc)",
+  "bx_isup": 4,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 5,
+  "ct": "cT3b",
+  "active_treatment_flag": 0
+}

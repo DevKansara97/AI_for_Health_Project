@@ -1,0 +1,15 @@
+{
+  "confidence": "borderline",
+  "variable_weights": {
+    "comorbidity": "noted",
+    "ct": "noted",
+    "age": "important",
+    "fh": "noted",
+    "pirads": "important",
+    "psa": "noted",
+    "psad": "noted",
+    "cspca": "important"
+  },
+  "reveal_sequence": [],
+  "free_text": "A re-biopsy is recommended. If negative, continue Active surveillance with regular MRI imaging"
+}

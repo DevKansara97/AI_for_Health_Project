@@ -1,0 +1,107 @@
+{
+  "radiology_report": "Amsterdam UMC (location VUmc)\nRadiology Dept\nDate: 10 Jan 2025\nExam: mpMRI prostate\n\nClinical indication: Rising PSA trend with PSA 5.5 ng/mL and PSA density 0.11 ng/mL/mL. Prior biopsy Gleason 4+3.\n\nFINDINGS:\nProstate volume measures 48.0 mL. On T2-weighted imaging, a focal area of low signal intensity is identified in the right peripheral zone at the apex, measuring approximately 12 x 9 mm. This lesion demonstrates restricted diffusion on DWI (b=1400) and early enhancement on DCE sequences. No extracapsular extension or seminal vesicle involvement is visualized. No suspicious lymph nodes or distant metastases are identified.\n\nIMPRESSION:\nPI-RADS v2.1 score 4 lesion in the right peripheral zone apex.\nPSA density: 0.11 ng/mL/mL.\nClinical stage: cT1c.\ncsPCa predicted probability 0.6454933.",
+  "previous_notes": [
+    {
+      "date": "27 Feb 2023",
+      "author": "Dr. K. Bakker (GP)",
+      "text": "27 Feb 2023 - Dr. K. Bakker (GP):\nPatient presented for routine screening. PSA measured at 1.3 ng/mL, within normal limits for age. Digital rectal examination was unremarkable. No urinary symptoms reported. Advised annual monitoring."
+    },
+    {
+      "date": "22 Feb 2024",
+      "author": "Dr. K. Bakker (GP)",
+      "text": "22 Feb 2024 - Dr. K. Bakker (GP):\nFollow-up visit with PSA now 5.3 ng/mL, a significant rise from previous value. Patient asymptomatic. Referred to urology for further evaluation and possible biopsy."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Jul 2023",
+      "val": 1.3
+    },
+    {
+      "date": "Dec 2023",
+      "val": 5.3
+    },
+    {
+      "date": "May 2024",
+      "val": 1.1
+    },
+    {
+      "date": "Sep 2024",
+      "val": 5.4
+    },
+    {
+      "date": "Feb 2025",
+      "val": 5.5
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "5.5 ng/mL",
+      "date": "30 Jan 2025",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "1.38 ng/mL",
+      "date": "30 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "25%",
+      "date": "30 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "13.9 g/dL",
+      "date": "30 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "6.3 x10^9/L",
+      "date": "30 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "248 x10^9/L",
+      "date": "30 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "162 umol/L",
+      "date": "30 Jan 2025",
+      "flag": "H"
+    },
+    {
+      "name": "eGFR",
+      "val": "<60 mL/min/1.73m2",
+      "date": "30 Jan 2025",
+      "flag": "L"
+    },
+    {
+      "name": "Testosterone",
+      "val": "15.7 nmol/L",
+      "date": "30 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "76 U/L",
+      "date": "30 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "179 U/L",
+      "date": "30 Jan 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "Unknown",
+  "pathology_report": "Biopsy timepoint 1:\nHistological examination of the prostate tissue reveals adenocarcinoma with a Gleason score of 4+3, corresponding to ISUP grade group 3. The dominant growth pattern consists of tubules and small fields to abortive tubules. No cribriform or intraductal patterns are identified. The tumour is located in the apex right.\n\nSummary:\nThe pathological findings remain consistent across the documented biopsy timepoint, with no further biopsies recorded for comparison in this narrative.\n\nAI-predicted ISUP grade group (digital pathology): grade group 4."
+}

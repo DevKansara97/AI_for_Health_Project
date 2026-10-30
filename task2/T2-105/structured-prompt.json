@@ -1,0 +1,71 @@
+{
+  "case_id": "T2-105",
+  "pid": "T2-105",
+  "task": 2,
+  "psa": 5.0,
+  "age": 67,
+  "months": 1,
+  "pirads": "4",
+  "psad": 0.141,
+  "psav": 1.07,
+  "psap": 3.3,
+  "vol": 35.45,
+  "dre": "Suspicious",
+  "bx": "Positive",
+  "cspca": 0.7376658,
+  "medhx": "Hypercholesterolaemia, Chronic kidney disease, Obesity (BMI >30)",
+  "meds": "None",
+  "notes": "PSA 5 ng/mL. PI-RADS 4. PSAD 0.14. Prostate volume 35 mL. DRE suspicious. csPCa 0.74.",
+  "pmhx": [
+    "Hypercholesterolaemia",
+    "Chronic kidney disease",
+    "Obesity (BMI >30)"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "71 kg",
+    "height": "185 cm",
+    "bmi": "20.7",
+    "bp": "135/63 mmHg",
+    "hr": "62 bpm",
+    "smoking": "Ex-smoker (10 pack-yr, quit 2017)",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "21 Jan 2025",
+  "enc_ref": "Dr. T. Hendriks (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for prior prostate cancer diagnosis with recent PSA rise to 5.0 ng/mL."
+    },
+    {
+      "s": "History",
+      "t": "Long-standing referral for prostate cancer management. The patient is a 67-year-old self-employed ICT consultant, married, living with his partner. He has a history of hypercholesterolaemia and chronic kidney disease, with a recent creatinine of 174 umol/L. He is an ex-smoker, having quit in 2017 after a 10 pack-year history. He exercises regularly, cycling approximately 30 km three times per week, and consumes minimal alcohol. He reports mild lower urinary tract symptoms with an IPSS score of 3/35. He recently attended the sleep clinic for suspected obstructive sleep apnoea and has routine podiatry care."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum, the prostate feels firm with an irregular contour, consistent with a suspicious finding. General examination is unremarkable, with a BMI of 20.7 and stable vital signs including a blood pressure of 135/63 mmHg."
+    }
+  ],
+  "occupation": "ICT consultant",
+  "marital": "Married",
+  "living": "Lives with partner; adult children visit weekly",
+  "next_of_kin": "Adult daughter (primary contact)",
+  "recent_other": [
+    "Podiatry — routine foot care",
+    "Sleep clinic — suspected obstructive sleep apnoea"
+  ],
+  "alcohol": "1 units / week",
+  "exercise": "Cycling 3x/week, ~30 km",
+  "ipss": "IPSS score: 3/35 (mild LUTS)",
+  "admin": "Patient self-employed; flexible appointment slots requested.",
+  "mri_hospital": "Erasmus MC",
+  "bx_isup": 4,
+  "bx_gl_prim": 4,
+  "bx_gl_sec": 4,
+  "ct": "cTx",
+  "active_treatment_flag": 0
+}

@@ -1,0 +1,72 @@
+{
+  "case_id": "T2-099",
+  "pid": "T2-099",
+  "task": 2,
+  "psa": 86.0,
+  "age": 73,
+  "months": 3,
+  "pirads": "5",
+  "psad": 2.306,
+  "psav": 40.91,
+  "psap": 8.4,
+  "vol": 37.29,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.9527162,
+  "medhx": "Hypertension, COPD, Benign prostatic hyperplasia",
+  "meds": "None",
+  "notes": "PSA 86 ng/mL. PI-RADS 5. PSAD 2.31. Prostate volume 37 mL. DRE nodus. csPCa 0.95.",
+  "pmhx": [
+    "Hypertension",
+    "COPD",
+    "Benign prostatic hyperplasia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "72 kg",
+    "height": "182 cm",
+    "bmi": "21.7",
+    "bp": "137/86 mmHg",
+    "hr": "76 bpm",
+    "smoking": "Ex-smoker (23 pack-yr, quit 2005)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "05 Jan 2025",
+  "enc_ref": "Dr. R. van den Berg (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for treatment options following confirmation of high-grade prostate cancer on recent biopsy and markedly elevated PSA."
+    },
+    {
+      "s": "History",
+      "t": "The patient is a 73-year-old retired electrical engineer, married, living with his partner. He has a history of hypertension and COPD, managed with regular cardiology reviews. His prostate cancer journey began with a PSA of 4.4 ng/mL in April 2022, which rose to 19.4 ng/mL by March 2023, prompting a biopsy that revealed Gleason 4+4 adenocarcinoma. Despite a temporary PSA decline to 8.4 ng/mL in February 2024, the current PSA is 86.0 ng/mL, indicating disease progression. He reports mild lower urinary tract symptoms with an IPSS score of 6/35. He has limited mobility, performing only chair-based exercises, and is alcohol-free. Recent appointments include a stable cardiology review in autumn 2024, thyroid screening with endocrinology, and a sleep clinic evaluation for suspected obstructive sleep apnoea."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum, a firm nodule is palpable in the left lateral aspect of the prostate, consistent with a cT2 clinical stage. The patient is generally well-nourished, with stable vital signs and no signs of acute distress."
+    }
+  ],
+  "occupation": "retired electrical engineer",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Adult daughter (primary contact)",
+  "recent_other": [
+    "Cardiology — annual review (stable, autumn 2024)",
+    "Endocrine — thyroid screening",
+    "Sleep clinic — suspected obstructive sleep apnoea"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Limited mobility — chair-based exercises only",
+  "ipss": "IPSS score: 6/35 (mild LUTS)",
+  "admin": "Visual impairment: large-print correspondence requested.",
+  "mri_hospital": "UMCG (Groningen)",
+  "bx_isup": 4,
+  "bx_gl_prim": 4,
+  "bx_gl_sec": 4,
+  "ct": "cT2",
+  "active_treatment_flag": 0
+}

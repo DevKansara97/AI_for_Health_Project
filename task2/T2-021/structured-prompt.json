@@ -1,0 +1,68 @@
+{
+  "case_id": "T2-021",
+  "pid": "T2-021",
+  "task": 2,
+  "psa": 0.76,
+  "age": 68,
+  "months": 2,
+  "pirads": "4",
+  "psad": 0.02,
+  "psav": 0.11,
+  "psap": 0.7,
+  "vol": 36.0,
+  "dre": "Normal",
+  "bx": "Negative",
+  "cspca": 0.39141726,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 0.76 ng/mL. PI-RADS 4. PSAD 0.02. Prostate volume 36 mL. csPCa 0.39.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "76 kg",
+    "height": "172 cm",
+    "bmi": "25.7",
+    "bp": "136/69 mmHg",
+    "hr": "74 bpm",
+    "smoking": "Ex-smoker (21 pack-yr, quit 2010)",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "26 Feb 2025",
+  "enc_ref": "Dr. P. van Dijk (GP)",
+  "enc_type": "Re-evaluation - prior negative biopsy",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of discordant imaging and negative biopsy findings to determine the necessity of further diagnostic intervention or initiation of active surveillance."
+    },
+    {
+      "s": "History",
+      "t": "Recently retired retired carpenter with a history of mildly elevated PSA levels over the past three years, currently measuring 0.76 ng/mL. He reports no lower urinary tract symptoms, with an IPSS score of 5/35, and denies any haematuria, dysuria, or nocturia. He is married, lives with his partner, and remains socially active, engaging in swimming once a week. He quit smoking in 2010 after a 21 pack-year history and consumes approximately 2 units of alcohol per week. Recent appointments include an audiology hearing test, a routine dental check-up, and a flu vaccination administered by the practice nurse. He has no recorded comorbidities and takes no regular medications. He prefers morning appointments due to reliance on public transport."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is non-palpable, consistent with a clinical T stage of cT1c. General examination reveals a well-nourished man with stable vital signs, including a blood pressure of 136/69 mmHg and a heart rate of 74 bpm. There is no peripheral lymphadenopathy or signs of bone tenderness."
+    }
+  ],
+  "occupation": "retired carpenter",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Audiology — hearing test",
+    "Dental — biannual check-up",
+    "GP practice nurse — flu vaccination"
+  ],
+  "alcohol": "2 units / week",
+  "exercise": "Swimming 1x/week",
+  "ipss": "IPSS score: 5/35 (mild LUTS)",
+  "admin": "Patient prefers morning appointments (public transport).",
+  "mri_hospital": "Catharina Ziekenhuis (Eindhoven)",
+  "bx_isup": 0,
+  "bx_gl_prim": 0,
+  "bx_gl_sec": 0,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

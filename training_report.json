@@ -1,0 +1,46 @@
+{
+  "oof_auc": 0.7403061224489796,
+  "threshold": 0.48,
+  "conf_cuts": [
+    0.030180457325023335,
+    0.07539726902713817
+  ],
+  "conf_mode": "always_clear",
+  "cv_estimates_official_deterministic": {
+    "priors + always-clear": {
+      "task1_score": 0.656298389110889,
+      "mean_case_score": 0.5398695054945054,
+      "biopsy_F1": 0.7727272727272728,
+      "accuracy": 0.6703296703296703,
+      "confidence_score": 0.7868852459016393,
+      "variable_weight_score": 0.8657559198542805,
+      "important_decisive_factor_score": 0.7478402289877698,
+      "tool_score": 1.0,
+      "section_grounding_score": 0.625
+    },
+    "priors + heads + always-clear": {
+      "task1_score": 0.6573558964183963,
+      "mean_case_score": 0.54198452010952,
+      "biopsy_F1": 0.7727272727272728,
+      "accuracy": 0.6703296703296703,
+      "confidence_score": 0.7868852459016393,
+      "variable_weight_score": 0.8790528233151184,
+      "important_decisive_factor_score": 0.7449747277616129,
+      "tool_score": 1.0,
+      "section_grounding_score": 0.625
+    },
+    "priors + heads + confidence rule": {
+      "task1_score": 0.6517927096052095,
+      "mean_case_score": 0.5308581464831464,
+      "biopsy_F1": 0.7727272727272728,
+      "accuracy": 0.6703296703296703,
+      "confidence_score": 0.7131147540983607,
+      "variable_weight_score": 0.8790528233151184,
+      "important_decisive_factor_score": 0.7449747277616129,
+      "tool_score": 1.0,
+      "section_grounding_score": 0.625
+    }
+  },
+  "n_train": 91,
+  "note": "LLM rationale judge not available locally: scores exclude the rationale component."
+}

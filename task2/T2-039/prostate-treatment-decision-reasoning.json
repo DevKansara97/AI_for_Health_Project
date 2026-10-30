@@ -1,0 +1,15 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "age": "important",
+    "fh": "noted",
+    "comorbidity": "important",
+    "pirads": "important",
+    "ct": "important",
+    "cspca": "noted",
+    "psa": "decisive",
+    "psad": "noted"
+  },
+  "reveal_sequence": [],
+  "free_text": "Patient with high PSA with fluctuation. Low suspicious MRI, negative biopsy. Repeat PSA in 3 months"
+}

@@ -1,0 +1,18 @@
+{
+  "confidence": "borderline",
+  "variable_weights": {
+    "cspca": "not_used",
+    "age": "important",
+    "pirads": "important",
+    "bx_gl_sec": "noted",
+    "bx_isup": "important",
+    "bx_gl_prim": "noted",
+    "ct": "important",
+    "fh": "not_used",
+    "psad": "not_used",
+    "comorbidity": "important",
+    "psa": "important"
+  },
+  "reveal_sequence": [],
+  "free_text": "Patient with a preference for deferred treatment, PSA \u003e3 intermediate risk PCa. Discuss focal therapy vs radical prostatectomy"
+}

@@ -1,0 +1,18 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "bx_gl_sec": "noted",
+    "psa": "important",
+    "bx_isup": "important",
+    "fh": "noted",
+    "pirads": "noted",
+    "cspca": "not_used",
+    "psad": "noted",
+    "ct": "important",
+    "bx_gl_prim": "important",
+    "comorbidity": "noted",
+    "age": "decisive"
+  },
+  "reveal_sequence": [],
+  "free_text": "Shared decision-making regarding radical prostatectomy vs radiotherapy"
+}

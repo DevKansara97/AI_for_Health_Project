@@ -1,0 +1,99 @@
+{
+  "radiology_report": "Catharina Ziekenhuis (Eindhoven)\nImaging Department\nDate: 15 Jan 2025\nExam: mpMRI Prostate\n\nClinical indication: Rising PSA (8.4 ng/mL) with suspicious DRE. Prior negative biopsy in 2023. Evaluation for prostate cancer.\n\nFINDINGS:\nThe prostate volume measures 45.02 mL. T2-weighted imaging demonstrates a focal, ill-defined hypointense lesion within the peripheral zone of the mid left prostate, measuring approximately 12 mm in its greatest dimension. This lesion exhibits restricted diffusion on high b-value DWI (b=1400) with corresponding hyperintensity on the ADC map. Dynamic contrast-enhanced (DCE) sequences show early, focal enhancement corresponding to the DWI abnormality. No extracapsular extension or seminal vesicle invasion is identified. The central gland shows benign prostatic hyperplasia without focal suspicious lesions. No suspicious lymphadenopathy or osseous metastases are visualized.\n\nIMPRESSION:\nPI-RADS 4 lesion in the peripheral zone, mid left prostate.\nProstate volume: 45.02 mL.\nPSA density: 0.187 ng/mL/mL.\nClinical T stage: cT1c.\ncsPCa predicted probability 0.7531718",
+  "previous_notes": [
+    {
+      "date": "23 Jun 2024",
+      "author": "Dr. T. Hendriks (GP)",
+      "text": "Patient attended for routine follow-up. PSA was 1.4 ng/mL. Discussed ongoing surveillance plan. Referred to urology for re-evaluation given recent PSA rise and prior biopsy history."
+    },
+    {
+      "date": "01 Mar 2023",
+      "author": "Dr. T. Hendriks (GP)",
+      "text": "Patient presented for baseline screening. PSA measured at 0.8 ng/mL. Digital rectal examination was unremarkable. Discussed risk factors and surveillance strategy. Biopsy performed at this time showed no malignancy."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Mar 2023",
+      "val": 0.8
+    },
+    {
+      "date": "Mar 2024",
+      "val": 1.4
+    },
+    {
+      "date": "Feb 2025",
+      "val": 8.4
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "8.4 ng/mL",
+      "date": "22 Jan 2025",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "1.31 ng/mL",
+      "date": "22 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "16%",
+      "date": "22 Jan 2025",
+      "flag": "L"
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "15.2 g/dL",
+      "date": "22 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "6.4 x10^9/L",
+      "date": "22 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "237 x10^9/L",
+      "date": "22 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "88 umol/L",
+      "date": "22 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "22 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "12.2 nmol/L",
+      "date": "22 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "56 U/L",
+      "date": "22 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "178 U/L",
+      "date": "22 Jan 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy timepoint 1 (2023): The submitted tissue cores were reviewed and showed no evidence of malignancy. No cribriform or intraductal patterns were identified. Perineural invasion was absent.\n\nBiopsy timepoint 2 (2025): Histological examination reveals acinar adenocarcinoma. The Gleason score is 3+4, corresponding to ISUP grade group 2. No cribriform or intraductal patterns were identified. Perineural invasion is absent. The tumour is located in the peripheral zone, mid left.\n\nSummary: There is histological progression from a negative biopsy to ISUP grade group 2 disease.\n\nAI-predicted ISUP grade group (digital pathology): Timepoint 1 — grade group 1; Timepoint 2 — grade group 3."
+}

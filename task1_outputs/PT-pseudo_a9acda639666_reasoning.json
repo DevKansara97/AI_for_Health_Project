@@ -1,0 +1,21 @@
+{
+  "case_id": "PT-pseudo_a9acda639666",
+  "confidence": "clear",
+  "variable_importance": {
+    "psa": "not_used",
+    "psad": "not_used",
+    "vol": "not_used",
+    "pirads": "not_used",
+    "dre": "not_used",
+    "fh": "not_used",
+    "comorbidity": "not_used",
+    "cspca": "important",
+    "age": "not_used",
+    "bx": "decisive"
+  },
+  "sections_accessed": [
+    "previous_notes",
+    "laboratory_results"
+  ],
+  "explanation": "Biopsy recommended (risk score 0.76 >= decision threshold 0.64; confidence: clear). Main supporting factors: prior biopsy negative. Strongest factor pointing the other way: csPCa likelihood score 0.59. Sections informing this decision: previous_notes, laboratory_results."
+}

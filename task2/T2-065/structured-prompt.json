@@ -1,0 +1,68 @@
+{
+  "case_id": "T2-065",
+  "pid": "T2-065",
+  "task": 2,
+  "psa": 68.0,
+  "age": 73,
+  "months": 3,
+  "pirads": "5",
+  "psad": 1.156,
+  "psav": 26.62,
+  "psap": 16.3,
+  "vol": 58.83,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.8985173,
+  "medhx": "Inguinal hernial repair",
+  "meds": "None",
+  "notes": "PSA 68 ng/mL. PI-RADS 5. PSAD 1.16. Prostate volume 59 mL. DRE nodus. csPCa 0.90.",
+  "pmhx": [
+    "Inguinal hernial repair"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "74 kg",
+    "height": "183 cm",
+    "bmi": "22.1",
+    "bp": "120/80 mmHg",
+    "hr": "68 bpm",
+    "smoking": "Ex-smoker (21 pack-yr, quit 2016)",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "05 Feb 2025",
+  "enc_ref": "Dr. S. de Vries (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of known prostate cancer with recent marked PSA elevation to 68.0 ng/mL and MRI findings of extracapsular extension."
+    },
+    {
+      "s": "History",
+      "t": "Recently retired carpenter with a history of inguinal hernia repair. He lives in a ground-floor apartment with his partner and is an ex-smoker who quit in 2016. He remains active, cycling approximately 20 km twice weekly, and abstains from alcohol. He reports no lower urinary tract symptoms, with an IPSS score of 0. He has been attending physiotherapy for lower back issues, completing six sessions. He expresses significant anxiety regarding medical procedures, requesting additional time for consultations. His adult daughter is his primary contact for administrative matters."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On digital rectal examination, a firm nodule is palpable in the right lobe of the prostate, consistent with extracapsular extension and a clinical T stage of cT3. General examination reveals a well-nourished man with stable vital signs, blood pressure 120/80 mmHg, and heart rate 68 bpm. No lymphadenopathy or other abnormalities are noted."
+    }
+  ],
+  "occupation": "retired carpenter",
+  "marital": "Living with partner (unmarried)",
+  "living": "Lives in ground-floor apartment with partner",
+  "next_of_kin": "Adult daughter (primary contact)",
+  "recent_other": [
+    "Physiotherapy — lower back, six sessions"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Cycling 2x/week, ~20 km",
+  "ipss": "IPSS score: 0/35 (mild LUTS)",
+  "admin": "Patient anxious about procedures — allocate extra consult time.",
+  "mri_hospital": "Ziekenhuis Gelderse Vallei (Ede)",
+  "bx_isup": 3,
+  "bx_gl_prim": 4,
+  "bx_gl_sec": 3,
+  "ct": "cT3",
+  "active_treatment_flag": 0
+}

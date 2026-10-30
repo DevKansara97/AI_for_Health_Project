@@ -1,0 +1,69 @@
+{
+  "case_id": "T2-001",
+  "pid": "T2-001",
+  "task": 2,
+  "psa": 4.7,
+  "age": 67,
+  "months": 2,
+  "pirads": "2",
+  "psad": 0.14,
+  "psav": 1.17,
+  "psap": 3.6,
+  "vol": 33.46,
+  "dre": "Abnormal",
+  "bx": "Positive",
+  "cspca": 0.59620297,
+  "medhx": "Upper abdominal surgery",
+  "meds": "None",
+  "notes": "PSA 4.7 ng/mL. PI-RADS 2. PSAD 0.14. Prostate volume 33 mL. DRE abnormal. csPCa 0.60.",
+  "pmhx": [
+    "Upper abdominal surgery"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "100 kg",
+    "height": "193 cm",
+    "bmi": "26.8",
+    "bp": "135/87 mmHg",
+    "hr": "68 bpm",
+    "smoking": "Ex-smoker (27 pack-yr, quit 2017)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "27 Jan 2025",
+  "enc_ref": "Dr. R. Visser (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for prior prostate cancer diagnosis to determine optimal management strategy."
+    },
+    {
+      "s": "History",
+      "t": "Recently retired butcher with a history of upper abdominal surgery. Patient lives alone and is widowed, with spouse as primary next-of-kin. Alcohol intake is 3 units/week, and he walks 45 minutes daily. PSA trend shows steady rise from 1.6 ng/mL in Jan 2024 to 4.7 ng/mL in Jan 2025. IPSS score is 12/35, indicating moderate LUTS. Memory clinic screening and routine chest X-ray were recent unrelated appointments. No current medications or allergies reported."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is enlarged with an abnormal texture, consistent with cT1c staging. General examination shows stable vital signs and no acute distress."
+    }
+  ],
+  "occupation": "retired butcher",
+  "marital": "Widowed",
+  "living": "Lives alone",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Memory clinic — baseline screening",
+    "Radiology — chest X-ray (routine)"
+  ],
+  "alcohol": "3 units / week",
+  "exercise": "Walking 45 min/day",
+  "ipss": "IPSS score: 12/35 (moderate LUTS)",
+  "admin": "Interpreter (Arabic) requested for next visit.",
+  "mri_hospital": "Bravis Ziekenhuis",
+  "bx_isup": 1,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

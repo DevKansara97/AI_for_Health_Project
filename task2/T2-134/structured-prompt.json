@@ -1,0 +1,71 @@
+{
+  "case_id": "T2-134",
+  "pid": "T2-134",
+  "task": 2,
+  "psa": 6.1,
+  "age": 62,
+  "months": 1,
+  "pirads": "4",
+  "psad": 0.12,
+  "psav": 1.42,
+  "psap": 4.6,
+  "vol": 50.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.6372923,
+  "medhx": "Type 2 diabetes, COPD, Obesity (BMI >30), Osteoarthritis",
+  "meds": "metformin, empagliflozin, tiotropium, salbutamol PRN, paracetamol PRN",
+  "notes": "PSA 6.1 ng/mL. PI-RADS 4. PSAD 0.12. Prostate volume 50 mL. csPCa 0.64.",
+  "pmhx": [
+    "Type 2 diabetes",
+    "COPD",
+    "Obesity (BMI >30)",
+    "Osteoarthritis"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "70 kg",
+    "height": "183 cm",
+    "bmi": "20.9",
+    "bp": "125/73 mmHg",
+    "hr": "69 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "04 Jan 2025",
+  "enc_ref": "Dr. C. Peters (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for management of biopsy-proven prostate adenocarcinoma following recent PSA progression and MRI confirmation."
+    },
+    {
+      "s": "History",
+      "t": "Long-standing referral for prostate cancer management. The patient is a 62-year-old retired baker, married but currently living alone, with his adult daughter serving as the primary contact. He reports a sedentary lifestyle with only occasional walking and consumes no alcohol. His medical history is significant for type 2 diabetes managed with metformin and empagliflozin, COPD treated with tiotropium and salbutamol PRN, obesity, and osteoarthritis. He has mild lower urinary tract symptoms with an IPSS score of 3/35. Recent appointments include a vascular surgery consultation for varicose veins. He prefers phone follow-up due to living over 90 minutes from the clinic."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is smooth, symmetric, and non-tender, consistent with clinical stage cT1c. General examination reveals a stable patient with normal cardiopulmonary findings and no signs of metastatic disease. Vital signs are within normal limits, with blood pressure 125/73 mmHg and heart rate 69 bpm."
+    }
+  ],
+  "occupation": "retired baker",
+  "marital": "Married",
+  "living": "Lives alone; adult daughter is primary contact",
+  "next_of_kin": "Sibling (brother)",
+  "recent_other": [
+    "Vascular surgery — varicose veins consult"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Sedentary lifestyle, occasional walking",
+  "ipss": "IPSS score: 3/35 (mild LUTS)",
+  "admin": "Lives >90 min from clinic; phone follow-up preferred where clinically safe.",
+  "mri_hospital": "UMCG (Groningen)",
+  "bx_isup": 2,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 4,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

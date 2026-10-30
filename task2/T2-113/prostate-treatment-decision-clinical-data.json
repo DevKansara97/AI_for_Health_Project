@@ -1,0 +1,98 @@
+{
+  "radiology_report": "Amsterdam UMC (location AMC)\nDepartment of Radiology\nDate: 21 Nov 2024\nExam: mpMRI prostate\n\nClinical indication: PSA 8.7 ng/mL, prior biopsy Gleason 3+5. Evaluate for focal lesion and staging.\n\nFINDINGS:\nProstate volume measures 23.0 mL. T2-weighted imaging demonstrates a focal area of low signal intensity in the left peripheral zone extending into the adjacent transition zone, measuring approximately 14 x 12 mm. On diffusion-weighted imaging, this region shows marked restricted diffusion with corresponding low ADC values. Dynamic contrast-enhanced sequences reveal early, intense enhancement of the same focus. No extracapsular extension, seminal vesicle invasion, or suspicious lymphadenopathy is identified. The remainder of the gland appears unremarkable.\n\nIMPRESSION:\nFocal lesion in the left peripheral/transition zone, PI-RADS 5.\nProstate volume 23.0 mL, PSA density 0.4 ng/mL/mL.\nClinical stage cT1c.\ncsPCa predicted probability 0.8609265.",
+  "previous_notes": [
+    {
+      "date": "06 May 2024",
+      "author": "Dr. P. van Dijk (GP)",
+      "text": "06 May 2024 - Dr. P. van Dijk (GP): Patient presented for routine follow-up. PSA measured at 6.3 ng/mL, representing a rise from previous values. Discussed the recent biopsy results showing Gleason 3+5 disease. Referred to urology for specialist re-evaluation and management planning. Advised patient to monitor for any urinary or systemic symptoms in the interim."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Oct 2022",
+      "val": 5.8
+    },
+    {
+      "date": "Jul 2023",
+      "val": 1.6
+    },
+    {
+      "date": "Apr 2024",
+      "val": 6.3
+    },
+    {
+      "date": "Jan 2025",
+      "val": 8.7
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "8.7 ng/mL",
+      "date": "21 Nov 2024",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "1.29 ng/mL",
+      "date": "21 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "15%",
+      "date": "21 Nov 2024",
+      "flag": "L"
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "12.3 g/dL",
+      "date": "21 Nov 2024",
+      "flag": "L"
+    },
+    {
+      "name": "WBC",
+      "val": "8.8 x10^9/L",
+      "date": "21 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "200 x10^9/L",
+      "date": "21 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "145 umol/L",
+      "date": "21 Nov 2024",
+      "flag": "H"
+    },
+    {
+      "name": "eGFR",
+      "val": "<60 mL/min/1.73m2",
+      "date": "21 Nov 2024",
+      "flag": "L"
+    },
+    {
+      "name": "Testosterone",
+      "val": "16.0 nmol/L",
+      "date": "21 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "51 U/L",
+      "date": "21 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "193 U/L",
+      "date": "21 Nov 2024",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy specimen (oldest timepoint): Histological examination reveals adenocarcinoma of the prostate with a Gleason score of 3+5, corresponding to ISUP grade group 4. The tumour exhibits an acinar growth pattern, partly cribriform. A cribriform pattern is present as a high-risk feature. Perineural invasion is confirmed. The tumour is located in the peripheral zone and transition zone on the left side.\n\nBiopsy specimen (latest timepoint): Histological examination reveals adenocarcinoma of the prostate with a Gleason score of 3+5, corresponding to ISUP grade group 4. The tumour exhibits an acinar growth pattern, partly cribriform. A cribriform pattern is present as a high-risk feature. Perineural invasion is confirmed. The tumour is located in the peripheral zone and transition zone on the left side.\n\nSummary: The histological findings across timepoints remain stable, with persistent ISUP grade group 4 disease, cribriform architecture, and perineural invasion.\n\nAI-predicted ISUP grade group (digital pathology): grade group 5."
+}

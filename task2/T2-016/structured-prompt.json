@@ -1,0 +1,71 @@
+{
+  "case_id": "T2-016",
+  "pid": "T2-016",
+  "task": 2,
+  "psa": 13.6,
+  "age": 76,
+  "months": 3,
+  "pirads": "5",
+  "psad": 0.2,
+  "psav": 2.9,
+  "psap": 9.7,
+  "vol": 68.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.83881855,
+  "medhx": "Hypercholesterolaemia, Osteoarthritis",
+  "meds": "None",
+  "notes": "PSA 13.6 ng/mL. PI-RADS 5. PSAD 0.20. Prostate volume 68 mL. csPCa 0.84.",
+  "pmhx": [
+    "Hypercholesterolaemia",
+    "Osteoarthritis"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "92 kg",
+    "height": "176 cm",
+    "bmi": "29.7",
+    "bp": "130/61 mmHg",
+    "hr": "66 bpm",
+    "smoking": "Ex-smoker (11 pack-yr, quit 2021)",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "05 Jan 2025",
+  "enc_ref": "Dr. E. Mulder (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "The patient attends the urology clinic for multidisciplinary review of his prostate cancer management options following recent biochemical and histological reassessment."
+    },
+    {
+      "s": "History",
+      "t": "Recently retired carpenter presenting for treatment planning after a rapidly rising PSA trajectory over the past twelve months. He was initially diagnosed with low-grade prostatic adenocarcinoma on a mid-2024 biopsy, but subsequent serum markers have climbed from 2.4 ng/mL in January to 13.6 ng/mL currently, despite a transient dip in October. He manages hypercholesterolaemia and osteoarthritis with lifestyle modifications alone, having declined pharmacological therapy, and reports no active medication use or drug allergies. Socially, he is widowed but cohabits with his partner, who serves as his primary contact and travel companion for these lengthy clinic visits. He maintains an active routine, running five kilometres three times weekly, and abstains from alcohol entirely. Recent outpatient visits have addressed unrelated dermatological actinic keratoses and a vascular surgery consultation for symptomatic varicose veins, alongside a standard seasonal influenza vaccination administered by the practice nurse. His lower urinary tract symptoms remain minimal, with an IPSS score of 1, and he denies any nocturia, urgency, or voiding difficulties."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum, the prostate gland feels symmetrically enlarged but smooth and non-nodular, consistent with a clinical stage of cT1c. General examination reveals a comfortable, well-nourished gentleman with a blood pressure of 130/61 mmHg and a regular heart rate of 66 bpm. There is no peripheral oedema, and cardiovascular and respiratory systems are clear to auscultation."
+    }
+  ],
+  "occupation": "retired carpenter",
+  "marital": "Widowed",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "GP practice nurse — flu vaccination",
+    "Vascular surgery — varicose veins consult",
+    "Dermatology — actinic keratosis check"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Running 3x/week, 5 km",
+  "ipss": "IPSS score: 1/35 (mild LUTS)",
+  "admin": "Patient travels 60+ min by train to clinic; allow buffer.",
+  "mri_hospital": "Spaarne Gasthuis (Haarlem)",
+  "bx_isup": 1,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

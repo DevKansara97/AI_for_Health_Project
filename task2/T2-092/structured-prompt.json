@@ -1,0 +1,70 @@
+{
+  "case_id": "T2-092",
+  "pid": "T2-092",
+  "task": 2,
+  "psa": 31.0,
+  "age": 63,
+  "months": 1,
+  "pirads": "5",
+  "psad": 0.95,
+  "psav": 15.43,
+  "psap": 18.8,
+  "vol": 32.52,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.9289904,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 31 ng/mL. PI-RADS 5. PSAD 0.95. Prostate volume 33 mL. csPCa 0.93.",
+  "pmhx": [],
+  "allergies": [
+    "Penicillin (rash)"
+  ],
+  "vitals": {
+    "weight": "95 kg",
+    "height": "187 cm",
+    "bmi": "27.2",
+    "bp": "134/68 mmHg",
+    "hr": "61 bpm",
+    "smoking": "Ex-smoker (23 pack-yr, quit 2008)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "07 Jan 2025",
+  "enc_ref": "Dr. R. Visser (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Multidisciplinary consultation required to determine definitive management strategy following confirmation of high-grade prostate adenocarcinoma and rapid PSA progression."
+    },
+    {
+      "s": "History",
+      "t": "This 63-year-old retired police officer is referred for treatment decision-making after a biopsy-proven diagnosis of prostate cancer. His PSA has escalated dramatically from 3.1 ng/mL in February 2022 to 18.8 ng/mL in August 2023, and most recently to 31.0 ng/mL in January 2025. He reports moderate lower urinary tract symptoms, quantified by an IPSS score of 16, which has been stable over the past year. He is divorced but lives with a partner, and his adult son serves as his primary contact for medical matters. Socially, he consumes approximately two units of alcohol per week and maintains a daily walking routine of 20 minutes. He is an ex-smoker with a 23 pack-year history, having quit in 2008. Recent non-urological reviews include a stable cardiology assessment in autumn 2024, a surveillance colonoscopy, and a baseline screening at the memory clinic. He has no recorded comorbidities and takes no regular medication, though he has a known penicillin allergy causing a rash."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum, the prostate feels symmetrically enlarged but without discrete nodules or asymmetry, consistent with a clinical stage of cT1c. The general examination is unremarkable, with stable vital signs including a blood pressure of 134/68 mmHg and a heart rate of 61 bpm. There is no palpable lymphadenopathy or organomegaly on abdominal examination."
+    }
+  ],
+  "occupation": "retired police officer",
+  "marital": "Divorced",
+  "living": "Lives with partner; adult children visit weekly",
+  "next_of_kin": "Adult son (primary contact)",
+  "recent_other": [
+    "Gastroenterology — surveillance colonoscopy",
+    "Cardiology — annual review (stable, autumn 2024)",
+    "Memory clinic — baseline screening"
+  ],
+  "alcohol": "2 units / week",
+  "exercise": "Walking 20 min/day",
+  "ipss": "IPSS score: 16/35 (moderate LUTS)",
+  "admin": "Interpreter (Arabic) requested for next visit.",
+  "mri_hospital": "Amsterdam UMC (location AMC)",
+  "bx_isup": 3,
+  "bx_gl_prim": 4,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

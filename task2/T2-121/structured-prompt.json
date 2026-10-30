@@ -1,0 +1,69 @@
+{
+  "case_id": "T2-121",
+  "pid": "T2-121",
+  "task": 2,
+  "psa": 12.0,
+  "age": 60,
+  "months": 3,
+  "pirads": "5",
+  "psad": 0.28,
+  "psav": 5.11,
+  "psap": 6.9,
+  "vol": 42.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.8442586,
+  "medhx": "Benign prostatic hyperplasia",
+  "meds": "None",
+  "notes": "PSA 12 ng/mL. PI-RADS 5. PSAD 0.28. Prostate volume 42 mL. csPCa 0.84.",
+  "pmhx": [
+    "Benign prostatic hyperplasia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "80 kg",
+    "height": "179 cm",
+    "bmi": "25.0",
+    "bp": "129/76 mmHg",
+    "hr": "60 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "17 Jan 2025",
+  "enc_ref": "Dr. R. Visser (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Return to urology clinic for treatment planning following confirmation of persistent ISUP grade group 2 prostate cancer with high-risk morphological features."
+    },
+    {
+      "s": "History",
+      "t": "Recently retired factory supervisor with a known diagnosis of prostate cancer, currently presenting for re-evaluation of management options. The patient's PSA has risen steadily from 4.0 ng/mL in June 2022 to 6.9 ng/mL in September 2023, and most recently to 12.0 ng/mL in January 2025. He has no active medication and reports no allergies. His lower urinary tract symptoms are mild, with an IPSS score of 4/35. He is married but lives alone, and his spouse is his primary contact. He cycles approximately 20 km twice a week and consumes about 11 units of alcohol weekly. He is a non-smoker. Recent visits to the pain clinic for chronic shoulder pain and the sleep clinic for suspected obstructive sleep apnoea are ongoing but unrelated to his urological care."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum, the prostate feels symmetrically enlarged and smooth without palpable nodules or asymmetry, consistent with a clinical T1c stage. General examination is unremarkable with a BMI of 25.0, blood pressure 129/76 mmHg, and a heart rate of 60 bpm."
+    }
+  ],
+  "occupation": "factory supervisor",
+  "marital": "Married",
+  "living": "Lives alone",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Pain clinic — chronic shoulder pain",
+    "Sleep clinic — suspected obstructive sleep apnoea"
+  ],
+  "alcohol": "11 units / week",
+  "exercise": "Cycling 2x/week, ~20 km",
+  "ipss": "IPSS score: 4/35 (mild LUTS)",
+  "admin": "Patient self-employed; flexible appointment slots requested.",
+  "mri_hospital": "Erasmus MC",
+  "bx_isup": 2,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 4,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

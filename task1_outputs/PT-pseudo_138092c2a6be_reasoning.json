@@ -1,0 +1,22 @@
+{
+  "case_id": "PT-pseudo_138092c2a6be",
+  "confidence": "borderline",
+  "variable_importance": {
+    "psa": "decisive",
+    "psad": "not_used",
+    "vol": "not_used",
+    "pirads": "noted",
+    "dre": "not_used",
+    "fh": "not_used",
+    "comorbidity": "noted",
+    "cspca": "not_used",
+    "age": "noted",
+    "bx": "decisive"
+  },
+  "sections_accessed": [
+    "psa_trend",
+    "previous_notes",
+    "radiology_report"
+  ],
+  "explanation": "Biopsy recommended (risk score 0.67 >= decision threshold 0.64; confidence: borderline). Main supporting factors: 3 comorbidities; age 52. Strongest factor pointing the other way: PSA 9.0 ng/mL (velocity +1.1). Evidence is mixed, so the score is close to the decision threshold. Sections informing this decision: psa_trend, previous_notes, radiology_report."
+}

@@ -1,0 +1,70 @@
+{
+  "case_id": "T2-071",
+  "pid": "T2-071",
+  "task": 2,
+  "psa": 12.0,
+  "age": 63,
+  "months": 2,
+  "pirads": "5",
+  "psad": 0.173,
+  "psav": 1.88,
+  "psap": 7.7,
+  "vol": 69.24,
+  "dre": "Suspicious",
+  "bx": "Positive",
+  "cspca": 0.8477834,
+  "medhx": "TURT",
+  "meds": "None",
+  "notes": "PSA 12 ng/mL. PI-RADS 5. PSAD 0.17. Prostate volume 69 mL. DRE suspicious. csPCa 0.85.",
+  "pmhx": [
+    "TURT"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "87 kg",
+    "height": "173 cm",
+    "bmi": "29.1",
+    "bp": "145/81 mmHg",
+    "hr": "70 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "02 Feb 2025",
+  "enc_ref": "Dr. R. Visser (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of known prostate adenocarcinoma following recent PSA rise and repeat biopsy."
+    },
+    {
+      "s": "History",
+      "t": "The patient is a 63-year-old retired carpenter with a history of prostate cancer diagnosed on biopsy in June 2024. He resides independently in a retirement community and is married, with his wife as his primary contact. He has a medical history of TURT and is currently not on any active medication. His PSA has risen from 7.7 ng/mL in December 2023 to 12.0 ng/mL in February 2025. He plays tennis twice weekly and consumes approximately one unit of alcohol per week. Recent appointments include a stable cardiology review in autumn 2024 and routine dental and radiology checks. He reports moderate lower urinary tract symptoms with an IPSS score of 16/35. He travels over 60 minutes by train to the clinic for appointments."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On digital rectal examination, a suspicious nodule is palpated in the prostate, consistent with clinical stage cT1c. General examination reveals a well-nourished male with stable vital signs, including a blood pressure of 145/81 mmHg and heart rate of 70 bpm. No lymphadenopathy or abdominal masses are noted."
+    }
+  ],
+  "occupation": "retired carpenter",
+  "marital": "Married",
+  "living": "Lives in retirement community (independent unit)",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Cardiology — annual review (stable, autumn 2024)",
+    "Dental — biannual check-up",
+    "Radiology — chest X-ray (routine)"
+  ],
+  "alcohol": "1 units / week",
+  "exercise": "Tennis 2x/week",
+  "ipss": "IPSS score: 16/35 (moderate LUTS)",
+  "admin": "Patient travels 60+ min by train to clinic; allow buffer.",
+  "mri_hospital": "Radboudumc",
+  "bx_isup": 1,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

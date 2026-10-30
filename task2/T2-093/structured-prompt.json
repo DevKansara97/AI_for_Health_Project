@@ -1,0 +1,70 @@
+{
+  "case_id": "T2-093",
+  "pid": "T2-093",
+  "task": 2,
+  "psa": 7.0,
+  "age": 60,
+  "months": 3,
+  "pirads": "5",
+  "psad": 0.12,
+  "psav": 2.63,
+  "psap": 4.7,
+  "vol": 59.55,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.8517409,
+  "medhx": "Hypercholesterolaemia",
+  "meds": "simvastatin",
+  "notes": "PSA 7 ng/mL. PI-RADS 5. PSAD 0.12. Prostate volume 60 mL. DRE nodus. csPCa 0.85.",
+  "pmhx": [
+    "Hypercholesterolaemia"
+  ],
+  "allergies": [
+    "Iodinated contrast (mild)"
+  ],
+  "vitals": {
+    "weight": "76 kg",
+    "height": "188 cm",
+    "bmi": "21.5",
+    "bp": "120/74 mmHg",
+    "hr": "58 bpm",
+    "smoking": "Ex-smoker (38 pack-yr, quit 2020)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "21 Jan 2025",
+  "enc_ref": "Dr. L. Smits (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for treatment decision following confirmed high-grade prostate cancer on recent biopsy."
+    },
+    {
+      "s": "History",
+      "t": "The patient is a 60-year-old semi-retired harbour pilot with a history of hypercholesterolaemia managed with simvastatin. He presents for urological follow-up after a rising PSA trend was noted by his GP, culminating in a biopsy-confirmed prostate cancer diagnosis. He reports no significant lower urinary tract symptoms, with an IPSS score of 3/35, and denies any haematuria, bone pain, or unexplained weight loss. Socially, he is married but currently lives alone, with his adult son acting as his caregiver and holding lasting power of attorney. He maintains an active lifestyle, cycling five times a week for commuting, and consumes approximately seven units of alcohol weekly. He is an ex-smoker with a 38 pack-year history, having quit in 2020. Recent physiotherapy for lower back issues has been completed without complications."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum, a distinct nodule is palpable in the left mid-apical peripheral zone, consistent with clinical stage cT2a. General examination reveals a well-nourished male with stable vital signs, including a blood pressure of 120/74 mmHg and heart rate of 58 bpm. No lymphadenopathy or signs of metastatic disease are evident on physical assessment."
+    }
+  ],
+  "occupation": "harbour pilot (semi-retired)",
+  "marital": "Married",
+  "living": "Lives alone",
+  "next_of_kin": "Adult son (acts as caregiver, lasting power of attorney)",
+  "recent_other": [
+    "Physiotherapy — lower back, six sessions"
+  ],
+  "alcohol": "7 units / week",
+  "exercise": "Cycling 5x/week (commuter)",
+  "ipss": "IPSS score: 3/35 (mild LUTS)",
+  "admin": "Patient travels 60+ min by train to clinic; allow buffer.",
+  "mri_hospital": "Erasmus MC",
+  "bx_isup": 3,
+  "bx_gl_prim": 4,
+  "bx_gl_sec": 3,
+  "ct": "cT2a",
+  "active_treatment_flag": 0
+}

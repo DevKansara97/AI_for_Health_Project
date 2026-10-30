@@ -1,0 +1,103 @@
+{
+  "radiology_report": "Ziekenhuis Gelderse Vallei (Ede)\nDepartment of Radiology\nDate: 03 Dec 2024\nExam: mpMRI prostate\n\nClinical indication: Re-evaluation of rising PSA (6.2 ng/mL) and prior biopsy findings. Request for PI-RADS assessment.\n\nFINDINGS:\nMultiparametric MRI of the prostate was performed including T2-weighted, diffusion-weighted imaging (DWI), and dynamic contrast-enhanced (DCE) sequences. The prostate volume is 36.0 mL. A focal lesion is identified in the peripheral zone of the left posterior base, measuring approximately 12 mm in maximal dimension. On T2-weighted imaging, the lesion appears as a well-defined area of low signal intensity. DWI demonstrates marked restricted diffusion with high signal on b=1400 images and corresponding low ADC values. DCE sequences show early, rapid enhancement relative to surrounding tissue. No extracapsular extension or seminal vesicle involvement is identified. The transition zone is unremarkable. No suspicious lymphadenopathy or osseous metastases are seen within the field of view.\n\nIMPRESSION:\n- PI-RADS 5 lesion in the peripheral zone, left posterior base.\n- Prostate volume: 36.0 mL; PSA density: 0.17 ng/mL/mL.\n- Clinical stage cT1c.\n- csPCa predicted probability 0.86727.",
+  "previous_notes": [
+    {
+      "date": "22 Jul 2023",
+      "author": "Dr. M. Jansen (GP)",
+      "text": "Patient attended for routine review. PSA measured at 4.0 ng/mL, representing an increase from 3.2 ng/mL recorded in April 2022. Discussed the rising trend with the patient. Referred to urology for further assessment and possible biopsy."
+    },
+    {
+      "date": "14 Sep 2024",
+      "author": "Dr. M. Jansen (GP)",
+      "text": "Patient reviewed in clinic following prior biopsy results. Discussed the Gleason 4+5 findings and ISUP grade group 5 classification with the patient and his adult son. Outlined the implications of the high-grade disease and the need for a multidisciplinary team discussion regarding treatment options. Patient is keen to understand all available pathways."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Apr 2022",
+      "val": 3.2
+    },
+    {
+      "date": "Mar 2023",
+      "val": 4.0
+    },
+    {
+      "date": "Feb 2024",
+      "val": 5.0
+    },
+    {
+      "date": "Jan 2025",
+      "val": 6.22
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "6.2 ng/mL",
+      "date": "03 Dec 2024",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "1.22 ng/mL",
+      "date": "03 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "20%",
+      "date": "03 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "15.0 g/dL",
+      "date": "03 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "7.1 x10^9/L",
+      "date": "03 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "232 x10^9/L",
+      "date": "03 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "84 umol/L",
+      "date": "03 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "03 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "9.9 nmol/L",
+      "date": "03 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "80 U/L",
+      "date": "03 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "133 U/L",
+      "date": "03 Dec 2024",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy 1 (22 Jul 2023):\nHistological examination of the prostate tissue reveals adenocarcinoma. The Gleason score is 4+5, corresponding to ISUP grade group 5. A cribriform pattern is present. The tumour is located in the peripheral zone, left.\n\nSummary:\nThe histological findings across the single biopsy timepoint demonstrate high-grade disease with ISUP grade group 5 and cribriform architecture.\n\nAI-predicted ISUP grade group (digital pathology): grade group 5."
+}

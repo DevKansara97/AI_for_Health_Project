@@ -1,0 +1,68 @@
+{
+  "case_id": "T2-068",
+  "pid": "T2-068",
+  "task": 2,
+  "psa": 27.0,
+  "age": 69,
+  "months": 1,
+  "pirads": "5",
+  "psad": 0.459,
+  "psav": 10.62,
+  "psap": 15.9,
+  "vol": 58.78,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.8667895,
+  "medhx": "Obesity (BMI >30)",
+  "meds": "None",
+  "notes": "PSA 27 ng/mL. PI-RADS 5. PSAD 0.46. Prostate volume 59 mL. DRE nodus. csPCa 0.87.",
+  "pmhx": [
+    "Obesity (BMI >30)"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "66 kg",
+    "height": "186 cm",
+    "bmi": "19.1",
+    "bp": "118/85 mmHg",
+    "hr": "62 bpm",
+    "smoking": "Ex-smoker (38 pack-yr, quit 2005)",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "14 Jan 2025",
+  "enc_ref": "Dr. T. Hendriks (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for treatment decision following confirmed prostate cancer diagnosis and recent MRI findings."
+    },
+    {
+      "s": "History",
+      "t": "The patient is a 69-year-old office administrator with a history of prostate cancer diagnosed on biopsy in July 2023. He has been followed up with serial PSA measurements showing a rapid rise from 3.7 ng/mL in July 2022 to 27.0 ng/mL in January 2025. He is married and lives with his partner, who is his primary contact. He is an ex-smoker, having quit in 2005 after a 38 pack-year history. He does not consume alcohol and performs light weight-training twice a week. He reports mild lower urinary tract symptoms with an IPSS score of 3/35. He is currently under the care of a pain clinic for chronic shoulder pain. He has no active medications and no known allergies."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, a firm nodule is palpated with suspected extracapsular extension, consistent with clinical stage cT3a. General examination is unremarkable with stable vitals and no signs of metastatic disease."
+    }
+  ],
+  "occupation": "office administrator",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Pain clinic — chronic shoulder pain"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Light weight-training at home, 2x/week",
+  "ipss": "IPSS score: 3/35 (mild LUTS)",
+  "admin": "Hard of hearing — speak clearly; prefers written summaries.",
+  "mri_hospital": "Bravis Ziekenhuis",
+  "bx_isup": 2,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 4,
+  "ct": "cT3a",
+  "active_treatment_flag": 0
+}

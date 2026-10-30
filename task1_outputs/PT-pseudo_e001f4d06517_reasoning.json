@@ -1,0 +1,22 @@
+{
+  "case_id": "PT-pseudo_e001f4d06517",
+  "confidence": "uncertain",
+  "variable_importance": {
+    "psa": "decisive",
+    "psad": "not_used",
+    "vol": "noted",
+    "pirads": "not_used",
+    "dre": "not_used",
+    "fh": "not_used",
+    "comorbidity": "not_used",
+    "cspca": "not_used",
+    "age": "not_used",
+    "bx": "important"
+  },
+  "sections_accessed": [
+    "psa_trend",
+    "previous_notes",
+    "radiology_report"
+  ],
+  "explanation": "Biopsy recommended (risk score 0.65 >= decision threshold 0.64; confidence: uncertain). Strongest factor pointing the other way: PSA 4.5 ng/mL (velocity +0.2). The score is very close to the threshold or the models disagree; clinical review is advised. Sections informing this decision: psa_trend, previous_notes, radiology_report."
+}

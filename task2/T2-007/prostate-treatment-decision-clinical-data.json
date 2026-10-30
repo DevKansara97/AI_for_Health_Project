@@ -1,0 +1,103 @@
+{
+  "radiology_report": "Spaarne Gasthuis (Haarlem)\nRadiology Dept\nDate: 10 Jan 2025\nExam: mpMRI prostate\n\nClinical indication: Rising PSA (13.2 ng/mL) and abnormal DRE; prior biopsy confirmed ISUP GG2 disease.\n\nFINDINGS:\nThe prostate volume measures 96.0 mL. The transition zone shows benign nodular hyperplasia without focal restriction. In the peripheral zone, mid left, there is a focal area measuring approximately 12 x 10 x 11 mm. On T2-weighted imaging, this lesion appears as a subtle hypo-intense area. Diffusion-weighted imaging demonstrates marked restricted diffusion with high signal on b=1400 images and corresponding low ADC values. Dynamic contrast-enhanced sequences show early, rapid wash-in with persistent enhancement. The lesion abuts the anterior peripheral zone but does not breach the prostatic capsule. No seminal vesicle invasion is seen. No suspicious lymph nodes or distant metastases are identified.\n\nIMPRESSION:\nPI-RADS 4 lesion in the peripheral zone, mid left.\nPSAD: 0.14 ng/mL/mL.\nClinical stage: cT2a.\ncsPCa predicted probability 0.6351894.",
+  "previous_notes": [
+    {
+      "date": "19 Oct 2024",
+      "author": "Dr. C. Peters (GP)",
+      "text": "Patient returned for PSA monitoring. The latest value is 13.2 ng/mL, representing a sharp rise from 6.4 ng/mL in September. Given the prior biopsy diagnosis and the rapid PSA velocity, I have arranged for an urgent re-evaluation with urology to discuss definitive management options."
+    },
+    {
+      "date": "26 Aug 2023",
+      "author": "Dr. C. Peters (GP)",
+      "text": "Patient presented with a PSA of 2.5 ng/mL, which was reassuringly stable compared to the previous year. We discussed the recent biopsy results confirming ISUP GG2 prostate cancer. The patient expressed a strong preference to avoid immediate invasive treatment if oncologically safe, so we agreed on a close active surveillance protocol with 3-monthly PSA checks."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Dec 2023",
+      "val": 6.3
+    },
+    {
+      "date": "May 2024",
+      "val": 2.5
+    },
+    {
+      "date": "Sep 2024",
+      "val": 6.4
+    },
+    {
+      "date": "Feb 2025",
+      "val": 13.2
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "13.2 ng/mL",
+      "date": "19 Jan 2025",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "2.31 ng/mL",
+      "date": "19 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "18%",
+      "date": "19 Jan 2025",
+      "flag": "L"
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "15.8 g/dL",
+      "date": "19 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "8.1 x10^9/L",
+      "date": "19 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "214 x10^9/L",
+      "date": "19 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "89 umol/L",
+      "date": "19 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "19 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "16.9 nmol/L",
+      "date": "19 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "76 U/L",
+      "date": "19 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "166 U/L",
+      "date": "19 Jan 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy 1 (Aug 2023): The submitted prostate tissue cores demonstrate adenocarcinoma with a Gleason score of 3+4, corresponding to ISUP grade group 2. The malignant glands exhibit individual glandular tubules but focally also poorly formed, fusing glandular tubules. No cribriform or intraductal patterns identified. The tumour is located in the peripheral zone, mid left.\n\nBiopsy 2 (Oct 2024): Repeat systematic and targeted biopsy reveals adenocarcinoma with a Gleason score of 3+4, reported as ISUP grade group 2. The growth pattern consists of individual glandular tubules but focally also poorly formed, fusing glandular tubules. No cribriform or intraductal patterns identified. The tumour is located in the peripheral zone, mid left.\n\nSummary: Histological assessment across timepoints shows a stable Gleason 3+4 pattern with consistent peripheral zone localization.\n\nAI-predicted ISUP grade group (digital pathology): grade group 3."
+}

@@ -1,0 +1,15 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "ct": "noted",
+    "age": "important",
+    "psad": "noted",
+    "fh": "noted",
+    "pirads": "noted",
+    "cspca": "noted",
+    "comorbidity": "noted",
+    "psa": "important"
+  },
+  "reveal_sequence": [],
+  "free_text": "rising PSA to 9.2 ng/mL but two prior negative biopsies with chronic prostatitis."
+}

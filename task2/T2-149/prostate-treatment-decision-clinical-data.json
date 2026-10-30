@@ -1,0 +1,113 @@
+{
+  "radiology_report": "Amsterdam UMC (location VUmc)\nDepartment of Radiology\nDate: 06 Jan 2025\nExam: mpMRI Prostate\n\nClinical indication: Re-evaluation of elevated PSA 1.6 ng/mL with prior negative biopsy.\n\nFINDINGS: Prostate volume measures 32.0 mL. T2-weighted imaging demonstrates a symmetrically enlarged peripheral zone without focal zonal asymmetry or capsular bulging. Diffusion-weighted imaging shows homogeneous signal intensity throughout the gland with no areas of restricted diffusion. Dynamic contrast-enhanced sequences reveal uniform enhancement without early focal wash-in or persistent peripheral enhancement. The transition zone shows typical benign nodular enlargement without mass effect on the urethra. Neurovascular bundles appear intact. No suspicious lymphadenopathy or osseous metastases are identified.\n\nIMPRESSION: Benign-appearing prostate gland measuring 32.0 mL. PI-RADS v2.1 score: 2. PSA density 0.06 ng/mL/mL. Clinical stage cT1c. csPCa predicted probability 0.6872062.",
+  "previous_notes": [
+    {
+      "date": "08 Sep 2024",
+      "author": "Dr. F. de Boer (GP)",
+      "text": "Patient presented with newly elevated PSA of 1.1 ng/mL following routine screening. Digital rectal examination was unremarkable, and baseline renal function was documented as normal. Ultrasound-guided prostate biopsy was arranged to further characterize the gland, and the patient was advised to await histological results before initiating any symptomatic management."
+    },
+    {
+      "date": "17 Jan 2023",
+      "author": "Dr. F. de Boer (GP)",
+      "text": "Follow-up visit to review laboratory results showing a PSA of 0.9 ng/mL, with a free PSA fraction of 15%. The patient reported worsening lower urinary tract symptoms over the preceding months, prompting a trial of alpha-blocker therapy. Given the persistent fluctuation in serum markers and symptomatic burden, referral to the urology outpatient clinic was initiated for comprehensive re-evaluation."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Apr 2023",
+      "val": 1.1
+    },
+    {
+      "date": "Sep 2023",
+      "val": 0.7
+    },
+    {
+      "date": "Feb 2024",
+      "val": 1.2
+    },
+    {
+      "date": "Aug 2024",
+      "val": 0.9
+    },
+    {
+      "date": "Jan 2025",
+      "val": 1.6
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "1.6 ng/mL",
+      "date": "02 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Free PSA",
+      "val": "0.25 ng/mL",
+      "date": "02 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "15%",
+      "date": "02 Dec 2024",
+      "flag": "L"
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "14.4 g/dL",
+      "date": "02 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "7.2 x10^9/L",
+      "date": "02 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "221 x10^9/L",
+      "date": "02 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "94 umol/L",
+      "date": "02 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "02 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "15.5 nmol/L",
+      "date": "02 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "86 U/L",
+      "date": "02 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "154 U/L",
+      "date": "02 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "HbA1c",
+      "val": "5.5 %",
+      "date": "02 Dec 2024",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy Specimen - Initial Transrectal Ultrasound-Guided Sampling\nHistological examination of the submitted prostatic tissue cores reveals normal prostatic architecture with benign glandular elements and stromal tissue. No malignant glands are identified by conventional light microscopy. The Gleason score is reported as 0+0, corresponding to ISUP Grade Group 0. No high-risk morphological patterns are observed within the sampled tissue.\n\nSummary: The histological evaluation across the available sampling timepoint remains stable and benign by conventional criteria.\n\nAI-predicted ISUP grade group (digital pathology): grade group 5."
+}

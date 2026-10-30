@@ -1,0 +1,70 @@
+{
+  "case_id": "T2-081",
+  "pid": "T2-081",
+  "task": 2,
+  "psa": 5.8,
+  "age": 71,
+  "months": 2,
+  "pirads": "4",
+  "psad": 0.11,
+  "psav": 1.02,
+  "psap": 4.6,
+  "vol": 54.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.48268548,
+  "medhx": "Hypercholesterolaemia, Coronary artery disease",
+  "meds": "atorvastatin, rosuvastatin",
+  "notes": "PSA 5.8 ng/mL. PI-RADS 4. PSAD 0.11. Prostate volume 54 mL. csPCa 0.48.",
+  "pmhx": [
+    "Hypercholesterolaemia",
+    "Coronary artery disease"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "85 kg",
+    "height": "183 cm",
+    "bmi": "25.4",
+    "bp": "107/66 mmHg",
+    "hr": "74 bpm",
+    "smoking": "Ex-smoker (10 pack-yr, quit 2015)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "12 Jan 2025",
+  "enc_ref": "Dr. N. Kuiper (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of prostate cancer management options following rising PSA and persistent severe lower urinary tract symptoms."
+    },
+    {
+      "s": "History",
+      "t": "Recently retired farmer with a history of hypercholesterolaemia and coronary artery disease, currently managed on atorvastatin and rosuvastatin. He lives with his partner and remains active with light weight-training twice weekly. He reports severe lower urinary tract symptoms, with an IPSS score of 23/35, significantly impacting his quality of life. He has a history of anxiety regarding medical procedures and requests additional time for consultations. Recent dental check-ups and a vascular surgery consultation for varicose veins have been completed. He denies any bone pain, haematuria, or neurological symptoms. He continues to smoke occasionally but quit regular smoking in 2015 after a 10 pack-year history."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On digital rectal examination, the prostate is symmetrically enlarged, smooth, and non-tender, with no palpable nodules or asymmetry, consistent with clinical stage cT1c. General examination reveals a well-nourished man with normal cardiovascular and respiratory findings. Abdominal examination is unremarkable with no palpable masses or organomegaly."
+    }
+  ],
+  "occupation": "retired farmer",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Sibling (brother)",
+  "recent_other": [
+    "Dental — biannual check-up",
+    "Vascular surgery — varicose veins consult"
+  ],
+  "alcohol": "3 units / week",
+  "exercise": "Light weight-training at home, 2x/week",
+  "ipss": "IPSS score: 23/35 (severe LUTS)",
+  "admin": "Patient anxious about procedures — allocate extra consult time.",
+  "mri_hospital": "Spaarne Gasthuis (Haarlem)",
+  "bx_isup": 2,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 4,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

@@ -1,0 +1,18 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "psa": "important",
+    "bx_gl_sec": "noted",
+    "bx_gl_prim": "noted",
+    "pirads": "decisive",
+    "cspca": "important",
+    "comorbidity": "noted",
+    "ct": "decisive",
+    "fh": "not_used",
+    "age": "important",
+    "psad": "noted",
+    "bx_isup": "important"
+  },
+  "reveal_sequence": [],
+  "free_text": "Patient with favourable intermediate risk, rising PSA, palpable nodule. would discuss focal therapy given the concordance between MRI and Biopsy findings"
+}

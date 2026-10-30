@@ -1,0 +1,68 @@
+{
+  "case_id": "T2-143",
+  "pid": "T2-143",
+  "task": 2,
+  "psa": 4.1,
+  "age": 76,
+  "months": 1,
+  "pirads": "4",
+  "psad": 0.13,
+  "psav": 0.92,
+  "psap": 3.1,
+  "vol": 31.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.8615541,
+  "medhx": "Hypertension",
+  "meds": "valsartan, lisinopril",
+  "notes": "PSA 4.1 ng/mL. PI-RADS 4. PSAD 0.13. Prostate volume 31 mL. csPCa 0.86.",
+  "pmhx": [
+    "Hypertension"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "75 kg",
+    "height": "185 cm",
+    "bmi": "21.9",
+    "bp": "111/84 mmHg",
+    "hr": "71 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "10 Feb 2025",
+  "enc_ref": "Dr. H. Martens (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of known ISUP grade group 1 prostate cancer with rising PSA trend and PI-RADS 4 lesion to determine optimal management strategy."
+    },
+    {
+      "s": "History",
+      "t": "This 76-year-old male, a retired graphic designer, returns for urological follow-up of his prostate cancer diagnosis. He reports feeling generally well, with no new urinary complaints; his IPSS score remains at 7. He recently relocated and now lives with his sister, with his adult daughter acting as his primary contact for medical matters. His medical history is notable for hypertension, managed with valsartan and lisinopril, and he is a non-smoker. He maintains a light weight-training routine at home twice weekly and consumes approximately two units of alcohol per week. A recent surveillance colonoscopy at gastroenterology was unremarkable. He notes a steady rise in PSA from 2.4 ng/mL in January 2024 to 4.1 ng/mL currently, which prompted this re-evaluation."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is smooth, non-tender, and without palpable nodules or asymmetry, consistent with cT1c. General examination reveals a well-nourished male with stable vital signs, including a blood pressure of 111/84 mmHg and heart rate of 71 bpm. There is no peripheral edema or lymphadenopathy."
+    }
+  ],
+  "occupation": "graphic designer",
+  "marital": "Married",
+  "living": "Recently relocated; lives with sister",
+  "next_of_kin": "Adult daughter (primary contact)",
+  "recent_other": [
+    "Gastroenterology — surveillance colonoscopy"
+  ],
+  "alcohol": "2 units / week",
+  "exercise": "Light weight-training at home, 2x/week",
+  "ipss": "IPSS score: 7/35 (mild LUTS)",
+  "admin": "Interpreter (Arabic) requested for next visit.",
+  "mri_hospital": "UMCG (Groningen)",
+  "bx_isup": 1,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

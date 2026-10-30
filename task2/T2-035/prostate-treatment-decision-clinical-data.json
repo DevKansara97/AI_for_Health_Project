@@ -1,0 +1,109 @@
+{
+  "radiology_report": "Jeroen Bosch Ziekenhuis ('s-Hertogenbosch)\nImaging Department\nDate: 13 Feb 2025\nExam: mpMRI Prostate\n\nClinical indication: Elevated PSA 6.5 ng/mL, prior biopsy Gleason 3+3, assessment for PI-RADS.\n\nFINDINGS:\nProstate volume measures 59.14 mL. On T2-weighted imaging, a focal area of hypointensity is identified in the left peripheral zone, extending towards the apex. This region demonstrates restricted diffusion on DWI with corresponding early enhancement on DCE sequences. The lesion measures approximately 12 mm in greatest dimension. No evidence of extracapsular extension or seminal vesicle invasion is seen. No suspicious lymph nodes or bone lesions are identified.\n\nIMPRESSION:\nPI-RADS v2.1 category 4 lesion in the left peripheral zone/apex.\nPSA density: 0.11 ng/mL/mL.\nClinical stage: cT1c.\ncsPCa predicted probability 0.7465537.",
+  "previous_notes": [
+    {
+      "date": "16 Oct 2024",
+      "author": "Dr. L. Smits (GP)",
+      "text": "Patient presents for routine follow-up. PSA has risen to 5.3 ng/mL compared to 4.3 ng/mL in December 2023. Given the upward trend, a repeat multiparametric MRI and targeted biopsy were arranged. Patient reports stable moderate LUTS and continues cycling regularly. No new comorbidities."
+    },
+    {
+      "date": "18 Jun 2024",
+      "author": "Dr. L. Smits (GP)",
+      "text": "Patient returns with biopsy results showing Gleason 3+3, ISUP GG 1. He discusses the findings and expresses concern about the rising PSA. Re-evaluation in urology outpatient clinic is scheduled to discuss management options including active surveillance or intervention. Patient prefers phone follow-up where possible due to distance."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "May 2023",
+      "val": 3.5
+    },
+    {
+      "date": "Dec 2023",
+      "val": 4.3
+    },
+    {
+      "date": "Jul 2024",
+      "val": 5.3
+    },
+    {
+      "date": "Feb 2025",
+      "val": 6.5
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "6.5 ng/mL",
+      "date": "10 Jan 2025",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "0.84 ng/mL",
+      "date": "10 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "13%",
+      "date": "10 Jan 2025",
+      "flag": "L"
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "13.9 g/dL",
+      "date": "10 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "5.2 x10^9/L",
+      "date": "10 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "258 x10^9/L",
+      "date": "10 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "94 umol/L",
+      "date": "10 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "10 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "11.3 nmol/L",
+      "date": "10 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "61 U/L",
+      "date": "10 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "193 U/L",
+      "date": "10 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "HbA1c",
+      "val": "6.6 %",
+      "date": "10 Jan 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Timepoint 1 (18 Jun 2024): Systematic transrectal ultrasound-guided biopsy demonstrates acinar adenocarcinoma with a Gleason score of 3+3, corresponding to ISUP grade group 1. No cribriform or intraductal patterns identified. Perineural invasion is absent. Tumour is located bilaterally.\n\nTimepoint 2 (16 Oct 2024): Targeted and systematic biopsy reveals acinar adenocarcinoma with a Gleason score of 3+3, reported as ISUP grade group 1. No cribriform or intraductal patterns identified. The tumour is located in the transition zone and apex left.\n\nSummary: Histological progression is noted with a shift in tumour location, despite stable reported Gleason scoring.\n\nAI-predicted ISUP grade group (digital pathology): Timepoint 1 — grade group 4; Timepoint 2 — grade group 2."
+}

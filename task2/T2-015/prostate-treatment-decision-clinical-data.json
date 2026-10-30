@@ -1,0 +1,98 @@
+{
+  "radiology_report": "Spaarne Gasthuis (Haarlem)\nRadiology Dept\nDate: 20 Jan 2025\nExam: mpMRI prostate\n\nClinical indication: Rising PSA (190.0 ng/mL), prior biopsy Gleason 4+3, ISUP GG3.\n\nFINDINGS:\nThe prostate measures 46.38 mL in volume. T2-weighted imaging reveals a dominant, ill-defined hypo-intense lesion within the left apical peripheral zone, measuring approximately 18 mm in craniocaudal dimension. On diffusion-weighted imaging, this region demonstrates marked restricted diffusion with corresponding low apparent diffusion coefficient values. Dynamic contrast-enhanced sequences show early, intense focal enhancement corresponding to the DWI/T2 abnormality. No evidence of extracapsular extension, seminal vesicle invasion, or pelvic lymphadenopathy is identified.\n\nIMPRESSION:\nPI-RADS 5 lesion in the left apical peripheral zone.\nPSA density 4.097 ng/mL/mL.\nClinical T stage cT1c.\ncsPCa predicted probability 0.9718793.",
+  "previous_notes": [
+    {
+      "date": "08 Mar 2023",
+      "author": "Dr. R. Visser (GP)",
+      "text": "Patient presented with a PSA of 7.0 ng/mL, an increase from the baseline of 3.0 ng/mL recorded in July 2022. Digital rectal examination was unremarkable. An mpMRI was arranged, and a transrectal ultrasound-guided biopsy was subsequently performed."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Jul 2022",
+      "val": 3.0
+    },
+    {
+      "date": "May 2023",
+      "val": 7.0
+    },
+    {
+      "date": "Apr 2024",
+      "val": 16.4
+    },
+    {
+      "date": "Feb 2025",
+      "val": 190.0
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "190.0 ng/mL",
+      "date": "09 Feb 2025",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "37.75 ng/mL",
+      "date": "09 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "20%",
+      "date": "09 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "14.5 g/dL",
+      "date": "09 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "7.2 x10^9/L",
+      "date": "09 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "301 x10^9/L",
+      "date": "09 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "131 umol/L",
+      "date": "09 Feb 2025",
+      "flag": "H"
+    },
+    {
+      "name": "eGFR",
+      "val": "<60 mL/min/1.73m2",
+      "date": "09 Feb 2025",
+      "flag": "L"
+    },
+    {
+      "name": "Testosterone",
+      "val": "15.6 nmol/L",
+      "date": "09 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "60 U/L",
+      "date": "09 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "175 U/L",
+      "date": "09 Feb 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy 1 (Aug 2023): The histological assessment demonstrates adenocarcinoma with mostly moderately to poorly formed tubules that often fuse and regularly form cribriform areas. Also, quite a few well-formed tubules. The Gleason score is 4+3, corresponding to ISUP grade group 3. A cribriform pattern is present. Perineural invasion is confirmed. The tumour is located in the peripheral zone, apical left.\n\nTrajectory summary: The disease has remained consistent at ISUP grade group 3 across the single documented biopsy timepoint.\n\nAI-predicted ISUP grade group (digital pathology): grade group 4."
+}

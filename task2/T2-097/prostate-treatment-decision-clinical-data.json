@@ -1,0 +1,98 @@
+{
+  "radiology_report": "Antoni van Leeuwenhoek\nDepartment of Radiology\nDate: 15 Jan 2025\nExam: mpMRI prostate\n\nClinical indication: PSA 7.0 ng/mL (rising trend from 3.4 ng/mL in Feb 2024), prior biopsy-proven prostate cancer, surveillance follow-up.\n\nFINDINGS:\nProstate volume is markedly enlarged at 94.53 mL. T2-weighted imaging demonstrates a large transition zone component with heterogeneous signal intensity. In the anterior fibromuscular stroma at the mid-base, a focal lesion is identified measuring approximately 12 mm in its greatest dimension. This lesion demonstrates markedly restricted diffusion on DWI (high signal on b=1400) with corresponding low ADC values. Dynamic contrast-enhanced sequences show early, intense, and persistent enhancement of this focus. No extraprostatic extension, seminal vesicle invasion, or suspicious lymphadenopathy is visualized.\n\nIMPRESSION:\n1. PI-RADS v2.1 category 5 lesion in the anterior fibromuscular stroma at the mid-base.\n2. Prostate volume 94.53 mL; PSA density 0.07 ng/mL/mL.\n3. Clinical stage cT1c.\n4. csPCa predicted probability 0.7873657.",
+  "previous_notes": [
+    {
+      "date": "01 Jul 2024",
+      "author": "Dr. P. van Dijk (GP)",
+      "text": "Patient attended for routine annual screening. PSA measured at 3.4 ng/mL, which was within acceptable limits for his age and baseline. Digital rectal examination was unremarkable. Given the stable values, routine annual follow-up was scheduled, and the patient was advised to maintain his current lifestyle."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Feb 2024",
+      "val": 3.4
+    },
+    {
+      "date": "Jun 2024",
+      "val": 4.3
+    },
+    {
+      "date": "Oct 2024",
+      "val": 5.5
+    },
+    {
+      "date": "Feb 2025",
+      "val": 7.0
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "7.0 ng/mL",
+      "date": "16 Jan 2025",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "1.25 ng/mL",
+      "date": "16 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "18%",
+      "date": "16 Jan 2025",
+      "flag": "L"
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "13.3 g/dL",
+      "date": "16 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "8.6 x10^9/L",
+      "date": "16 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "139 x10^9/L",
+      "date": "16 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "96 umol/L",
+      "date": "16 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "16 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "7.4 nmol/L",
+      "date": "16 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "78 U/L",
+      "date": "16 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "125 U/L",
+      "date": "16 Jan 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy timepoint 1 (Feb 2025):\nHistological examination of the prostate tissue reveals adenocarcinoma with a Gleason score of 3+4, corresponding to ISUP grade group 2. The growth pattern is mostly well-individually demarcated, with partly crowding of tubules. However, focally also poorly formed and fusing tubules. No cribriform or intraductal patterns identified. Perineural invasion is absent. The tumour is located in the transition zone / AFS mid-base, mid-base.\n\nSummary of histological trajectory:\nThe disease has remained stable across the biopsy timepoints, maintaining a Gleason 3+4 (ISUP grade group 2) profile without emergence of high-risk architectural patterns.\n\nAI-predicted ISUP grade group (digital pathology): grade group 5."
+}

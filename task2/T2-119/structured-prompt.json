@@ -1,0 +1,70 @@
+{
+  "case_id": "T2-119",
+  "pid": "T2-119",
+  "task": 2,
+  "psa": 10.92,
+  "age": 69,
+  "months": 2,
+  "pirads": "5",
+  "psad": 0.26,
+  "psav": 3.01,
+  "psap": 6.7,
+  "vol": 42.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.8727174,
+  "medhx": "Hypercholesterolaemia",
+  "meds": "atorvastatin",
+  "notes": "PSA 10.92 ng/mL. PI-RADS 5. PSAD 0.26. Prostate volume 42 mL. csPCa 0.87.",
+  "pmhx": [
+    "Hypercholesterolaemia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "82 kg",
+    "height": "184 cm",
+    "bmi": "24.2",
+    "bp": "107/58 mmHg",
+    "hr": "69 bpm",
+    "smoking": "Current smoker (35 pack-yr)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "26 Jan 2025",
+  "enc_ref": "Dr. P. van Dijk (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for treatment planning following biopsy-proven high-grade prostate cancer with rising PSA."
+    },
+    {
+      "s": "History",
+      "t": "Recently retired plumber, 69 years of age, presents for urological re-evaluation. Medical history is significant for hypercholesterolaemia, managed with atorvastatin, and known COPD with recent pulmonary function testing. The patient is a current smoker with a 35 pack-year history. PSA levels have risen progressively from 2.5 ng/mL in June 2023 to 10.92 ng/mL in January 2025. He reports moderate lower urinary tract symptoms with an IPSS score of 12/35. Socially, he lives in a ground-floor apartment with his partner, consumes 9 units of alcohol weekly, and performs light weight-training twice a week. Recent unrelated appointments include cataract review in ophthalmology and a surveillance colonoscopy in gastroenterology."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is non-palpable with no discrete nodules or asymmetry, consistent with clinical stage cT1c. General examination is unremarkable with stable vital signs and no signs of metastatic disease."
+    }
+  ],
+  "occupation": "retired plumber",
+  "marital": "Married",
+  "living": "Lives in ground-floor apartment with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Ophthalmology — cataract review",
+    "Gastroenterology — surveillance colonoscopy",
+    "Pulmonary function test — known COPD follow-up"
+  ],
+  "alcohol": "9 units / week",
+  "exercise": "Light weight-training at home, 2x/week",
+  "ipss": "IPSS score: 12/35 (moderate LUTS)",
+  "admin": "Patient prefers morning appointments (public transport).",
+  "mri_hospital": "Amsterdam UMC (location VUmc)",
+  "bx_isup": 3,
+  "bx_gl_prim": 4,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

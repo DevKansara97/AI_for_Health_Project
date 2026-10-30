@@ -1,0 +1,18 @@
+{
+  "confidence": "borderline",
+  "variable_weights": {
+    "age": "decisive",
+    "comorbidity": "noted",
+    "pirads": "noted",
+    "psa": "important",
+    "cspca": "important",
+    "ct": "noted",
+    "fh": "noted",
+    "bx_isup": "important",
+    "bx_gl_prim": "noted",
+    "psad": "noted",
+    "bx_gl_sec": "noted"
+  },
+  "reveal_sequence": [],
+  "free_text": "Alternative: radiation therapy +/- short course of ADT\nShared decision-making recommended"
+}

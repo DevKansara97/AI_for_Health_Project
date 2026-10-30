@@ -1,0 +1,68 @@
+{
+  "case_id": "T2-137",
+  "pid": "T2-137",
+  "task": 2,
+  "psa": 6.9,
+  "age": 55,
+  "months": 1,
+  "pirads": "2",
+  "psad": 0.089,
+  "psav": 0.6,
+  "psap": 1.5,
+  "vol": 77.9,
+  "dre": "Suspicious",
+  "bx": "Positive",
+  "cspca": 0.49575716,
+  "medhx": "Obesity (BMI >30)",
+  "meds": "None",
+  "notes": "PSA 6.9 ng/mL. PI-RADS 2. PSAD 0.09. Prostate volume 78 mL. DRE suspicious. csPCa 0.50.",
+  "pmhx": [
+    "Obesity (BMI >30)"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "77 kg",
+    "height": "179 cm",
+    "bmi": "24.0",
+    "bp": "131/64 mmHg",
+    "hr": "68 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "11 Feb 2025",
+  "enc_ref": "Dr. S. de Vries (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for prior low-grade prostate cancer with rising PSA."
+    },
+    {
+      "s": "History",
+      "t": "Recently retired harbour pilot (semi-retired) with a history of prostate adenocarcinoma diagnosed on biopsy in June 2024. PSA has fluctuated significantly, reaching 6.9 ng/mL in February 2025. Patient lives alone, divorced, with brother as next of kin. Reports moderate LUTS (IPSS 10). Drinks 24 units of alcohol weekly, exercises with light weight-training twice weekly. Lives over 90 minutes from clinic, prefers phone follow-up. Recent dermatology visit for actinic keratosis. No active medications, non-smoker."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, a suspicious nodule is palpable in the mid right peripheral zone, consistent with cT1c staging. General examination is unremarkable, with normal vital signs and no lymphadenopathy."
+    }
+  ],
+  "occupation": "harbour pilot (semi-retired)",
+  "marital": "Divorced",
+  "living": "Lives alone",
+  "next_of_kin": "Sibling (brother)",
+  "recent_other": [
+    "Dermatology — actinic keratosis check"
+  ],
+  "alcohol": "24 units / week",
+  "exercise": "Light weight-training at home, 2x/week",
+  "ipss": "IPSS score: 10/35 (moderate LUTS)",
+  "admin": "Lives >90 min from clinic; phone follow-up preferred where clinically safe.",
+  "mri_hospital": "Erasmus MC",
+  "bx_isup": 1,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

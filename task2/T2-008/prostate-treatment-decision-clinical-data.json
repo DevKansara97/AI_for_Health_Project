@@ -1,0 +1,103 @@
+{
+  "radiology_report": "OLVG (Amsterdam)\nDepartment of Radiology\nDate: 20 Dec 2024\nExam: mpMRI Prostate\nClinical indication: PSA 6.8 ng/mL, prior biopsy Gleason 3+4. Evaluate for focal lesion.\nFINDINGS: Prostate volume 36.0 mL. T2WI shows a focal area of low signal intensity in the left peripheral zone, mid-gland. DWI demonstrates restricted diffusion with high signal on b=1400 and corresponding ADC hypointensity. Dynamic contrast-enhanced (DCE) sequence shows early focal enhancement in the same region. No extracapsular extension or seminal vesicle invasion identified.\nIMPRESSION: PI-RADS 4 lesion in the left peripheral zone, approximately 12 mm in diameter. Prostate volume 36.0 mL, PSA density 0.2 ng/mL/mL. Clinical T stage cT1c. csPCa predicted probability 0.82952833.",
+  "previous_notes": [
+    {
+      "date": "03 Aug 2023",
+      "author": "Dr. L. Smits (GP)",
+      "text": "03 Aug 2023 - Dr. L. Smits (GP): Patient presents for routine follow-up. PSA measured at 6.6 ng/mL, stable compared to previous values. No new urological symptoms reported. Discussed ongoing surveillance plan. Advised to continue regular monitoring and maintain healthy lifestyle."
+    },
+    {
+      "date": "29 May 2024",
+      "author": "Dr. L. Smits (GP)",
+      "text": "29 May 2024 - Dr. L. Smits (GP): Patient reports mild lower urinary tract symptoms, IPSS score 7. PSA measured at 1.4 ng/mL, significant decrease from previous levels. Discussed possible causes for PSA fluctuation. Referred to urology for re-evaluation and further assessment of prior prostate cancer diagnosis."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "May 2022",
+      "val": 6.7
+    },
+    {
+      "date": "Apr 2023",
+      "val": 6.6
+    },
+    {
+      "date": "Feb 2024",
+      "val": 1.4
+    },
+    {
+      "date": "Jan 2025",
+      "val": 6.8
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "6.8 ng/mL",
+      "date": "20 Dec 2024",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "1.31 ng/mL",
+      "date": "20 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "19%",
+      "date": "20 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "16.5 g/dL",
+      "date": "20 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "6.4 x10^9/L",
+      "date": "20 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "226 x10^9/L",
+      "date": "20 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "96 umol/L",
+      "date": "20 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "20 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "7.1 nmol/L",
+      "date": "20 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "63 U/L",
+      "date": "20 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "141 U/L",
+      "date": "20 Dec 2024",
+      "flag": ""
+    }
+  ],
+  "family_history": "Yes",
+  "pathology_report": "Biopsy 1 (2022): Histological examination of the prostate tissue reveals adenocarcinoma with a Gleason score of 3+4, corresponding to ISUP grade group 2. No cribriform or intraductal patterns identified. Perineural invasion is absent. The trajectory across timepoints remains stable with no histological upgrade.\n\nAI-predicted ISUP grade group (digital pathology): grade group 4."
+}

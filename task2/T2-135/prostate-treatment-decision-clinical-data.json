@@ -1,0 +1,105 @@
+{
+  "radiology_report": "LUMC (Leiden)\nImaging Department\nDate: 22 November 2024\nExam: mpMRI Prostate\nClinical indication: PSA 82.0 ng/mL, prior biopsy Gleason 4+4, PI-RADS 5\nFINDINGS: Prostate volume measures 64.0 mL. A dominant lesion is identified in the left peripheral zone at the apex, measuring approximately 18 x 15 x 12 mm. The lesion demonstrates marked restricted diffusion on DWI (b=1400) with corresponding early and intense enhancement on DCE. T2-weighted imaging shows a focal area of low signal intensity replacing the normal peripheral zone architecture. No extraprostatic extension or seminal vesicle invasion is identified.\nIMPRESSION: PI-RADS 5 lesion in the left peripheral zone apex. PSA density 1.281 ng/mL/mL. Clinical T stage cT1c. csPCa predicted probability 0.9339169.",
+  "previous_notes": [
+    {
+      "date": "07 Jan 2024",
+      "author": "Dr. H. Martens (GP)",
+      "text": "Patient presented with elevated PSA of 9.0 ng/mL. After discussion, a referral to urology was initiated for further evaluation and potential biopsy. Blood pressure and lipid levels were reviewed, and current medications were deemed stable."
+    },
+    {
+      "date": "03 Sep 2024",
+      "author": "Dr. H. Martens (GP)",
+      "text": "PSA repeated at 5.8 ng/mL, showing a decrease from previous measurement. Patient reports mild lower urinary tract symptoms, currently managed with tamsulosin. Referred for urological assessment to discuss persistent concern despite fluctuating PSA levels."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Sep 2022",
+      "val": 9.0
+    },
+    {
+      "date": "Nov 2023",
+      "val": 5.8
+    },
+    {
+      "date": "Jan 2025",
+      "val": 82.0
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "82.0 ng/mL",
+      "date": "22 Nov 2024",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "21.31 ng/mL",
+      "date": "22 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "26%",
+      "date": "22 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "15.8 g/dL",
+      "date": "22 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "6.4 x10^9/L",
+      "date": "22 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "253 x10^9/L",
+      "date": "22 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "95 umol/L",
+      "date": "22 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "22 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "12.5 nmol/L",
+      "date": "22 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "76 U/L",
+      "date": "22 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "175 U/L",
+      "date": "22 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "HbA1c",
+      "val": "6.3 %",
+      "date": "22 Nov 2024",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy timepoint 1: The histological examination reveals adenocarcinoma. The Gleason score is 4+4, corresponding to ISUP grade group 4. The tumour is located in the peripheral zone at the left apex. A cribriform pattern is present. Perineural invasion is identified.\n\nSummary: The pathological trajectory shows a persistent high-grade disease profile with no change in the reported Gleason score or ISUP grade group across the available timepoints.\n\nAI-predicted ISUP grade group (digital pathology): grade group 5."
+}

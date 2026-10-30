@@ -1,0 +1,66 @@
+{
+  "case_id": "T2-044",
+  "pid": "T2-044",
+  "task": 2,
+  "psa": 34.7,
+  "age": 66,
+  "months": 2,
+  "pirads": "4",
+  "psad": 0.352,
+  "psav": 6.05,
+  "psap": 9.7,
+  "vol": 99.5,
+  "dre": "Normal",
+  "bx": "Negative",
+  "cspca": 0.864,
+  "medhx": "Atrial fibrillation",
+  "meds": "apixaban, metoprolol",
+  "notes": "PSA 34.7 ng/mL. PI-RADS 4. PSAD 0.35. Prostate volume 100 mL. csPCa 0.86.",
+  "pmhx": [
+    "Atrial fibrillation"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "91 kg",
+    "height": "190 cm",
+    "bmi": "25.2",
+    "bp": "121/57 mmHg",
+    "hr": "62 bpm",
+    "smoking": "Current smoker (15 pack-yr)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "23 Feb 2025",
+  "enc_ref": "Dr. R. Visser (GP)",
+  "enc_type": "Re-evaluation - prior negative biopsy",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for discordant PSA rise (34.7 ng/mL) and PI-RADS 4 lesion after prior negative biopsy."
+    },
+    {
+      "s": "History",
+      "t": "Long-standing referral for persistent PSA elevation despite benign biopsy. Patient is a 66-year-old tram driver, married, living with partner. Reports severe LUTS (IPSS 29) managed conservatively. Smokes 15 pack-years, drinks 4 units/week, walks daily. Atrial fibrillation on apixaban and metoprolol. No recent travel or infections. Incidental finding of mild right knee osteoarthritis managed with topical NSAIDs. No hematuria, bone pain, or weight loss."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, prostate is smooth, symmetric, and non-tender, consistent with cT1c. General examination unremarkable; cardiovascular exam regular rhythm with controlled rate. No lymphadenopathy or edema."
+    }
+  ],
+  "occupation": "tram driver",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Long-time friend (no close family)",
+  "recent_other": [],
+  "alcohol": "4 units / week",
+  "exercise": "Walking 45 min/day",
+  "ipss": "IPSS score: 29/35 (severe LUTS)",
+  "admin": "Interpreter: not required. Consent for data use: signed.",
+  "mri_hospital": "LUMC (Leiden)",
+  "bx_isup": 0,
+  "bx_gl_prim": 0,
+  "bx_gl_sec": 0,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

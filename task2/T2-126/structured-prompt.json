@@ -1,0 +1,70 @@
+{
+  "case_id": "T2-126",
+  "pid": "T2-126",
+  "task": 2,
+  "psa": 4.1,
+  "age": 72,
+  "months": 1,
+  "pirads": "4",
+  "psad": 0.181,
+  "psav": 0.66,
+  "psap": 3.6,
+  "vol": 22.65,
+  "dre": "Abnormal",
+  "bx": "Positive",
+  "cspca": 0.8003183,
+  "medhx": "Scrotal/inguinal surgery, Inguinal hernial repair",
+  "meds": "None",
+  "notes": "PSA 4.1 ng/mL. PI-RADS 4. PSAD 0.18. Prostate volume 23 mL. DRE abnormal. csPCa 0.80.",
+  "pmhx": [
+    "Scrotal/inguinal surgery",
+    "Inguinal hernial repair"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "99 kg",
+    "height": "181 cm",
+    "bmi": "30.2",
+    "bp": "119/68 mmHg",
+    "hr": "75 bpm",
+    "smoking": "Ex-smoker (34 pack-yr, quit 2017)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "08 Jan 2025",
+  "enc_ref": "Dr. K. Bakker (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for treatment decision following confirmed prostate adenocarcinoma with rising PSA and PI-RADS 4 lesion."
+    },
+    {
+      "s": "History",
+      "t": "Recently retired police officer with a history of prostate adenocarcinoma diagnosed on biopsy in January 2024. PSA has risen from 2.0 ng/mL in May 2022 to 4.1 ng/mL in January 2025, prompting this re-evaluation. He reports mild lower urinary tract symptoms with an IPSS of 7. Social history includes alcohol consumption of 17 units per week and regular exercise with running 3 times weekly. He is married and lives with his partner, who serves as his primary contact. Past surgical history includes scrotal/inguinal surgery and inguinal hernial repair. He has been attending physiotherapy for lower back issues and recently had a dermatology check for actinic keratosis."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, an abnormality is palpated in the right peripheral zone, consistent with clinical stage cT1c. General examination is unremarkable with stable vital signs and no signs of metastatic disease. BMI is 30.2 kg/m2."
+    }
+  ],
+  "occupation": "retired police officer",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Dermatology — actinic keratosis check",
+    "Physiotherapy — lower back, six sessions"
+  ],
+  "alcohol": "17 units / week",
+  "exercise": "Running 3x/week, 5 km",
+  "ipss": "IPSS score: 7/35 (mild LUTS)",
+  "admin": "Lives >90 min from clinic; phone follow-up preferred where clinically safe.",
+  "mri_hospital": "Amsterdam UMC (location AMC)",
+  "bx_isup": 2,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 4,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

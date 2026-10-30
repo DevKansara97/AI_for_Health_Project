@@ -1,0 +1,15 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "psa": "important",
+    "comorbidity": "important",
+    "psad": "important",
+    "age": "important",
+    "cspca": "noted",
+    "fh": "noted",
+    "ct": "important",
+    "pirads": "noted"
+  },
+  "reveal_sequence": [],
+  "free_text": "Patient with a negative biopsy but rising PSA and positive DRE. Continue PSA monitoring"
+}

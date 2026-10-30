@@ -1,0 +1,72 @@
+{
+  "case_id": "T2-047",
+  "pid": "T2-047",
+  "task": 2,
+  "psa": 7.4,
+  "age": 52,
+  "months": 1,
+  "pirads": "5",
+  "psad": 0.25,
+  "psav": 2.59,
+  "psap": 3.8,
+  "vol": 28.0,
+  "dre": "Normal",
+  "bx": "Negative",
+  "cspca": 0.7299785,
+  "medhx": "Coronary artery disease, Obesity (BMI >30)",
+  "meds": "aspirin 80 mg, atorvastatin",
+  "notes": "PSA 7.4 ng/mL. PI-RADS 5. PSAD 0.25. Prostate volume 28 mL. csPCa 0.73.",
+  "pmhx": [
+    "Coronary artery disease",
+    "Obesity (BMI >30)"
+  ],
+  "allergies": [
+    "Penicillin (rash)"
+  ],
+  "vitals": {
+    "weight": "95 kg",
+    "height": "179 cm",
+    "bmi": "29.6",
+    "bp": "151/72 mmHg",
+    "hr": "79 bpm",
+    "smoking": "Ex-smoker (21 pack-yr, quit 2004)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "12 Jan 2025",
+  "enc_ref": "Dr. P. van Dijk (GP)",
+  "enc_type": "Re-evaluation - prior negative biopsy",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for persistent PSA elevation and PI-RADS 5 lesion despite two consecutive negative biopsies."
+    },
+    {
+      "s": "History",
+      "t": "Long-standing referral for rising PSA levels, now at 7.4 ng/mL. The patient is a semi-retired harbour pilot who lives with his adult son in a multi-generational household. He reports mild lower urinary tract symptoms, consistent with an IPSS score of 5/35, and denies any haematuria, dysuria, or bone pain. Medical history includes coronary artery disease, managed with aspirin and atorvastatin, and suspected obstructive sleep apnoea under evaluation at the sleep clinic. He recently attended a vascular surgery consultation for varicose veins. Lifestyle factors include cycling approximately 30 km three times a week and consuming 24 units of alcohol weekly. He is an ex-smoker who quit in 2004 after a 21 pack-year history. He is hard of hearing and prefers written summaries of clinical discussions."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On digital rectal examination, the prostate is smooth, symmetric, and non-tender, with no palpable nodules or induration, consistent with a clinical T stage of cT1c. General examination reveals a BMI of 29.6 kg/m2 and blood pressure of 151/72 mmHg. Cardiovascular and respiratory systems are unremarkable."
+    }
+  ],
+  "occupation": "harbour pilot (semi-retired)",
+  "marital": "Married",
+  "living": "Lives with adult child (multi-generational household)",
+  "next_of_kin": "Adult son (primary contact)",
+  "recent_other": [
+    "Vascular surgery — varicose veins consult",
+    "Sleep clinic — suspected obstructive sleep apnoea"
+  ],
+  "alcohol": "24 units / week",
+  "exercise": "Cycling 3x/week, ~30 km",
+  "ipss": "IPSS score: 5/35 (mild LUTS)",
+  "admin": "Hard of hearing — speak clearly; prefers written summaries.",
+  "mri_hospital": "LUMC (Leiden)",
+  "bx_isup": 0,
+  "bx_gl_prim": 0,
+  "bx_gl_sec": 0,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

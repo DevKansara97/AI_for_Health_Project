@@ -1,0 +1,18 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "fh": "not_used",
+    "psad": "not_used",
+    "age": "important",
+    "psa": "important",
+    "pirads": "noted",
+    "cspca": "noted",
+    "bx_gl_sec": "noted",
+    "bx_gl_prim": "noted",
+    "ct": "important",
+    "comorbidity": "noted",
+    "bx_isup": "decisive"
+  },
+  "reveal_sequence": [],
+  "free_text": "Patient with low risk PCa on a confirmatory biopsy"
+}

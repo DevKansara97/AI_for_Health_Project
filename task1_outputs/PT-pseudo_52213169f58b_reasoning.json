@@ -1,0 +1,21 @@
+{
+  "case_id": "PT-pseudo_52213169f58b",
+  "confidence": "clear",
+  "variable_importance": {
+    "psa": "not_used",
+    "psad": "not_used",
+    "vol": "not_used",
+    "pirads": "not_used",
+    "dre": "not_used",
+    "fh": "not_used",
+    "comorbidity": "not_used",
+    "cspca": "not_used",
+    "age": "not_used",
+    "bx": "decisive"
+  },
+  "sections_accessed": [
+    "previous_notes",
+    "laboratory_results"
+  ],
+  "explanation": "Biopsy recommended (risk score 0.86 >= decision threshold 0.64; confidence: clear). Main supporting factors: no prior biopsy. Sections informing this decision: previous_notes, laboratory_results."
+}

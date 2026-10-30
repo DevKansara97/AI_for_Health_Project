@@ -1,0 +1,69 @@
+{
+  "case_id": "T2-007",
+  "pid": "T2-007",
+  "task": 2,
+  "psa": 13.2,
+  "age": 71,
+  "months": 1,
+  "pirads": "4",
+  "psad": 0.14,
+  "psav": 2.12,
+  "psap": 6.4,
+  "vol": 96.0,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.6351894,
+  "medhx": "Type 2 diabetes, Hypercholesterolaemia",
+  "meds": "metformin, atorvastatin",
+  "notes": "PSA 13.2 ng/mL. PI-RADS 4. PSAD 0.14. Prostate volume 96 mL. DRE nodus. csPCa 0.64.",
+  "pmhx": [
+    "Type 2 diabetes",
+    "Hypercholesterolaemia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "97 kg",
+    "height": "192 cm",
+    "bmi": "26.3",
+    "bp": "123/75 mmHg",
+    "hr": "56 bpm",
+    "smoking": "Ex-smoker (23 pack-yr, quit 2023)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "16 Feb 2025",
+  "enc_ref": "Dr. C. Peters (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for rising PSA and progression of known ISUP GG2 prostate cancer to determine definitive treatment strategy."
+    },
+    {
+      "s": "History",
+      "t": "Recently retired civil engineer with a history of type 2 diabetes and hypercholesterolaemia, currently managed with metformin and atorvastatin. He reports mild lower urinary tract symptoms with an IPSS score of 7. The patient lives alone but maintains a close relationship with his unmarried partner, who acts as his primary contact. He remains physically active, enjoying hiking on weekends, and consumes approximately 17 units of alcohol weekly. He is a former smoker with a 23 pack-year history, having quit in 2023. His PSA trajectory has been volatile, dropping to 2.5 ng/mL in May 2024 before rebounding to 6.4 ng/mL in September and surging to 13.2 ng/mL in February 2025. He reports no bone pain, haematuria, or systemic symptoms."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum, a distinct nodular area is palpable in the mid-left peripheral zone, consistent with a cT2a clinical stage. The prostate is enlarged but otherwise smooth. General examination is unremarkable with stable vital signs and no signs of peripheral lymphadenopathy or bony tenderness."
+    }
+  ],
+  "occupation": "retired civil engineer",
+  "marital": "Living with partner (unmarried)",
+  "living": "Lives alone",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Dental — biannual check-up"
+  ],
+  "alcohol": "17 units / week",
+  "exercise": "Hiking on weekends",
+  "ipss": "IPSS score: 7/35 (mild LUTS)",
+  "admin": "Patient self-employed; flexible appointment slots requested.",
+  "mri_hospital": "Spaarne Gasthuis (Haarlem)",
+  "bx_isup": 2,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 4,
+  "ct": "cT2a",
+  "active_treatment_flag": 0
+}

@@ -1,0 +1,71 @@
+{
+  "case_id": "T2-037",
+  "pid": "T2-037",
+  "task": 2,
+  "psa": 6.0,
+  "age": 58,
+  "months": 1,
+  "pirads": "3",
+  "psad": 0.13,
+  "psav": 1.63,
+  "psap": 1.0,
+  "vol": 49.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.7948016,
+  "medhx": "Hypercholesterolaemia",
+  "meds": "simvastatin, rosuvastatin",
+  "notes": "PSA 6 ng/mL. PI-RADS 3. PSAD 0.13. Prostate volume 49 mL. csPCa 0.79.",
+  "pmhx": [
+    "Hypercholesterolaemia"
+  ],
+  "allergies": [
+    "NSAIDs"
+  ],
+  "vitals": {
+    "weight": "90 kg",
+    "height": "186 cm",
+    "bmi": "26.0",
+    "bp": "135/65 mmHg",
+    "hr": "65 bpm",
+    "smoking": "Ex-smoker (24 pack-yr, quit 2001)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "10 Feb 2025",
+  "enc_ref": "Dr. P. van Dijk (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for prostate cancer management following a significant rise in PSA to 6.0 ng/mL and recent biopsy confirmation of adenocarcinoma."
+    },
+    {
+      "s": "History",
+      "t": "This 58-year-old retired bank clerk attends for re-evaluation regarding his prostate cancer diagnosis. He is widowed but currently lives with his partner, who serves as his primary contact. His medical history includes hypercholesterolaemia, for which he takes simvastatin and rosuvastatin. He is an ex-smoker with a 24 pack-year history, having quit in 2001. He reports a sedentary lifestyle with only occasional walking and consumes approximately 10 units of alcohol per week. Recent appointments include an audiology hearing test and a sleep clinic evaluation for suspected obstructive sleep apnoea. His urinary symptoms are minimal, with an IPSS score of 1/35. He has a known allergy to NSAIDs."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum, the prostate feels symmetrically enlarged and smooth without discrete nodules or induration, consistent with clinical stage cT1c. General examination is unremarkable with a blood pressure of 135/65 mmHg and a heart rate of 65 bpm. No lymphadenopathy or hepatosplenomegaly is detected."
+    }
+  ],
+  "occupation": "retired bank clerk",
+  "marital": "Widowed",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Audiology — hearing test",
+    "Sleep clinic — suspected obstructive sleep apnoea"
+  ],
+  "alcohol": "10 units / week",
+  "exercise": "Sedentary lifestyle, occasional walking",
+  "ipss": "IPSS score: 1/35 (mild LUTS)",
+  "admin": "Interpreter (Arabic) requested for next visit.",
+  "mri_hospital": "Jeroen Bosch Ziekenhuis ('s-Hertogenbosch)",
+  "bx_isup": 1,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

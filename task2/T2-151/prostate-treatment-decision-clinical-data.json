@@ -1,0 +1,102 @@
+{
+  "radiology_report": "Bravis Ziekenhuis\nDepartment of Radiology\nDate: 15 January 2025\nExam: Multiparametric MRI of the prostate\n\nClinical indication: Rising PSA levels and prior negative biopsy; evaluation for clinically significant prostate cancer.\n\nFINDINGS:\nThe prostate gland is markedly enlarged with a calculated volume of 134.0 mL, consistent with benign prostatic hyperplasia. T2-weighted imaging demonstrates preserved zonal anatomy with central gland hyperplasia. Diffusion-weighted imaging shows no areas of restricted diffusion within the peripheral zone. Dynamic contrast-enhanced sequences are negative for early focal enhancement. A non-suspicious, well-circumscribed area measuring approximately 8 mm is noted in the peripheral zone, mid right aspect, demonstrating benign signal characteristics across all sequences. No extracapsular extension, seminal vesicle involvement, or suspicious lymphadenopathy is identified.\n\nIMPRESSION:\nPI-RADS 2.\nProstate-specific antigen density 0.073 ng/mL/mL.\nClinical T stage cT1c.\ncsPCa predicted probability 0.5260261.",
+  "previous_notes": [
+    {
+      "date": "11 Feb 2024",
+      "author": "Dr. P. van Dijk (GP)",
+      "text": "The patient attended for routine follow-up regarding a mildly elevated prostate-specific antigen level of 3.0 ng/mL noted on screening. A transrectal ultrasound-guided biopsy was subsequently performed and returned without evidence of malignancy. Given the stable clinical picture at that time, routine monitoring was arranged with the patient advised to return should urinary symptoms worsen or if further blood tests indicated a significant rise. The case is now forwarded for urological re-evaluation following a subsequent negative biopsy and continued PSA elevation."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Jan 2024",
+      "val": 3.0
+    },
+    {
+      "date": "Apr 2024",
+      "val": 4.0
+    },
+    {
+      "date": "Jul 2024",
+      "val": 5.4
+    },
+    {
+      "date": "Oct 2024",
+      "val": 7.3
+    },
+    {
+      "date": "Feb 2025",
+      "val": 9.8
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "9.8 ng/mL",
+      "date": "26 Dec 2024",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "1.67 ng/mL",
+      "date": "26 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "17%",
+      "date": "26 Dec 2024",
+      "flag": "L"
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "14.9 g/dL",
+      "date": "26 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "6.2 x10^9/L",
+      "date": "26 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "168 x10^9/L",
+      "date": "26 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "90 umol/L",
+      "date": "26 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "26 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "17.1 nmol/L",
+      "date": "26 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "39 U/L",
+      "date": "26 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "215 U/L",
+      "date": "26 Dec 2024",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Transrectal Ultrasound-Guided Prostate Biopsy\nThe submitted tissue specimens demonstrate benign prostatic architecture with no morphological evidence of malignancy. The conventional histological assessment yields a Gleason score of 0+0, corresponding to ISUP Grade Group 0. No cribriform or intraductal patterns are identified within the sampled tissue. Perineural invasion is absent. The biopsied material originates from the peripheral zone, mid right location.\n\nAI-predicted ISUP grade group (digital pathology): grade group 4."
+}

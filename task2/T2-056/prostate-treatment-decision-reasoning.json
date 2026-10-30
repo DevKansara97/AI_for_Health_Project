@@ -1,0 +1,18 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "age": "noted",
+    "bx_gl_prim": "decisive",
+    "cspca": "not_used",
+    "pirads": "noted",
+    "bx_gl_sec": "decisive",
+    "ct": "noted",
+    "psad": "not_used",
+    "bx_isup": "decisive",
+    "psa": "noted",
+    "comorbidity": "noted",
+    "fh": "noted"
+  },
+  "reveal_sequence": [],
+  "free_text": "ISUP 1 in 66 year old man"
+}

@@ -1,0 +1,72 @@
+{
+  "case_id": "T2-009",
+  "pid": "T2-009",
+  "task": 2,
+  "psa": 8.7,
+  "age": 72,
+  "months": 2,
+  "pirads": "3",
+  "psad": 0.25,
+  "psav": 4.54,
+  "psap": 2.9,
+  "vol": 36.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.8735656,
+  "medhx": "Hypercholesterolaemia, Coronary artery disease, Obesity (BMI >30), Osteoarthritis",
+  "meds": "simvastatin, aspirin 80 mg, atorvastatin, paracetamol PRN",
+  "notes": "PSA 8.7 ng/mL. PI-RADS 3. PSAD 0.25. Prostate volume 36 mL. csPCa 0.87.",
+  "pmhx": [
+    "Hypercholesterolaemia",
+    "Coronary artery disease",
+    "Obesity (BMI >30)",
+    "Osteoarthritis"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "103 kg",
+    "height": "172 cm",
+    "bmi": "34.8",
+    "bp": "124/77 mmHg",
+    "hr": "83 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "12 Feb 2025",
+  "enc_ref": "Dr. H. Martens (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of prostate cancer management options following recent biopsy confirmation and rising PSA trend."
+    },
+    {
+      "s": "History",
+      "t": "The patient is a 72-year-old delivery driver with a known history of prostate cancer diagnosed on biopsy in August 2024. His PSA has risen rapidly from 1.0 ng/mL in February 2024 to 2.9 ng/mL in August 2024, and further to 8.7 ng/mL in February 2025. He has moderate lower urinary tract symptoms with an IPSS score of 13. Medical history includes coronary artery disease managed with aspirin and simvastatin, hypercholesterolaemia, obesity, and osteoarthritis causing mobility limitations requiring a walking frame. He is married, lives with his partner, and reports gardening as his primary physical activity. Recent appointments include endocrine screening for thyroid function and a sleep clinic evaluation for suspected obstructive sleep apnoea. He drinks approximately 8 units of alcohol weekly and is a non-smoker."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Digital rectal examination reveals a smooth, symmetrical prostate without palpable nodules or asymmetry, consistent with clinical stage cT1c. General examination shows a man in no acute distress, with mild bilateral knee crepitus but stable cardiovascular and respiratory systems. Blood pressure is 124/77 mmHg and heart rate is 83 bpm."
+    }
+  ],
+  "occupation": "delivery driver",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Sibling (sister)",
+  "recent_other": [
+    "Endocrine — thyroid screening",
+    "Sleep clinic — suspected obstructive sleep apnoea"
+  ],
+  "alcohol": "8 units / week",
+  "exercise": "Gardening, no structured exercise",
+  "ipss": "IPSS score: 13/35 (moderate LUTS)",
+  "admin": "Mobility limitation (frame); ground-floor consult room preferred.",
+  "mri_hospital": "Antoni van Leeuwenhoek",
+  "bx_isup": 1,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

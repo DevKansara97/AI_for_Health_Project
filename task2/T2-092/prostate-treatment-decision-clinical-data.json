@@ -1,0 +1,99 @@
+{
+  "radiology_report": "Amsterdam UMC (location AMC)\nDepartment of Radiology\nDate: 21 Nov 2024\nExam: mpMRI prostate\n\nClinical indication: PSA 31.0 ng/mL, rising trend. Prior biopsy Gleason 4+3. Evaluate for local extent and focal lesions.\n\nFINDINGS:\nProstate volume: 32.52 mL.\nT2-weighted imaging demonstrates a focal hypo-intense lesion in the right peripheral zone, measuring approximately 14 x 12 mm. On diffusion-weighted imaging, the lesion shows marked restricted diffusion with high signal on high b-value images and corresponding low ADC values. Dynamic contrast-enhanced sequences demonstrate early and intense focal enhancement within the same region. The lesion abuts the anterior fibromuscular stroma but does not breach the prostatic capsule. No evidence of seminal vesicle invasion or extraprostatic extension. No suspicious lymphadenopathy or bone lesions within the field of view.\n\nIMPRESSION:\nPI-RADS 5 lesion in the right peripheral zone.\nPSA density: 0.95 ng/mL/mL.\nClinical stage: cT1c.\ncsPCa predicted probability 0.9289904.",
+  "previous_notes": [
+    {
+      "date": "17 Jul 2023",
+      "author": "Dr. R. Visser (GP)",
+      "text": "17 Jul 2023 - Dr. R. Visser (GP):\nPatient presented with an elevated PSA of 18.8 ng/mL, a significant rise from the baseline of 3.1 ng/mL recorded in early 2022. Following a normal digital rectal examination, the patient was referred to urology for further evaluation and prostate biopsy. The patient reported mild lower urinary tract symptoms but no systemic complaints."
+    },
+    {
+      "date": "12 May 2024",
+      "author": "Dr. R. Visser (GP)",
+      "text": "12 May 2024 - Dr. R. Visser (GP):\nFollow-up consultation regarding the recent biopsy results confirming prostate adenocarcinoma, Gleason 4+3. The patient was informed of the diagnosis and the need for a multidisciplinary treatment discussion. He expressed concern about the rapid PSA rise and requested a comprehensive overview of all available options. A referral to the urology outpatient clinic for re-evaluation and treatment planning was initiated."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Feb 2022",
+      "val": 3.1
+    },
+    {
+      "date": "Aug 2023",
+      "val": 18.8
+    },
+    {
+      "date": "Jan 2025",
+      "val": 31.0
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "31.0 ng/mL",
+      "date": "21 Dec 2024",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "8.25 ng/mL",
+      "date": "21 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "27%",
+      "date": "21 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "15.4 g/dL",
+      "date": "21 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "5.3 x10^9/L",
+      "date": "21 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "288 x10^9/L",
+      "date": "21 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "101 umol/L",
+      "date": "21 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "21 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "13.6 nmol/L",
+      "date": "21 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "69 U/L",
+      "date": "21 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "152 U/L",
+      "date": "21 Dec 2024",
+      "flag": ""
+    }
+  ],
+  "family_history": "Yes",
+  "pathology_report": "Biopsy 1 (2023):\nHistological examination of the prostate tissue specimens reveals adenocarcinoma with a Gleason score of 4+3, corresponding to ISUP grade group 3. The tumour is located in the right side of the prostate. The growth pattern is predominantly acinar. A cribriform pattern is present within the malignant glands. Perineural invasion is not identified.\n\nSummary of trajectory:\nThe histological findings across the single documented biopsy timepoint demonstrate a high-grade acinar adenocarcinoma (ISUP GG 3) with cribriform features in the right prostate, consistent with the subsequent clinical escalation.\n\nAI-predicted ISUP grade group (digital pathology): grade group 5."
+}

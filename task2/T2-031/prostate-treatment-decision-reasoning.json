@@ -1,0 +1,15 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "ct": "important",
+    "fh": "noted",
+    "comorbidity": "decisive",
+    "psa": "important",
+    "pirads": "important",
+    "cspca": "noted",
+    "psad": "noted",
+    "age": "decisive"
+  },
+  "reveal_sequence": [],
+  "free_text": "Patient with 2 negative biopsies. Low PSA, 77 yo"
+}

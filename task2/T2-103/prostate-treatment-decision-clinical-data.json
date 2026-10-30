@@ -1,0 +1,103 @@
+{
+  "radiology_report": "Ziekenhuis Gelderse Vallei (Ede)\nDepartment of Radiology\nDate: 07 Feb 2025\nExam: mpMRI prostate\n\nClinical indication: Re-evaluation of prostate cancer. PSA 7.8 ng/mL. Prior biopsy Gleason 3+4.\n\nFINDINGS:\nProstate volume: 23.44 mL. T2-weighted imaging demonstrates a focal lesion in the peripheral zone at the base, right side, measuring approximately 18 x 15 mm. The lesion is markedly hypointense on T2WI. Diffusion-weighted imaging shows restricted diffusion with high signal on b=1400 and corresponding low ADC values. Dynamic contrast-enhanced sequences demonstrate early, intense enhancement of the lesion. No extracapsular extension is identified. Seminal vesicles appear uninvolved. No suspicious lymphadenopathy or osseous metastases.\n\nIMPRESSION:\nPI-RADS 5 lesion in the right base of the prostate.\nPSA density 0.333 ng/mL/mL.\nClinical T stage cT2.\ncsPCa predicted probability 0.8538012.",
+  "previous_notes": [
+    {
+      "date": "18 Feb 2023",
+      "author": "Dr. M. Jansen (GP)",
+      "text": "18 Feb 2023 - Dr. M. Jansen (GP): Patient presented with elevated PSA of 2.6 ng/mL. Transrectal ultrasound-guided biopsy was performed. Pathology returned Gleason 3+4, ISUP grade group 2, with cribriform pattern and intraductal carcinoma present. Perineural invasion noted at the right base. Discussed findings with patient; opted for active monitoring. Referred to urology for specialist follow-up."
+    },
+    {
+      "date": "12 Jun 2024",
+      "author": "Dr. M. Jansen (GP)",
+      "text": "12 Jun 2024 - Dr. M. Jansen (GP): Follow-up visit for prostate cancer surveillance. PSA measured at 5.4 ng/mL, showing a rise from previous values. Patient reports moderate lower urinary tract symptoms. No new neurological or musculoskeletal complaints. Arranged repeat PSA in three months and scheduled urology re-evaluation."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Apr 2023",
+      "val": 2.6
+    },
+    {
+      "date": "Nov 2023",
+      "val": 3.7
+    },
+    {
+      "date": "Jul 2024",
+      "val": 5.4
+    },
+    {
+      "date": "Feb 2025",
+      "val": 7.8
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "7.8 ng/mL",
+      "date": "24 Dec 2024",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "1.04 ng/mL",
+      "date": "24 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "13%",
+      "date": "24 Dec 2024",
+      "flag": "L"
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "14.5 g/dL",
+      "date": "24 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "7.7 x10^9/L",
+      "date": "24 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "243 x10^9/L",
+      "date": "24 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "98 umol/L",
+      "date": "24 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "24 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "13.0 nmol/L",
+      "date": "24 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "69 U/L",
+      "date": "24 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "155 U/L",
+      "date": "24 Dec 2024",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy specimen, 18 Feb 2023:\nHistological examination of the prostate tissue reveals acinar adenocarcinoma. The Gleason score is 3+4, corresponding to ISUP grade group 2. High-risk patterns are present, specifically cribriform pattern and intraductal carcinoma (IDC-P). Perineural invasion is identified. The tumour is located at the base, right.\n\nTrajectory summary: The current biopsy findings confirm the previously established diagnosis of ISUP grade group 2 prostate cancer with high-risk features, maintaining the same histological grade group since the initial sampling.\n\nAI-predicted ISUP grade group (digital pathology): grade group 5."
+}

@@ -1,0 +1,71 @@
+{
+  "case_id": "T2-017",
+  "pid": "T2-017",
+  "task": 2,
+  "psa": 9.0,
+  "age": 68,
+  "months": 2,
+  "pirads": "4",
+  "psad": 0.16,
+  "psav": 2.42,
+  "psap": 4.3,
+  "vol": 58.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.86231947,
+  "medhx": "Hypercholesterolaemia, Benign prostatic hyperplasia",
+  "meds": "atorvastatin, simvastatin, tamsulosin",
+  "notes": "PSA 9 ng/mL. PI-RADS 4. PSAD 0.16. Prostate volume 58 mL. csPCa 0.86.",
+  "pmhx": [
+    "Hypercholesterolaemia",
+    "Benign prostatic hyperplasia"
+  ],
+  "allergies": [
+    "NSAIDs"
+  ],
+  "vitals": {
+    "weight": "101 kg",
+    "height": "186 cm",
+    "bmi": "29.2",
+    "bp": "138/77 mmHg",
+    "hr": "71 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "22 Feb 2025",
+  "enc_ref": "Dr. C. Peters (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of treatment options following recent biopsy confirmation of ISUP grade group 2 prostate cancer with high-risk architectural features."
+    },
+    {
+      "s": "History",
+      "t": "Long-standing referral for management of prostate cancer. The patient is a 68-year-old secondary school teacher who recently relocated to live with his sister, though his spouse remains the primary next-of-kin contact. He has a history of benign prostatic hyperplasia and hypercholesterolaemia, currently managed with tamsulosin and a combination of atorvastatin and simvastatin. He is a non-smoker, consumes minimal alcohol, and maintains an active lifestyle with regular cycling. A surveillance colonoscopy was recently completed by gastroenterology without significant findings. His IPSS score is 3/35, indicating only mild lower urinary tract symptoms. He reports no new constitutional symptoms or bone pain."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On digital rectal examination, the prostate is smooth and non-nodular, consistent with a clinical T stage of cT1c. General examination is unremarkable, with no signs of lymphadenopathy or bony tenderness. Vital signs are stable with a blood pressure of 138/77 mmHg and a heart rate of 71 bpm."
+    }
+  ],
+  "occupation": "secondary school teacher",
+  "marital": "Married",
+  "living": "Recently relocated; lives with sister",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Gastroenterology — surveillance colonoscopy"
+  ],
+  "alcohol": "2 units / week",
+  "exercise": "Cycling 3x/week, ~30 km",
+  "ipss": "IPSS score: 3/35 (mild LUTS)",
+  "admin": "Interpreter: not required. Consent for data use: signed.",
+  "mri_hospital": "Maastricht UMC+",
+  "bx_isup": 2,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 4,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

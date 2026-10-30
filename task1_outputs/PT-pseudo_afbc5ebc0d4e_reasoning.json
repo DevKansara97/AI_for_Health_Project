@@ -1,0 +1,22 @@
+{
+  "case_id": "PT-pseudo_afbc5ebc0d4e",
+  "confidence": "borderline",
+  "variable_importance": {
+    "psa": "decisive",
+    "psad": "not_used",
+    "vol": "not_used",
+    "pirads": "not_used",
+    "dre": "not_used",
+    "fh": "not_used",
+    "comorbidity": "noted",
+    "cspca": "noted",
+    "age": "not_used",
+    "bx": "decisive"
+  },
+  "sections_accessed": [
+    "previous_notes",
+    "psa_trend",
+    "laboratory_results"
+  ],
+  "explanation": "Biopsy not recommended (risk score 0.35 < decision threshold 0.64; confidence: borderline). Main supporting factors: prior biopsy positive, prior ISUP 3; PSA 19.0 ng/mL (velocity +4.3); csPCa likelihood score 0.71. Strongest factor pointing the other way: 3 comorbidities. Evidence is mixed, so the score is close to the decision threshold. Sections informing this decision: previous_notes, psa_trend, laboratory_results."
+}

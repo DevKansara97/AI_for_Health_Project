@@ -1,0 +1,99 @@
+{
+  "radiology_report": "Amsterdam UMC (location AMC)\nImaging Department\nDate: 18 Dec 2024\nExam: mpMRI prostate\n\nClinical indication: Elevated prostate-specific antigen (5.0 ng/mL), assessment for suspicious intraprostatic lesion.\n\nFINDINGS: The prostate gland measures 48.92 mL in volume. T2-weighted imaging demonstrates a symmetrically enlarged gland with prominent transition zone nodularity. Diffusion-weighted imaging and apparent diffusion coefficient maps show no areas of restricted diffusion. Dynamic contrast-enhanced sequences reveal no focal early enhancement. A small region in the right apex and mid transition zone, measuring approximately 8 mm, exhibits mild T2 hypointensity without corresponding diffusion restriction or dynamic enhancement, consistent with a benign-appearing finding. The peripheral zone is unremarkable. Seminal vesicles and bilateral neurovascular bundles appear intact.\n\nIMPRESSION: PI-RADS 2. Prostate volume 48.92 mL, PSA density 0.1 ng/mL/mL. Clinical stage cT1c. csPCa predicted probability 0.8184269.",
+  "previous_notes": [
+    {
+      "date": "13 Jan 2023",
+      "author": "Dr. T. Hendriks (GP)",
+      "text": "Patient presented for routine health screening with an incidental PSA elevation of 3.4 ng/mL. Digital rectal examination was unremarkable, and a repeat PSA was scheduled in twelve months to monitor trends. Basic metabolic panel and complete blood count were within normal limits at that time."
+    },
+    {
+      "date": "04 Sep 2024",
+      "author": "Dr. T. Hendriks (GP)",
+      "text": "Follow-up consultation regarding a rising PSA trajectory, now measuring 4.6 ng/mL, with a calculated velocity of 0.78 ng/mL per year. The patient reported minimal lower urinary tract symptoms and denied any systemic complaints. A referral was issued to the urology department for tissue sampling and further evaluation of the biochemical progression."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Apr 2023",
+      "val": 3.4
+    },
+    {
+      "date": "Feb 2024",
+      "val": 4.6
+    },
+    {
+      "date": "Jan 2025",
+      "val": 5.0
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "5.0 ng/mL",
+      "date": "17 Dec 2024",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "1.25 ng/mL",
+      "date": "17 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "25%",
+      "date": "17 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "15.6 g/dL",
+      "date": "17 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "7.0 x10^9/L",
+      "date": "17 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "267 x10^9/L",
+      "date": "17 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "107 umol/L",
+      "date": "17 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "17 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "13.6 nmol/L",
+      "date": "17 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "59 U/L",
+      "date": "17 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "219 U/L",
+      "date": "17 Dec 2024",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Histological examination of the prostate tissue specimens reveals adenocarcinoma with a Gleason score of 4+3, corresponding to ISUP grade group 3. The malignant glands exhibit an acinar growth pattern and are localized to the transition zone, specifically involving the apex and mid portion on the right side. This represents the sole histological evaluation to date, establishing a stable baseline for ongoing clinical correlation.\n\nAI-predicted ISUP grade group (digital pathology): grade group 5."
+}

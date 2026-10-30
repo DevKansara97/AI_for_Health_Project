@@ -1,0 +1,99 @@
+{
+  "radiology_report": "Ziekenhuis Gelderse Vallei (Ede)\nDepartment of Radiology\nDate: 05 Jan 2025\nExam: mpMRI prostate\n\nClinical indication: Re-evaluation of prostate cancer. PSA 6.7 ng/mL. Prior biopsy Gleason 3+3.\n\nFINDINGS:\nProstate volume is 36.0 mL.\nT2-weighted imaging demonstrates a focal hypointense lesion in the right peripheral zone, measuring approximately 12 x 9 mm.\nOn DWI, the lesion shows restricted diffusion with high signal on b=1400 images.\nDynamic contrast enhancement (DCE) demonstrates early, focal enhancement corresponding to the DWI/T2 lesion.\nNo suspicious lymphadenopathy or bone lesions identified.\n\nIMPRESSION:\nPI-RADS 4 lesion in the right peripheral zone.\nPSA density: 0.2 ng/mL/mL.\nClinical stage: cT1c.\ncsPCa predicted probability 0.7934635.",
+  "previous_notes": [
+    {
+      "date": "23 Jul 2023",
+      "author": "Dr. R. Visser (GP)",
+      "text": "Patient presented with a PSA of 3.5 ng/mL. Digital rectal examination was normal. Discussed the mildly elevated PSA and decided to repeat the PSA in 6 months. Referred for baseline MRI."
+    },
+    {
+      "date": "18 May 2024",
+      "author": "Dr. R. Visser (GP)",
+      "text": "Patient returned for follow-up. PSA measured at 3.4 ng/mL, stable compared to previous value. Discussed the results and the decision to proceed with a prostate biopsy. Biopsy was scheduled and performed. Pathology results showed Gleason 3+3, ISUP grade group 1. Discussed the findings and the option of active surveillance. Patient expressed interest in understanding the long-term implications."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Nov 2023",
+      "val": 3.5
+    },
+    {
+      "date": "Jun 2024",
+      "val": 3.4
+    },
+    {
+      "date": "Jan 2025",
+      "val": 6.7
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "6.7 ng/mL",
+      "date": "25 Dec 2024",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "0.92 ng/mL",
+      "date": "25 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "14%",
+      "date": "25 Dec 2024",
+      "flag": "L"
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "15.2 g/dL",
+      "date": "25 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "8.1 x10^9/L",
+      "date": "25 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "217 x10^9/L",
+      "date": "25 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "151 umol/L",
+      "date": "25 Dec 2024",
+      "flag": "H"
+    },
+    {
+      "name": "eGFR",
+      "val": "<60 mL/min/1.73m2",
+      "date": "25 Dec 2024",
+      "flag": "L"
+    },
+    {
+      "name": "Testosterone",
+      "val": "14.7 nmol/L",
+      "date": "25 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "42 U/L",
+      "date": "25 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "187 U/L",
+      "date": "25 Dec 2024",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy timepoint 1: Prostate biopsy performed. Histological examination reveals adenocarcinoma of the prostate with a Gleason score of 3+3, corresponding to ISUP grade group 1. The growth pattern is acinar. No cribriform or intraductal patterns identified.\n\nBiopsy timepoint 2 (latest): Prostate biopsy performed. Histological examination reveals adenocarcinoma of the prostate with a Gleason score of 3+3, corresponding to ISUP grade group 1. The growth pattern is acinar. No cribriform or intraductal patterns identified.\n\nSummary: The histological grade has remained stable across both biopsy timepoints, with persistent ISUP grade group 1 disease.\n\nAI-predicted ISUP grade group (digital pathology): grade group 4."
+}

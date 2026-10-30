@@ -1,0 +1,69 @@
+{
+  "case_id": "T2-013",
+  "pid": "T2-013",
+  "task": 2,
+  "psa": 113.0,
+  "age": 73,
+  "months": 2,
+  "pirads": "5",
+  "psad": 2.61,
+  "psav": 43.36,
+  "psap": 16.4,
+  "vol": 43.0,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.94776064,
+  "medhx": "Hypercholesterolaemia, Atrial fibrillation",
+  "meds": "atorvastatin, simvastatin, rosuvastatin, apixaban, metoprolol",
+  "notes": "PSA 113 ng/mL. PI-RADS 5. PSAD 2.61. Prostate volume 43 mL. DRE nodus. csPCa 0.95.",
+  "pmhx": [
+    "Hypercholesterolaemia",
+    "Atrial fibrillation"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "72 kg",
+    "height": "175 cm",
+    "bmi": "23.5",
+    "bp": "133/78 mmHg",
+    "hr": "79 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "04 Feb 2025",
+  "enc_ref": "Dr. C. Peters (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for definitive treatment planning following confirmed high-grade prostate cancer."
+    },
+    {
+      "s": "History",
+      "t": "The patient is a 73-year-old retired baker, widowed and currently living with his partner, who manages communication and copies correspondence with consent. He reports severe lower urinary tract symptoms, with an IPSS score of 21/35, including nocturia and weak stream. Medical history includes hypercholesterolaemia managed with statins and atrial fibrillation on apixaban and metoprolol. He is a non-smoker, consumes approximately 36 units of alcohol weekly, and performs light weight-training at home twice a week. Recent endocrine appointment focused on thyroid screening. No unexplained bone pain or haematuria is reported."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum, a distinct nodule is palpable in the left peripheral zone, consistent with clinical T stage cT2a. General examination reveals a well-nourished male with stable vital signs, including blood pressure of 133/78 mmHg and heart rate of 79 bpm. Abdominal examination is benign without hepatosplenomegaly or palpable masses."
+    }
+  ],
+  "occupation": "retired baker",
+  "marital": "Widowed",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Endocrine — thyroid screening"
+  ],
+  "alcohol": "36 units / week (heavy)",
+  "exercise": "Light weight-training at home, 2x/week",
+  "ipss": "IPSS score: 21/35 (severe LUTS)",
+  "admin": "Daughter manages communication; CC on letters with patient consent.",
+  "mri_hospital": "Ziekenhuis Gelderse Vallei (Ede)",
+  "bx_isup": 5,
+  "bx_gl_prim": 4,
+  "bx_gl_sec": 5,
+  "ct": "cT2a",
+  "active_treatment_flag": 0
+}

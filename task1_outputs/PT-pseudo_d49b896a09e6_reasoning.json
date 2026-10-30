@@ -1,0 +1,21 @@
+{
+  "case_id": "PT-pseudo_d49b896a09e6",
+  "confidence": "clear",
+  "variable_importance": {
+    "psa": "noted",
+    "psad": "not_used",
+    "vol": "important",
+    "pirads": "not_used",
+    "dre": "not_used",
+    "fh": "not_used",
+    "comorbidity": "not_used",
+    "cspca": "not_used",
+    "age": "not_used",
+    "bx": "decisive"
+  },
+  "sections_accessed": [
+    "previous_notes",
+    "radiology_report"
+  ],
+  "explanation": "Biopsy recommended (risk score 0.76 >= decision threshold 0.64; confidence: clear). Main supporting factors: prostate volume 36 mL; PSA 6.7 ng/mL (velocity +1.8). Strongest factor pointing the other way: prior biopsy positive. Sections informing this decision: previous_notes, radiology_report."
+}

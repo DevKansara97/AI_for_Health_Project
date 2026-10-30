@@ -1,0 +1,70 @@
+{
+  "case_id": "T2-070",
+  "pid": "T2-070",
+  "task": 2,
+  "psa": 8.8,
+  "age": 75,
+  "months": 1,
+  "pirads": "5",
+  "psad": 0.19,
+  "psav": 3.31,
+  "psap": 4.5,
+  "vol": 47.0,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.7517428,
+  "medhx": "Hypertension, Hypercholesterolaemia, Coronary artery disease, COPD, Osteoarthritis",
+  "meds": "amlodipine, valsartan, metoprolol, atorvastatin, simvastatin, rosuvastatin, aspirin 80 mg, tiotropium, salbutamol PRN, paracetamol PRN",
+  "notes": "PSA 8.8 ng/mL. PI-RADS 5. PSAD 0.19. Prostate volume 47 mL. DRE nodus. csPCa 0.75.",
+  "pmhx": [
+    "Hypertension",
+    "Hypercholesterolaemia",
+    "Coronary artery disease",
+    "COPD",
+    "Osteoarthritis"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "89 kg",
+    "height": "182 cm",
+    "bmi": "26.9",
+    "bp": "126/76 mmHg",
+    "hr": "75 bpm",
+    "smoking": "Ex-smoker (28 pack-yr, quit 2022)",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "01 Jan 2025",
+  "enc_ref": "Dr. N. Kuiper (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Review of rising prostate-specific antigen levels and recent biopsy-proven Gleason 3+4 adenocarcinoma to determine definitive management strategy."
+    },
+    {
+      "s": "History",
+      "t": "Long-standing referral for prostate cancer management in a seventy-five-year-old delivery driver who continues to commute by bicycle five times weekly. He reports well-controlled hypertension, hypercholesterolaemia, coronary artery disease, and COPD, currently managed with amlodipine, valsartan, metoprolol, rosuvastatin, aspirin, and tiotropium inhalers. His prostate-specific antigen has risen progressively from 2.3 ng/mL in mid-2023 to 8.8 ng/mL earlier this year, prompting the recent tissue sampling that confirmed adenocarcinoma. He describes only mild voiding complaints with an IPSS of 7, denies haematuria or bone pain, and notes that his osteoarthritis occasionally limits prolonged sitting but does not affect his daily mobility. Socially, he is divorced and resides with his partner, while his adult son remains the primary contact for administrative correspondence. He consumes approximately thirteen units of alcohol per week and has a twenty-eight pack-year smoking history, though he successfully ceased tobacco use in 2022. Given his residence over ninety minutes from the clinic, telephonic follow-up is preferred where clinically appropriate."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum, a discrete nodule is palpable in the left peripheral zone with preserved capsular integrity, correlating with a clinical stage of cT2a. General examination reveals stable vital signs, clear lung fields with mild expiratory wheeze, and no peripheral oedema or lymphadenopathy. Abdominal inspection is unremarkable without hepatosplenomegaly or palpable masses."
+    }
+  ],
+  "occupation": "delivery driver",
+  "marital": "Divorced",
+  "living": "Lives with partner",
+  "next_of_kin": "Adult son (primary contact)",
+  "recent_other": [],
+  "alcohol": "13 units / week",
+  "exercise": "Cycling 5x/week (commuter)",
+  "ipss": "IPSS score: 7/35 (mild LUTS)",
+  "admin": "Lives >90 min from clinic; phone follow-up preferred where clinically safe.",
+  "mri_hospital": "Radboudumc",
+  "bx_isup": 2,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 4,
+  "ct": "cT2a",
+  "active_treatment_flag": 0
+}

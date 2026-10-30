@@ -1,0 +1,19 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "psa": "important",
+    "psad": "noted",
+    "vol": "noted",
+    "pirads": "decisive",
+    "dre": "noted",
+    "fh": "noted",
+    "comorbidity": "noted",
+    "cspca": "not_used",
+    "age": "important",
+    "bx": "decisive"
+  },
+  "reveal_sequence": [
+    "radiology_report"
+  ],
+  "free_text": "Biopsy not recommended (model risk score 0.33 vs decision threshold 0.48). Context: prior biopsy positive; age 75. Weighed against it: PI-RADS 5 (28 mm lesion). Based on the structured clinical variables and the MRI report."
+}

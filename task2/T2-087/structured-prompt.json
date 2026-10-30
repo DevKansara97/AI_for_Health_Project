@@ -1,0 +1,68 @@
+{
+  "case_id": "T2-087",
+  "pid": "T2-087",
+  "task": 2,
+  "psa": 2.4,
+  "age": 58,
+  "months": 1,
+  "pirads": "3",
+  "psad": 0.066,
+  "psav": 0.36,
+  "psap": 2.0,
+  "vol": 36.21,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.76987416,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 2.4 ng/mL. PI-RADS 3. PSAD 0.07. Prostate volume 36 mL. csPCa 0.77.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "66 kg",
+    "height": "167 cm",
+    "bmi": "23.7",
+    "bp": "128/76 mmHg",
+    "hr": "45 bpm",
+    "smoking": "Current smoker (36 pack-yr)",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "28 Feb 2025",
+  "enc_ref": "Dr. N. Kuiper (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for prior prostate cancer diagnosis to discuss treatment options."
+    },
+    {
+      "s": "History",
+      "t": "58-year-old male with a history of prostate adenocarcinoma diagnosed on biopsy. He owns a small cafe and cycles approximately 30 km three times per week. He is divorced and lives with his partner, with a long-time friend acting as his next of kin. He consumes about 3 units of alcohol weekly and is a current smoker with a 36 pack-year history. He has recently attended appointments for thyroid screening, suspected obstructive sleep apnoea, and baseline memory screening. His PSA has risen from 1.9 ng/mL in February 2024 to 2.4 ng/mL in February 2025. He reports moderate lower urinary tract symptoms with an IPSS score of 16/35."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is normal in consistency and size, corresponding to clinical stage cT1c. General examination is unremarkable with a blood pressure of 128/76 mmHg and a heart rate of 45 bpm."
+    }
+  ],
+  "occupation": "small business owner (cafe)",
+  "marital": "Divorced",
+  "living": "Lives with partner",
+  "next_of_kin": "Long-time friend (no close family)",
+  "recent_other": [
+    "Endocrine — thyroid screening",
+    "Sleep clinic — suspected obstructive sleep apnoea",
+    "Memory clinic — baseline screening"
+  ],
+  "alcohol": "3 units / week",
+  "exercise": "Cycling 3x/week, ~30 km",
+  "ipss": "IPSS score: 16/35 (moderate LUTS)",
+  "admin": "Lives >90 min from clinic; phone follow-up preferred where clinically safe.",
+  "mri_hospital": "Radboudumc",
+  "bx_isup": 1,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

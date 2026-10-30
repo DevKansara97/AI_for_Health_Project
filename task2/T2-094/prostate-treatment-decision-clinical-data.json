@@ -1,0 +1,99 @@
+{
+  "radiology_report": "Maastricht UMC+\nImaging Department\nDate: 24 Nov 2024\nExam: mpMRI prostate\n\nClinical indication: PSA 9.0 ng/mL, rising trend, prior biopsy Gleason 3+3. Request for PI-RADS assessment.\n\nFINDINGS:\nProstate volume: 49.0 mL.\nT2-weighted imaging demonstrates a focal area of low signal intensity in the left peripheral zone, mid-gland, measuring approximately 12 x 10 mm. On diffusion-weighted imaging, this region shows restricted diffusion with high signal on b=1400 images and corresponding low ADC values. Dynamic contrast-enhanced sequences reveal early, focal enhancement within the same area. No extracapsular extension or seminal vesicle invasion is identified. No suspicious lymphadenopathy or bone lesions are seen within the field of view.\n\nIMPRESSION:\nPI-RADS 4 lesion in the left peripheral zone, mid-gland.\nProstate volume 49.0 mL, PSA density 0.18 ng/mL/mL.\nClinical stage cT2a.\ncsPCa predicted probability 0.79713064.",
+  "previous_notes": [
+    {
+      "date": "16 Jan 2023",
+      "author": "Dr. L. Smits (GP)",
+      "text": "16 Jan 2023 - Dr. L. Smits (GP): Patient presented with elevated PSA of 4.4 ng/mL on screening. Digital rectal examination was unremarkable. Transrectal ultrasound-guided prostate biopsy was performed. Histology returned as Gleason 3+3, ISUP grade group 1. Patient was counselled on active surveillance versus treatment options. Referred to urology for multidisciplinary discussion."
+    },
+    {
+      "date": "10 May 2024",
+      "author": "Dr. L. Smits (GP)",
+      "text": "10 May 2024 - Dr. L. Smits (GP): Routine follow-up visit. PSA has risen to 9.0 ng/mL. Patient reports no new urinary or systemic symptoms. Repeat prostate biopsy was arranged. Results show persistent Gleason 3+3, ISUP grade group 1. Patient remains stable clinically. Referred to urology for re-evaluation of management strategy."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Jun 2022",
+      "val": 2.2
+    },
+    {
+      "date": "Sep 2023",
+      "val": 4.4
+    },
+    {
+      "date": "Jan 2025",
+      "val": 9.0
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "9.0 ng/mL",
+      "date": "24 Nov 2024",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "1.61 ng/mL",
+      "date": "24 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "18%",
+      "date": "24 Nov 2024",
+      "flag": "L"
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "15.9 g/dL",
+      "date": "24 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "5.4 x10^9/L",
+      "date": "24 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "272 x10^9/L",
+      "date": "24 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "93 umol/L",
+      "date": "24 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "24 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "10.4 nmol/L",
+      "date": "24 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "71 U/L",
+      "date": "24 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "174 U/L",
+      "date": "24 Nov 2024",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy 1 (16 Jan 2023): Histological examination of the prostate tissue reveals adenocarcinoma with a Gleason score of 3+3, corresponding to ISUP grade group 1. No cribriform or intraductal patterns identified. No perineural invasion is present.\n\nBiopsy 2 (10 May 2024): Repeat prostate biopsy demonstrates adenocarcinoma with a Gleason score of 3+3, ISUP grade group 1. No cribriform or intraductal patterns identified. No perineural invasion is observed.\n\nSummary: The histological grade remains stable across both biopsy timepoints.\n\nAI-predicted ISUP grade group (digital pathology): grade group 5."
+}

@@ -1,0 +1,113 @@
+{
+  "radiology_report": "Amsterdam UMC (location AMC)\nDepartment of Radiology\nDate: 15 Nov 2024\nExam: mpMRI Prostate\n\nClinical indication: Rising PSA (6.5 ng/mL), prior negative biopsy, PI-RADS assessment.\n\nFINDINGS:\nProstate volume measures 42.0 mL. T2-weighted imaging demonstrates a focal area of hypointensity in the peripheral zone of the left posterolateral base. This region shows restricted diffusion on DWI (b=1400) and early enhancement on DCE sequences, consistent with a PI-RADS v2.1 score of 4. No extracapsular extension or seminal vesicle invasion is identified.\n\nIMPRESSION:\nPI-RADS 4 lesion in the left posterolateral peripheral zone, approximately 12 mm in maximal dimension.\nPSA density: 0.15 ng/mL/mL.\nClinical T stage: cT2a.\ncsPCa predicted probability 0.59320194.",
+  "previous_notes": [
+    {
+      "date": "28 Sep 2024",
+      "author": "Dr. R. van den Berg (GP)",
+      "text": "Patient attended for routine PSA monitoring. Current PSA is 6.5 ng/mL, showing a rise from 4.1 ng/mL in July 2024. Given the persistent elevation and prior negative biopsy history, a referral to urology for re-evaluation and potential repeat biopsy consideration was initiated. Patient advised to continue current antihypertensive regimen."
+    },
+    {
+      "date": "05 Aug 2023",
+      "author": "Dr. R. van den Berg (GP)",
+      "text": "Patient presented with mild lower urinary tract symptoms, though IPSS score remains low. PSA measured at 6.2 ng/mL, an increase from 5.1 ng/mL in December 2022. Discussed the option of prostate biopsy given the rising trend. Patient agreed to proceed with urological assessment and was referred for further evaluation."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Dec 2022",
+      "val": 5.1
+    },
+    {
+      "date": "Jun 2023",
+      "val": 6.2
+    },
+    {
+      "date": "Jan 2024",
+      "val": 3.6
+    },
+    {
+      "date": "Jul 2024",
+      "val": 4.1
+    },
+    {
+      "date": "Jan 2025",
+      "val": 6.5
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "6.5 ng/mL",
+      "date": "18 Dec 2024",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "1.29 ng/mL",
+      "date": "18 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "20%",
+      "date": "18 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "14.7 g/dL",
+      "date": "18 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "4.1 x10^9/L",
+      "date": "18 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "276 x10^9/L",
+      "date": "18 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "77 umol/L",
+      "date": "18 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "18 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "16.4 nmol/L",
+      "date": "18 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "109 U/L",
+      "date": "18 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "181 U/L",
+      "date": "18 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "HbA1c",
+      "val": "5.7 %",
+      "date": "18 Dec 2024",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy timepoint 1: The submitted prostate tissue cores were examined histologically. No malignant glands were identified in the sampled material. The Gleason score is reported as 0+0, corresponding to ISUP grade group 0. No cribriform or intraductal patterns were identified. Perineural invasion was not observed.\n\nSummary of trajectory: The patient's histological findings have remained stable across the available biopsy timepoint, with no evidence of malignancy or high-risk features.\n\nAI-predicted ISUP grade group (digital pathology): grade group 2."
+}

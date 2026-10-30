@@ -1,0 +1,94 @@
+{
+  "radiology_report": "Imaging Department\nHospital: OLVG (Amsterdam)\nDate of Examination: 10 December 2024\nModality: Multiparametric MRI of the Prostate\nClinical Indication: Elevated PSA of 5.9 ng/mL with prior biopsy-proven adenocarcinoma; assessment for PI-RADS scoring and lesion characterisation.\n\nFINDINGS:\nProstate volume measures 44.0 mL. The peripheral zone demonstrates a well-demarcated focal lesion in the left transition zone, measuring approximately 12 mm in maximal dimension. On T2-weighted imaging, the lesion appears markedly hypointense relative to the surrounding glandular tissue. Diffusion-weighted imaging reveals restricted diffusion with corresponding high signal on the b1500 sequence and low apparent diffusion coefficient values. Dynamic contrast-enhanced sequences demonstrate early and rapid wash-in with persistent enhancement, consistent with hypervascularity. No extracapsular extension or seminal vesicle invasion is identified. Lymph nodes appear unremarkable.\n\nIMPRESSION:\nPI-RADS v2.1 score 5 lesion located in the left transition zone.\nProstate-specific antigen density: 0.14 ng/mL/mL.\nClinical T stage: cT1c.\ncsPCa predicted probability 0.7418201.",
+  "previous_notes": [
+    {
+      "date": "17 May 2024",
+      "author": "Dr. F. de Boer (GP)",
+      "text": "The patient attended for routine follow-up of his prostate health, during which a serum PSA level of 4.4 ng/mL was recorded, representing a notable rise from his baseline values. Given the upward trend and his prior biopsy findings, a referral to the urology outpatient clinic was initiated for comprehensive re-evaluation and discussion of management options. Routine blood tests were within normal limits, and his cardiovascular medications were continued without adjustment."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "May 2022",
+      "val": 1.6
+    },
+    {
+      "date": "Sep 2023",
+      "val": 4.4
+    },
+    {
+      "date": "Jan 2025",
+      "val": 5.9
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "5.9 ng/mL",
+      "date": "13 Dec 2024",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "1.57 ng/mL",
+      "date": "13 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "27%",
+      "date": "13 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "15.6 g/dL",
+      "date": "13 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "4.7 x10^9/L",
+      "date": "13 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "305 x10^9/L",
+      "date": "13 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "90 umol/L",
+      "date": "13 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "13 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "14.5 nmol/L",
+      "date": "13 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "73 U/L",
+      "date": "13 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "144 U/L",
+      "date": "13 Dec 2024",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Specimen: Transperineal prostate biopsy, left transition zone\nHistological examination of the submitted tissue cores reveals adenocarcinoma of the prostate. The neoplastic glands are arranged in a well-formed pattern, corresponding to a Gleason score of 3+3 and an ISUP grade group of 1. No cribriform or intraductal patterns identified within the sampled material. Perineural invasion is absent. The tumour location is confined to the transition zone, left. This represents the current histological status following initial tissue sampling.\n\nAI-predicted ISUP grade group (digital pathology): grade group 3."
+}

@@ -1,0 +1,18 @@
+{
+  "confidence": "borderline",
+  "variable_weights": {
+    "ct": "noted",
+    "fh": "noted",
+    "pirads": "important",
+    "comorbidity": "noted",
+    "bx_gl_prim": "noted",
+    "age": "important",
+    "psa": "noted",
+    "bx_gl_sec": "decisive",
+    "psad": "noted",
+    "cspca": "noted",
+    "bx_isup": "important"
+  },
+  "reveal_sequence": [],
+  "free_text": "Active surveillance could be considered after careful shared decision-making\nHowever the life expectancy of the patient is quite long (no comorbidity) and therefore shared decision-making regarding prostatectomy vs radiation therapy would be important."
+}

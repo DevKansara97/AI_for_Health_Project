@@ -1,0 +1,71 @@
+{
+  "case_id": "T2-104",
+  "pid": "T2-104",
+  "task": 2,
+  "psa": 19.0,
+  "age": 67,
+  "months": 2,
+  "pirads": "4",
+  "psad": 0.217,
+  "psav": 10.19,
+  "psap": 10.2,
+  "vol": 87.5,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.7858892,
+  "medhx": "Hypercholesterolaemia, Osteoarthritis",
+  "meds": "atorvastatin, simvastatin, rosuvastatin, paracetamol PRN",
+  "notes": "PSA 19 ng/mL. PI-RADS 4. PSAD 0.22. Prostate volume 88 mL. csPCa 0.79.",
+  "pmhx": [
+    "Hypercholesterolaemia",
+    "Osteoarthritis"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "66 kg",
+    "height": "177 cm",
+    "bmi": "21.1",
+    "bp": "139/54 mmHg",
+    "hr": "80 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "17 Feb 2025",
+  "enc_ref": "Dr. S. de Vries (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of prostate cancer management following repeat biopsy and rising PSA."
+    },
+    {
+      "s": "History",
+      "t": "The patient is a 67-year-old retired truck driver living on a working farm with his partner. He presents for re-evaluation of his prostate cancer, initially diagnosed in 2023. PSA has risen from 3.3 ng/mL in May 2022 to 19.0 ng/mL in February 2025. He has a history of hypercholesterolaemia managed with statins and osteoarthritis. He plays tennis twice weekly and abstains from alcohol. Recent appointments include pain clinic for chronic shoulder pain, orthopaedic follow-up for knee osteoarthritis, and sleep clinic evaluation for suspected obstructive sleep apnoea. He prefers morning appointments due to public transport reliance."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is smooth, non-tender, and symmetrically enlarged without nodularity, consistent with cT1c staging. General examination reveals an alert, well-nourished male with normal vital signs. Musculoskeletal examination shows mild limitation in shoulder range of motion due to chronic pain."
+    }
+  ],
+  "occupation": "retired truck driver",
+  "marital": "Married",
+  "living": "Lives on a working farm with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Pain clinic — chronic shoulder pain",
+    "Orthopaedic outpatient — knee follow-up",
+    "Sleep clinic — suspected obstructive sleep apnoea"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Tennis 2x/week",
+  "ipss": "IPSS score: 9/35 (moderate LUTS)",
+  "admin": "Patient prefers morning appointments (public transport).",
+  "mri_hospital": "OLVG (Amsterdam)",
+  "bx_isup": 2,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 4,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

@@ -1,0 +1,100 @@
+{
+  "radiology_report": "Tergooi MC\nDepartment of Radiology\nDate: 15 January 2025\nExam: Multiparametric MRI prostate\n\nClinical indication: Rising PSA to 8.2 ng/mL, prior Gleason 3+3 diagnosis. Evaluation for dominant clinical lesion.\n\nFINDINGS:\nThe prostate measures 66.0 mL. T2-weighted imaging demonstrates a focal area of low signal intensity within the mid-peripheral zone, extending bilaterally. On diffusion-weighted imaging, this region shows restricted diffusion with corresponding low apparent diffusion coefficient values. Dynamic contrast-enhanced sequences reveal early focal enhancement in the same location. The lesion measures approximately 14 mm in maximum dimension. No extracapsular extension or seminal vesicle invasion is visualized.\n\nIMPRESSION:\nSuspicious focal lesion in the mid-peripheral zone, bilateral extension.\nPI-RADS v2.1 score: 4.\nProstate-specific antigen density: 0.12 ng/mL/mL.\nClinical T stage: cT2a.\ncsPCa predicted probability 0.74084973.",
+  "previous_notes": [
+    {
+      "date": "16 Feb 2024",
+      "author": "Dr. N. Kuiper (GP)",
+      "text": "Patient presented with a PSA of 4.2 ng/mL, elevated from baseline. Digital rectal examination was unremarkable at this time. Given the rising PSA trend, a multiparametric MRI was arranged, followed by a transperineal biopsy which confirmed ISUP grade group 1 prostate cancer. The patient was counselled regarding active surveillance and agreed to proceed with regular monitoring."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Jan 2023",
+      "val": 2.2
+    },
+    {
+      "date": "Feb 2024",
+      "val": 4.2
+    },
+    {
+      "date": "Feb 2025",
+      "val": 8.2
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "8.2 ng/mL",
+      "date": "26 Jan 2025",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "0.83 ng/mL",
+      "date": "26 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "10%",
+      "date": "26 Jan 2025",
+      "flag": "L"
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "13.6 g/dL",
+      "date": "26 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "7.9 x10^9/L",
+      "date": "26 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "253 x10^9/L",
+      "date": "26 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "91 umol/L",
+      "date": "26 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "26 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "15.5 nmol/L",
+      "date": "26 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "57 U/L",
+      "date": "26 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "183 U/L",
+      "date": "26 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "HbA1c",
+      "val": "5.9 %",
+      "date": "26 Jan 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy 1, 16 February 2024:\nHistological examination of the prostate tissue reveals adenocarcinoma with a Gleason score of 3+3, corresponding to ISUP grade group 1. The tumour exhibits an acinar growth pattern. No cribriform or intraductal patterns identified. Perineural invasion is absent. The tumour is located in the mid-prostate, bilateral.\n\nBiopsy 2, 20 January 2025:\nHistological examination of the prostate tissue reveals adenocarcinoma with a Gleason score of 3+3, corresponding to ISUP grade group 1. The tumour exhibits an acinar growth pattern. No cribriform or intraductal patterns identified. Perineural invasion is absent. The tumour is located in the mid-prostate, bilateral.\n\nSummary: The histological findings across both biopsy timepoints remain stable at ISUP grade group 1 with consistent acinar growth and no high-risk features.\n\nAI-predicted ISUP grade group (digital pathology): grade group 3."
+}

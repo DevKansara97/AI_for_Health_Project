@@ -1,0 +1,71 @@
+{
+  "case_id": "T2-090",
+  "pid": "T2-090",
+  "task": 2,
+  "psa": 12.87,
+  "age": 81,
+  "months": 2,
+  "pirads": "5",
+  "psad": 0.25,
+  "psav": 3.21,
+  "psap": 2.6,
+  "vol": 52.0,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.85843223,
+  "medhx": "Hypertension, Hypercholesterolaemia",
+  "meds": "amlodipine, valsartan, metoprolol, atorvastatin, simvastatin",
+  "notes": "PSA 12.87 ng/mL. PI-RADS 5. PSAD 0.25. Prostate volume 52 mL. DRE nodus. csPCa 0.86.",
+  "pmhx": [
+    "Hypertension",
+    "Hypercholesterolaemia"
+  ],
+  "allergies": [
+    "Penicillin (rash)"
+  ],
+  "vitals": {
+    "weight": "84 kg",
+    "height": "184 cm",
+    "bmi": "24.8",
+    "bp": "126/94 mmHg",
+    "hr": "69 bpm",
+    "smoking": "Ex-smoker (17 pack-yr, quit 2003)",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "05 Feb 2025",
+  "enc_ref": "Dr. L. Smits (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for prior prostate cancer diagnosis with rising PSA and high-risk features on recent imaging and pathology."
+    },
+    {
+      "s": "History",
+      "t": "Recently retired warehouse worker with a history of hypertension and hypercholesterolaemia, managed with amlodipine, valsartan, metoprolol, and statins. He is married but currently lives alone, with his wife as primary next of kin. He cycles regularly, covering approximately 30 km three times a week, and consumes around 14 units of alcohol weekly. He reports mild lower urinary tract symptoms with an IPSS score of 1. He has chronic shoulder pain under review at the pain clinic and is an ex-smoker, having quit in 2003 after a 17 pack-year history. He is anxious about invasive procedures, so extra consultation time has been allocated. His PSA has fluctuated significantly, rising to 11.5 ng/mL in Feb 2023, dropping to 2.6 ng/mL in Feb 2024, and now at 12.87 ng/mL in Feb 2025."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, a nodule is palpable in the right mid-prostate, consistent with clinical stage cT2a. The general examination is unremarkable, with stable vital signs and no signs of metastatic disease."
+    }
+  ],
+  "occupation": "retired warehouse worker",
+  "marital": "Married",
+  "living": "Lives alone",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Pain clinic — chronic shoulder pain"
+  ],
+  "alcohol": "14 units / week",
+  "exercise": "Cycling 3x/week, ~30 km",
+  "ipss": "IPSS score: 1/35 (mild LUTS)",
+  "admin": "Patient anxious about procedures — allocate extra consult time.",
+  "mri_hospital": "Spaarne Gasthuis (Haarlem)",
+  "bx_isup": 3,
+  "bx_gl_prim": 4,
+  "bx_gl_sec": 3,
+  "ct": "cT2a",
+  "active_treatment_flag": 0
+}

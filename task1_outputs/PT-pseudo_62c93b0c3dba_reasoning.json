@@ -1,0 +1,23 @@
+{
+  "case_id": "PT-pseudo_62c93b0c3dba",
+  "confidence": "borderline",
+  "variable_importance": {
+    "psa": "noted",
+    "psad": "not_used",
+    "vol": "not_used",
+    "pirads": "not_used",
+    "dre": "not_used",
+    "fh": "not_used",
+    "comorbidity": "not_used",
+    "cspca": "not_used",
+    "age": "not_used",
+    "bx": "decisive"
+  },
+  "sections_accessed": [
+    "previous_notes",
+    "laboratory_results",
+    "psa_trend",
+    "radiology_report"
+  ],
+  "explanation": "Biopsy recommended (risk score 0.67 >= decision threshold 0.64; confidence: borderline). Main supporting factors: no prior biopsy; PI-RADS 5. Strongest factor pointing the other way: PSA 7.9 ng/mL (velocity +1.4). Evidence is mixed, so the score is close to the decision threshold. Sections informing this decision: previous_notes, laboratory_results, psa_trend, radiology_report."
+}

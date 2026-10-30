@@ -1,0 +1,69 @@
+{
+  "case_id": "T2-103",
+  "pid": "T2-103",
+  "task": 2,
+  "psa": 7.8,
+  "age": 57,
+  "months": 2,
+  "pirads": "5",
+  "psad": 0.333,
+  "psav": 1.8,
+  "psap": 5.4,
+  "vol": 23.44,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.8538012,
+  "medhx": "Obesity (BMI >30)",
+  "meds": "None",
+  "notes": "PSA 7.8 ng/mL. PI-RADS 5. PSAD 0.33. Prostate volume 23 mL. DRE nodus. csPCa 0.85.",
+  "pmhx": [
+    "Obesity (BMI >30)"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "94 kg",
+    "height": "183 cm",
+    "bmi": "28.1",
+    "bp": "138/83 mmHg",
+    "hr": "72 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "07 Feb 2025",
+  "enc_ref": "Dr. M. Jansen (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Urgent re-evaluation for treatment planning following confirmed ISUP grade group 2 prostate cancer with high-risk features and rising PSA."
+    },
+    {
+      "s": "History",
+      "t": "Recently retired bus driver with a history of prostate cancer diagnosed in early 2023. The patient lives in an assisted-living facility and is married; his niece acts as his next-of-kin. He cycles 20 km twice weekly and abstains from alcohol. His PSA has steadily increased from 2.6 ng/mL in April 2023 to 7.8 ng/mL in February 2025. He reports moderate lower urinary tract symptoms, consistent with an IPSS score of 13. He has chronic shoulder pain managed through the pain clinic and is currently under vascular surgery consultation for varicose veins. He is a non-smoker with no active medications or known allergies."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum, a distinct nodule is palpable at the right base of the prostate, consistent with clinical stage cT2. The gland is otherwise symmetric without diffuse enlargement. General examination reveals a well-nourished male with stable vital signs and no signs of acute distress."
+    }
+  ],
+  "occupation": "retired bus driver",
+  "marital": "Married",
+  "living": "Lives in assisted-living facility",
+  "next_of_kin": "Niece",
+  "recent_other": [
+    "Pain clinic — chronic shoulder pain",
+    "Vascular surgery — varicose veins consult"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Cycling 2x/week, ~20 km",
+  "ipss": "IPSS score: 13/35 (moderate LUTS)",
+  "admin": "Interpreter (Arabic) requested for next visit.",
+  "mri_hospital": "Ziekenhuis Gelderse Vallei (Ede)",
+  "bx_isup": 2,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 4,
+  "ct": "cT2",
+  "active_treatment_flag": 0
+}

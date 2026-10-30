@@ -1,0 +1,69 @@
+{
+  "case_id": "T2-145",
+  "pid": "T2-145",
+  "task": 2,
+  "psa": 7.5,
+  "age": 68,
+  "months": 3,
+  "pirads": "4",
+  "psad": 0.179,
+  "psav": 1.37,
+  "psap": 5.7,
+  "vol": 42.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.0,
+  "medhx": "Hypercholesterolaemia",
+  "meds": "simvastatin",
+  "notes": "PSA 7.5 ng/mL. PI-RADS 4. PSAD 0.18. Prostate volume 42 mL. csPCa 0.00.",
+  "pmhx": [
+    "Hypercholesterolaemia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "95 kg",
+    "height": "175 cm",
+    "bmi": "31.0",
+    "bp": "143/73 mmHg",
+    "hr": "67 bpm",
+    "smoking": "Ex-smoker (28 pack-yr, quit 2015)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "22 Feb 2025",
+  "enc_ref": "Dr. R. Visser (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of prostate cancer diagnosis to discuss management options following recent PSA rise and prior biopsy results."
+    },
+    {
+      "s": "History",
+      "t": "Recently retired civil engineer with a history of prostate cancer diagnosed on biopsy. PSA has steadily increased from 3.3 ng/mL in Nov 2022 to 7.5 ng/mL in Feb 2025. Patient reports severe lower urinary tract symptoms, IPSS score 30/35. He is married, lives with his partner, and cycles five times a week for commuting. He is an ex-smoker, quit in 2015. Recent appointments include memory clinic baseline screening and dermatology for actinic keratosis check. He prefers morning appointments due to public transport reliance."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is non-palpable, consistent with cT1c. General examination is unremarkable, with stable vitals and no acute distress."
+    }
+  ],
+  "occupation": "retired civil engineer",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Long-time friend (no close family)",
+  "recent_other": [
+    "Memory clinic — baseline screening",
+    "Dermatology — actinic keratosis check"
+  ],
+  "alcohol": "8 units / week",
+  "exercise": "Cycling 5x/week (commuter)",
+  "ipss": "IPSS score: 30/35 (severe LUTS)",
+  "admin": "Patient prefers morning appointments (public transport).",
+  "mri_hospital": "UMCG (Groningen)",
+  "bx_isup": 1,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

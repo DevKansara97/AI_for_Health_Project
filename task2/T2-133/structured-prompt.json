@@ -1,0 +1,69 @@
+{
+  "case_id": "T2-133",
+  "pid": "T2-133",
+  "task": 2,
+  "psa": 4.4,
+  "age": 69,
+  "months": 1,
+  "pirads": "5",
+  "psad": 0.12,
+  "psav": 0.19,
+  "psap": 4.2,
+  "vol": 34.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.84688765,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 4.4 ng/mL. PI-RADS 5. PSAD 0.12. Prostate volume 34 mL. csPCa 0.85.",
+  "pmhx": [],
+  "allergies": [
+    "Penicillin (rash)"
+  ],
+  "vitals": {
+    "weight": "86 kg",
+    "height": "177 cm",
+    "bmi": "27.5",
+    "bp": "129/64 mmHg",
+    "hr": "81 bpm",
+    "smoking": "Ex-smoker (30 pack-yr, quit 2006)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "01 Feb 2025",
+  "enc_ref": "Dr. K. Bakker (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for treatment decision following stable but high-risk prostate cancer diagnosis on repeat biopsy."
+    },
+    {
+      "s": "History",
+      "t": "Long-standing referral for management of biopsy-proven prostate cancer. The patient is a 69-year-old tram driver who works regular shifts and lives alone, though he is married and maintains close contact with his adult daughter, who serves as his primary contact for medical matters. He reports an alcohol-free lifestyle and admits to a sedentary routine, engaging only in occasional walking. He notes mild lower urinary tract symptoms, consistent with a recent IPSS score of 2/35. He recently completed six sessions of physiotherapy for mechanical lower back pain, which is unrelated to his urological condition, and received his annual flu vaccination from the practice nurse. He is an ex-smoker with a 30 pack-year history, having quit in 2006. He reports no haematuria, bone pain, or unexplained weight loss."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum, the prostate is non-palpable with no discrete nodules or asymmetry, consistent with a clinical stage cT1c. The general examination is unremarkable with stable vital signs, and there is no evidence of lymphadenopathy or bone tenderness."
+    }
+  ],
+  "occupation": "tram driver",
+  "marital": "Married",
+  "living": "Lives alone",
+  "next_of_kin": "Adult daughter (primary contact)",
+  "recent_other": [
+    "GP practice nurse — flu vaccination",
+    "Physiotherapy — lower back, six sessions"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Sedentary lifestyle, occasional walking",
+  "ipss": "IPSS score: 2/35 (mild LUTS)",
+  "admin": "Interpreter (Arabic) requested for next visit.",
+  "mri_hospital": "Erasmus MC",
+  "bx_isup": 3,
+  "bx_gl_prim": 4,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

@@ -1,0 +1,20 @@
+{
+  "case_id": "PT-pseudo_f2ec9a9b4d4a",
+  "confidence": "borderline",
+  "variable_importance": {
+    "psa": "not_used",
+    "psad": "not_used",
+    "vol": "decisive",
+    "pirads": "noted",
+    "dre": "not_used",
+    "fh": "not_used",
+    "comorbidity": "not_used",
+    "cspca": "not_used",
+    "age": "not_used",
+    "bx": "not_used"
+  },
+  "sections_accessed": [
+    "radiology_report"
+  ],
+  "explanation": "Biopsy recommended (risk score 0.73 >= decision threshold 0.64; confidence: borderline). Main supporting factors: prostate volume 34 mL; PI-RADS 4. Evidence is mixed, so the score is close to the decision threshold. Sections informing this decision: radiology_report."
+}

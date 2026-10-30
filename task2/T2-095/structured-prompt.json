@@ -1,0 +1,69 @@
+{
+  "case_id": "T2-095",
+  "pid": "T2-095",
+  "task": 2,
+  "psa": 6.5,
+  "age": 69,
+  "months": 3,
+  "pirads": "4",
+  "psad": 0.15,
+  "psav": 0.33,
+  "psap": 4.1,
+  "vol": 42.0,
+  "dre": "Nodus",
+  "bx": "Negative",
+  "cspca": 0.59320194,
+  "medhx": "Hypertension, Benign prostatic hyperplasia",
+  "meds": "amlodipine, lisinopril, metoprolol",
+  "notes": "PSA 6.5 ng/mL. PI-RADS 4. PSAD 0.15. Prostate volume 42 mL. DRE nodus. csPCa 0.59.",
+  "pmhx": [
+    "Hypertension",
+    "Benign prostatic hyperplasia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "72 kg",
+    "height": "181 cm",
+    "bmi": "22.0",
+    "bp": "137/75 mmHg",
+    "hr": "68 bpm",
+    "smoking": "Ex-smoker (39 pack-yr, quit 2015)",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "26 Jan 2025",
+  "enc_ref": "Dr. R. van den Berg (GP)",
+  "enc_type": "Re-evaluation - prior negative biopsy",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of rising PSA and prior negative biopsy findings to determine appropriate management strategy."
+    },
+    {
+      "s": "History",
+      "t": "Recently retired civil servant with a history of hypertension and benign prostatic hyperplasia, currently managed with amlodipine, lisinopril, and metoprolol. Patient reports no significant lower urinary tract symptoms, with an IPSS score of 0/35. He is an ex-smoker (39 pack-yr, quit in 2015) and maintains a light weight-training routine at home twice weekly. Socially, he is married but lives alone and declines to nominate a next-of-kin. Recent podiatry appointment for routine foot care was unremarkable. He notes a mobility limitation requiring a frame for ambulation, which necessitates a ground-floor consult room. No recent changes in medication or new comorbidities reported."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, a distinct nodule is palpable in the prostate, consistent with clinical stage cT2a. General examination reveals stable vital signs, with blood pressure at 137/75 mmHg and heart rate at 68 bpm. No lymphadenopathy or signs of metastatic disease are noted."
+    }
+  ],
+  "occupation": "retired civil servant",
+  "marital": "Married",
+  "living": "Lives alone",
+  "next_of_kin": "None recorded — patient declines to nominate",
+  "recent_other": [
+    "Podiatry — routine foot care"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Light weight-training at home, 2x/week",
+  "ipss": "IPSS score: 0/35 (mild LUTS)",
+  "admin": "Mobility limitation (frame); ground-floor consult room preferred.",
+  "mri_hospital": "Amsterdam UMC (location AMC)",
+  "bx_isup": 0,
+  "bx_gl_prim": 0,
+  "bx_gl_sec": 0,
+  "ct": "cT2a",
+  "active_treatment_flag": 0
+}

@@ -1,0 +1,68 @@
+{
+  "case_id": "T2-130",
+  "pid": "T2-130",
+  "task": 2,
+  "psa": 4.5,
+  "age": 72,
+  "months": 3,
+  "pirads": "4",
+  "psad": 0.08,
+  "psav": 0.25,
+  "psap": 2.4,
+  "vol": 56.09,
+  "dre": "Abnormal",
+  "bx": "Positive",
+  "cspca": 0.7867544,
+  "medhx": "Chronic kidney disease",
+  "meds": "None",
+  "notes": "PSA 4.5 ng/mL. PI-RADS 4. PSAD 0.08. Prostate volume 56 mL. DRE abnormal. csPCa 0.79.",
+  "pmhx": [
+    "Chronic kidney disease"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "66 kg",
+    "height": "187 cm",
+    "bmi": "18.9",
+    "bp": "136/81 mmHg",
+    "hr": "85 bpm",
+    "smoking": "Ex-smoker (16 pack-yr, quit 2006)",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "25 Feb 2025",
+  "enc_ref": "Dr. C. Peters (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for prior prostate cancer diagnosis to discuss definitive management versus surveillance."
+    },
+    {
+      "s": "History",
+      "t": "The patient is a 72-year-old warehouse manager, widowed and living alone, with his adult daughter acting as the primary contact. He has a known history of chronic kidney disease and is currently not taking any active medications. He reports moderate lower urinary tract symptoms, quantified by an IPSS score of 10. He has a history of smoking 16 pack-years but quit in 2006. He remains physically active, swimming once a week, and consumes no alcohol. He recently attended a routine podiatry appointment for foot care. Mobility is limited, requiring the use of a walking frame, which necessitates a ground-floor consult room for his visits."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On digital rectal examination, an abnormality is palpated in the prostate, consistent with a clinical T stage of cT1c. General examination reveals a thin, elderly gentleman with a BMI of 18.9. Vital signs are stable with a blood pressure of 136/81 mmHg and a heart rate of 85 bpm."
+    }
+  ],
+  "occupation": "warehouse manager",
+  "marital": "Widowed",
+  "living": "Lives alone; adult daughter is primary contact",
+  "next_of_kin": "Adult daughter (primary contact)",
+  "recent_other": [
+    "Podiatry — routine foot care"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Swimming 1x/week",
+  "ipss": "IPSS score: 10/35 (moderate LUTS)",
+  "admin": "Mobility limitation (frame); ground-floor consult room preferred.",
+  "mri_hospital": "Radboudumc",
+  "bx_isup": 2,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 4,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

@@ -1,0 +1,71 @@
+{
+  "case_id": "T2-131",
+  "pid": "T2-131",
+  "task": 2,
+  "psa": 8.7,
+  "age": 69,
+  "months": 2,
+  "pirads": "4",
+  "psad": 0.247,
+  "psav": 2.18,
+  "psap": 5.9,
+  "vol": 35.27,
+  "dre": "Abnormal",
+  "bx": "Positive",
+  "cspca": 0.82454866,
+  "medhx": "Hypercholesterolaemia, Osteoarthritis",
+  "meds": "None",
+  "notes": "PSA 8.7 ng/mL. PI-RADS 4. PSAD 0.25. Prostate volume 35 mL. DRE abnormal. csPCa 0.82.",
+  "pmhx": [
+    "Hypercholesterolaemia",
+    "Osteoarthritis"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "89 kg",
+    "height": "183 cm",
+    "bmi": "26.6",
+    "bp": "135/88 mmHg",
+    "hr": "72 bpm",
+    "smoking": "Current smoker (44 pack-yr)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "14 Feb 2025",
+  "enc_ref": "Dr. H. Martens (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for treatment options following a recent biopsy upgrade to ISUP grade group 2 prostate cancer."
+    },
+    {
+      "s": "History",
+      "t": "Recently retired primary school teacher with a history of rising PSA levels over the past three years. The patient reports mild lower urinary tract symptoms, consistent with an IPSS score of 3. He is married but lives alone, with his spouse serving as the primary contact. He remains active, playing tennis twice a week, and abstains from alcohol. He is a current smoker with a 44 pack-year history. Comorbidities include hypercholesterolaemia and osteoarthritis, for which he is currently under orthopaedic follow-up for knee issues and has recently completed physiotherapy for lower back pain. He prefers morning appointments due to reliance on public transport."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is enlarged with an abnormal nodular consistency, consistent with clinical stage cT1c. General examination reveals a well-nourished man with stable vital signs and no signs of metastatic disease."
+    }
+  ],
+  "occupation": "primary school teacher",
+  "marital": "Married",
+  "living": "Lives alone",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Orthopaedic outpatient — knee follow-up",
+    "Endocrine — thyroid screening",
+    "Physiotherapy — lower back, six sessions"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Tennis 2x/week",
+  "ipss": "IPSS score: 3/35 (mild LUTS)",
+  "admin": "Patient prefers morning appointments (public transport).",
+  "mri_hospital": "Antoni van Leeuwenhoek",
+  "bx_isup": 2,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 4,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

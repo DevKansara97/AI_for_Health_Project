@@ -1,0 +1,22 @@
+{
+  "case_id": "PT-pseudo_1dc32184cab6",
+  "confidence": "clear",
+  "variable_importance": {
+    "psa": "noted",
+    "psad": "noted",
+    "vol": "noted",
+    "pirads": "not_used",
+    "dre": "not_used",
+    "fh": "not_used",
+    "comorbidity": "not_used",
+    "cspca": "noted",
+    "age": "not_used",
+    "bx": "decisive"
+  },
+  "sections_accessed": [
+    "previous_notes",
+    "radiology_report",
+    "psa_trend"
+  ],
+  "explanation": "Biopsy recommended (risk score 0.77 >= decision threshold 0.64; confidence: clear). Main supporting factors: prior biopsy negative; prostate volume 36 mL; PI-RADS 4. Strongest factor pointing the other way: csPCa likelihood score 0.39. Sections informing this decision: previous_notes, radiology_report, psa_trend."
+}

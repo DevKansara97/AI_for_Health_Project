@@ -1,0 +1,99 @@
+{
+  "radiology_report": "Tergooi MC\nDepartment of Radiology\nDate: 15 Feb 2025\nExam: mpMRI prostate\n\nClinical indication: Re-evaluation of rising PSA (7.7 ng/mL) in a 71-year-old male with prior biopsy-proven low-grade prostate cancer. Assessment for suspicious focal lesions.\n\nFINDINGS:\nProstate volume is 73.0 mL.\nT2-weighted imaging demonstrates a heterogeneous peripheral zone. In the right apex, a 12 mm ill-defined hypointense area is noted. This region shows restricted diffusion on DWI (high signal on b=1400, low ADC) and early enhancement on DCE sequences. No extraprostatic extension or seminal vesicle invasion is identified. No suspicious lymphadenopathy or bone lesions within the field of view.\n\nIMPRESSION:\nPI-RADS 3 lesion in the right apex peripheral zone.\nProstate volume 73.0 mL, PSA density 0.11 ng/mL/mL.\nClinical T stage cT1c.\ncsPCa predicted probability 0.6079056.",
+  "previous_notes": [
+    {
+      "date": "08 Sep 2023",
+      "author": "Dr. R. van den Berg (GP)",
+      "text": "Patient attended for routine monitoring. PSA measured at 2.6 ng/mL, which was within normal limits for his age. No urinary symptoms were reported at that time. Decision was made to continue annual PSA screening."
+    },
+    {
+      "date": "06 Mar 2024",
+      "author": "Dr. R. van den Berg (GP)",
+      "text": "Patient returned for follow-up. PSA had risen to 4.5 ng/mL. Digital rectal examination was unremarkable. Given the PSA increase, a repeat PSA test was scheduled for three months later to assess velocity."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "May 2023",
+      "val": 2.6
+    },
+    {
+      "date": "Apr 2024",
+      "val": 4.5
+    },
+    {
+      "date": "Mar 2025",
+      "val": 7.7
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "7.7 ng/mL",
+      "date": "30 Jan 2025",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "1.52 ng/mL",
+      "date": "30 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "20%",
+      "date": "30 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "14.9 g/dL",
+      "date": "30 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "5.2 x10^9/L",
+      "date": "30 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "247 x10^9/L",
+      "date": "30 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "99 umol/L",
+      "date": "30 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "30 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "9.8 nmol/L",
+      "date": "30 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "71 U/L",
+      "date": "30 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "194 U/L",
+      "date": "30 Jan 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy timepoint 1 (oldest): The histological assessment reveals acinar growth pattern consistent with Gleason score 3+3, corresponding to ISUP grade group 1. No cribriform or intraductal patterns are identified. Perineural invasion is absent. The tumour is located in the peripheral zone, apex right.\n\nBiopsy timepoint 2 (latest): The histological assessment reveals acinar growth pattern consistent with Gleason score 3+3, corresponding to ISUP grade group 1. No cribriform or intraductal patterns are identified. Perineural invasion is absent. The tumour is located in the peripheral zone, apex right.\n\nSummary: The histological trajectory across timepoints is stable, with persistent ISUP grade group 1 disease.\n\nAI-predicted ISUP grade group (digital pathology): grade group 2."
+}

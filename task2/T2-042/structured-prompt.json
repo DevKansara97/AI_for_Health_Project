@@ -1,0 +1,70 @@
+{
+  "case_id": "T2-042",
+  "pid": "T2-042",
+  "task": 2,
+  "psa": 11.0,
+  "age": 58,
+  "months": 2,
+  "pirads": "5",
+  "psad": 0.35,
+  "psav": 5.55,
+  "psap": 6.9,
+  "vol": 31.6,
+  "dre": "Normal",
+  "bx": "Negative",
+  "cspca": 0.664,
+  "medhx": "Obesity (BMI >30)",
+  "meds": "None",
+  "notes": "PSA 11 ng/mL. PI-RADS 5. PSAD 0.35. Prostate volume 32 mL. csPCa 0.66.",
+  "pmhx": [
+    "Obesity (BMI >30)"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "80 kg",
+    "height": "184 cm",
+    "bmi": "23.6",
+    "bp": "121/69 mmHg",
+    "hr": "85 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "18 Feb 2025",
+  "enc_ref": "Dr. S. de Vries (GP)",
+  "enc_type": "Re-evaluation - prior negative biopsy",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for rising PSA and a new PI-RADS 5 lesion on MRI despite prior negative biopsy results."
+    },
+    {
+      "s": "History",
+      "t": "Long-standing referral for rising PSA levels, now 11.0 ng/mL, with a velocity of 5.55 ng/mL/year. The patient is a retired police officer, married, and lives with his partner. He is a non-smoker, abstains from alcohol, and cycles 20 km twice weekly. His IPSS score is 0, indicating no significant lower urinary tract symptoms. He has a history of chronic shoulder pain managed in the pain clinic and recently had a routine chest X-ray and cataract review. He reports no new neurological or musculoskeletal symptoms. An interpreter for Arabic is requested for the next visit."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is smooth, symmetrical, and non-tender, consistent with a cT1c stage. General examination reveals a well-nourished man with a BMI of 23.6. Vital signs are stable with a blood pressure of 121/69 mmHg and heart rate of 85 bpm."
+    }
+  ],
+  "occupation": "retired police officer",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Radiology — chest X-ray (routine)",
+    "Pain clinic — chronic shoulder pain",
+    "Ophthalmology — cataract review"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Cycling 2x/week, ~20 km",
+  "ipss": "IPSS score: 0/35 (mild LUTS)",
+  "admin": "Interpreter (Arabic) requested for next visit.",
+  "mri_hospital": "Radboudumc",
+  "bx_isup": 0,
+  "bx_gl_prim": 0,
+  "bx_gl_sec": 0,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

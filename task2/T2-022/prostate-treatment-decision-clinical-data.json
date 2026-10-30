@@ -1,0 +1,103 @@
+{
+  "radiology_report": "LUMC (Leiden)\nImaging Department\nDate: 18 Dec 2024\nExam: mpMRI Prostate\nClinical indication: PSA 4.5 ng/mL, rising trend, prior biopsy Gleason 3+3. Request for PI-RADS assessment.\nFINDINGS:\nProstate volume measures 73.0 mL. The transition zone shows benign hyperplastic changes without focal restricted diffusion. In the peripheral zone, right posterolateral aspect, a 12 mm lesion is identified. This area demonstrates low signal on T2-weighted images, marked restricted diffusion on high b-value DWI, and early enhancement on dynamic contrast-enhanced sequences. No extracapsular extension or seminal vesicle invasion is visualized. No suspicious lymph nodes or bone lesions are seen.\nIMPRESSION:\nPI-RADS v2.1 category 4 lesion in the right peripheral zone.\nPSA density: 0.07 ng/mL/mL.\nClinical T stage: cT1c.\ncsPCa predicted probability 0.7866596.",
+  "previous_notes": [
+    {
+      "date": "11 Feb 2023",
+      "author": "Dr. H. Martens (GP)",
+      "text": "Patient presented with an incidental PSA elevation of 2.5 ng/mL. Digital rectal examination was unremarkable. After discussion, a prostate biopsy was scheduled to rule out malignancy. The patient was advised to return for results."
+    },
+    {
+      "date": "10 Aug 2023",
+      "author": "Dr. H. Martens (GP)",
+      "text": "Follow-up regarding biopsy results showing Gleason 3+3 adenocarcinoma in the right peripheral zone. The patient was informed of the diagnosis and discussed the option of active surveillance. He was referred to urology for further management planning and baseline staging."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Jun 2023",
+      "val": 2.5
+    },
+    {
+      "date": "Dec 2023",
+      "val": 3.0
+    },
+    {
+      "date": "Jul 2024",
+      "val": 3.7
+    },
+    {
+      "date": "Jan 2025",
+      "val": 4.5
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "4.5 ng/mL",
+      "date": "18 Dec 2024",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "0.83 ng/mL",
+      "date": "18 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "18%",
+      "date": "18 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "14.7 g/dL",
+      "date": "18 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "5.9 x10^9/L",
+      "date": "18 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "105 x10^9/L",
+      "date": "18 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "99 umol/L",
+      "date": "18 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "18 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "8.3 nmol/L",
+      "date": "18 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "84 U/L",
+      "date": "18 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "129 U/L",
+      "date": "18 Dec 2024",
+      "flag": ""
+    }
+  ],
+  "family_history": "Yes",
+  "pathology_report": "Biopsy timepoint 1 (11 Feb 2023):\nHistological examination of the prostate tissue cores reveals adenocarcinoma. The Gleason score is 3+3, corresponding to ISUP grade group 1. No cribriform or intraductal patterns are identified. Perineural invasion is absent. The tumour is located in the peripheral zone, right.\n\nBiopsy timepoint 2 (18 Dec 2024):\nRepeat biopsy demonstrates persistent adenocarcinoma. The Gleason score remains 3+3, reported as ISUP grade group 1. No cribriform or intraductal patterns are identified. Perineural invasion is not seen. The tumour is located in the peripheral zone, right.\n\nSummary:\nThe histological trajectory shows a stable Gleason score of 3+3 across both timepoints.\n\nAI-predicted ISUP grade group (digital pathology): grade group 3."
+}

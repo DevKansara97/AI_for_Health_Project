@@ -1,0 +1,105 @@
+{
+  "radiology_report": "Imaging Department\nOLVG (Amsterdam)\nDate: 15 January 2025\nExamination: Multiparametric MRI prostate\nClinical indication: Rising PSA to 6.0 ng/mL with prior biopsy findings; request for lesion characterisation and PI-RADS scoring.\nFindings: The prostate gland measures 79.0 mL in volume. T2-weighted imaging demonstrates a focal area of hypointensity in the left peripheral zone, extending towards the midline. On high b-value diffusion-weighted imaging, this region shows marked restricted diffusion with corresponding early enhancement on dynamic contrast-enhanced sequences. The lesion measures approximately 14 mm in its greatest dimension. The central gland shows benign hyperplastic changes without suspicious focal lesions. No extracapsular extension or seminal vesicle invasion is identified. Neurovascular bundles appear intact.\nImpression: PI-RADS v2.1 score 4 lesion in the left peripheral zone, suspicious for clinically significant prostate cancer. Prostate volume 79.0 mL, PSA density 0.08 ng/mL/mL. Clinical T stage cT1c. csPCa predicted probability 0.7697653.",
+  "previous_notes": [
+    {
+      "date": "26 Oct 2024",
+      "author": "Dr. K. Bakker (GP)",
+      "text": "Re-evaluation visit for established prostate cancer diagnosis. Laboratory results returned with a PSA of 4.6 ng/mL, which has continued to rise since December 2023. Patient reports stable lower urinary tract symptoms and continues tamsulosin. Arranged outpatient urology review for treatment planning and further risk stratification."
+    },
+    {
+      "date": "29 Feb 2024",
+      "author": "Dr. K. Bakker (GP)",
+      "text": "Patient attended for routine follow-up of known prostate carcinoma. PSA measured at 4.6 ng/mL, showing an upward trend from previous values. Discussed monitoring schedule and upcoming multiparametric MRI. Referred for imaging and scheduled repeat laboratory assessment in six months."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Dec 2023",
+      "val": 1.9
+    },
+    {
+      "date": "Jul 2024",
+      "val": 4.6
+    },
+    {
+      "date": "Feb 2025",
+      "val": 6.0
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "6.0 ng/mL",
+      "date": "10 Jan 2025",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "1.18 ng/mL",
+      "date": "10 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "20%",
+      "date": "10 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "14.3 g/dL",
+      "date": "10 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "4.3 x10^9/L",
+      "date": "10 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "293 x10^9/L",
+      "date": "10 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "92 umol/L",
+      "date": "10 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "10 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "10.5 nmol/L",
+      "date": "10 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "70 U/L",
+      "date": "10 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "151 U/L",
+      "date": "10 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "HbA1c",
+      "val": "5.9 %",
+      "date": "10 Jan 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Specimen: Transperineal systematic and MRI-targeted prostate biopsy\nThe submitted tissue fragments demonstrate adenocarcinoma of the prostate with a Gleason score of 4+3, corresponding to ISUP grade group 2. The predominant growth pattern is acinar. Careful review reveals perineural invasion is present. No cribriform or intraductal patterns identified. The malignant foci are located in the peripheral zone, bilateral.\nSummary: The histological findings indicate a Gleason 4+3 carcinoma with perineural invasion and bilateral peripheral zone involvement, consistent with the reported ISUP grade group 2.\n\nAI-predicted ISUP grade group (digital pathology): grade group 5."
+}

@@ -1,0 +1,72 @@
+{
+  "case_id": "T2-115",
+  "pid": "T2-115",
+  "task": 2,
+  "psa": 3.4,
+  "age": 61,
+  "months": 3,
+  "pirads": "3",
+  "psad": 0.05,
+  "psav": 0.77,
+  "psap": 2.7,
+  "vol": 58.0,
+  "dre": "Normal",
+  "bx": "Negative",
+  "cspca": 0.71182245,
+  "medhx": "Hypertension, Type 2 diabetes, Osteoarthritis, Benign prostatic hyperplasia",
+  "meds": "amlodipine, lisinopril, metoprolol, empagliflozin, paracetamol PRN, tamsulosin",
+  "notes": "PSA 3.4 ng/mL. PI-RADS 3. PSAD 0.05. Prostate volume 58 mL. csPCa 0.71.",
+  "pmhx": [
+    "Hypertension",
+    "Type 2 diabetes",
+    "Osteoarthritis",
+    "Benign prostatic hyperplasia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "83 kg",
+    "height": "174 cm",
+    "bmi": "27.4",
+    "bp": "124/85 mmHg",
+    "hr": "64 bpm",
+    "smoking": "Ex-smoker (36 pack-yr, quit 2021)",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "02 Jan 2025",
+  "enc_ref": "Dr. K. Bakker (GP)",
+  "enc_type": "Re-evaluation - prior negative biopsy",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for rising PSA trend and PI-RADS 3 MRI finding following a previously negative biopsy."
+    },
+    {
+      "s": "History",
+      "t": "Recently retired mechanical engineer, widowed, living alone. Long-standing hypertension and type 2 diabetes, managed with amlodipine, lisinopril, metoprolol, and empagliflozin. Osteoarthritis and BPH contribute to moderate LUTS (IPSS 11). Ex-smoker (36 pack-years, quit 2021) with known COPD, recently reviewed with pulmonary function testing. Engages in swimming once weekly. PSA has risen steadily from 1.4 ng/mL in Jan 2023 to 3.4 ng/mL in Jan 2025. Prior biopsy in Jan 2023 was negative. Patient reports no haematuria, bone pain, or unexplained weight loss. Physiotherapy for lower back osteoarthritis completed recently."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is symmetrically enlarged, smooth, and non-tender, consistent with clinical stage cT1c. General examination reveals stable vital signs, clear lungs, and no peripheral edema. Abdominal examination is benign with no palpable masses."
+    }
+  ],
+  "occupation": "retired mechanical engineer",
+  "marital": "Widowed",
+  "living": "Lives alone",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Pulmonary function test — known COPD follow-up",
+    "Physiotherapy — lower back, six sessions"
+  ],
+  "alcohol": "3 units / week",
+  "exercise": "Swimming 1x/week",
+  "ipss": "IPSS score: 11/35 (moderate LUTS)",
+  "admin": "Patient prefers morning appointments (public transport).",
+  "mri_hospital": "Bravis Ziekenhuis",
+  "bx_isup": 0,
+  "bx_gl_prim": 0,
+  "bx_gl_sec": 0,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

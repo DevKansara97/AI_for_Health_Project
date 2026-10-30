@@ -1,0 +1,99 @@
+{
+  "radiology_report": "Maastricht UMC+\nImaging Department\nDate: 12 February 2025\nExam: mpMRI Prostate\nClinical indication: PSA 9.6 ng/mL, prior negative biopsy, PI-RADS assessment requested.\nFINDINGS: The prostate measures 30.0 mL in volume. T2-weighted imaging demonstrates a focal area of low signal intensity in the peripheral zone of the left base, measuring approximately 8 mm in diameter. This lesion shows restricted diffusion on DWI (b=1400) with corresponding signal drop on the ADC map. Dynamic contrast-enhanced (DCE) sequences reveal early, moderate enhancement within the same region. No evidence of extracapsular extension, seminal vesicle invasion, or suspicious lymphadenopathy is seen.\nIMPRESSION: PI-RADS 3 lesion in the left peripheral zone base. Prostate volume 30.0 mL. PSA density 0.32 ng/mL/mL. Clinical T stage cT1c. csPCa predicted probability 0.6599411.",
+  "previous_notes": [
+    {
+      "date": "22 Aug 2023",
+      "author": "Dr. L. Smits (GP)",
+      "text": "Patient presented with a PSA of 2.2 ng/mL detected on routine screening. Digital rectal examination was unremarkable. Given the elevated PSA for age, a transrectal ultrasound-guided systematic biopsy was arranged for further evaluation. The patient was advised to continue regular follow-up."
+    },
+    {
+      "date": "23 Feb 2023",
+      "author": "Dr. L. Smits (GP)",
+      "text": "Re-evaluation following a significant PSA rise to 9.3 ng/mL. The patient reports no new urinary symptoms and remains asymptomatic. Given the rapid PSA velocity and prior negative biopsy, a repeat MRI-targeted and systematic biopsy was performed. The patient has been referred to urology for specialist assessment of the rising PSA trend."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Mar 2023",
+      "val": 2.2
+    },
+    {
+      "date": "Mar 2024",
+      "val": 9.3
+    },
+    {
+      "date": "Feb 2025",
+      "val": 9.6
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "9.6 ng/mL",
+      "date": "12 Jan 2025",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "1.30 ng/mL",
+      "date": "12 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "14%",
+      "date": "12 Jan 2025",
+      "flag": "L"
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "15.9 g/dL",
+      "date": "12 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "7.0 x10^9/L",
+      "date": "12 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "192 x10^9/L",
+      "date": "12 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "93 umol/L",
+      "date": "12 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "12 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "12.7 nmol/L",
+      "date": "12 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "70 U/L",
+      "date": "12 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "174 U/L",
+      "date": "12 Jan 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy timepoint 1 (March 2023): The submitted tissue fragments show benign prostatic hyperplasia and chronic prostatitis. No malignant glands are identified. Gleason score 0+0, ISUP grade group 0. No cribriform or intraductal patterns identified. Perineural invasion is absent.\nBiopsy timepoint 2 (January 2025): The submitted tissue fragments show benign prostatic hyperplasia and chronic prostatitis. No malignant glands are identified. Gleason score 0+0, ISUP grade group 0. No cribriform or intraductal patterns identified. Perineural invasion is absent.\nSummary: Histological findings remain stable across both biopsy timepoints, with no evidence of carcinoma detected on either occasion.\n\nAI-predicted ISUP grade group (digital pathology): grade group 4."
+}

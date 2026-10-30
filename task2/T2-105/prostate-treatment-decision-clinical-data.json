@@ -1,0 +1,107 @@
+{
+  "radiology_report": "Erasmus MC\nImaging Department\nDate: 21 Jan 2025\nExam: mpMRI prostate\n\nClinical indication: PSA 5.0 ng/mL, rising trend. Prior biopsy Gleason 4+4.\n\nFINDINGS:\nProstate volume measured at 35.45 mL. T2-weighted images demonstrate a focal area of low signal intensity in the left peripheral zone at the base. This lesion demonstrates restricted diffusion on DWI (high b-value signal) with corresponding early enhancement on DCE. No extracapsular extension or seminal vesicle involvement is identified. No suspicious pelvic lymphadenopathy.\n\nIMPRESSION:\nPI-RADS v2.1 category 4 lesion in the left peripheral zone, base.\nPSA density: 0.141 ng/mL/mL.\nClinical T stage: cTx.\ncsPCa predicted probability 0.7376658.",
+  "previous_notes": [
+    {
+      "date": "23 Sep 2024",
+      "author": "Dr. T. Hendriks (GP)",
+      "text": "23 Sep 2024 - Dr. T. Hendriks (GP): Patient returned for routine PSA monitoring. PSA measured at 3.3 ng/mL, representing a continued upward trend from 2.2 ng/mL in February. Discussed the rising values with the patient, who remains asymptomatic regarding lower urinary tract symptoms. Referred to urology for re-evaluation given the prior diagnosis and current PSA kinetics."
+    },
+    {
+      "date": "31 Jul 2023",
+      "author": "Dr. T. Hendriks (GP)",
+      "text": "31 Jul 2023 - Dr. T. Hendriks (GP): Annual health check. PSA measured at 1.5 ng/mL, slightly elevated compared to the baseline of 1.0 ng/mL from March. Patient reports excellent general health and continues his regular cycling routine. Advised to repeat PSA in six months to assess stability."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Mar 2023",
+      "val": 1.0
+    },
+    {
+      "date": "Aug 2023",
+      "val": 1.5
+    },
+    {
+      "date": "Feb 2024",
+      "val": 2.2
+    },
+    {
+      "date": "Aug 2024",
+      "val": 3.3
+    },
+    {
+      "date": "Jan 2025",
+      "val": 5.0
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "5.0 ng/mL",
+      "date": "04 Jan 2025",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "0.68 ng/mL",
+      "date": "04 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "14%",
+      "date": "04 Jan 2025",
+      "flag": "L"
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "16.1 g/dL",
+      "date": "04 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "5.3 x10^9/L",
+      "date": "04 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "159 x10^9/L",
+      "date": "04 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "174 umol/L",
+      "date": "04 Jan 2025",
+      "flag": "H"
+    },
+    {
+      "name": "eGFR",
+      "val": "<60 mL/min/1.73m2",
+      "date": "04 Jan 2025",
+      "flag": "L"
+    },
+    {
+      "name": "Testosterone",
+      "val": "13.0 nmol/L",
+      "date": "04 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "84 U/L",
+      "date": "04 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "204 U/L",
+      "date": "04 Jan 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "Yes",
+  "pathology_report": "Biopsy timepoint 1 (earliest available): Histological examination reveals adenocarcinoma of the prostate, Gleason score 4+4, corresponding to ISUP grade group 4. The predominant growth pattern consists of cribriform to extensively fusing confluent tubules. A cribriform pattern is present. The tumour is located in the peripheral zone, base left.\n\nBiopsy timepoint 2 (latest): Histological examination reveals adenocarcinoma of the prostate, Gleason score 4+4, corresponding to ISUP grade group 4. The predominant growth pattern consists of cribriform to extensively fusing confluent tubules. A cribriform pattern is present. The tumour is located in the peripheral zone, base left.\n\nThe histological findings are stable across the documented biopsy timepoints.\n\nAI-predicted ISUP grade group (digital pathology): grade group 4."
+}

@@ -1,0 +1,18 @@
+{
+  "confidence": "borderline",
+  "variable_weights": {
+    "bx_isup": "decisive",
+    "cspca": "important",
+    "pirads": "noted",
+    "fh": "important",
+    "comorbidity": "important",
+    "age": "decisive",
+    "psa": "noted",
+    "bx_gl_sec": "important",
+    "bx_gl_prim": "noted",
+    "ct": "noted",
+    "psad": "noted"
+  },
+  "reveal_sequence": [],
+  "free_text": "Staging recommended with PET-PSMA\nalternative Radiation therapy + ADT (2y)\nShared decision-making recommended"
+}

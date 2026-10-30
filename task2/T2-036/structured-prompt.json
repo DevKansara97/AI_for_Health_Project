@@ -1,0 +1,68 @@
+{
+  "case_id": "T2-036",
+  "pid": "T2-036",
+  "task": 2,
+  "psa": 8.3,
+  "age": 64,
+  "months": 3,
+  "pirads": "2",
+  "psad": 0.206,
+  "psav": 0.8,
+  "psap": 3.9,
+  "vol": 40.2,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.69907415,
+  "medhx": "Other, vasectomie, Inguinal hernial repair",
+  "meds": "None",
+  "notes": "PSA 8.3 ng/mL. PI-RADS 2. PSAD 0.21. Prostate volume 40 mL. DRE nodus. csPCa 0.70.",
+  "pmhx": [
+    "Other",
+    "vasectomie",
+    "Inguinal hernial repair"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "88 kg",
+    "height": "178 cm",
+    "bmi": "27.8",
+    "bp": "139/74 mmHg",
+    "hr": "79 bpm",
+    "smoking": "Ex-smoker (23 pack-yr, quit 2014)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "11 Jan 2025",
+  "enc_ref": "Dr. F. de Boer (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of recently diagnosed low-grade prostate cancer to determine optimal management strategy."
+    },
+    {
+      "s": "History",
+      "t": "Recently retired warehouse worker, now 64 years old, presents for urology follow-up following a prostate cancer diagnosis confirmed in May 2024. He reports no significant urinary symptoms, though his IPSS score is 17/35 indicating moderate lower urinary tract symptoms. He is married and lives in a multi-generational household with an adult child, with his spouse serving as his primary contact. He is an ex-smoker with a 23 pack-year history, having quit in 2014, and consumes approximately one unit of alcohol per week. His exercise routine consists mainly of gardening, with no structured physical activity. He has a history of vasectomy and inguinal hernia repair, and currently takes no active medications. He notes that the clinic is over 90 minutes away, making phone follow-up preferable when clinically appropriate."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, a nodule is palpable in the right peripheral zone of the prostate, consistent with clinical stage cT2. The prostate is non-tender and symmetrically enlarged. General examination is unremarkable with normal vital signs and no lymphadenopathy or abdominal masses."
+    }
+  ],
+  "occupation": "retired warehouse worker",
+  "marital": "Married",
+  "living": "Lives with adult child (multi-generational household)",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [],
+  "alcohol": "1 units / week",
+  "exercise": "Gardening, no structured exercise",
+  "ipss": "IPSS score: 17/35 (moderate LUTS)",
+  "admin": "Lives >90 min from clinic; phone follow-up preferred where clinically safe.",
+  "mri_hospital": "Ziekenhuis Gelderse Vallei (Ede)",
+  "bx_isup": 1,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 3,
+  "ct": "cT2",
+  "active_treatment_flag": 0
+}

@@ -1,0 +1,109 @@
+{
+  "radiology_report": "Amsterdam UMC (location VUmc)\nRadiology Dept\nDate: 15 Jan 2025\nExam: mpMRI prostate\n\nClinical indication: Rising PSA (4.2 ng/mL), prior biopsy Gleason 3+3. Evaluate for clinically significant disease.\n\nFINDINGS:\nThe prostate volume measures 69.0 mL. The transition zone is enlarged consistent with benign prostatic hyperplasia. In the peripheral zone, there is a focal lesion in the right posterolateral aspect measuring approximately 12 x 10 mm. On T2-weighted imaging, the lesion appears markedly hypointense. Diffusion-weighted imaging demonstrates restricted diffusion with high signal on high b-value images and corresponding low signal on the ADC map. Dynamic contrast-enhanced imaging shows early, intense enhancement relative to surrounding tissue. No extracapsular extension or seminal vesicle invasion is identified. No suspicious lymph nodes or bone lesions are seen.\n\nIMPRESSION:\nPI-RADS 5 lesion in the right posterolateral peripheral zone. Prostate volume 69.0 mL, PSA density 0.06 ng/mL/mL. Clinical stage cT1c. csPCa predicted probability 0.81166416.",
+  "previous_notes": [
+    {
+      "date": "30 Oct 2024",
+      "author": "Dr. T. Hendriks (GP)",
+      "text": "Patient returned for follow-up of rising PSA. PSA measured at 3.0 ng/mL. Discussed the need for further evaluation given the upward trend. Referred to urology for re-evaluation and consideration of repeat imaging or biopsy."
+    },
+    {
+      "date": "02 Jul 2024",
+      "author": "Dr. T. Hendriks (GP)",
+      "text": "Patient presented with concern regarding PSA results. PSA measured at 2.2 ng/mL, showing an increase from previous value. Discussed the significance of the rise and the plan for monitoring. Advised repeat PSA in 6 months and referred to urology for further assessment."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Jun 2023",
+      "val": 1.6
+    },
+    {
+      "date": "Jan 2024",
+      "val": 2.2
+    },
+    {
+      "date": "Aug 2024",
+      "val": 3.0
+    },
+    {
+      "date": "Feb 2025",
+      "val": 4.2
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "4.2 ng/mL",
+      "date": "05 Feb 2025",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "0.92 ng/mL",
+      "date": "05 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "22%",
+      "date": "05 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "15.3 g/dL",
+      "date": "05 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "5.9 x10^9/L",
+      "date": "05 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "184 x10^9/L",
+      "date": "05 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "77 umol/L",
+      "date": "05 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "05 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "17.0 nmol/L",
+      "date": "05 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "37 U/L",
+      "date": "05 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "168 U/L",
+      "date": "05 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "HbA1c",
+      "val": "6.4 %",
+      "date": "05 Feb 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy 1 (timepoint 1): Prostate tissue was examined and revealed benign prostatic hyperplasia with focal adenocarcinoma. The malignant component is classified as Gleason pattern 3+3, corresponding to ISUP grade group 1. The growth pattern is acinar. No cribriform or intraductal patterns identified. The tumour is located bilaterally.\n\nBiopsy 2 (most recent): Prostate tissue was examined and revealed benign prostatic hyperplasia with focal adenocarcinoma. The malignant component is classified as Gleason pattern 3+3, corresponding to ISUP grade group 1. The growth pattern is acinar. No cribriform or intraductal patterns identified. The tumour is located bilaterally.\n\nSummary: The histological findings across timepoints remain stable with no upgrade in Gleason score or ISUP grade group.\n\nAI-predicted ISUP grade group (digital pathology): grade group 3."
+}

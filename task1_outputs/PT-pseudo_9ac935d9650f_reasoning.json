@@ -1,0 +1,22 @@
+{
+  "case_id": "PT-pseudo_9ac935d9650f",
+  "confidence": "clear",
+  "variable_importance": {
+    "psa": "noted",
+    "psad": "not_used",
+    "vol": "not_used",
+    "pirads": "noted",
+    "dre": "not_used",
+    "fh": "not_used",
+    "comorbidity": "not_used",
+    "cspca": "not_used",
+    "age": "not_used",
+    "bx": "decisive"
+  },
+  "sections_accessed": [
+    "previous_notes",
+    "psa_trend",
+    "radiology_report"
+  ],
+  "explanation": "Biopsy recommended (risk score 0.81 >= decision threshold 0.64; confidence: clear). Main supporting factors: prior biopsy negative; PSA 17.0 ng/mL (velocity +1.9); PI-RADS 5. Sections informing this decision: previous_notes, psa_trend, radiology_report."
+}

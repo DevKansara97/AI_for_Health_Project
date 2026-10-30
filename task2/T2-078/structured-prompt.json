@@ -1,0 +1,70 @@
+{
+  "case_id": "T2-078",
+  "pid": "T2-078",
+  "task": 2,
+  "psa": 7.68,
+  "age": 59,
+  "months": 3,
+  "pirads": "3",
+  "psad": 0.1,
+  "psav": 0.96,
+  "psap": 2.7,
+  "vol": 80.93,
+  "dre": "Normal",
+  "bx": "Negative",
+  "cspca": 0.7373852,
+  "medhx": "Hypertension, Type 2 diabetes",
+  "meds": "lisinopril, metoprolol, metformin, empagliflozin",
+  "notes": "PSA 7.68 ng/mL. PI-RADS 3. PSAD 0.10. Prostate volume 81 mL. csPCa 0.74.",
+  "pmhx": [
+    "Hypertension",
+    "Type 2 diabetes"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "70 kg",
+    "height": "177 cm",
+    "bmi": "22.3",
+    "bp": "151/81 mmHg",
+    "hr": "74 bpm",
+    "smoking": "Ex-smoker (16 pack-yr, quit 2016)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "07 Feb 2025",
+  "enc_ref": "Dr. T. Hendriks (GP)",
+  "enc_type": "Re-evaluation - prior negative biopsy",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for persistently elevated PSA and recent MRI findings following two prior negative biopsies."
+    },
+    {
+      "s": "History",
+      "t": "Long-standing referral for rising PSA levels, now 7.68 ng/mL. The patient is a 59-year-old active dairy farmer living with his partner, who manages administrative communications with consent. He reports moderate lower urinary tract symptoms, consistent with an IPSS score of 17. Medical history includes hypertension and type 2 diabetes, managed with lisinopril, metoprolol, metformin, and empagliflozin. He is an ex-smoker with a 16 pack-year history, quit in 2016. He consumes approximately 10 units of alcohol weekly and leads a sedentary lifestyle with occasional walking. Recent appointments include quarterly diabetes nurse reviews and biannual dental check-ups. No family history of prostate cancer has been elicited at this time."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On digital rectal examination, the prostate is symmetrically enlarged, smooth, and non-tender without discrete nodules, consistent with clinical stage cT1c. General examination reveals a well-nourished male with stable vital signs, blood pressure 151/81 mmHg, and heart rate 74 bpm. No lymphadenopathy or edema is noted."
+    }
+  ],
+  "occupation": "active dairy farmer",
+  "marital": "Living with partner (unmarried)",
+  "living": "Lives with partner",
+  "next_of_kin": "Long-time friend (no close family)",
+  "recent_other": [
+    "Diabetes nurse — quarterly review",
+    "Dental — biannual check-up"
+  ],
+  "alcohol": "10 units / week",
+  "exercise": "Sedentary lifestyle, occasional walking",
+  "ipss": "IPSS score: 17/35 (moderate LUTS)",
+  "admin": "Daughter manages communication; CC on letters with patient consent.",
+  "mri_hospital": "Radboudumc",
+  "bx_isup": 0,
+  "bx_gl_prim": 0,
+  "bx_gl_sec": 0,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

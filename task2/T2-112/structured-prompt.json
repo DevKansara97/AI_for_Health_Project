@@ -1,0 +1,69 @@
+{
+  "case_id": "T2-112",
+  "pid": "T2-112",
+  "task": 2,
+  "psa": 5.5,
+  "age": 64,
+  "months": 3,
+  "pirads": "5",
+  "psad": 0.12,
+  "psav": 2.35,
+  "psap": 3.0,
+  "vol": 49.0,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.8111057,
+  "medhx": "Hypercholesterolaemia",
+  "meds": "atorvastatin, simvastatin, rosuvastatin",
+  "notes": "PSA 5.5 ng/mL. PI-RADS 5. PSAD 0.12. Prostate volume 49 mL. DRE nodus. csPCa 0.81.",
+  "pmhx": [
+    "Hypercholesterolaemia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "94 kg",
+    "height": "186 cm",
+    "bmi": "27.2",
+    "bp": "127/78 mmHg",
+    "hr": "87 bpm",
+    "smoking": "Ex-smoker (37 pack-yr, quit 2022)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "04 Feb 2025",
+  "enc_ref": "Dr. F. de Boer (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of prostate cancer management options following recent biopsy and MRI findings."
+    },
+    {
+      "s": "History",
+      "t": "The patient is a 64-year-old hospital porter with a history of hypercholesterolaemia managed with statin therapy. He reports a gradual increase in PSA levels over the past two years, rising from 1.6 ng/mL to the current 5.5 ng/mL. He lives in a ground-floor apartment with his partner and maintains an active lifestyle, walking 45 minutes daily. Socially, he consumes approximately 14 units of alcohol per week and is an ex-smoker, having quit in 2022 after a 37 pack-year history. He denies any lower urinary tract symptoms, with an IPSS score of 0. Recent outpatient visits included an orthopaedic follow-up for knee issues and a routine chest X-ray. He has a visual impairment requiring large-print correspondence."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, a discrete nodule is palpable in the left peripheral zone, consistent with clinical stage cT2a. The prostate volume is estimated at approximately 49 mL. General examination reveals a well-nourished male with stable vital signs and no signs of metastatic disease."
+    }
+  ],
+  "occupation": "hospital porter",
+  "marital": "Widowed",
+  "living": "Lives in ground-floor apartment with partner",
+  "next_of_kin": "Sibling (sister)",
+  "recent_other": [
+    "Orthopaedic outpatient — knee follow-up",
+    "Radiology — chest X-ray (routine)"
+  ],
+  "alcohol": "14 units / week",
+  "exercise": "Walking 45 min/day",
+  "ipss": "IPSS score: 0/35 (mild LUTS)",
+  "admin": "Visual impairment: large-print correspondence requested.",
+  "mri_hospital": "LUMC (Leiden)",
+  "bx_isup": 1,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 3,
+  "ct": "cT2a",
+  "active_treatment_flag": 0
+}

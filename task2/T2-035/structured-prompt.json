@@ -1,0 +1,68 @@
+{
+  "case_id": "T2-035",
+  "pid": "T2-035",
+  "task": 2,
+  "psa": 6.5,
+  "age": 64,
+  "months": 3,
+  "pirads": "4",
+  "psad": 0.11,
+  "psav": 1.64,
+  "psap": 5.3,
+  "vol": 59.14,
+  "dre": "Abnormal",
+  "bx": "Positive",
+  "cspca": 0.7465537,
+  "medhx": "Hypertension",
+  "meds": "valsartan, lisinopril, metoprolol",
+  "notes": "PSA 6.5 ng/mL. PI-RADS 4. PSAD 0.11. Prostate volume 59 mL. DRE abnormal. csPCa 0.75.",
+  "pmhx": [
+    "Hypertension"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "96 kg",
+    "height": "179 cm",
+    "bmi": "30.0",
+    "bp": "149/75 mmHg",
+    "hr": "66 bpm",
+    "smoking": "Ex-smoker (13 pack-yr, quit 2015)",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "13 Feb 2025",
+  "enc_ref": "Dr. L. Smits (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for prostate cancer management following recent biopsy and rising PSA."
+    },
+    {
+      "s": "History",
+      "t": "Long-standing referral for prostate cancer management. The patient is a 64-year-old active dairy farmer who lives with his partner. He reports moderate lower urinary tract symptoms with an IPSS score of 10/35. Medical history includes hypertension managed with valsartan, lisinopril, and metoprolol. He is an ex-smoker with a 13 pack-year history, quitting in 2015. He cycles 5 times per week as a commuter and abstains from alcohol. Recently attended a memory clinic for baseline screening, which was unremarkable. PSA has progressively risen from 3.5 ng/mL in May 2023 to 6.5 ng/mL in February 2025."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is enlarged and nodular in the left apex, consistent with cT1c disease. General examination is unremarkable with stable vitals and no signs of metastatic disease."
+    }
+  ],
+  "occupation": "active dairy farmer",
+  "marital": "Divorced",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Memory clinic — baseline screening"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Cycling 5x/week (commuter)",
+  "ipss": "IPSS score: 10/35 (moderate LUTS)",
+  "admin": "Lives >90 min from clinic; phone follow-up preferred where clinically safe.",
+  "mri_hospital": "Jeroen Bosch Ziekenhuis ('s-Hertogenbosch)",
+  "bx_isup": 1,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

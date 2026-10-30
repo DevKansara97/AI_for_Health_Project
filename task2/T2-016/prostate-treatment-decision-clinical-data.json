@@ -1,0 +1,102 @@
+{
+  "radiology_report": "Imaging Department\nSpaarne Gasthuis (Haarlem)\nDate: 15 November 2024\nExamination: Multiparametric MRI prostate\nClinical indication: Rising PSA to 13.6 ng/mL with a velocity of 2.9 ng/mL/yr and elevated PSA density; prior biopsy confirmed ISUP grade group 1 carcinoma. Evaluation for focal lesion characterization.\nFINDINGS: The prostate gland measures approximately 68.0 mL in volume. T2-weighted imaging demonstrates a well-defined, hypointense lesion located in the mid portion of the transition zone, measuring approximately 18 mm in maximal dimension. On high b-value diffusion-weighted imaging, this region exhibits marked restricted diffusion with corresponding low apparent diffusion coefficient values. Dynamic contrast-enhanced sequences show early, intense enhancement of the same area. No extracapsular extension or seminal vesicle invasion is identified. No suspicious lymphadenopathy or osseous metastases are visualized within the field of view.\nIMPRESSION:\nPI-RADS v2.1 category 5 lesion in the mid transition zone.\nProstate volume 68.0 mL, yielding a PSA density of 0.2 ng/mL/mL.\nClinical stage cT1c.\ncsPCa predicted probability 0.83881855.",
+  "previous_notes": [
+    {
+      "date": "11 Jan 2024",
+      "author": "Dr. E. Mulder (GP)",
+      "text": "11 Jan 2024 - Dr. E. Mulder (GP): Routine annual check-up performed. Patient reports feeling generally well with no urinary complaints. Serum PSA was measured at 2.4 ng/mL, which is within normal limits for his age group. Digital rectal examination was unremarkable. Routine blood work including lipid profile was reviewed, and statin therapy was discussed but deferred pending patient preference. No immediate urological referral was indicated at this time."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Jan 2024",
+      "val": 2.4
+    },
+    {
+      "date": "Apr 2024",
+      "val": 8.0
+    },
+    {
+      "date": "Jul 2024",
+      "val": 12.4
+    },
+    {
+      "date": "Oct 2024",
+      "val": 9.7
+    },
+    {
+      "date": "Jan 2025",
+      "val": 13.6
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "13.6 ng/mL",
+      "date": "22 Nov 2024",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "3.72 ng/mL",
+      "date": "22 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "27%",
+      "date": "22 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "14.9 g/dL",
+      "date": "22 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "8.0 x10^9/L",
+      "date": "22 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "245 x10^9/L",
+      "date": "22 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "89 umol/L",
+      "date": "22 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "22 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "10.5 nmol/L",
+      "date": "22 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "81 U/L",
+      "date": "22 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "214 U/L",
+      "date": "22 Nov 2024",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Specimen: Transrectal ultrasound-guided prostate biopsy, 14 August 2024.\nMicroscopic examination of the submitted tissue cores reveals benign prostatic hyperplasia and chronic inflammation in the majority of the sampled glands. Within the mid transition zone, a focus of adenocarcinoma is identified, characterized by a proliferation of separate tubules infiltrating the stroma. The architectural pattern corresponds to a Gleason score of 3+3, classified as ISUP grade group 1. The lesion is localized to the transition zone at the mid-gland level. This represents the initial histological confirmation of prostatic adenocarcinoma in this patient.\n\nAI-predicted ISUP grade group (digital pathology): grade group 3."
+}

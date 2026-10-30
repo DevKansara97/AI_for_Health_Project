@@ -1,0 +1,66 @@
+{
+  "case_id": "T2-117",
+  "pid": "T2-117",
+  "task": 2,
+  "psa": 12.4,
+  "age": 65,
+  "months": 2,
+  "pirads": "3",
+  "psad": 0.08,
+  "psav": 5.28,
+  "psap": 7.4,
+  "vol": 149.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.58010316,
+  "medhx": "Osteoarthritis",
+  "meds": "paracetamol PRN",
+  "notes": "PSA 12.4 ng/mL. PI-RADS 3. PSAD 0.08. Prostate volume 149 mL. csPCa 0.58.",
+  "pmhx": [
+    "Osteoarthritis"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "70 kg",
+    "height": "182 cm",
+    "bmi": "21.1",
+    "bp": "149/75 mmHg",
+    "hr": "61 bpm",
+    "smoking": "Current smoker (24 pack-yr)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "17 Feb 2025",
+  "enc_ref": "Dr. P. van Dijk (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for prostate cancer treatment decision following stable Gleason 3+4 diagnosis and rising PSA trend."
+    },
+    {
+      "s": "History",
+      "t": "Long-standing referral for prostate cancer management. Patient is a 65-year-old graphic designer, married, and resides in a multi-generational household with his adult child. He reports mild lower urinary tract symptoms with an IPSS score of 2. He cycles twice weekly for approximately 20 km and consumes 10 units of alcohol per week. He is a current smoker with a 24 pack-year history and takes paracetamol as needed for osteoarthritis. No recent other appointments. PSA has risen from 2.6 ng/mL in May 2023 to 12.4 ng/mL in February 2025."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is non-palpable with no nodules or asymmetry, consistent with clinical stage cT1c. General examination reveals a well-nourished man with stable vital signs, BP 149/75 mmHg, HR 61 bpm. No lymphadenopathy or abdominal masses detected."
+    }
+  ],
+  "occupation": "graphic designer",
+  "marital": "Married",
+  "living": "Lives with adult child (multi-generational household)",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [],
+  "alcohol": "10 units / week",
+  "exercise": "Cycling 2x/week, ~20 km",
+  "ipss": "IPSS score: 2/35 (mild LUTS)",
+  "admin": "Daughter manages communication; CC on letters with patient consent.",
+  "mri_hospital": "LUMC (Leiden)",
+  "bx_isup": 2,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 4,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

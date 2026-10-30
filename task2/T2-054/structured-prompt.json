@@ -1,0 +1,69 @@
+{
+  "case_id": "T2-054",
+  "pid": "T2-054",
+  "task": 2,
+  "psa": 16.5,
+  "age": 64,
+  "months": 1,
+  "pirads": "5",
+  "psad": 0.567,
+  "psav": 3.98,
+  "psap": 14.9,
+  "vol": 29.08,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.8393857,
+  "medhx": "Osteoarthritis, Benign prostatic hyperplasia",
+  "meds": "paracetamol PRN, tamsulosin",
+  "notes": "PSA 16.5 ng/mL. PI-RADS 5. PSAD 0.57. Prostate volume 29 mL. csPCa 0.84.",
+  "pmhx": [
+    "Osteoarthritis",
+    "Benign prostatic hyperplasia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "104 kg",
+    "height": "188 cm",
+    "bmi": "29.4",
+    "bp": "147/74 mmHg",
+    "hr": "70 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "18 Feb 2025",
+  "enc_ref": "Dr. R. Visser (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for treatment planning following confirmed ISUP grade group 3 prostate cancer with rising PSA."
+    },
+    {
+      "s": "History",
+      "t": "Recently retired freelance translator with a history of osteoarthritis and benign prostatic hyperplasia. The patient reports a gradual increase in PSA levels over the past two years, from 11.5 ng/mL in June 2023 to 16.5 ng/mL in February 2025, with a corresponding rise in IPSS score to 16/35. He has been managed with tamsulosin for LUTS and paracetamol as needed for joint pain. Socially, he lives alone but maintains close contact with his adult daughter, who serves as his primary next-of-kin. He drinks approximately two units of alcohol per week and walks 20 minutes daily. Recent dermatology appointment for actinic keratosis check was unremarkable. He has previously declined participation in research studies, including active surveillance trials."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum, the prostate feels symmetrically enlarged without palpable nodules or asymmetry, consistent with clinical stage cT1c. General examination reveals mild bilateral knee crepitus and no lymphadenopathy or abdominal masses. Vital signs are stable with a blood pressure of 147/74 mmHg and heart rate of 70 bpm."
+    }
+  ],
+  "occupation": "freelance translator",
+  "marital": "Married",
+  "living": "Lives alone",
+  "next_of_kin": "Adult daughter (primary contact)",
+  "recent_other": [
+    "Dermatology — actinic keratosis check"
+  ],
+  "alcohol": "2 units / week",
+  "exercise": "Walking 20 min/day",
+  "ipss": "IPSS score: 16/35 (moderate LUTS)",
+  "admin": "Patient declined research participation previously; respect for AS-related trials.",
+  "mri_hospital": "Amsterdam UMC (location VUmc)",
+  "bx_isup": 3,
+  "bx_gl_prim": 4,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

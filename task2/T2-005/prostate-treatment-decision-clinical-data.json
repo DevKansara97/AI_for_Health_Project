@@ -1,0 +1,109 @@
+{
+  "radiology_report": "Department of Radiology\nErasmus MC\nDate: 25 Feb 2025\nExam: mpMRI Prostate\n\nClinical indication: Evaluation of elevated PSA (3.0 ng/mL) and assessment of prostate morphology.\n\nFINDINGS: Multiparametric MRI of the prostate demonstrates a gland volume of 25.0 mL. On T2-weighted imaging, a focal area of hypointensity is noted in the left peripheral zone, measuring approximately 12 mm in maximal dimension. This region demonstrates restricted diffusion on high b-value DWI sequences with corresponding early enhancement on dynamic contrast-enhanced imaging. No extracapsular extension, seminal vesicle involvement, or suspicious lymphadenopathy is observed.\n\nIMPRESSION: PI-RADS 4 lesion in the left peripheral zone. Prostate volume 25.0 mL with a calculated PSA density of 0.12 ng/mL/mL. Clinical T stage cT1c. csPCa predicted probability 0.7542332",
+  "previous_notes": [
+    {
+      "date": "08 Mar 2023",
+      "author": "Dr. P. van Dijk (GP)",
+      "text": "Patient presented with incidentally elevated PSA of 1.8 ng/mL. Repeat testing and basic blood work were arranged to monitor trends. The patient was advised to maintain routine follow-up given the mild elevation and absence of urinary symptoms at that time."
+    },
+    {
+      "date": "02 Mar 2024",
+      "author": "Dr. P. van Dijk (GP)",
+      "text": "Follow-up consultation regarding rising PSA levels, now measuring 2.3 ng/mL. A transperineal prostate biopsy was performed to further characterize the gland. The patient was informed of the pending histological results and scheduled for a urology referral upon finalization of the pathology report."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Dec 2022",
+      "val": 1.4
+    },
+    {
+      "date": "Sep 2023",
+      "val": 1.8
+    },
+    {
+      "date": "May 2024",
+      "val": 2.3
+    },
+    {
+      "date": "Feb 2025",
+      "val": 3.0
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "3.0 ng/mL",
+      "date": "19 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Free PSA",
+      "val": "0.42 ng/mL",
+      "date": "19 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "14%",
+      "date": "19 Jan 2025",
+      "flag": "L"
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "15.5 g/dL",
+      "date": "19 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "6.8 x10^9/L",
+      "date": "19 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "240 x10^9/L",
+      "date": "19 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "154 umol/L",
+      "date": "19 Jan 2025",
+      "flag": "H"
+    },
+    {
+      "name": "eGFR",
+      "val": "<60 mL/min/1.73m2",
+      "date": "19 Jan 2025",
+      "flag": "L"
+    },
+    {
+      "name": "Testosterone",
+      "val": "6.6 nmol/L",
+      "date": "19 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "79 U/L",
+      "date": "19 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "170 U/L",
+      "date": "19 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "HbA1c",
+      "val": "6.2 %",
+      "date": "19 Jan 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Transperineal biopsy specimen demonstrates a Gleason score of 3+3, corresponding to a reported ISUP grade group of 1. The tumour architecture is characterized by small glandular tubules. No cribriform or intraductal patterns identified. Perineural invasion is absent. The tumour is located in the ablatiezone. The histological trajectory across the available biopsy timepoint remains stable, showing low-grade disease without high-risk morphological features.\n\nAI-predicted ISUP grade group (digital pathology): grade group 5."
+}

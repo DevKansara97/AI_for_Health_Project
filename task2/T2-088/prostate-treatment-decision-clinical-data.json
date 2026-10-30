@@ -1,0 +1,105 @@
+{
+  "radiology_report": "Antoni van Leeuwenhoek\nDepartment of Radiology\nDate: 15 Dec 2024\nExam: mpMRI Prostate\nClinical indication: PSA 4.6 ng/mL, rising trend, prior biopsy Gleason 3+3. Request for PI-RADS assessment.\nFINDINGS:\nProstate volume measures 30.02 mL. T2-weighted images demonstrate a focal, irregular hypointense lesion within the peripheral zone at the mid-right aspect, measuring approximately 12 x 9 x 8 mm. This area exhibits restricted diffusion on DWI (high signal on b=1400, low ADC) and early, intense enhancement on DCE sequences. The central gland shows mild BPH changes without suspicious focal lesions. Seminal vesicles appear normal. No extraprostatic extension or pelvic lymphadenopathy is identified.\nIMPRESSION:\nPI-RADS 5 lesion in the peripheral zone, mid right. Prostate volume 30.02 mL, PSA density 0.153 ng/mL/mL. Clinical stage cT1c. csPCa predicted probability 0.8208632.",
+  "previous_notes": [
+    {
+      "date": "01 Jun 2024",
+      "author": "Dr. H. Martens (GP)",
+      "text": "Patient presented with a PSA of 2.4 ng/mL, noted to be rising from 1.3 ng/mL in March 2023. Digital rectal examination was normal. Discussed the rising PSA trend and the need for further evaluation. Referred to urology for assessment and consideration of biopsy."
+    },
+    {
+      "date": "29 Sep 2024",
+      "author": "Dr. H. Martens (GP)",
+      "text": "Patient returned for follow-up after a negative initial biopsy in March 2023. PSA has continued to rise, now measuring 4.6 ng/mL. mpMRI was performed at Antoni van Leeuwenhoek, revealing a PI-RADS 5 lesion. Patient was advised to proceed with a targeted biopsy. Referred to urology for re-evaluation and discussion of biopsy results."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Mar 2023",
+      "val": 1.3
+    },
+    {
+      "date": "Feb 2024",
+      "val": 2.4
+    },
+    {
+      "date": "Jan 2025",
+      "val": 4.6
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "4.6 ng/mL",
+      "date": "13 Dec 2024",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "0.97 ng/mL",
+      "date": "13 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "21%",
+      "date": "13 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "13.2 g/dL",
+      "date": "13 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "6.0 x10^9/L",
+      "date": "13 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "228 x10^9/L",
+      "date": "13 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "91 umol/L",
+      "date": "13 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "13 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "14.1 nmol/L",
+      "date": "13 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "64 U/L",
+      "date": "13 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "178 U/L",
+      "date": "13 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "HbA1c",
+      "val": "5.5 %",
+      "date": "13 Dec 2024",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy 1 (Mar 2023): Histological examination of the prostate tissue specimens reveals benign prostatic glands and stroma. No malignant glands are identified in this initial sampling.\n\nBiopsy 2 (Jan 2025): Histological examination of the prostate tissue specimens reveals adenocarcinoma. The Gleason score is 3+3, corresponding to ISUP grade group 1. The growth pattern consists of glandular tubules. No cribriform or intraductal patterns identified. The tumour is located in the peripheral zone, mid right.\n\nSummary: The histological trajectory shows progression from benign findings in the initial biopsy to the identification of low-grade adenocarcinoma (ISUP GG1) in the most recent sampling.\n\nAI-predicted ISUP grade group (digital pathology): grade group 2."
+}

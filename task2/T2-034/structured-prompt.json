@@ -1,0 +1,70 @@
+{
+  "case_id": "T2-034",
+  "pid": "T2-034",
+  "task": 2,
+  "psa": 9.2,
+  "age": 57,
+  "months": 1,
+  "pirads": "4",
+  "psad": 0.17,
+  "psav": 1.71,
+  "psap": 6.4,
+  "vol": 53.0,
+  "dre": "Nodus",
+  "bx": "Negative",
+  "cspca": 0.78939086,
+  "medhx": "Benign prostatic hyperplasia",
+  "meds": "tamsulosin",
+  "notes": "PSA 9.2 ng/mL. PI-RADS 4. PSAD 0.17. Prostate volume 53 mL. DRE nodus. csPCa 0.79.",
+  "pmhx": [
+    "Benign prostatic hyperplasia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "75 kg",
+    "height": "174 cm",
+    "bmi": "24.8",
+    "bp": "116/71 mmHg",
+    "hr": "78 bpm",
+    "smoking": "Ex-smoker (27 pack-yr, quit 2003)",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "09 Jan 2025",
+  "enc_ref": "Dr. P. van Dijk (GP)",
+  "enc_type": "Re-evaluation - prior negative biopsy",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for rising PSA to 9.2 ng/mL despite a prior negative biopsy and a new PI-RADS 4 lesion on MRI."
+    },
+    {
+      "s": "History",
+      "t": "Long-standing referral for monitoring of prostate-specific antigen levels. The patient is a 57-year-old retired shopkeeper, recently relocated to live with his sister. He reports mild lower urinary tract symptoms, with an IPSS score of 5, managed with tamsulosin. He is an ex-smoker, having quit in 2003, and is currently alcohol-free. He walks 20 minutes daily. Recent appointments include a vascular surgery consult for varicose veins, an orthopaedic follow-up for his knee, and six sessions of physiotherapy for lower back pain. His nephew acts as his next of kin. The PSA has risen progressively from 2.1 ng/mL in November 2022 to 9.2 ng/mL in January 2025. A previous biopsy was negative."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On digital rectal examination, a nodule is palpated, consistent with clinical stage cT2a. General examination is unremarkable, with normal vital signs and no lymphadenopathy."
+    }
+  ],
+  "occupation": "retired shopkeeper",
+  "marital": "Married",
+  "living": "Recently relocated; lives with sister",
+  "next_of_kin": "Nephew",
+  "recent_other": [
+    "Vascular surgery — varicose veins consult",
+    "Orthopaedic outpatient — knee follow-up",
+    "Physiotherapy — lower back, six sessions"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Walking 20 min/day",
+  "ipss": "IPSS score: 5/35 (mild LUTS)",
+  "admin": "Patient declined research participation previously; respect for AS-related trials.",
+  "mri_hospital": "Jeroen Bosch Ziekenhuis ('s-Hertogenbosch)",
+  "bx_isup": 0,
+  "bx_gl_prim": 0,
+  "bx_gl_sec": 0,
+  "ct": "cT2a",
+  "active_treatment_flag": 0
+}

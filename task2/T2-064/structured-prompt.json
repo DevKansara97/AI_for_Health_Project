@@ -1,0 +1,72 @@
+{
+  "case_id": "T2-064",
+  "pid": "T2-064",
+  "task": 2,
+  "psa": 14.0,
+  "age": 82,
+  "months": 2,
+  "pirads": "5",
+  "psad": 0.08,
+  "psav": 4.53,
+  "psap": 2.6,
+  "vol": 168.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.8381252,
+  "medhx": "Hypertension, Hypercholesterolaemia, Coronary artery disease, Osteoarthritis",
+  "meds": "valsartan, lisinopril, metoprolol, rosuvastatin, paracetamol PRN",
+  "notes": "PSA 14 ng/mL. PI-RADS 5. PSAD 0.08. Prostate volume 168 mL. csPCa 0.84.",
+  "pmhx": [
+    "Hypertension",
+    "Hypercholesterolaemia",
+    "Coronary artery disease",
+    "Osteoarthritis"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "68 kg",
+    "height": "178 cm",
+    "bmi": "21.5",
+    "bp": "107/90 mmHg",
+    "hr": "51 bpm",
+    "smoking": "Ex-smoker (12 pack-yr, quit 2006)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "20 Jan 2025",
+  "enc_ref": "Dr. H. Martens (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for treatment decision following diagnosis of high-grade prostate cancer."
+    },
+    {
+      "s": "History",
+      "t": "The patient is an 82-year-old retired farmer who lives with his partner. He has a medical history of hypertension, hypercholesterolaemia, coronary artery disease, and osteoarthritis. He takes valsartan, lisinopril, metoprolol, rosuvastatin, and paracetamol PRN. He is an ex-smoker (12 pack-yr, quit 2006) and drinks 12 units of alcohol per week. He plays tennis twice a week and reports moderate LUTS with an IPSS score of 9/35. He recently attended the pain clinic for chronic shoulder pain and the endocrine clinic for thyroid screening. His PSA has fluctuated significantly, rising from 5.0 ng/mL in Aug 2023 to 12.9 ng/mL in Feb 2024, dropping to 2.6 ng/mL in Aug 2024, and rising again to 14.0 ng/mL in Jan 2025."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum, the prostate feels smooth and symmetric without palpable nodules, consistent with a cT1c stage. The general examination is unremarkable, with stable vital signs and no signs of lymphadenopathy or bone tenderness."
+    }
+  ],
+  "occupation": "retired farmer",
+  "marital": "Divorced",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Pain clinic — chronic shoulder pain",
+    "Endocrine — thyroid screening"
+  ],
+  "alcohol": "12 units / week",
+  "exercise": "Tennis 2x/week",
+  "ipss": "IPSS score: 9/35 (moderate LUTS)",
+  "admin": "Visual impairment: large-print correspondence requested.",
+  "mri_hospital": "Ziekenhuis Gelderse Vallei (Ede)",
+  "bx_isup": 5,
+  "bx_gl_prim": 5,
+  "bx_gl_sec": 5,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

@@ -1,0 +1,71 @@
+{
+  "case_id": "T2-108",
+  "pid": "T2-108",
+  "task": 2,
+  "psa": 5.3,
+  "age": 63,
+  "months": 2,
+  "pirads": "2",
+  "psad": 0.1,
+  "psav": 1.98,
+  "psap": 3.0,
+  "vol": 50.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.39097,
+  "medhx": "Hypercholesterolaemia, COPD, Osteoarthritis",
+  "meds": "atorvastatin, simvastatin, rosuvastatin, tiotropium, salbutamol PRN, paracetamol PRN",
+  "notes": "PSA 5.3 ng/mL. PI-RADS 2. PSAD 0.10. Prostate volume 50 mL. csPCa 0.39.",
+  "pmhx": [
+    "Hypercholesterolaemia",
+    "COPD",
+    "Osteoarthritis"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "63 kg",
+    "height": "172 cm",
+    "bmi": "21.3",
+    "bp": "134/70 mmHg",
+    "hr": "66 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "25 Feb 2025",
+  "enc_ref": "Dr. C. Peters (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of prostate cancer management options following stable low-grade biopsy results and rising PSA trend."
+    },
+    {
+      "s": "History",
+      "t": "Long-standing referral for prostate cancer monitoring. Patient is a 63-year-old retired greenhouse horticulturalist, married, lives alone. Medical history includes hypercholesterolaemia, COPD, and osteoarthritis. Active medications: atorvastatin, simvastatin, rosuvastatin, tiotropium, salbutamol PRN, paracetamol PRN. No known allergies. Social history: non-smoker, alcohol 3 units/week, walks 45 min/day. IPSS score 18/35 indicating moderate LUTS. Hard of hearing, prefers written summaries. Recent appointments: dental biannual check-up, sleep clinic for suspected OSA. PSA trend: 1.8 ng/mL (Jul 2022), 3.0 ng/mL (Nov 2023), 5.3 ng/mL (Feb 2025). Prior biopsies both Gleason 3+3, ISUP GG 1. No bone pain, haematuria, or weight loss."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, prostate is smooth, symmetric, non-tender, consistent with cT1c. No nodules or asymmetry palpable. General examination: vitals stable, BMI 21.3, clear lungs, regular heart rhythm. No lymphadenopathy or edema."
+    }
+  ],
+  "occupation": "retired greenhouse horticulturalist",
+  "marital": "Married",
+  "living": "Lives alone",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Dental — biannual check-up",
+    "Sleep clinic — suspected obstructive sleep apnoea"
+  ],
+  "alcohol": "3 units / week",
+  "exercise": "Walking 45 min/day",
+  "ipss": "IPSS score: 18/35 (moderate LUTS)",
+  "admin": "Hard of hearing — speak clearly; prefers written summaries.",
+  "mri_hospital": "Antoni van Leeuwenhoek",
+  "bx_isup": 1,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

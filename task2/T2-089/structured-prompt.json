@@ -1,0 +1,68 @@
+{
+  "case_id": "T2-089",
+  "pid": "T2-089",
+  "task": 2,
+  "psa": 2.5,
+  "age": 70,
+  "months": 2,
+  "pirads": "4",
+  "psad": 0.11,
+  "psav": 0.11,
+  "psap": 1.7,
+  "vol": 22.83,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.83914113,
+  "medhx": "TURP",
+  "meds": "None",
+  "notes": "PSA 2.5 ng/mL. PI-RADS 4. PSAD 0.11. Prostate volume 23 mL. DRE nodus. csPCa 0.84.",
+  "pmhx": [
+    "TURP"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "56 kg",
+    "height": "168 cm",
+    "bmi": "19.8",
+    "bp": "109/72 mmHg",
+    "hr": "87 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "21 Jan 2025",
+  "enc_ref": "Dr. E. Mulder (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for multidisciplinary treatment planning following recent PSA rise and prior prostate cancer diagnosis."
+    },
+    {
+      "s": "History",
+      "t": "Recently relocated 70-year-old graphic designer, widowed and currently residing with his sister. He reports moderate lower urinary tract symptoms, consistent with an IPSS of 19, and uses a walking frame due to mobility limitations. He exercises with light weight-training twice weekly and consumes approximately 5 units of alcohol per week. Recent ophthalmology review for cataracts was unremarkable. His PSA has fluctuated over recent years, rising from 1.7 ng/mL in June 2024 to 2.5 ng/mL in January 2025. He has no active medication allergies and takes no regular medications. His medical history is significant for a prior TURP."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum, a discrete nodule is palpable in the right basal peripheral zone, consistent with clinical stage cT2a. General examination is unremarkable with stable vital signs and no lymphadenopathy."
+    }
+  ],
+  "occupation": "graphic designer",
+  "marital": "Widowed",
+  "living": "Recently relocated; lives with sister",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Ophthalmology — cataract review"
+  ],
+  "alcohol": "5 units / week",
+  "exercise": "Light weight-training at home, 2x/week",
+  "ipss": "IPSS score: 19/35 (moderate LUTS)",
+  "admin": "Mobility limitation (frame); ground-floor consult room preferred.",
+  "mri_hospital": "Bravis Ziekenhuis",
+  "bx_isup": 2,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 4,
+  "ct": "cT2a",
+  "active_treatment_flag": 0
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "PT-pseudo_8192345b35fa",
+  "confidence": "borderline",
+  "variable_importance": {
+    "psa": "decisive",
+    "psad": "not_used",
+    "vol": "not_used",
+    "pirads": "not_used",
+    "dre": "not_used",
+    "fh": "not_used",
+    "comorbidity": "not_used",
+    "cspca": "not_used",
+    "age": "not_used",
+    "bx": "decisive"
+  },
+  "sections_accessed": [
+    "psa_trend",
+    "previous_notes"
+  ],
+  "explanation": "Biopsy not recommended (risk score 0.33 < decision threshold 0.64; confidence: borderline). Main supporting factors: PSA 27.0 ng/mL (velocity +3.3); prior biopsy positive, prior ISUP 2; DRE: nodus. Evidence is mixed, so the score is close to the decision threshold. Sections informing this decision: psa_trend, previous_notes."
+}

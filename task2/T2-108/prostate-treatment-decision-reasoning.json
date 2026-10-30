@@ -1,0 +1,18 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "psa": "important",
+    "ct": "important",
+    "bx_gl_sec": "important",
+    "cspca": "noted",
+    "age": "important",
+    "psad": "noted",
+    "bx_isup": "important",
+    "pirads": "important",
+    "fh": "noted",
+    "comorbidity": "noted",
+    "bx_gl_prim": "important"
+  },
+  "reveal_sequence": [],
+  "free_text": "Active surveillance improves QoL - I would prioritise it until progression"
+}

@@ -1,0 +1,70 @@
+{
+  "case_id": "T2-057",
+  "pid": "T2-057",
+  "task": 2,
+  "psa": 6.22,
+  "age": 71,
+  "months": 3,
+  "pirads": "5",
+  "psad": 0.17,
+  "psav": 0.96,
+  "psap": 5.0,
+  "vol": 36.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.86727,
+  "medhx": "Type 2 diabetes, Hypercholesterolaemia, Osteoarthritis",
+  "meds": "metformin, atorvastatin, simvastatin",
+  "notes": "PSA 6.22 ng/mL. PI-RADS 5. PSAD 0.17. Prostate volume 36 mL. csPCa 0.87.",
+  "pmhx": [
+    "Type 2 diabetes",
+    "Hypercholesterolaemia",
+    "Osteoarthritis"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "73 kg",
+    "height": "176 cm",
+    "bmi": "23.6",
+    "bp": "105/76 mmHg",
+    "hr": "66 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "12 Jan 2025",
+  "enc_ref": "Dr. M. Jansen (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for treatment planning following diagnosis of high-grade prostate cancer."
+    },
+    {
+      "s": "History",
+      "t": "Recently retired warehouse worker with a known diagnosis of prostate cancer. The patient has a history of type 2 diabetes and hypercholesterolaemia, managed with metformin, atorvastatin, and simvastatin. He also suffers from osteoarthritis. He is married and lives in a multi-generational household with his adult son, who acts as his caregiver and holds lasting power of attorney. He cycles approximately 20 km twice weekly and consumes 4 units of alcohol per week. His IPSS score is 14, indicating moderate lower urinary tract symptoms. He reports no bone pain or haematuria. He has a visual impairment and requires large-print correspondence. Recent quarterly review with the diabetes nurse was unremarkable."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On digital rectal examination, the prostate feels normal in size and consistency with no palpable nodules, correlating with a clinical stage of cT1c. General examination is unremarkable with stable vital signs and no signs of metastatic disease."
+    }
+  ],
+  "occupation": "retired warehouse worker",
+  "marital": "Married",
+  "living": "Lives with adult child (multi-generational household)",
+  "next_of_kin": "Adult son (acts as caregiver, lasting power of attorney)",
+  "recent_other": [
+    "Diabetes nurse — quarterly review"
+  ],
+  "alcohol": "4 units / week",
+  "exercise": "Cycling 2x/week, ~20 km",
+  "ipss": "IPSS score: 14/35 (moderate LUTS)",
+  "admin": "Visual impairment: large-print correspondence requested.",
+  "mri_hospital": "Ziekenhuis Gelderse Vallei (Ede)",
+  "bx_isup": 5,
+  "bx_gl_prim": 4,
+  "bx_gl_sec": 5,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

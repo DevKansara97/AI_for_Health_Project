@@ -1,0 +1,71 @@
+{
+  "case_id": "T2-098",
+  "pid": "T2-098",
+  "task": 2,
+  "psa": 6.0,
+  "age": 67,
+  "months": 1,
+  "pirads": "5",
+  "psad": 0.091,
+  "psav": 2.0,
+  "psap": 4.0,
+  "vol": 65.77,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.71155435,
+  "medhx": "Hypertension, Chronic kidney disease, Osteoarthritis, Benign prostatic hyperplasia",
+  "meds": "amlodipine, valsartan, lisinopril, metoprolol, tamsulosin",
+  "notes": "PSA 6 ng/mL. PI-RADS 5. PSAD 0.09. Prostate volume 66 mL. csPCa 0.71.",
+  "pmhx": [
+    "Hypertension",
+    "Chronic kidney disease",
+    "Osteoarthritis",
+    "Benign prostatic hyperplasia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "81 kg",
+    "height": "173 cm",
+    "bmi": "27.1",
+    "bp": "139/77 mmHg",
+    "hr": "73 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "18 Feb 2025",
+  "enc_ref": "Dr. L. Smits (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for prior prostate cancer diagnosis with rising PSA and biopsy-confirmed disease."
+    },
+    {
+      "s": "History",
+      "t": "Long-standing referral for prostate cancer management. The patient is a 67-year-old retired farmer, married, living with an adult child in a multi-generational household. He has a history of hypertension, chronic kidney disease, osteoarthritis, and benign prostatic hyperplasia. Medications include amlodipine, valsartan, lisinopril, metoprolol, and tamsulosin. He consumes 7 units of alcohol weekly and enjoys hiking on weekends. Recent gastroenterology surveillance colonoscopy was unremarkable. Mobility is limited, requiring a frame, and he prefers ground-floor consultations. PSA has risen from 1.8 ng/mL in Nov 2023 to 6.0 ng/mL in Feb 2025. Biopsy confirmed Gleason 3+4, ISUP GG2 disease with perineural invasion."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is non-palpable, consistent with cTx staging. General examination shows a well-nourished male with stable vital signs. No signs of metastatic disease."
+    }
+  ],
+  "occupation": "retired farmer",
+  "marital": "Married",
+  "living": "Lives with adult child (multi-generational household)",
+  "next_of_kin": "Sibling (brother)",
+  "recent_other": [
+    "Gastroenterology — surveillance colonoscopy"
+  ],
+  "alcohol": "7 units / week",
+  "exercise": "Hiking on weekends",
+  "ipss": "IPSS score: 29/35 (severe LUTS)",
+  "admin": "Mobility limitation (frame); ground-floor consult room preferred.",
+  "mri_hospital": "LUMC (Leiden)",
+  "bx_isup": 2,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 4,
+  "ct": "cTx",
+  "active_treatment_flag": 0
+}

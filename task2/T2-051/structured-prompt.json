@@ -1,0 +1,70 @@
+{
+  "case_id": "T2-051",
+  "pid": "T2-051",
+  "task": 2,
+  "psa": 0.44,
+  "age": 68,
+  "months": 2,
+  "pirads": "3",
+  "psad": 0.03,
+  "psav": 0.0,
+  "psap": 0.5,
+  "vol": 29.0,
+  "dre": "Normal",
+  "bx": "Negative",
+  "cspca": 0.57961565,
+  "medhx": "Type 2 diabetes, Hypercholesterolaemia, Atrial fibrillation",
+  "meds": "metformin, empagliflozin, atorvastatin, rosuvastatin, apixaban, metoprolol",
+  "notes": "PSA 0.44 ng/mL. PI-RADS 3. PSAD 0.03. Prostate volume 29 mL. csPCa 0.58.",
+  "pmhx": [
+    "Type 2 diabetes",
+    "Hypercholesterolaemia",
+    "Atrial fibrillation"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "97 kg",
+    "height": "188 cm",
+    "bmi": "27.4",
+    "bp": "116/77 mmHg",
+    "hr": "77 bpm",
+    "smoking": "Current smoker (17 pack-yr)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "09 Feb 2025",
+  "enc_ref": "Dr. C. Peters (GP)",
+  "enc_type": "Re-evaluation - prior negative biopsy",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for prostate cancer treatment decision following two negative biopsies and stable PSA levels."
+    },
+    {
+      "s": "History",
+      "t": "Long-standing referral for prostate surveillance after initial negative biopsy. The patient is a 68-year-old semi-retired musician living with his partner, with a history of type 2 diabetes managed on metformin and empagliflozin, hypercholesterolaemia on atorvastatin and rosuvastatin, and atrial fibrillation treated with apixaban and metoprolol. He smokes 17 pack-years and consumes 7 units of alcohol weekly. Gardening is his primary physical activity, and he reports no structured exercise. PSA has remained stable at 0.5 ng/mL since April 2022, with the most recent value 0.44 ng/mL. Cardiology review in autumn 2024 confirmed stable atrial fibrillation management. He declined participation in research trials previously."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum, the prostate is non-palpable with no nodularity or asymmetry, consistent with clinical stage cT1c. General examination reveals a well-nourished man with stable vital signs, BMI 27.4, and no signs of acute distress or lymphadenopathy."
+    }
+  ],
+  "occupation": "musician (semi-retired)",
+  "marital": "Divorced",
+  "living": "Lives with partner",
+  "next_of_kin": "Adult son (primary contact)",
+  "recent_other": [
+    "Cardiology — annual review (stable, autumn 2024)"
+  ],
+  "alcohol": "7 units / week",
+  "exercise": "Gardening, no structured exercise",
+  "ipss": "IPSS score: 0/35 (mild LUTS)",
+  "admin": "Patient declined research participation previously; respect for AS-related trials.",
+  "mri_hospital": "Bravis Ziekenhuis",
+  "bx_isup": 0,
+  "bx_gl_prim": 0,
+  "bx_gl_sec": 0,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

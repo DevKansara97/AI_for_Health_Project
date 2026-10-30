@@ -1,0 +1,66 @@
+{
+  "case_id": "T2-124",
+  "pid": "T2-124",
+  "task": 2,
+  "psa": 8.6,
+  "age": 65,
+  "months": 2,
+  "pirads": "5",
+  "psad": 0.202,
+  "psav": 1.91,
+  "psap": 3.3,
+  "vol": 42.65,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.8539465,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 8.6 ng/mL. PI-RADS 5. PSAD 0.20. Prostate volume 43 mL. DRE nodus. csPCa 0.85.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "83 kg",
+    "height": "183 cm",
+    "bmi": "24.8",
+    "bp": "124/102 mmHg",
+    "hr": "55 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "09 Feb 2025",
+  "enc_ref": "Dr. R. van den Berg (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of known prostate cancer with recent PSA fluctuation and persistent high-grade histology."
+    },
+    {
+      "s": "History",
+      "t": "The patient is a 65-year-old office administrator, married but living alone, with his spouse as the primary contact. He has a history of prostate cancer diagnosed in August 2023, Gleason 4+3, ISUP grade group 3. His PSA has shown significant variability, rising from 3.4 ng/mL in April 2023 to 8.6 ng/mL in February 2025, with a notable dip to 3.3 ng/mL in August 2024. He is a non-smoker, consumes 15 units of alcohol per week, and swims once weekly. He recently received a flu vaccination from his GP practice nurse. He has no other significant medical history or active medications. He previously declined participation in research trials and wishes this to be respected in any future discussions."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, a nodular area is palpable in the right mid peripheral zone, consistent with cT2a disease. The remainder of the prostate is smooth and non-tender. General examination is unremarkable, with normal cardiovascular and respiratory findings."
+    }
+  ],
+  "occupation": "office administrator",
+  "marital": "Married",
+  "living": "Lives alone",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "GP practice nurse — flu vaccination"
+  ],
+  "alcohol": "15 units / week",
+  "exercise": "Swimming 1x/week",
+  "ipss": "IPSS score: 4/35 (mild LUTS)",
+  "admin": "Patient declined research participation previously; respect for AS-related trials.",
+  "mri_hospital": "Antoni van Leeuwenhoek",
+  "bx_isup": 3,
+  "bx_gl_prim": 4,
+  "bx_gl_sec": 3,
+  "ct": "cT2a",
+  "active_treatment_flag": 0
+}

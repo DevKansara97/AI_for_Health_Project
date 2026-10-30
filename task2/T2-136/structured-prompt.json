@@ -1,0 +1,70 @@
+{
+  "case_id": "T2-136",
+  "pid": "T2-136",
+  "task": 2,
+  "psa": 10.0,
+  "age": 67,
+  "months": 1,
+  "pirads": "3",
+  "psad": 0.17,
+  "psav": 3.93,
+  "psap": 5.8,
+  "vol": 90.0,
+  "dre": "Normal",
+  "bx": "Negative",
+  "cspca": 0.0,
+  "medhx": "Coronary artery disease",
+  "meds": "aspirin 80 mg, atorvastatin, metoprolol",
+  "notes": "PSA 10 ng/mL. PI-RADS 3. PSAD 0.17. Prostate volume 90 mL. csPCa 0.00.",
+  "pmhx": [
+    "Coronary artery disease"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "109 kg",
+    "height": "189 cm",
+    "bmi": "30.5",
+    "bp": "125/64 mmHg",
+    "hr": "77 bpm",
+    "smoking": "Ex-smoker (10 pack-yr, quit 2020)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "28 Jan 2025",
+  "enc_ref": "Dr. F. de Boer (GP)",
+  "enc_type": "Re-evaluation - prior negative biopsy",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for persistently rising PSA and prior negative biopsy to discuss management options."
+    },
+    {
+      "s": "History",
+      "t": "Recently retired postal worker presenting for urological follow-up. The patient has a history of coronary artery disease managed with aspirin, atorvastatin, and metoprolol. He reports moderate lower urinary tract symptoms, with an IPSS score of 14. Socially, he is widowed and recently relocated to live with his sister, with his adult son acting as caregiver and holding lasting power of attorney. He continues light weight-training twice weekly and consumes approximately 21 units of alcohol per week. He is an ex-smoker who quit in 2020. Recent appointments include a dental check-up, audiology hearing test, and surveillance colonoscopy, all unremarkable for acute issues."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is symmetrically enlarged without nodules or asymmetry, consistent with clinical stage cT1c. General examination reveals stable vital signs and no signs of acute distress. Abdominal exam is benign with no palpable masses or lymphadenopathy."
+    }
+  ],
+  "occupation": "retired postal worker",
+  "marital": "Widowed",
+  "living": "Recently relocated; lives with sister",
+  "next_of_kin": "Adult son (acts as caregiver, lasting power of attorney)",
+  "recent_other": [
+    "Dental — biannual check-up",
+    "Audiology — hearing test",
+    "Gastroenterology — surveillance colonoscopy"
+  ],
+  "alcohol": "21 units / week",
+  "exercise": "Light weight-training at home, 2x/week",
+  "ipss": "IPSS score: 14/35 (moderate LUTS)",
+  "admin": "Patient self-employed; flexible appointment slots requested.",
+  "mri_hospital": "Catharina Ziekenhuis (Eindhoven)",
+  "bx_isup": 0,
+  "bx_gl_prim": 0,
+  "bx_gl_sec": 0,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

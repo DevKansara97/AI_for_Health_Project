@@ -1,0 +1,21 @@
+{
+  "case_id": "PT-pseudo_6b6ee002f75d",
+  "confidence": "uncertain",
+  "variable_importance": {
+    "psa": "important",
+    "psad": "not_used",
+    "vol": "decisive",
+    "pirads": "decisive",
+    "dre": "noted",
+    "fh": "not_used",
+    "comorbidity": "not_used",
+    "cspca": "noted",
+    "age": "not_used",
+    "bx": "not_used"
+  },
+  "sections_accessed": [
+    "laboratory_results",
+    "psa_trend"
+  ],
+  "explanation": "Biopsy recommended (risk score 0.65 >= decision threshold 0.64; confidence: uncertain). Main supporting factors: prostate volume 36 mL. Strongest factor pointing the other way: PI-RADS 5. The score is very close to the threshold or the models disagree; clinical review is advised. Sections informing this decision: laboratory_results, psa_trend."
+}

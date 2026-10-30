@@ -1,0 +1,103 @@
+{
+  "radiology_report": "OLVG (Amsterdam)\nDepartment of Radiology\nDate: 28 Dec 2024\nExam: mpMRI prostate\n\nClinical indication: PSA 13.5 ng/mL, prior biopsy Gleason 3+3, suspected progression.\n\nFINDINGS:\nProstate volume measures 29.86 mL. T2-weighted imaging demonstrates a focal hypo-intense lesion in the mid right transition zone, measuring approximately 12 mm in maximum diameter. The lesion exhibits restricted diffusion on DWI (b=1400) with corresponding early enhancement on DCE sequences. No extracapsular extension or seminal vesicle invasion is visualized.\n\nIMPRESSION:\nPI-RADS 5 lesion in the mid right transition zone.\nProstate volume 29.86 mL, PSA density 0.452 ng/mL/mL.\nClinical T stage cT2a.\ncsPCa predicted probability 0.8947026.",
+  "previous_notes": [
+    {
+      "date": "20 Jan 2024",
+      "author": "Dr. L. Smits (GP)",
+      "text": "20 Jan 2024 - Dr. L. Smits (GP): Patient presents with persistent elevated PSA, now 5.9 ng/mL, up from 5.4 ng/mL in July 2023. Discussed repeat biopsy given rising trend and prior Gleason 3+3 diagnosis. Patient anxious but agrees to proceed with urology referral for repeat sampling."
+    },
+    {
+      "date": "16 Sep 2024",
+      "author": "Dr. L. Smits (GP)",
+      "text": "16 Sep 2024 - Dr. L. Smits (GP): PSA now 13.5 ng/mL, significant rise from April 2024. Patient reports no new urinary symptoms but expresses concern about progression. Referred to urology for re-evaluation and treatment discussion given prior PCa diagnosis and rising PSA."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Sep 2022",
+      "val": 4.8
+    },
+    {
+      "date": "Jul 2023",
+      "val": 5.4
+    },
+    {
+      "date": "Apr 2024",
+      "val": 5.9
+    },
+    {
+      "date": "Jan 2025",
+      "val": 13.5
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "13.5 ng/mL",
+      "date": "28 Dec 2024",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "2.92 ng/mL",
+      "date": "28 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "22%",
+      "date": "28 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "14.8 g/dL",
+      "date": "28 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "6.6 x10^9/L",
+      "date": "28 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "198 x10^9/L",
+      "date": "28 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "107 umol/L",
+      "date": "28 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "28 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "12.3 nmol/L",
+      "date": "28 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "78 U/L",
+      "date": "28 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "204 U/L",
+      "date": "28 Dec 2024",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Timepoint 1 (2022): Systematic biopsy specimen shows transition zone growth pattern. No cribriform or intraductal patterns identified. The tumour is located in the transition zone, mid-apex right. Gleason score 3+3, ISUP grade group 1.\n\nTimepoint 2 (2024): Systematic biopsy specimen reveals solitary rounded tubules lined by single-layer cuboidal epithelium. No cribriform or intraductal patterns identified. The tumour is located in the transition zone, mid right. Gleason score 3+3, ISUP grade group 1.\n\nOverall trajectory: Stable Gleason 3+3, ISUP grade group 1 across both timepoints.\n\nAI-predicted ISUP grade group (digital pathology): Timepoint 1 — grade group 2; Timepoint 2 — grade group 2."
+}

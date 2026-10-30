@@ -1,0 +1,70 @@
+{
+  "case_id": "T2-059",
+  "pid": "T2-059",
+  "task": 2,
+  "psa": 35.0,
+  "age": 67,
+  "months": 2,
+  "pirads": "5",
+  "psad": 0.43,
+  "psav": 13.12,
+  "psap": 2.7,
+  "vol": 81.0,
+  "dre": "Normal",
+  "bx": "Negative",
+  "cspca": 0.8018058,
+  "medhx": "Benign prostatic hyperplasia",
+  "meds": "None",
+  "notes": "PSA 35 ng/mL. PI-RADS 5. PSAD 0.43. Prostate volume 81 mL. csPCa 0.80.",
+  "pmhx": [
+    "Benign prostatic hyperplasia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "79 kg",
+    "height": "174 cm",
+    "bmi": "26.1",
+    "bp": "124/96 mmHg",
+    "hr": "62 bpm",
+    "smoking": "Ex-smoker (15 pack-yr, quit 2012)",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "09 Jan 2025",
+  "enc_ref": "Dr. H. Martens (GP)",
+  "enc_type": "Re-evaluation - prior negative biopsy",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of markedly elevated PSA and MRI findings following a prior biopsy with discordant pathological features."
+    },
+    {
+      "s": "History",
+      "t": "The patient is a 67-year-old retired carpenter who lives alone and is divorced. He reports mild lower urinary tract symptoms with an IPSS score of 2/35. He has a history of benign prostatic hyperplasia and is not on any active medication. He is an ex-smoker (15 pack-years, quit in 2012) and swims once a week. He has no known allergies. Recent appointments include a pain clinic visit for chronic shoulder pain, biannual dental check-ups, and physiotherapy for lower back pain. He is hard of hearing and prefers written summaries. His PSA trend shows a significant rise from 9.6 ng/mL in June 2023 to 35.0 ng/mL in January 2025, with an intermediate value of 2.7 ng/mL in March 2024."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On digital rectal examination, the prostate is non-palpable with a smooth, symmetric contour, consistent with clinical stage cT1c. General examination is unremarkable with stable vital signs and no signs of acute distress."
+    }
+  ],
+  "occupation": "retired carpenter",
+  "marital": "Divorced",
+  "living": "Lives alone",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Pain clinic — chronic shoulder pain",
+    "Dental — biannual check-up",
+    "Physiotherapy — lower back, six sessions"
+  ],
+  "alcohol": "1 units / week",
+  "exercise": "Swimming 1x/week",
+  "ipss": "IPSS score: 2/35 (mild LUTS)",
+  "admin": "Hard of hearing — speak clearly; prefers written summaries.",
+  "mri_hospital": "Ziekenhuis Gelderse Vallei (Ede)",
+  "bx_isup": 0,
+  "bx_gl_prim": 0,
+  "bx_gl_sec": 0,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

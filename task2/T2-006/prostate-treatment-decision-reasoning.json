@@ -1,0 +1,18 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "pirads": "decisive",
+    "psa": "important",
+    "ct": "important",
+    "comorbidity": "important",
+    "psad": "noted",
+    "fh": "noted",
+    "cspca": "noted",
+    "bx_gl_sec": "important",
+    "bx_gl_prim": "important",
+    "bx_isup": "important",
+    "age": "important"
+  },
+  "reveal_sequence": [],
+  "free_text": "patient with comorbidity, 3+3 on systematic core, an MRI showing a PIRADS 5 lesion. Stay on active surveillance but repeat Biopsy with target cores before further decisions"
+}

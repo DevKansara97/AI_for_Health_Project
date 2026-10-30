@@ -1,0 +1,23 @@
+{
+  "case_id": "PT-pseudo_9df1617405c1",
+  "confidence": "clear",
+  "variable_importance": {
+    "psa": "noted",
+    "psad": "noted",
+    "vol": "noted",
+    "pirads": "decisive",
+    "dre": "not_used",
+    "fh": "not_used",
+    "comorbidity": "not_used",
+    "cspca": "not_used",
+    "age": "not_used",
+    "bx": "important"
+  },
+  "sections_accessed": [
+    "radiology_report",
+    "previous_notes",
+    "psa_trend",
+    "laboratory_results"
+  ],
+  "explanation": "Biopsy not recommended (risk score 0.40 < decision threshold 0.64; confidence: clear). Main supporting factors: PI-RADS 3; prior biopsy positive, prior ISUP 1; PSA density 0.07. Strongest factor pointing the other way: prostate volume 36 mL. Sections informing this decision: radiology_report, previous_notes, psa_trend, laboratory_results."
+}

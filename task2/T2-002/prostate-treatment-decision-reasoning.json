@@ -1,0 +1,18 @@
+{
+  "confidence": "borderline",
+  "variable_weights": {
+    "bx_gl_sec": "important",
+    "age": "important",
+    "cspca": "noted",
+    "pirads": "noted",
+    "bx_isup": "important",
+    "comorbidity": "noted",
+    "bx_gl_prim": "important",
+    "psa": "decisive",
+    "fh": "not_used",
+    "ct": "not_used",
+    "psad": "not_used"
+  },
+  "reveal_sequence": [],
+  "free_text": "the patient has high probability of being metastatic. Systemic treatment should be discussed after staging for M disease"
+}

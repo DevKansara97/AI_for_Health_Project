@@ -1,0 +1,70 @@
+{
+  "case_id": "T2-091",
+  "pid": "T2-091",
+  "task": 2,
+  "psa": 9.6,
+  "age": 60,
+  "months": 2,
+  "pirads": "3",
+  "psad": 0.32,
+  "psav": 4.34,
+  "psap": 9.3,
+  "vol": 30.0,
+  "dre": "Normal",
+  "bx": "Negative",
+  "cspca": 0.6599411,
+  "medhx": "COPD",
+  "meds": "salbutamol PRN",
+  "notes": "PSA 9.6 ng/mL. PI-RADS 3. PSAD 0.32. Prostate volume 30 mL. csPCa 0.66.",
+  "pmhx": [
+    "COPD"
+  ],
+  "allergies": [
+    "Latex"
+  ],
+  "vitals": {
+    "weight": "109 kg",
+    "height": "188 cm",
+    "bmi": "30.8",
+    "bp": "117/76 mmHg",
+    "hr": "83 bpm",
+    "smoking": "Ex-smoker (18 pack-yr, quit 2011)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "12 Feb 2025",
+  "enc_ref": "Dr. L. Smits (GP)",
+  "enc_type": "Re-evaluation - prior negative biopsy",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of rising PSA levels despite two previous negative biopsies."
+    },
+    {
+      "s": "History",
+      "t": "This 60-year-old retired secondary school teacher presents for urological follow-up regarding a persistent PSA elevation. He reports a long-standing history of COPD, managed with salbutamol inhaler as needed, and has no history of lower urinary tract symptoms requiring intervention. His IPSS score is 10, indicating moderate symptoms, and he continues to play tennis twice weekly. He lives with his partner, and his adult daughter serves as his primary contact for medical matters. The patient is an ex-smoker with an 18 pack-year history, having quit in 2011. He consumes approximately one unit of alcohol per week and has no known drug allergies except for latex. His PSA trend shows a marked increase from 2.2 ng/mL in March 2023 to 9.3 ng/mL in March 2024, and now 9.6 ng/mL in February 2025, prompting this re-evaluation."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is smooth, non-tender, and non-nodular, consistent with a clinical T1c stage. General examination reveals a well-nourished male with stable vital signs and no signs of acute distress. Cardiovascular and respiratory systems are unremarkable, with clear lung fields despite his history of COPD."
+    }
+  ],
+  "occupation": "retired secondary school teacher",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Adult daughter (primary contact)",
+  "recent_other": [
+    "Dental — biannual check-up"
+  ],
+  "alcohol": "1 units / week",
+  "exercise": "Tennis 2x/week",
+  "ipss": "IPSS score: 10/35 (moderate LUTS)",
+  "admin": "Lives >90 min from clinic; phone follow-up preferred where clinically safe.",
+  "mri_hospital": "Maastricht UMC+",
+  "bx_isup": 0,
+  "bx_gl_prim": 0,
+  "bx_gl_sec": 0,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

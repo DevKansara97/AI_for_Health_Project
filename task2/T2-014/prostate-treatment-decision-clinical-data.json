@@ -1,0 +1,103 @@
+{
+  "radiology_report": "Imaging Department\nAntoni van Leeuwenhoek\nDate: 15 January 2025\nExam: Multiparametric MRI prostate\n\nClinical indication: Rising PSA to 8.0 ng/mL, prior biopsy Gleason 3+3, request for PI-RADS assessment.\n\nFINDINGS: The prostate gland demonstrates a total volume of 62.3 mL. T2-weighted imaging reveals a heterogeneous transition zone background. Diffusion-weighted imaging identifies a focal area of markedly restricted diffusion located in the left mid-base transition zone, measuring approximately 14 mm in its greatest dimension. This region exhibits corresponding early and persistent enhancement on dynamic contrast-enhanced sequences. The peripheral zone appears unremarkable without focal lesions. No evidence of extracapsular extension or seminal vesicle invasion is visualized.\n\nIMPRESSION: PI-RADS 5 lesion in the left mid-base transition zone. Prostate volume 62.3 mL, PSA density 0.13 ng/mL/mL. Clinical stage cT1c. csPCa predicted probability 0.85717165.",
+  "previous_notes": [
+    {
+      "date": "05 Sep 2023",
+      "author": "Dr. N. Kuiper (GP)",
+      "text": "Patient presented with a mildly elevated PSA of 3.3 ng/mL detected during routine screening. Given his age and baseline readings, a trial of observation was initiated with repeat laboratory testing scheduled in six months. Urinary symptoms remained mild and were managed conservatively."
+    },
+    {
+      "date": "01 Jul 2024",
+      "author": "Dr. N. Kuiper (GP)",
+      "text": "Follow-up consultation noted a paradoxical PSA drop to 0.5 ng/mL, prompting discussion regarding potential laboratory variance or physiological fluctuation. The patient reported stable lower urinary tract symptoms and continued use of alpha-blockers. A repeat PSA measurement was arranged for later in the year to clarify the trend before urological referral."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Jul 2023",
+      "val": 3.3
+    },
+    {
+      "date": "Jan 2024",
+      "val": 0.5
+    },
+    {
+      "date": "Aug 2024",
+      "val": 4.3
+    },
+    {
+      "date": "Feb 2025",
+      "val": 8.0
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "8.0 ng/mL",
+      "date": "25 Jan 2025",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "1.17 ng/mL",
+      "date": "25 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "15%",
+      "date": "25 Jan 2025",
+      "flag": "L"
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "14.9 g/dL",
+      "date": "25 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "7.3 x10^9/L",
+      "date": "25 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "222 x10^9/L",
+      "date": "25 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "98 umol/L",
+      "date": "25 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "25 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "13.6 nmol/L",
+      "date": "25 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "64 U/L",
+      "date": "25 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "156 U/L",
+      "date": "25 Jan 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Prostate tissue obtained via transrectal ultrasound-guided systematic sampling demonstrates focal adenocarcinoma. The architectural pattern corresponds to Gleason pattern 3 plus 3, assigned to ISUP grade group 1. High-risk morphological features, specifically cribriform or intraductal carcinoma of the prostate, are not identified. Perineural invasion is absent. The neoplastic focus is localized to the transition zone at the mid-base on the left side. Review of the available histological material indicates a stable low-grade morphological profile consistent with the initial diagnostic sampling.\n\nAI-predicted ISUP grade group (digital pathology): grade group 4."
+}

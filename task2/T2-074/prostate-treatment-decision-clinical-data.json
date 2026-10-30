@@ -1,0 +1,94 @@
+{
+  "radiology_report": "Tergooi MC\nDepartment of Radiology\nDate: 12 Dec 2024\nExam: mpMRI prostate\n\nClinical indication: Re-evaluation of known prostate cancer. PSA 6.9 ng/mL.\n\nFINDINGS:\nThe prostate measures 57.11 mL in volume. T2-weighted imaging demonstrates a focal area of low signal intensity in the transition zone, mid right peripheral gland. This lesion measures approximately 12 mm in its greatest dimension. On diffusion-weighted imaging, the area shows restricted diffusion with corresponding low ADC values. Dynamic contrast-enhanced sequences demonstrate early and intense enhancement of the same region. No extraprostatic extension or seminal vesicle invasion is identified. No suspicious lymphadenopathy or bone marrow replacement is seen.\n\nIMPRESSION:\nPI-RADS 4 lesion in the transition zone, mid right.\nProstate volume: 57.11 mL.\nPSA density: 0.121 ng/mL/mL.\nClinical T stage: cT1c.\ncsPCa predicted probability 0.8325768.",
+  "previous_notes": [
+    {
+      "date": "23 May 2024",
+      "author": "Dr. E. Mulder (GP)",
+      "text": "23 May 2024 - Dr. E. Mulder (GP): Patient presented for routine follow-up. PSA measured at 1.7 ng/mL, which was stable compared to previous values. Discussed the recent biopsy results showing ISUP grade group 2 prostate cancer. Patient was advised to continue with scheduled urological follow-up and was reassured regarding the current low-risk features. No new symptoms were reported."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Feb 2023",
+      "val": 5.8
+    },
+    {
+      "date": "Feb 2024",
+      "val": 1.7
+    },
+    {
+      "date": "Jan 2025",
+      "val": 6.9
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "6.9 ng/mL",
+      "date": "15 Dec 2024",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "1.40 ng/mL",
+      "date": "15 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "20%",
+      "date": "15 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "15.1 g/dL",
+      "date": "15 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "6.5 x10^9/L",
+      "date": "15 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "182 x10^9/L",
+      "date": "15 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "79 umol/L",
+      "date": "15 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "15 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "19.0 nmol/L",
+      "date": "15 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "70 U/L",
+      "date": "15 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "166 U/L",
+      "date": "15 Dec 2024",
+      "flag": ""
+    }
+  ],
+  "family_history": "Yes",
+  "pathology_report": "Biopsy timepoint 1:\nHistological examination of the prostate tissue reveals acinar adenocarcinoma with a Gleason score of 3+4, corresponding to ISUP grade group 2. No cribriform or intraductal patterns were identified. Perineural invasion is absent. The tumour is located in the transition zone, mid right.\n\nSummary:\nThe histological trajectory across the available timepoints remains stable with no grade progression noted.\n\nAI-predicted ISUP grade group (digital pathology): grade group 3."
+}

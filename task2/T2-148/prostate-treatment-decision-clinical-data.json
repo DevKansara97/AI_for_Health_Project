@@ -1,0 +1,105 @@
+{
+  "radiology_report": "Maastricht UMC+\nDepartment of Radiology\nDate: 15 December 2024\nExamination: Multiparametric MRI of the prostate\n\nClinical indication: Rising PSA with density of 0.12 ng/mL/mL; request for lesion characterization and PI-RADS scoring.\n\nFINDINGS:\nThe prostate gland measures 103.0 mL in volume. T2-weighted imaging demonstrates a heterogeneous peripheral zone with a focal area of hypointensity located in the mid-left peripheral zone, measuring approximately 12 mm in maximal diameter. Diffusion-weighted imaging shows corresponding restricted diffusion in this region, with mild signal drop on the ADC map. Dynamic contrast-enhanced sequences demonstrate early, focal enhancement matching the DWI/T2 abnormality. No extracapsular extension or seminal vesicle invasion is identified. No suspicious lymphadenopathy or bone marrow lesions are seen within the field of view.\n\nIMPRESSION:\nFocal lesion in the mid-left peripheral zone, PI-RADS v2.1 category 3.\nProstate volume 103.0 mL; PSA density 0.12 ng/mL/mL.\nClinical stage cT1c.\ncsPCa predicted probability 0.455.",
+  "previous_notes": [
+    {
+      "date": "31 Jan 2023",
+      "author": "Dr. M. Jansen (GP)",
+      "text": "Patient presented for routine screening with an incidentally elevated PSA of 2.2 ng/mL. Given the borderline result and absence of lower urinary tract symptoms, conservative monitoring was arranged with repeat biochemical testing in six months. No urological referral was deemed necessary at that time."
+    },
+    {
+      "date": "22 Sep 2024",
+      "author": "Dr. M. Jansen (GP)",
+      "text": "Follow-up consultation for progressively rising PSA levels, now measuring 5.1 ng/mL, alongside a documented velocity of 6.61 ng/mL per year. Given the sustained upward trend and calculated density exceeding surveillance thresholds, the patient was referred to the urology department for multiparametric imaging and subsequent tissue sampling."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Oct 2023",
+      "val": 2.2
+    },
+    {
+      "date": "Jun 2024",
+      "val": 5.1
+    },
+    {
+      "date": "Jan 2025",
+      "val": 12.0
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "12.0 ng/mL",
+      "date": "29 Dec 2024",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "2.24 ng/mL",
+      "date": "29 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "19%",
+      "date": "29 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "15.9 g/dL",
+      "date": "29 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "7.2 x10^9/L",
+      "date": "29 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "286 x10^9/L",
+      "date": "29 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "143 umol/L",
+      "date": "29 Dec 2024",
+      "flag": "H"
+    },
+    {
+      "name": "eGFR",
+      "val": "<60 mL/min/1.73m2",
+      "date": "29 Dec 2024",
+      "flag": "L"
+    },
+    {
+      "name": "Testosterone",
+      "val": "14.9 nmol/L",
+      "date": "29 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "73 U/L",
+      "date": "29 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "209 U/L",
+      "date": "29 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "HbA1c",
+      "val": "5.4 %",
+      "date": "29 Dec 2024",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Specimen: Transperineal systematic and MRI-targeted prostate biopsy, 10 October 2024.\nMicroscopic examination reveals adenocarcinoma involving the mid-left peripheral zone. The malignant glands exhibit a Gleason pattern 4 predominant with pattern 3 secondary, corresponding to a Gleason score of 4+3 and ISUP grade group 3. The tumour demonstrates a cribriform growth pattern, with cribriform pattern present noted as a high-risk feature. The lesion is localized to the peripheral zone, mid left.\nSummary: Single biopsy timepoint demonstrates ISUP grade group 3 disease (Gleason 4+3), localized to the mid-left peripheral zone.\n\nAI-predicted ISUP grade group (digital pathology): grade group 4."
+}

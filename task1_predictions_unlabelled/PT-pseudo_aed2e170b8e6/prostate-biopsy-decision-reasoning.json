@@ -1,0 +1,19 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "psa": "decisive",
+    "psad": "noted",
+    "vol": "noted",
+    "pirads": "decisive",
+    "dre": "noted",
+    "fh": "noted",
+    "comorbidity": "noted",
+    "cspca": "not_used",
+    "age": "important",
+    "bx": "decisive"
+  },
+  "reveal_sequence": [
+    "radiology_report"
+  ],
+  "free_text": "Biopsy not recommended (model risk score 0.39 vs decision threshold 0.48). Context: prior biopsy positive; age 73. Weighed against it: PSA 86.0 ng/mL with rising velocity (+14.9). Based on the structured clinical variables and the MRI report."
+}

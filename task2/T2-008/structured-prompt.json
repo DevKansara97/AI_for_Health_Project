@@ -1,0 +1,68 @@
+{
+  "case_id": "T2-008",
+  "pid": "T2-008",
+  "task": 2,
+  "psa": 6.8,
+  "age": 60,
+  "months": 3,
+  "pirads": "4",
+  "psad": 0.2,
+  "psav": 0.03,
+  "psap": 1.4,
+  "vol": 36.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.82952833,
+  "medhx": "Coronary artery disease",
+  "meds": "aspirin 80 mg, atorvastatin",
+  "notes": "PSA 6.8 ng/mL. PI-RADS 4. PSAD 0.20. Prostate volume 36 mL. csPCa 0.83.",
+  "pmhx": [
+    "Coronary artery disease"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "91 kg",
+    "height": "176 cm",
+    "bmi": "29.4",
+    "bp": "106/75 mmHg",
+    "hr": "66 bpm",
+    "smoking": "Ex-smoker (18 pack-yr, quit 2017)",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "24 Jan 2025",
+  "enc_ref": "Dr. L. Smits (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of prior prostate cancer diagnosis following PSA fluctuation and recent imaging findings."
+    },
+    {
+      "s": "History",
+      "t": "Long-standing referral for prostate cancer management. Patient is a 60-year-old male with a history of coronary artery disease, currently managed with aspirin 80 mg and atorvastatin. He works as a tram driver, married, lives with his partner, and maintains an active lifestyle with running 3x/week. Recent PSA trend shows fluctuation, with a notable decrease in Feb 2024 followed by a rise in Jan 2025. No new urological symptoms reported, but mild LUTS with IPSS score 7. Mobility limitation noted, requiring ground-floor consultation. Recent dermatology appointment for actinic keratosis check."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is symmetrically enlarged without nodules or asymmetry, consistent with clinical T stage cT1c. General examination reveals stable vital signs, BP 106/75 mmHg, HR 66 bpm. No signs of metastatic disease or acute urological complications."
+    }
+  ],
+  "occupation": "tram driver",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Dermatology — actinic keratosis check"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Running 3x/week, 5 km",
+  "ipss": "IPSS score: 7/35 (mild LUTS)",
+  "admin": "Mobility limitation (frame); ground-floor consult room preferred.",
+  "mri_hospital": "OLVG (Amsterdam)",
+  "bx_isup": 2,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 4,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

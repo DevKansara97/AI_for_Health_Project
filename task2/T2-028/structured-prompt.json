@@ -1,0 +1,68 @@
+{
+  "case_id": "T2-028",
+  "pid": "T2-028",
+  "task": 2,
+  "psa": 70.0,
+  "age": 65,
+  "months": 3,
+  "pirads": "5",
+  "psad": 0.67,
+  "psav": 30.65,
+  "psap": 1.1,
+  "vol": 105.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.8852009,
+  "medhx": "Hypertension",
+  "meds": "amlodipine, valsartan",
+  "notes": "PSA 70 ng/mL. PI-RADS 5. PSAD 0.67. Prostate volume 105 mL. csPCa 0.89.",
+  "pmhx": [
+    "Hypertension"
+  ],
+  "allergies": [
+    "Iodinated contrast (mild)"
+  ],
+  "vitals": {
+    "weight": "92 kg",
+    "height": "191 cm",
+    "bmi": "25.2",
+    "bp": "137/95 mmHg",
+    "hr": "66 bpm",
+    "smoking": "Ex-smoker (24 pack-yr, quit 2005)",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "21 Feb 2025",
+  "enc_ref": "Dr. C. Peters (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for treatment decision following recent biopsy confirmation of high-grade prostate cancer."
+    },
+    {
+      "s": "History",
+      "t": "Long-standing referral for prostate cancer management. The patient is a retired warehouse worker, married, and lives alone, with his spouse as the primary contact. He has a history of hypertension managed with amlodipine and valsartan, and is an ex-smoker who quit in 2005. He reports moderate LUTS with an IPSS score of 12/35, but denies any bone pain or haematuria. He enjoys hiking on weekends and consumes no alcohol. Recent PSA trend shows a sharp rise from 1.1 ng/mL in March 2024 to 70.0 ng/mL in February 2025."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is normal in consistency and symmetry, consistent with cT1c staging. General examination reveals stable vital signs with BP 137/95 mmHg and HR 66 bpm. No lymphadenopathy or signs of metastatic disease are observed."
+    }
+  ],
+  "occupation": "retired warehouse worker",
+  "marital": "Married",
+  "living": "Lives alone",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Hiking on weekends",
+  "ipss": "IPSS score: 12/35 (moderate LUTS)",
+  "admin": "Interpreter: not required. Consent for data use: signed.",
+  "mri_hospital": "Amsterdam UMC (location AMC)",
+  "bx_isup": 4,
+  "bx_gl_prim": 4,
+  "bx_gl_sec": 4,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

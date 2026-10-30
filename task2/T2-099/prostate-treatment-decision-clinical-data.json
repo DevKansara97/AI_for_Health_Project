@@ -1,0 +1,109 @@
+{
+  "radiology_report": "Department of Radiology\nUMCG (Groningen)\nDate: 20 Dec 2024\nExam: mpMRI prostate\nClinical indication: PSA 86.0 ng/mL, prior biopsy Gleason 4+4, PI-RADS 5\nFINDINGS: Prostate volume measures 37.29 mL. T2-weighted imaging demonstrates a focal hypo-intense lesion in the left peripheral zone at the base, measuring approximately 18 mm in maximal diameter. Diffusion-weighted imaging shows marked restriction within this region, with corresponding low apparent diffusion coefficient values. Dynamic contrast-enhanced sequences reveal early and intense focal enhancement in the same area. No evidence of extracapsular extension or seminal vesicle invasion is seen.\nIMPRESSION: PI-RADS 5 lesion in the left peripheral zone at the base. PSA density 2.306 ng/mL/mL. Clinical T stage cT2. csPCa predicted probability 0.9527162.",
+  "previous_notes": [
+    {
+      "date": "10 May 2024",
+      "author": "Dr. R. van den Berg (GP)",
+      "text": "10 May 2024 - Dr. R. van den Berg (GP): Patient presented with a PSA of 8.4 ng/mL, following a significant rise from 19.4 ng/mL in March 2023. A repeat biopsy was performed, which confirmed the prior Gleason 4+4 diagnosis. The patient was advised to continue with urological follow-up for treatment planning."
+    },
+    {
+      "date": "16 Jan 2023",
+      "author": "Dr. R. van den Berg (GP)",
+      "text": "16 Jan 2023 - Dr. R. van den Berg (GP): Initial PSA screening revealed a value of 19.4 ng/mL, markedly elevated from the baseline of 4.4 ng/mL in April 2022. A transrectal ultrasound-guided biopsy was recommended to investigate the cause of the rapid PSA velocity. The patient was referred to urology for further evaluation."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Apr 2022",
+      "val": 4.4
+    },
+    {
+      "date": "Mar 2023",
+      "val": 19.4
+    },
+    {
+      "date": "Feb 2024",
+      "val": 8.4
+    },
+    {
+      "date": "Jan 2025",
+      "val": 86.0
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "86.0 ng/mL",
+      "date": "21 Dec 2024",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "17.70 ng/mL",
+      "date": "21 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "21%",
+      "date": "21 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "16.2 g/dL",
+      "date": "21 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "6.4 x10^9/L",
+      "date": "21 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "242 x10^9/L",
+      "date": "21 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "85 umol/L",
+      "date": "21 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "21 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "12.4 nmol/L",
+      "date": "21 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "75 U/L",
+      "date": "21 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "206 U/L",
+      "date": "21 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "HbA1c",
+      "val": "5.8 %",
+      "date": "21 Dec 2024",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy timepoint 1: Histological examination of the prostate tissue reveals adenocarcinoma with a Gleason score of 4+4, corresponding to ISUP grade group 4. The tumour is located at the base, left. A cribriform pattern is present within the malignant glands.\nSummary: The biopsy findings demonstrate a high-grade adenocarcinoma with cribriform features, consistent with the clinical suspicion of aggressive disease.\n\nAI-predicted ISUP grade group (digital pathology): grade group 5."
+}

@@ -1,0 +1,98 @@
+{
+  "radiology_report": "Catharina Ziekenhuis (Eindhoven)\nImaging Department\nDate: 15 January 2025\nExam: mpMRI Prostate\n\nClinical indication: Rising PSA (0.76 ng/mL), prior negative biopsy. Evaluate for clinically significant prostate cancer.\n\nFINDINGS:\nThe prostate measures 36.0 mL in volume. The transition zone is unremarkable. In the left peripheral zone at the apex, a focal lesion is identified measuring approximately 9 mm in its greatest dimension. On T2-weighted imaging, the lesion appears as a subtle hypointense area. Diffusion-weighted imaging demonstrates restricted diffusion in this region, with corresponding low signal on the ADC map. Dynamic contrast-enhanced sequences show early arterial enhancement of the lesion, peaking in the late arterial phase and showing washout relative to the surrounding peripheral zone tissue.\n\nIMPRESSION:\nFocal lesion in the left peripheral zone apex with features consistent with PI-RADS 4.\nProstate volume: 36.0 mL\nPSA density: 0.02 ng/mL/mL\nClinical T stage: cT1c\ncsPCa predicted probability 0.39141726",
+  "previous_notes": [
+    {
+      "date": "01 Jul 2024",
+      "author": "Dr. P. van Dijk (GP)",
+      "text": "Patient presented with a PSA of 0.7 ng/mL in May 2024, representing a slight increase from previous measurements. Given the persistent low-level elevation and a newly identified PI-RADS 4 lesion on MRI, a prostate biopsy was performed under local anesthesia. The procedure was well tolerated with no immediate complications. The patient was advised to monitor for any urinary symptoms or haematuria."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Oct 2022",
+      "val": 0.5
+    },
+    {
+      "date": "Jul 2023",
+      "val": 0.6
+    },
+    {
+      "date": "May 2024",
+      "val": 0.7
+    },
+    {
+      "date": "Feb 2025",
+      "val": 0.76
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "0.8 ng/mL",
+      "date": "22 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Free PSA",
+      "val": "0.10 ng/mL",
+      "date": "22 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "13%",
+      "date": "22 Jan 2025",
+      "flag": "L"
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "13.8 g/dL",
+      "date": "22 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "7.0 x10^9/L",
+      "date": "22 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "183 x10^9/L",
+      "date": "22 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "81 umol/L",
+      "date": "22 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "22 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "14.3 nmol/L",
+      "date": "22 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "88 U/L",
+      "date": "22 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "143 U/L",
+      "date": "22 Jan 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy timepoint 1 (01 Jul 2024): Prostate tissue obtained via transrectal ultrasound-guided systematic sampling. Microscopic examination reveals benign prostatic glands and stroma. No malignant cells are identified. The Gleason score is 0+0, corresponding to ISUP grade group 0. No cribriform or intraductal patterns identified. There is no perineural invasion. The tumour location is peripheral zone, apex left.\n\nSummary: Histological findings across the single available biopsy timepoint remain stable, showing no evidence of prostate carcinoma.\n\nAI-predicted ISUP grade group (digital pathology): grade group 0."
+}

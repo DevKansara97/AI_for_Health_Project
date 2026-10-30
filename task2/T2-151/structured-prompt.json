@@ -1,0 +1,67 @@
+{
+  "case_id": "T2-151",
+  "pid": "T2-151",
+  "task": 2,
+  "psa": 9.8,
+  "age": 62,
+  "months": 3,
+  "pirads": "2",
+  "psad": 0.073,
+  "psav": 2.27,
+  "psap": 7.3,
+  "vol": 134.0,
+  "dre": "Normal",
+  "bx": "Negative",
+  "cspca": 0.5260261,
+  "medhx": "Osteoarthritis, Benign prostatic hyperplasia",
+  "meds": "paracetamol PRN, tamsulosin",
+  "notes": "PSA 9.8 ng/mL. PI-RADS 2. PSAD 0.07. Prostate volume 134 mL. csPCa 0.53.",
+  "pmhx": [
+    "Osteoarthritis",
+    "Benign prostatic hyperplasia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "92 kg",
+    "height": "182 cm",
+    "bmi": "27.8",
+    "bp": "127/69 mmHg",
+    "hr": "77 bpm",
+    "smoking": "Current smoker (39 pack-yr)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "05 Feb 2025",
+  "enc_ref": "Dr. P. van Dijk (GP)",
+  "enc_type": "Re-evaluation - prior negative biopsy",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-assessment for persistent PSA elevation despite two consecutive negative biopsy results and a recent multiparametric MRI scan."
+    },
+    {
+      "s": "History",
+      "t": "Recently retired bank clerk presenting for outpatient urological assessment after a sustained rise in serum prostate-specific antigen from 3.0 ng/mL in January 2024 to 9.8 ng/mL in February 2025. He manages benign prostatic hyperplasia with tamsulosin and reports only mild lower urinary tract symptoms, consistent with an IPSS of 4. His general medical history is notable for symptomatic osteoarthritis, which restricts his physical activity to chair-based exercises, and he takes paracetamol as required for joint discomfort. He is a current smoker with a 39 pack-year history, though he denies any respiratory complaints. Socially, he is married and resides on a working farm with his partner, maintaining an alcohol-free lifestyle while his brother serves as his primary contact. He notes that the 60-minute train journey to this clinic requires careful scheduling due to his limited mobility. An incidental review of his recent metabolic panel revealed normal renal function and testosterone levels, and a routine ophthalmology visit last month confirmed stable presbyopia without new pathology."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On rectal palpation, the gland is enlarged but smooth and non-nodular, consistent with a clinical T stage of cT1c. The patient appears well-nourished with stable vital signs and clear lung fields on auscultation. Peripheral pulses are intact and there is no evidence of peripheral edema or lymphadenopathy."
+    }
+  ],
+  "occupation": "retired bank clerk",
+  "marital": "Married",
+  "living": "Lives on a working farm with partner",
+  "next_of_kin": "Sibling (brother)",
+  "recent_other": [],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Limited mobility — chair-based exercises only",
+  "ipss": "IPSS score: 4/35 (mild LUTS)",
+  "admin": "Patient travels 60+ min by train to clinic; allow buffer.",
+  "mri_hospital": "Bravis Ziekenhuis",
+  "bx_isup": 0,
+  "bx_gl_prim": 0,
+  "bx_gl_sec": 0,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

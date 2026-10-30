@@ -1,0 +1,70 @@
+{
+  "case_id": "T2-010",
+  "pid": "T2-010",
+  "task": 2,
+  "psa": 5.9,
+  "age": 61,
+  "months": 3,
+  "pirads": "5",
+  "psad": 0.14,
+  "psav": 2.2,
+  "psap": 4.4,
+  "vol": 44.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.7418201,
+  "medhx": "Coronary artery disease, Osteoarthritis",
+  "meds": "aspirin 80 mg, atorvastatin",
+  "notes": "PSA 5.9 ng/mL. PI-RADS 5. PSAD 0.14. Prostate volume 44 mL. csPCa 0.74.",
+  "pmhx": [
+    "Coronary artery disease",
+    "Osteoarthritis"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "84 kg",
+    "height": "175 cm",
+    "bmi": "27.4",
+    "bp": "129/74 mmHg",
+    "hr": "71 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "12 Jan 2025",
+  "enc_ref": "Dr. F. de Boer (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Reassessment of biopsy-proven low-grade prostate adenocarcinoma to determine the most appropriate long-term management strategy."
+    },
+    {
+      "s": "History",
+      "t": "Long-standing management of coronary artery disease and osteoarthritis is maintained with daily aspirin and atorvastatin, both of which he tolerates well. Following his initial transperineal biopsy confirming low-grade disease, he has been monitored closely with serial PSA measurements showing a steady upward trajectory. He reports a gradual increase in lower urinary tract symptoms over the past year, currently scoring 13 on the IPSS questionnaire, which he attributes partly to his age and prior glandular enlargement. Socially, he is a retired farmer living alone, though he maintains regular contact with his partner who serves as his primary next of kin. He enjoys a light alcohol intake of three units weekly and continues a daily twenty-minute walking routine despite occasional joint stiffness. Recent community health visits included a routine influenza vaccination administered by the practice nurse and an audiology assessment for age-related hearing changes. His commute to this clinic involves a train journey exceeding sixty minutes, which he manages without difficulty."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum, the prostate is smooth and symmetrical with no palpable nodules or asymmetry, correlating with a clinical stage of cT1c. General inspection reveals a comfortable, well-nourished gentleman with stable vital signs and no signs of peripheral oedema or lymphadenopathy. Cardiovascular and respiratory examinations are unremarkable, consistent with his controlled comorbid conditions."
+    }
+  ],
+  "occupation": "retired farmer",
+  "marital": "Never married",
+  "living": "Lives alone",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Audiology — hearing test",
+    "GP practice nurse — flu vaccination"
+  ],
+  "alcohol": "3 units / week",
+  "exercise": "Walking 20 min/day",
+  "ipss": "IPSS score: 13/35 (moderate LUTS)",
+  "admin": "Patient travels 60+ min by train to clinic; allow buffer.",
+  "mri_hospital": "OLVG (Amsterdam)",
+  "bx_isup": 1,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

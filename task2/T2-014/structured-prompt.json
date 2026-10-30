@@ -1,0 +1,68 @@
+{
+  "case_id": "T2-014",
+  "pid": "T2-014",
+  "task": 2,
+  "psa": 8.0,
+  "age": 74,
+  "months": 2,
+  "pirads": "5",
+  "psad": 0.13,
+  "psav": 1.43,
+  "psap": 4.3,
+  "vol": 62.3,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.85717165,
+  "medhx": "Benign prostatic hyperplasia",
+  "meds": "tamsulosin",
+  "notes": "PSA 8 ng/mL. PI-RADS 5. PSAD 0.13. Prostate volume 62 mL. csPCa 0.86.",
+  "pmhx": [
+    "Benign prostatic hyperplasia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "70 kg",
+    "height": "172 cm",
+    "bmi": "23.7",
+    "bp": "126/89 mmHg",
+    "hr": "78 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "26 Feb 2025",
+  "enc_ref": "Dr. N. Kuiper (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation is requested following a sustained PSA rise to 8.0 ng/mL and a recent multiparametric MRI demonstrating a high-suspicion transition zone lesion."
+    },
+    {
+      "s": "History",
+      "t": "Long-standing referral for urological assessment highlights a 74-year-old mechanical engineer who recently navigated a period of elevated prostate-specific antigen levels preceding his initial tissue sampling. He manages moderate lower urinary tract symptoms with an IPSS of 9, currently treated with daily tamsulosin, and maintains a sedentary-friendly routine supplemented by light home weight training twice weekly. His past medical history is otherwise notable only for benign prostatic hyperplasia, and he remains a lifelong non-smoker who abstains from alcohol. Socially, he resides with his partner, who serves as his primary contact, and he recently completed a routine biannual dental examination without complications. He acknowledges considerable anxiety surrounding invasive procedures and has requested additional consultation time to discuss diagnostic findings thoroughly."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum, the prostate gland feels smooth and symmetrically enlarged without discrete nodularity or induration, correlating with a clinical stage of cT1c. General examination reveals a well-nourished individual with stable vital signs and clear respiratory fields. Abdominal inspection is unremarkable, and there is no palpable lymphadenopathy or organomegaly."
+    }
+  ],
+  "occupation": "mechanical engineer",
+  "marital": "Widowed",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Dental — biannual check-up"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Light weight-training at home, 2x/week",
+  "ipss": "IPSS score: 9/35 (moderate LUTS)",
+  "admin": "Patient anxious about procedures — allocate extra consult time.",
+  "mri_hospital": "Antoni van Leeuwenhoek",
+  "bx_isup": 1,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

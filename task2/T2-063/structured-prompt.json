@@ -1,0 +1,69 @@
+{
+  "case_id": "T2-063",
+  "pid": "T2-063",
+  "task": 2,
+  "psa": 8.1,
+  "age": 68,
+  "months": 2,
+  "pirads": "3",
+  "psad": 0.206,
+  "psav": 0.62,
+  "psap": 4.0,
+  "vol": 39.35,
+  "dre": "Suspicious",
+  "bx": "Positive",
+  "cspca": 0.81509304,
+  "medhx": "COPD",
+  "meds": "None",
+  "notes": "PSA 8.1 ng/mL. PI-RADS 3. PSAD 0.21. Prostate volume 39 mL. DRE suspicious. csPCa 0.82.",
+  "pmhx": [
+    "COPD"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "74 kg",
+    "height": "174 cm",
+    "bmi": "24.4",
+    "bp": "128/69 mmHg",
+    "hr": "82 bpm",
+    "smoking": "Current smoker (18 pack-yr)",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "14 Jan 2025",
+  "enc_ref": "Dr. R. van den Berg (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of prostate cancer management following recent PSA rise to 8.1 ng/mL and persistent ISUP grade group 2 histology."
+    },
+    {
+      "s": "History",
+      "t": "Recently retired firefighter with a history of COPD and known prostate cancer diagnosed in early 2023. He reports moderate lower urinary tract symptoms, with an IPSS score of 18/35, causing mild nocturia and hesitancy. He remains physically active, hiking on weekends, and consumes approximately 10 units of alcohol weekly. He lives with his wife and is supported by his adult son, who is the primary contact for medical matters. He recently completed baseline memory screening and a surveillance colonoscopy, both of which were unremarkable. He acknowledges his anxiety regarding invasive procedures and requests a thorough discussion of all options."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum, the prostate is palpable with a suspicious nodule in the left apex, consistent with clinical stage cT2. General examination is unremarkable with stable vital signs and no signs of acute distress."
+    }
+  ],
+  "occupation": "retired firefighter",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Adult son (primary contact)",
+  "recent_other": [
+    "Memory clinic — baseline screening",
+    "Gastroenterology — surveillance colonoscopy"
+  ],
+  "alcohol": "10 units / week",
+  "exercise": "Hiking on weekends",
+  "ipss": "IPSS score: 18/35 (moderate LUTS)",
+  "admin": "Patient anxious about procedures — allocate extra consult time.",
+  "mri_hospital": "Radboudumc",
+  "bx_isup": 2,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 4,
+  "ct": "cT2",
+  "active_treatment_flag": 0
+}

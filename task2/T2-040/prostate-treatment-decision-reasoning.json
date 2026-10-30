@@ -1,0 +1,18 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "bx_gl_sec": "important",
+    "psad": "noted",
+    "pirads": "important",
+    "bx_isup": "decisive",
+    "bx_gl_prim": "noted",
+    "comorbidity": "important",
+    "cspca": "noted",
+    "ct": "noted",
+    "fh": "noted",
+    "psa": "important",
+    "age": "important"
+  },
+  "reveal_sequence": [],
+  "free_text": "localized high risk PCa"
+}

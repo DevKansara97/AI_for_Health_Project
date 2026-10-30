@@ -1,0 +1,70 @@
+{
+  "case_id": "T2-076",
+  "pid": "T2-076",
+  "task": 2,
+  "psa": 5.4,
+  "age": 67,
+  "months": 2,
+  "pirads": "2",
+  "psad": 0.143,
+  "psav": 0.48,
+  "psap": 3.5,
+  "vol": 37.82,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.7259888,
+  "medhx": "Osteoarthritis",
+  "meds": "paracetamol PRN",
+  "notes": "PSA 5.4 ng/mL. PI-RADS 2. PSAD 0.14. Prostate volume 38 mL. csPCa 0.73.",
+  "pmhx": [
+    "Osteoarthritis"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "82 kg",
+    "height": "177 cm",
+    "bmi": "26.2",
+    "bp": "139/76 mmHg",
+    "hr": "74 bpm",
+    "smoking": "Ex-smoker (21 pack-yr, quit 2015)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "01 Jan 2025",
+  "enc_ref": "Dr. R. Visser (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for prior prostate cancer diagnosis with rising PSA and severe LUTS."
+    },
+    {
+      "s": "History",
+      "t": "Long-standing referral for prostate cancer management. The patient is a retired baker living in an assisted-living facility, married, with his brother as next-of-kin. He has osteoarthritis managed with paracetamol PRN and is an ex-smoker (21 pack-yr, quit 2015). Recent appointments include orthopaedic follow-up for knee osteoarthritis, dermatology check for actinic keratosis, and surveillance colonoscopy. He reports severe LUTS (IPSS 27/35) but no haematuria or bone pain. Alcohol-free, exercises with light weight-training twice weekly."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is symmetrically enlarged without nodules, consistent with cT1c. General examination is unremarkable with stable vital signs and no signs of metastatic disease."
+    }
+  ],
+  "occupation": "retired baker",
+  "marital": "Married",
+  "living": "Lives in assisted-living facility",
+  "next_of_kin": "Sibling (brother)",
+  "recent_other": [
+    "Orthopaedic outpatient — knee follow-up",
+    "Dermatology — actinic keratosis check",
+    "Gastroenterology — surveillance colonoscopy"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Light weight-training at home, 2x/week",
+  "ipss": "IPSS score: 27/35 (severe LUTS)",
+  "admin": "Interpreter (Arabic) requested for next visit.",
+  "mri_hospital": "Amsterdam UMC (location AMC)",
+  "bx_isup": 2,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 4,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

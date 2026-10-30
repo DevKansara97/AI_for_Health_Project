@@ -1,0 +1,66 @@
+{
+  "case_id": "T2-150",
+  "pid": "T2-150",
+  "task": 2,
+  "psa": 2.7,
+  "age": 66,
+  "months": 2,
+  "pirads": "2",
+  "psad": 0.05,
+  "psav": 0.52,
+  "psap": 2.1,
+  "vol": 56.0,
+  "dre": "Normal",
+  "bx": "Negative",
+  "cspca": 0.48990974,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 2.7 ng/mL. PI-RADS 2. PSAD 0.05. Prostate volume 56 mL. csPCa 0.49.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "65 kg",
+    "height": "169 cm",
+    "bmi": "22.8",
+    "bp": "146/69 mmHg",
+    "hr": "73 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "28 Feb 2025",
+  "enc_ref": "Dr. P. van Dijk (GP)",
+  "enc_type": "Re-evaluation - prior negative biopsy",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Referral for multidisciplinary re-evaluation following a prior negative prostate biopsy and a gradual rise in prostate-specific antigen levels."
+    },
+    {
+      "s": "History",
+      "t": "Long-standing referral for urological assessment highlights a steady PSA trajectory from 1.7 ng/mL in October 2023 to 2.1 ng/mL in June 2024, culminating in the current value of 2.7 ng/mL. The patient, a recently retired baker, resides in an independent unit within a retirement community and is supported by a long-time friend who serves as his primary contact. He reports severe lower urinary tract symptoms with an IPSS score of 27, necessitating the use of a walking frame for mobility and a preference for ground-floor consultations. Despite these limitations, he maintains an active routine by running five kilometres three times weekly and consumes approximately 23 units of alcohol per week. A recent vascular surgery consultation addressed symptomatic varicose veins, which are being managed conservatively. He denies any haematuria, bone pain, or systemic constitutional symptoms, and his marital status remains stable."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum, the prostate gland is symmetrically enlarged with a smooth surface and uniform consistency, yielding a clinical stage of cT1c. General examination is unremarkable, with clear lungs, a regular cardiac rhythm, and no palpable supraclavicular or inguinal lymphadenopathy. The lower extremities show mild bilateral edema consistent with his recent vascular assessment."
+    }
+  ],
+  "occupation": "retired baker",
+  "marital": "Married",
+  "living": "Lives in retirement community (independent unit)",
+  "next_of_kin": "Long-time friend (no close family)",
+  "recent_other": [
+    "Vascular surgery — varicose veins consult"
+  ],
+  "alcohol": "23 units / week",
+  "exercise": "Running 3x/week, 5 km",
+  "ipss": "IPSS score: 27/35 (severe LUTS)",
+  "admin": "Mobility limitation (frame); ground-floor consult room preferred.",
+  "mri_hospital": "Ziekenhuis Gelderse Vallei (Ede)",
+  "bx_isup": 0,
+  "bx_gl_prim": 0,
+  "bx_gl_sec": 0,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

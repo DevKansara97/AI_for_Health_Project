@@ -1,0 +1,71 @@
+{
+  "case_id": "T2-144",
+  "pid": "T2-144",
+  "task": 2,
+  "psa": 4.8,
+  "age": 58,
+  "months": 1,
+  "pirads": "5",
+  "psad": 0.19,
+  "psav": 1.16,
+  "psap": 3.7,
+  "vol": 25.31,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.8035576,
+  "medhx": "Hypercholesterolaemia, Benign prostatic hyperplasia",
+  "meds": "None",
+  "notes": "PSA 4.8 ng/mL. PI-RADS 5. PSAD 0.19. Prostate volume 25 mL. DRE nodus. csPCa 0.80.",
+  "pmhx": [
+    "Hypercholesterolaemia",
+    "Benign prostatic hyperplasia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "100 kg",
+    "height": "178 cm",
+    "bmi": "31.6",
+    "bp": "137/73 mmHg",
+    "hr": "63 bpm",
+    "smoking": "Ex-smoker (24 pack-yr, quit 2004)",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "26 Feb 2025",
+  "enc_ref": "Dr. R. Visser (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of known high-grade prostate cancer to determine the most appropriate treatment strategy following recent imaging and pathology review."
+    },
+    {
+      "s": "History",
+      "t": "This 58-year-old secondary school teacher presents for re-evaluation of his prostate cancer diagnosis. He has a history of hypercholesterolaemia and benign prostatic hyperplasia, which are managed conservatively. His PSA has shown a steady rise over the past two years, from 2.2 ng/mL in January 2023 to 4.8 ng/mL in February 2025. He reports moderate lower urinary tract symptoms with an IPSS score of 10/35, which has not significantly impacted his daily life. He is married and lives with his partner, who is his primary contact for medical matters. He is an ex-smoker with a 24 pack-year history, having quit in 2004, and currently consumes 16 units of alcohol per week. He remains active, enjoying hiking on weekends, and has recently attended audiology for a hearing test and a pain clinic for chronic shoulder pain."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On digital rectal examination, a distinct nodule is palpable in the right lobe of the prostate, consistent with clinical stage cT2. The prostate is moderately enlarged and firm. General examination is unremarkable, with stable vital signs and no signs of metastatic disease."
+    }
+  ],
+  "occupation": "secondary school teacher",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Audiology — hearing test",
+    "Radiology — chest X-ray (routine)",
+    "Pain clinic — chronic shoulder pain"
+  ],
+  "alcohol": "16 units / week",
+  "exercise": "Hiking on weekends",
+  "ipss": "IPSS score: 10/35 (moderate LUTS)",
+  "admin": "Hard of hearing — speak clearly; prefers written summaries.",
+  "mri_hospital": "Radboudumc",
+  "bx_isup": 4,
+  "bx_gl_prim": 4,
+  "bx_gl_sec": 4,
+  "ct": "cT2",
+  "active_treatment_flag": 0
+}

@@ -1,0 +1,68 @@
+{
+  "case_id": "T2-062",
+  "pid": "T2-062",
+  "task": 2,
+  "psa": 7.4,
+  "age": 72,
+  "months": 3,
+  "pirads": "4",
+  "psad": 0.117,
+  "psav": 1.29,
+  "psap": 2.3,
+  "vol": 63.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.83814454,
+  "medhx": "Hypertension, Hypercholesterolaemia, Coronary artery disease",
+  "meds": "amlodipine, valsartan, metoprolol, atorvastatin, simvastatin, rosuvastatin, aspirin 80 mg",
+  "notes": "PSA 7.4 ng/mL. PI-RADS 4. PSAD 0.12. Prostate volume 63 mL. csPCa 0.84.",
+  "pmhx": [
+    "Hypertension",
+    "Hypercholesterolaemia",
+    "Coronary artery disease"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "78 kg",
+    "height": "176 cm",
+    "bmi": "25.2",
+    "bp": "140/78 mmHg",
+    "hr": "61 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "28 Jan 2025",
+  "enc_ref": "Dr. K. Bakker (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for treatment decision following recent biopsy showing Gleason 4+3 adenocarcinoma with AI-predicted ISUP grade group 4 and presence of high-risk features."
+    },
+    {
+      "s": "History",
+      "t": "Recently retired postal worker with a history of hypertension, hypercholesterolaemia, and coronary artery disease. He takes amlodipine, valsartan, metoprolol, atorvastatin, simvastatin, rosuvastatin, and aspirin 80 mg daily. He is married, lives with his partner, and walks 45 minutes daily. Alcohol consumption is moderate at 13 units per week. He has mild lower urinary tract symptoms with an IPSS score of 1/35. PSA has risen from 2.3 ng/mL in Feb 2024 to 7.4 ng/mL in Jan 2025. He previously declined research participation and respects active surveillance-related trials. No recent other appointments. He denies bone pain, haematuria, or unexplained weight loss."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is smooth, symmetric, and non-nodular, consistent with cT1c staging. General examination is unremarkable with stable vital signs and no signs of metastatic disease."
+    }
+  ],
+  "occupation": "retired postal worker",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [],
+  "alcohol": "13 units / week",
+  "exercise": "Walking 45 min/day",
+  "ipss": "IPSS score: 1/35 (mild LUTS)",
+  "admin": "Patient declined research participation previously; respect for AS-related trials.",
+  "mri_hospital": "Antoni van Leeuwenhoek",
+  "bx_isup": 1,
+  "bx_gl_prim": 4,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

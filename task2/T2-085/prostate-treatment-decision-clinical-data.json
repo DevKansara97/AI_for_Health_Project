@@ -1,0 +1,108 @@
+{
+  "radiology_report": "Ziekenhuis Gelderse Vallei (Ede)\nDepartment of Radiology\nDate: 26 Dec 2024\nExam: mpMRI prostate\n\nClinical indication: Rising PSA from 1.4 ng/mL to 4.7 ng/mL; prior biopsy Gleason 3+3 ISUP GG1 with cribriform pattern and PNI. Evaluate for localised disease extent and suspicious lesions.\n\nFINDINGS:\nProstate volume measures 37.0 mL. T2-weighted images show a 14 mm focal lesion in the left peripheral zone, demonstrating marked restriction on DWI (high signal on b=1400) with corresponding ADC drop, and early, intense enhancement on DCE. The lesion abuts the anterior fibromuscular stroma but does not breach the capsule. No extracapsular extension or seminal vesicle invasion is identified. Central gland shows benign nodular hyperplasia. No suspicious lymphadenopathy or bone lesions.\n\nIMPRESSION:\nPI-RADS 5 lesion in the left peripheral zone.\nProstate volume 37.0 mL; PSA density 0.13 ng/mL/mL.\nClinical stage cT1c.\ncsPCa predicted probability 0.8442101.",
+  "previous_notes": [
+    {
+      "date": "23 Jan 2023",
+      "author": "Dr. F. de Boer (GP)",
+      "text": "23 Jan 2023 - Dr. F. de Boer (GP): Patient presented with an incidental PSA elevation of 1.4 ng/mL. Digital rectal examination was unremarkable. Given the rising trend on repeat testing, a transrectal ultrasound-guided biopsy was arranged. The patient was advised on the potential outcomes and the importance of follow-up."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Mar 2023",
+      "val": 1.4
+    },
+    {
+      "date": "Sep 2023",
+      "val": 1.9
+    },
+    {
+      "date": "Feb 2024",
+      "val": 2.6
+    },
+    {
+      "date": "Jul 2024",
+      "val": 3.5
+    },
+    {
+      "date": "Jan 2025",
+      "val": 4.7
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "4.7 ng/mL",
+      "date": "26 Dec 2024",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "1.02 ng/mL",
+      "date": "26 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "22%",
+      "date": "26 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "15.6 g/dL",
+      "date": "26 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "6.2 x10^9/L",
+      "date": "26 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "160 x10^9/L",
+      "date": "26 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "99 umol/L",
+      "date": "26 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "26 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "12.1 nmol/L",
+      "date": "26 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "71 U/L",
+      "date": "26 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "202 U/L",
+      "date": "26 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "HbA1c",
+      "val": "6.5 %",
+      "date": "26 Dec 2024",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy timepoint 1 (Mar 2023): Histological examination of the prostate core biopsy demonstrates adenocarcinoma with a Gleason score of 3+3, corresponding to ISUP grade group 1. The predominant growth pattern is acinar. Within the tumour focus, a cribriform pattern is present. Perineural invasion is identified. The tumour is located in the peripheral zone, left.\n\nBiopsy timepoint 2 (Jan 2025): Histological examination of the repeat prostate core biopsy reveals adenocarcinoma with a Gleason score of 3+3, corresponding to ISUP grade group 1. The growth pattern remains acinar. A cribriform pattern is again present, and perineural invasion is confirmed. The tumour is located in the peripheral zone, left.\n\nSummary: The histological grade remains stable at ISUP grade group 1 across both timepoints, although the persistent presence of cribriform architecture and perineural invasion is noted.\n\nAI-predicted ISUP grade group (digital pathology): grade group 3."
+}

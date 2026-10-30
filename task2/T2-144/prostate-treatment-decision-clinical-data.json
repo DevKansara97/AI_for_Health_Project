@@ -1,0 +1,103 @@
+{
+  "radiology_report": "Radboudumc\nDepartment of Radiology\nDate: 12 Feb 2025\nExam: Multiparametric MRI prostate\nClinical indication: PSA 4.8 ng/mL, rising trend, prior biopsy Gleason 4+4. Request for staging and lesion characterization.\n\nFINDINGS:\nThe prostate volume measures 25.31 mL. The peripheral zone of the right posterolateral aspect contains a 12 mm focal lesion. On T2-weighted imaging, the lesion appears markedly hypointense. Diffusion-weighted imaging demonstrates restricted diffusion with high signal on b=1400 and corresponding low signal on the ADC map. Dynamic contrast-enhanced sequences show early and intense enhancement of the lesion, preceding the surrounding glandular tissue. No extracapsular extension or seminal vesicle invasion is identified. No suspicious pelvic lymphadenopathy is seen.\n\nIMPRESSION:\nPI-RADS 5 lesion in the right posterolateral peripheral zone, 12 mm in diameter.\nPSA density: 0.19 ng/mL/mL.\nClinical T stage: cT2.\ncsPCa predicted probability 0.8035576.",
+  "previous_notes": [
+    {
+      "date": "29 Oct 2024",
+      "author": "Dr. R. Visser (GP)",
+      "text": "29 Oct 2024 - Dr. R. Visser (GP):\nThe patient returned for routine follow-up of his known prostate cancer diagnosis. He reports no new urinary symptoms and continues his weekend hiking routine. Recent blood work shows a PSA of 3.7 ng/mL, which is stable compared to previous measurements. I have arranged for an outpatient urology re-evaluation in early 2025 to discuss the ongoing management plan and review the latest imaging results."
+    },
+    {
+      "date": "05 Sep 2023",
+      "author": "Dr. R. Visser (GP)",
+      "text": "05 Sep 2023 - Dr. R. Visser (GP):\nThe patient presented with a PSA of 2.9 ng/mL, which has risen slightly from his baseline. He was referred for a prostate biopsy to investigate the cause of the elevation. The biopsy confirmed the presence of prostate cancer, and he has been scheduled for regular monitoring and urology follow-up. I advised him to continue his current lifestyle and to report any new symptoms promptly."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Jan 2023",
+      "val": 2.2
+    },
+    {
+      "date": "Sep 2023",
+      "val": 2.9
+    },
+    {
+      "date": "Jun 2024",
+      "val": 3.7
+    },
+    {
+      "date": "Feb 2025",
+      "val": 4.8
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "4.8 ng/mL",
+      "date": "10 Feb 2025",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "0.52 ng/mL",
+      "date": "10 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "11%",
+      "date": "10 Feb 2025",
+      "flag": "L"
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "13.7 g/dL",
+      "date": "10 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "4.5 x10^9/L",
+      "date": "10 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "320 x10^9/L",
+      "date": "10 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "91 umol/L",
+      "date": "10 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "10 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "10.6 nmol/L",
+      "date": "10 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "82 U/L",
+      "date": "10 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "173 U/L",
+      "date": "10 Feb 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "Yes",
+  "pathology_report": "Biopsy timepoint 1 (Jan 2024):\nHistological examination of the prostate biopsy cores reveals adenocarcinoma with a Gleason score of 4+4, corresponding to ISUP grade group 4. The dominant growth pattern is cribriform. High-risk features are present, specifically cribriform pattern and intraductal carcinoma (IDC-P). The tumour is located in the right side of the prostate.\n\nSummary of trajectory:\nThe histological findings remain consistent across the available timepoint, showing high-grade disease with ISUP grade group 4 and high-risk morphological features.\n\nAI-predicted ISUP grade group (digital pathology): grade group 4."
+}

@@ -1,0 +1,72 @@
+{
+  "case_id": "T2-005",
+  "pid": "T2-005",
+  "task": 2,
+  "psa": 3.0,
+  "age": 60,
+  "months": 2,
+  "pirads": "4",
+  "psad": 0.12,
+  "psav": 0.64,
+  "psap": 2.3,
+  "vol": 25.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.7542332,
+  "medhx": "Hypertension, Chronic kidney disease, Osteoarthritis",
+  "meds": "valsartan, metoprolol, paracetamol PRN",
+  "notes": "PSA 3 ng/mL. PI-RADS 4. PSAD 0.12. Prostate volume 25 mL. csPCa 0.75.",
+  "pmhx": [
+    "Hypertension",
+    "Chronic kidney disease",
+    "Osteoarthritis"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "93 kg",
+    "height": "180 cm",
+    "bmi": "28.7",
+    "bp": "112/87 mmHg",
+    "hr": "84 bpm",
+    "smoking": "Current smoker (17 pack-yr)",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "25 Feb 2025",
+  "enc_ref": "Dr. P. van Dijk (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of prior prostate cancer diagnosis to determine optimal management strategy following recent histological and imaging correlation."
+    },
+    {
+      "s": "History",
+      "t": "Semi-retired harbour pilot with a history of hypertension and chronic kidney disease presents for urological follow-up following a prior transperineal prostate biopsy. He resides in a ground-floor apartment with his partner and maintains close contact with his sister, who serves as his primary next-of-kin. The patient reports moderate lower urinary tract symptoms consistent with an IPSS of 18, alongside a 17 pack-year smoking history and weekly alcohol consumption of approximately 27 units. Mobility is currently restricted to chair-based exercises due to osteoarthritis, and he recently attended routine outpatient visits for thyroid screening, knee follow-up, and a chest radiograph. He notes that he is hard of hearing and consistently requests written summaries of clinical discussions to ensure accurate comprehension."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On digital rectal examination, the prostate is non-palpable with no discrete nodules or asymmetry, correlating with a clinical stage of cT1c. General inspection reveals a well-nourished individual with stable vital signs and no signs of peripheral oedema or lymphadenopathy."
+    }
+  ],
+  "occupation": "harbour pilot (semi-retired)",
+  "marital": "Divorced",
+  "living": "Lives in ground-floor apartment with partner",
+  "next_of_kin": "Sibling (sister)",
+  "recent_other": [
+    "Endocrine — thyroid screening",
+    "Orthopaedic outpatient — knee follow-up",
+    "Radiology — chest X-ray (routine)"
+  ],
+  "alcohol": "27 units / week",
+  "exercise": "Limited mobility — chair-based exercises only",
+  "ipss": "IPSS score: 18/35 (moderate LUTS)",
+  "admin": "Hard of hearing — speak clearly; prefers written summaries.",
+  "mri_hospital": "Erasmus MC",
+  "bx_isup": 1,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

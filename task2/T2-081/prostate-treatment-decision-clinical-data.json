@@ -1,0 +1,103 @@
+{
+  "radiology_report": "Spaarne Gasthuis (Haarlem)\nRadiology Dept\nDate: 10 Jan 2025\nExam: mpMRI prostate\n\nClinical indication: Rising PSA (5.8 ng/mL), prior biopsy Gleason 3+4.\n\nFINDINGS:\nProstate volume measures 54.0 mL. T2-weighted imaging shows a focal area of hypointensity in the right transition zone, extending towards the mid-apex, measuring approximately 12 mm in greatest dimension. This lesion demonstrates restricted diffusion on DWI with corresponding low ADC values. Dynamic contrast-enhanced sequences show early and intense enhancement of the same area. No extracapsular extension or seminal vesicle invasion is identified. No suspicious lymphadenopathy or distant metastases.\n\nIMPRESSION:\nPI-RADS 4 lesion in the right transition zone, mid-apex.\nPSA density: 0.11 ng/mL/mL.\nClinical stage: cT1c.\ncsPCa predicted probability 0.48268548.",
+  "previous_notes": [
+    {
+      "date": "22 Jul 2023",
+      "author": "Dr. N. Kuiper (GP)",
+      "text": "Patient attended for follow-up of elevated PSA. PSA measured at 3.7 ng/mL. Discussed rising trend and referred for urological assessment and MRI-guided biopsy. Biopsy confirmed Gleason 3+4, ISUP GG2 in the right transition zone. Discussed active surveillance versus treatment options. Patient expressed anxiety regarding procedures and requested time to consider options."
+    },
+    {
+      "date": "17 May 2024",
+      "author": "Dr. N. Kuiper (GP)",
+      "text": "Patient attended for routine PSA monitoring. PSA measured at 4.6 ng/mL, showing continued rise. Discussed stability of histological findings on prior biopsy. Referred for urological re-evaluation to discuss management options in light of rising PSA and persistent symptoms."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Feb 2022",
+      "val": 2.9
+    },
+    {
+      "date": "Feb 2023",
+      "val": 3.7
+    },
+    {
+      "date": "Jan 2024",
+      "val": 4.6
+    },
+    {
+      "date": "Jan 2025",
+      "val": 5.8
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "5.8 ng/mL",
+      "date": "14 Dec 2024",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "0.66 ng/mL",
+      "date": "14 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "11%",
+      "date": "14 Dec 2024",
+      "flag": "L"
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "15.8 g/dL",
+      "date": "14 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "6.2 x10^9/L",
+      "date": "14 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "114 x10^9/L",
+      "date": "14 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "75 umol/L",
+      "date": "14 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "14 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "13.5 nmol/L",
+      "date": "14 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "36 U/L",
+      "date": "14 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "164 U/L",
+      "date": "14 Dec 2024",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy 1 (22 Jul 2023): Histological examination of the prostate tissue reveals acinar adenocarcinoma. The Gleason score is 3+4, corresponding to ISUP grade group 2. No cribriform or intraductal patterns are identified. The tumour is located in the transition zone, mid-apex right.\n\nBiopsy 2 (17 May 2024): Histological examination of the prostate tissue reveals acinar adenocarcinoma. The Gleason score is 3+4, corresponding to ISUP grade group 2. No cribriform or intraductal patterns are identified. The tumour is located in the transition zone, mid-apex right.\n\nSummary: The histological findings remain stable across both biopsy timepoints, with no change in Gleason score or ISUP grade group.\n\nAI-predicted ISUP grade group (digital pathology): grade group 3."
+}

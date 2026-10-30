@@ -1,0 +1,66 @@
+{
+  "case_id": "T2-041",
+  "pid": "T2-041",
+  "task": 2,
+  "psa": 19.0,
+  "age": 60,
+  "months": 1,
+  "pirads": "5",
+  "psad": 0.37,
+  "psav": 3.91,
+  "psap": 13.0,
+  "vol": 51.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.88825184,
+  "medhx": "Hypercholesterolaemia",
+  "meds": "atorvastatin, simvastatin, rosuvastatin",
+  "notes": "PSA 19 ng/mL. PI-RADS 5. PSAD 0.37. Prostate volume 51 mL. csPCa 0.89.",
+  "pmhx": [
+    "Hypercholesterolaemia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "81 kg",
+    "height": "181 cm",
+    "bmi": "24.7",
+    "bp": "139/70 mmHg",
+    "hr": "71 bpm",
+    "smoking": "Ex-smoker (20 pack-yr, quit 2014)",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "18 Jan 2025",
+  "enc_ref": "Dr. N. Kuiper (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for treatment decision following diagnosis of high-grade prostate cancer."
+    },
+    {
+      "s": "History",
+      "t": "Long-standing referral for prostate cancer management. The patient is a 60-year-old retired civil servant, married, and resides independently in a retirement community. He reports moderate lower urinary tract symptoms with an IPSS of 10. He is alcohol-free and maintains a regular exercise routine, running 5 km three times weekly. Medical history includes hypercholesterolaemia managed with statin therapy. He is an ex-smoker with a 20 pack-year history, having quit in 2014. Recent PSA trend shows a rapid rise from 4.2 ng/mL in June 2023 to 19.0 ng/mL in January 2025. He has no significant occupational hazards or recent travel history."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is symmetrically enlarged without palpable nodules, consistent with clinical stage cT1c. General examination reveals a well-nourished man with stable vital signs, BP 139/70 mmHg, HR 71 bpm. No lymphadenopathy or abdominal masses are detected."
+    }
+  ],
+  "occupation": "retired civil servant",
+  "marital": "Married",
+  "living": "Lives in retirement community (independent unit)",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Running 3x/week, 5 km",
+  "ipss": "IPSS score: 10/35 (moderate LUTS)",
+  "admin": "Patient self-employed; flexible appointment slots requested.",
+  "mri_hospital": "UMCG (Groningen)",
+  "bx_isup": 4,
+  "bx_gl_prim": 4,
+  "bx_gl_sec": 4,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

@@ -1,0 +1,15 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "fh": "noted",
+    "age": "important",
+    "ct": "noted",
+    "psad": "important",
+    "pirads": "important",
+    "cspca": "noted",
+    "psa": "noted",
+    "comorbidity": "important"
+  },
+  "reveal_sequence": [],
+  "free_text": "Patient with a negative biopsy and PIRADS 5. Continue monitoring, treatment for BPH"
+}

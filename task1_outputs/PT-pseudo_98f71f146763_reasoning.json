@@ -1,0 +1,22 @@
+{
+  "case_id": "PT-pseudo_98f71f146763",
+  "confidence": "borderline",
+  "variable_importance": {
+    "psa": "not_used",
+    "psad": "noted",
+    "vol": "not_used",
+    "pirads": "decisive",
+    "dre": "noted",
+    "fh": "not_used",
+    "comorbidity": "not_used",
+    "cspca": "not_used",
+    "age": "noted",
+    "bx": "decisive"
+  },
+  "sections_accessed": [
+    "laboratory_results",
+    "previous_notes",
+    "radiology_report"
+  ],
+  "explanation": "Biopsy recommended (risk score 0.68 >= decision threshold 0.64; confidence: borderline). Main supporting factors: age 64. Strongest factor pointing the other way: prior biopsy positive. Evidence is mixed, so the score is close to the decision threshold. Sections informing this decision: laboratory_results, previous_notes, radiology_report."
+}

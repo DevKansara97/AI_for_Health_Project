@@ -1,0 +1,94 @@
+{
+  "radiology_report": "Ziekenhuis Gelderse Vallei (Ede)\nDepartment of Radiology\nDate: 27 November 2024\nExam: mpMRI prostate\n\nClinical indication: Re-evaluation of elevated PSA (35.0 ng/mL) and prior negative biopsy.\n\nFINDINGS:\nThe prostate volume is 81.0 mL. T2-weighted imaging demonstrates a focal lesion in the left peripheral zone at the apex, measuring approximately 18 mm in its greatest dimension. This lesion appears markedly hypointense on T2WI and demonstrates restricted diffusion on DWI with corresponding low ADC values. Dynamic contrast-enhanced (DCE) imaging shows early, intense enhancement of the same area. The central gland shows moderate benign prostatic hyperplasia without focal suspicious lesions. No extracapsular extension, seminal vesicle invasion, or pelvic lymphadenopathy is identified.\n\nIMPRESSION:\nPI-RADS 5 lesion in the left peripheral zone, apex.\nProstate volume 81.0 mL, PSA density 0.43 ng/mL/mL.\nClinical T stage cT1c.\ncsPCa predicted probability 0.8018058.",
+  "previous_notes": [
+    {
+      "date": "19 Jul 2023",
+      "author": "Dr. H. Martens (GP)",
+      "text": "Patient presented with elevated PSA of 9.6 ng/mL. Initial evaluation was performed, and a prostate biopsy was arranged for further assessment. The patient was advised to await results and follow up with urology."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Jun 2023",
+      "val": 9.6
+    },
+    {
+      "date": "Mar 2024",
+      "val": 2.7
+    },
+    {
+      "date": "Jan 2025",
+      "val": 35.0
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "35.0 ng/mL",
+      "date": "27 Nov 2024",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "9.47 ng/mL",
+      "date": "27 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "27%",
+      "date": "27 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "13.9 g/dL",
+      "date": "27 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "7.1 x10^9/L",
+      "date": "27 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "227 x10^9/L",
+      "date": "27 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "80 umol/L",
+      "date": "27 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "27 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "9.3 nmol/L",
+      "date": "27 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "56 U/L",
+      "date": "27 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "177 U/L",
+      "date": "27 Nov 2024",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy timepoint 1: A prostate tissue sample was submitted for histopathological examination. Microscopic evaluation reveals Gleason score 0+0, corresponding to ISUP grade group 0. The specimen demonstrates a cribriform growth pattern. A cribriform pattern is present as a high-risk feature. Perineural invasion is not identified. The tumour is located in the peripheral zone at the apex left. There is no data regarding the number of cores or percentage involvement.\n\nSummary trajectory: The single available biopsy timepoint shows Gleason 0+0 (ISUP GG 0) with a cribriform pattern.\n\nAI-predicted ISUP grade group (digital pathology): grade group 5."
+}

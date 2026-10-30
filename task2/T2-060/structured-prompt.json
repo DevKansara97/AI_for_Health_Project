@@ -1,0 +1,71 @@
+{
+  "case_id": "T2-060",
+  "pid": "T2-060",
+  "task": 2,
+  "psa": 8.2,
+  "age": 62,
+  "months": 2,
+  "pirads": "4",
+  "psad": 0.12,
+  "psav": 3.12,
+  "psap": 4.2,
+  "vol": 66.0,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.74084973,
+  "medhx": "Hypertension, Hypercholesterolaemia, COPD",
+  "meds": "valsartan, lisinopril, simvastatin, rosuvastatin, salbutamol PRN",
+  "notes": "PSA 8.2 ng/mL. PI-RADS 4. PSAD 0.12. Prostate volume 66 mL. DRE nodus. csPCa 0.74.",
+  "pmhx": [
+    "Hypertension",
+    "Hypercholesterolaemia",
+    "COPD"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "105 kg",
+    "height": "177 cm",
+    "bmi": "33.5",
+    "bp": "141/84 mmHg",
+    "hr": "75 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "10 Feb 2025",
+  "enc_ref": "Dr. N. Kuiper (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of known low-grade prostate cancer following significant PSA rise and repeat biopsy confirmation."
+    },
+    {
+      "s": "History",
+      "t": "Recently retired accountant presenting for urological follow-up. The patient has a known diagnosis of ISUP grade group 1 prostate cancer, initially diagnosed in early 2024. He has been under active surveillance, but recent PSA testing shows a sharp increase to 8.2 ng/mL. He has comorbid hypertension and hypercholesterolaemia, managed with valsartan, lisinopril, and statins. He also has COPD, for which he uses salbutamol as needed. He is married, lives with his partner, and exercises by walking 45 minutes daily. He consumes approximately 12 units of alcohol per week. He recently attended a memory clinic for baseline screening and underwent a surveillance colonoscopy, both without significant findings."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, a discrete nodule is palpable in the mid-prostate region, consistent with clinical stage cT2a. General examination reveals a well-nourished patient with stable vital signs and no signs of metastatic disease."
+    }
+  ],
+  "occupation": "retired accountant",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Memory clinic — baseline screening",
+    "Gastroenterology — surveillance colonoscopy"
+  ],
+  "alcohol": "12 units / week",
+  "exercise": "Walking 45 min/day",
+  "ipss": "IPSS score: 5/35 (mild LUTS)",
+  "admin": "Patient travels 60+ min by train to clinic; allow buffer.",
+  "mri_hospital": "Tergooi MC",
+  "bx_isup": 1,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 3,
+  "ct": "cT2a",
+  "active_treatment_flag": 0
+}

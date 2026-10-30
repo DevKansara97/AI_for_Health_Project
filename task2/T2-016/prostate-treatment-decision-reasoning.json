@@ -1,0 +1,15 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "psa": "important",
+    "cspca": "not_used",
+    "age": "not_used",
+    "comorbidity": "noted",
+    "pirads": "not_used",
+    "psad": "not_used",
+    "fh": "not_used",
+    "ct": "not_used"
+  },
+  "reveal_sequence": [],
+  "free_text": "Patient on Active surveillance with a new MRI showing PIRADS 5. should undergo biopsy"
+}

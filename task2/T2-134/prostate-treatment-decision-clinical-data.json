@@ -1,0 +1,94 @@
+{
+  "radiology_report": "Department of Radiology\nUMCG (Groningen)\nDate: 08 Dec 2024\nExam: mpMRI prostate\nClinical indication: PSA 6.1 ng/mL, PI-RADS 4.\nFINDINGS: Prostate volume measures 50.0 mL. A focal lesion is identified in the transition zone, apex right, measuring approximately 12 mm. On T2-weighted imaging, the lesion demonstrates hypointensity. Diffusion-weighted imaging shows restricted diffusion with corresponding high signal on the ADC map. Dynamic contrast-enhanced sequences demonstrate early, rapid enhancement. No extracapsular extension or seminal vesicle invasion is identified. No suspicious lymphadenopathy or bone metastases are seen.\nIMPRESSION: PI-RADS 4 lesion in the transition zone, apex right. Prostate-specific antigen density 0.12 ng/mL/mL. Clinical T stage cT1c. csPCa predicted probability 0.6372923.",
+  "previous_notes": [
+    {
+      "date": "10 Jan 2024",
+      "author": "Dr. C. Peters (GP)",
+      "text": "Patient presented with an elevated PSA of 4.6 ng/mL measured in July 2023. A multiparametric MRI was performed, identifying a PI-RADS 4 lesion in the right transition zone. Subsequent targeted and systematic biopsy confirmed adenocarcinoma, Gleason 3+4 (ISUP GG 2), with cribriform pattern in the right apex transition zone. The patient was referred to urology for discussion of management options, considering his comorbidities and preference for conservative monitoring if appropriate."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Feb 2022",
+      "val": 3.4
+    },
+    {
+      "date": "Jul 2023",
+      "val": 4.6
+    },
+    {
+      "date": "Jan 2025",
+      "val": 6.1
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "6.1 ng/mL",
+      "date": "08 Dec 2024",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "1.29 ng/mL",
+      "date": "08 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "21%",
+      "date": "08 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "13.9 g/dL",
+      "date": "08 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "3.9 x10^9/L",
+      "date": "08 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "233 x10^9/L",
+      "date": "08 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "93 umol/L",
+      "date": "08 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "08 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "14.2 nmol/L",
+      "date": "08 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "80 U/L",
+      "date": "08 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "153 U/L",
+      "date": "08 Dec 2024",
+      "flag": ""
+    }
+  ],
+  "family_history": "Yes",
+  "pathology_report": "Specimen 1: Prostate biopsy, transition zone, apex right.\nHistological examination reveals adenocarcinoma of the prostate. The Gleason score is 3+4, corresponding to ISUP grade group 2. The growth pattern is acinar. A cribriform pattern is present. The tumour is located in the transition zone, apex right.\n\nSummary: The biopsy findings demonstrate a Gleason 3+4 (ISUP GG 2) adenocarcinoma with cribriform features in the transition zone, apex right.\n\nAI-predicted ISUP grade group (digital pathology): grade group 4."
+}

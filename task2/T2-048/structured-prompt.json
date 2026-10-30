@@ -1,0 +1,66 @@
+{
+  "case_id": "T2-048",
+  "pid": "T2-048",
+  "task": 2,
+  "psa": 9.1,
+  "age": 58,
+  "months": 2,
+  "pirads": "4",
+  "psad": 0.338,
+  "psav": 2.57,
+  "psap": 5.9,
+  "vol": 26.9,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.0,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 9.1 ng/mL. PI-RADS 4. PSAD 0.34. Prostate volume 27 mL. csPCa 0.00.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "87 kg",
+    "height": "176 cm",
+    "bmi": "28.1",
+    "bp": "137/90 mmHg",
+    "hr": "71 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "25 Feb 2025",
+  "enc_ref": "Dr. R. Visser (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of prior prostate cancer diagnosis with recent PSA increase to 9.1 ng/mL."
+    },
+    {
+      "s": "History",
+      "t": "Recently retired electrical engineer with a history of prostate cancer diagnosed on biopsy in June 2024. The patient lives in a ground-floor apartment with his partner and has a long-time friend as his next-of-kin. He reports mild lower urinary tract symptoms with an IPSS score of 1/35. Socially, he consumes approximately 25 units of alcohol weekly and walks 20 minutes daily. He is a non-smoker. Recent cardiology review in autumn 2024 was stable. The patient travels over 60 minutes by train to the clinic, requiring a buffer for appointments. No other significant medical history is recorded."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, the prostate is normal in size and consistency without palpable nodules, consistent with clinical T stage cT1c. General examination reveals a well-nourished patient with stable vital signs, BP 137/90 mmHg, HR 71 bpm. BMI is 28.1 kg/m2."
+    }
+  ],
+  "occupation": "retired electrical engineer",
+  "marital": "Never married",
+  "living": "Lives in ground-floor apartment with partner",
+  "next_of_kin": "Long-time friend (no close family)",
+  "recent_other": [
+    "Cardiology — annual review (stable, autumn 2024)"
+  ],
+  "alcohol": "25 units / week",
+  "exercise": "Walking 20 min/day",
+  "ipss": "IPSS score: 1/35 (mild LUTS)",
+  "admin": "Patient travels 60+ min by train to clinic; allow buffer.",
+  "mri_hospital": "LUMC (Leiden)",
+  "bx_isup": 1,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 3,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

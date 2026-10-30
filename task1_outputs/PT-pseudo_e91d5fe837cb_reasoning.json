@@ -1,0 +1,20 @@
+{
+  "case_id": "PT-pseudo_e91d5fe837cb",
+  "confidence": "clear",
+  "variable_importance": {
+    "psa": "noted",
+    "psad": "noted",
+    "vol": "not_used",
+    "pirads": "not_used",
+    "dre": "not_used",
+    "fh": "not_used",
+    "comorbidity": "important",
+    "cspca": "decisive",
+    "age": "not_used",
+    "bx": "not_used"
+  },
+  "sections_accessed": [
+    "laboratory_results"
+  ],
+  "explanation": "Biopsy not recommended (risk score 0.51 < decision threshold 0.64; confidence: clear). Main supporting factors: csPCa likelihood score 0.64; PSA 6.1 ng/mL (velocity +0.9); PSA density 0.12. Strongest factor pointing the other way: 3 comorbidities. Sections informing this decision: laboratory_results."
+}

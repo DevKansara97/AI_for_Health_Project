@@ -1,0 +1,103 @@
+{
+  "radiology_report": "Ziekenhuis Gelderse Vallei (Ede)\nDepartment of Radiology\nDate: 04 Feb 2025\nExam: mpMRI prostate\n\nClinical indication: Re-evaluation of known prostate cancer. PSA 113.0 ng/mL. Prior biopsy Gleason 4+5 (ISUP GG 5).\n\nFINDINGS:\nProstate volume is 43.0 mL. T2-weighted imaging demonstrates a focal, markedly hypointense lesion in the peripheral zone of the left base, measuring approximately 18 mm in maximum dimension. The lesion shows restricted diffusion on high b-value DWI with corresponding high signal on the ADC map. Early and persistent enhancement is noted on dynamic contrast-enhanced sequences. The lesion abuts the prostatic capsule without definitive extraprostatic extension. Neurovascular bundles appear preserved. No suspicious pelvic lymphadenopathy is identified.\n\nIMPRESSION:\nPI-RADS 5 lesion in the left peripheral zone base.\nPSA density: 2.61 ng/mL/mL.\nClinical T stage: cT2a.\ncsPCa predicted probability 0.94776064.",
+  "previous_notes": [
+    {
+      "date": "14 Aug 2023",
+      "author": "Dr. C. Peters (GP)",
+      "text": "Patient presented with an elevated PSA of 15.6 ng/mL. Digital rectal examination was unremarkable. A transrectal ultrasound-guided biopsy was performed. Pathology returned showing Gleason 4+5 (ISUP GG 5) adenocarcinoma with cribriform features and perineural invasion. Referral to urology was initiated for treatment discussion."
+    },
+    {
+      "date": "09 Jun 2024",
+      "author": "Dr. C. Peters (GP)",
+      "text": "Follow-up consultation regarding prostate cancer management. PSA measured at 16.4 ng/mL. Patient expressed concerns regarding surgical options versus active surveillance given his comorbid atrial fibrillation and anticoagulation therapy. Discussed risks and benefits of various modalities. Referred for multidisciplinary team review to finalize treatment strategy."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Nov 2022",
+      "val": 5.7
+    },
+    {
+      "date": "Aug 2023",
+      "val": 15.6
+    },
+    {
+      "date": "May 2024",
+      "val": 16.4
+    },
+    {
+      "date": "Feb 2025",
+      "val": 113.0
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "113.0 ng/mL",
+      "date": "09 Jan 2025",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "12.15 ng/mL",
+      "date": "09 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "11%",
+      "date": "09 Jan 2025",
+      "flag": "L"
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "14.5 g/dL",
+      "date": "09 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "4.7 x10^9/L",
+      "date": "09 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "282 x10^9/L",
+      "date": "09 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "88 umol/L",
+      "date": "09 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "09 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "14.6 nmol/L",
+      "date": "09 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "65 U/L",
+      "date": "09 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "237 U/L",
+      "date": "09 Jan 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "No",
+  "pathology_report": "Biopsy timepoint 1:\nHistological examination of the prostate tissue reveals adenocarcinoma with a Gleason score of 4+5, corresponding to ISUP grade group 5. The tumour architecture is characterized by cribriform, glomeruloid formations, poorly formed fusing tubules, small solid fields, branching rows and isolated tumor cells. A prominent cribriform pattern is present. Perineural invasion is identified. The trajectory across timepoints indicates a stable high-grade disease profile.\n\nAI-predicted ISUP grade group (digital pathology): grade group 5."
+}

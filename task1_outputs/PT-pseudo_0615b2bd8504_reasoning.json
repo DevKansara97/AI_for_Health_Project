@@ -1,0 +1,22 @@
+{
+  "case_id": "PT-pseudo_0615b2bd8504",
+  "confidence": "borderline",
+  "variable_importance": {
+    "psa": "important",
+    "psad": "not_used",
+    "vol": "not_used",
+    "pirads": "not_used",
+    "dre": "not_used",
+    "fh": "not_used",
+    "comorbidity": "not_used",
+    "cspca": "not_used",
+    "age": "not_used",
+    "bx": "decisive"
+  },
+  "sections_accessed": [
+    "previous_notes",
+    "laboratory_results",
+    "psa_trend"
+  ],
+  "explanation": "Biopsy not recommended (risk score 0.38 < decision threshold 0.64; confidence: borderline). Main supporting factors: prior biopsy positive, prior ISUP 2; PSA 160.0 ng/mL (velocity +35.7); prostate volume 61 mL. Evidence is mixed, so the score is close to the decision threshold. Sections informing this decision: previous_notes, laboratory_results, psa_trend."
+}

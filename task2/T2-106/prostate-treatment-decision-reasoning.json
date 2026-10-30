@@ -1,0 +1,18 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "psa": "noted",
+    "cspca": "noted",
+    "ct": "noted",
+    "age": "decisive",
+    "psad": "noted",
+    "pirads": "important",
+    "bx_gl_prim": "noted",
+    "bx_isup": "important",
+    "fh": "noted",
+    "bx_gl_sec": "important",
+    "comorbidity": "noted"
+  },
+  "reveal_sequence": [],
+  "free_text": "The patient has a quite long life expectancy, treatment should be discussed. \nAS is an option only in carefully selected patients for GG2 prostate cancer. \nRT should be also discussed."
+}

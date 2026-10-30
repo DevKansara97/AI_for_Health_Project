@@ -1,0 +1,15 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "cspca": "noted",
+    "fh": "noted",
+    "age": "important",
+    "comorbidity": "not_used",
+    "psa": "decisive",
+    "psad": "not_used",
+    "ct": "important",
+    "pirads": "noted"
+  },
+  "reveal_sequence": [],
+  "free_text": "Patient with a negative Biopsy and very low PSA."
+}

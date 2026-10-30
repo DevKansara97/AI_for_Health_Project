@@ -1,0 +1,69 @@
+{
+  "case_id": "T2-072",
+  "pid": "T2-072",
+  "task": 2,
+  "psa": 15.0,
+  "age": 69,
+  "months": 1,
+  "pirads": "5",
+  "psad": 0.351,
+  "psav": 4.35,
+  "psap": 8.8,
+  "vol": 42.78,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.85514855,
+  "medhx": "Hypertension, Coronary artery disease",
+  "meds": "None",
+  "notes": "PSA 15 ng/mL. PI-RADS 5. PSAD 0.35. Prostate volume 43 mL. DRE nodus. csPCa 0.86.",
+  "pmhx": [
+    "Hypertension",
+    "Coronary artery disease"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "98 kg",
+    "height": "167 cm",
+    "bmi": "35.1",
+    "bp": "152/71 mmHg",
+    "hr": "74 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "29 Jan 2025",
+  "enc_ref": "Dr. T. Hendriks (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of prostate cancer management following histological upgrade to ISUP grade group 2 and rising PSA."
+    },
+    {
+      "s": "History",
+      "t": "The patient is a 69-year-old retired firefighter with a history of prostate cancer diagnosed on prior biopsy. He has hypertension and coronary artery disease, managed without active medication. He lives in a multi-generational household with his adult child and is married. He swims once weekly and abstains from alcohol. He reports moderate lower urinary tract symptoms with an IPSS score of 18/35. Recent gastroenterology surveillance colonoscopy was unremarkable. He requests flexible appointment slots due to his self-employed status."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On DRE, a nodule is palpable in the right transition zone, consistent with clinical stage cT1c. General examination reveals stable vital signs with BP 152/71 mmHg and HR 74 bpm. No peripheral edema or lymphadenopathy."
+    }
+  ],
+  "occupation": "retired firefighter",
+  "marital": "Married",
+  "living": "Lives with adult child (multi-generational household)",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Gastroenterology — surveillance colonoscopy"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Swimming 1x/week",
+  "ipss": "IPSS score: 18/35 (moderate LUTS)",
+  "admin": "Patient self-employed; flexible appointment slots requested.",
+  "mri_hospital": "Antoni van Leeuwenhoek",
+  "bx_isup": 2,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 4,
+  "ct": "cT1c",
+  "active_treatment_flag": 0
+}

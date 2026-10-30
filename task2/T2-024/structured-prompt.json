@@ -1,0 +1,70 @@
+{
+  "case_id": "T2-024",
+  "pid": "T2-024",
+  "task": 2,
+  "psa": 5.3,
+  "age": 64,
+  "months": 2,
+  "pirads": "4",
+  "psad": 0.092,
+  "psav": 1.34,
+  "psap": 2.2,
+  "vol": 57.56,
+  "dre": "Suspicious",
+  "bx": "Positive",
+  "cspca": 0.79137033,
+  "medhx": "Upper abdominal surgery",
+  "meds": "None",
+  "notes": "PSA 5.3 ng/mL. PI-RADS 4. PSAD 0.09. Prostate volume 58 mL. DRE suspicious. csPCa 0.79.",
+  "pmhx": [
+    "Upper abdominal surgery"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "100 kg",
+    "height": "185 cm",
+    "bmi": "29.2",
+    "bp": "137/84 mmHg",
+    "hr": "70 bpm",
+    "smoking": "Current smoker (23 pack-yr)",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "23 Feb 2025",
+  "enc_ref": "Dr. P. van Dijk (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation of prostate cancer diagnosis following recent biopsy and MRI findings."
+    },
+    {
+      "s": "History",
+      "t": "Recently retired firefighter with a history of upper abdominal surgery. He is married but lives alone, with his adult son as primary contact. He is a current smoker with a 23 pack-year history, abstains from alcohol, and cycles 5 times a week for commuting. His IPSS score is 2/35, indicating mild lower urinary tract symptoms. He has had recent appointments for gastroenterology surveillance colonoscopy, vascular surgery consultation for varicose veins, and dental check-ups. PSA trend shows an increase from 2.8 ng/mL in May 2022 to 5.3 ng/mL in February 2025."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On digital rectal examination, a suspicious nodule is palpated in the left peripheral zone, consistent with clinical stage cTx. General examination is unremarkable with stable vital signs."
+    }
+  ],
+  "occupation": "retired firefighter",
+  "marital": "Married",
+  "living": "Lives alone",
+  "next_of_kin": "Adult son (primary contact)",
+  "recent_other": [
+    "Gastroenterology — surveillance colonoscopy",
+    "Vascular surgery — varicose veins consult",
+    "Dental — biannual check-up"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Cycling 5x/week (commuter)",
+  "ipss": "IPSS score: 2/35 (mild LUTS)",
+  "admin": "Interpreter (Arabic) requested for next visit.",
+  "mri_hospital": "OLVG (Amsterdam)",
+  "bx_isup": 2,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 4,
+  "ct": "cTx",
+  "active_treatment_flag": 0
+}

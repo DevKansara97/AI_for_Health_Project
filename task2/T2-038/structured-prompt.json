@@ -1,0 +1,72 @@
+{
+  "case_id": "T2-038",
+  "pid": "T2-038",
+  "task": 2,
+  "psa": 10.0,
+  "age": 56,
+  "months": 1,
+  "pirads": "5",
+  "psad": 0.27,
+  "psav": 1.82,
+  "psap": 8.4,
+  "vol": 41.0,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.7478973,
+  "medhx": "Hypertension, Hypercholesterolaemia",
+  "meds": "valsartan, metoprolol, atorvastatin, simvastatin, rosuvastatin",
+  "notes": "PSA 10 ng/mL. PI-RADS 5. PSAD 0.27. Prostate volume 41 mL. DRE nodus. csPCa 0.75.",
+  "pmhx": [
+    "Hypertension",
+    "Hypercholesterolaemia"
+  ],
+  "allergies": [
+    "Penicillin (rash)"
+  ],
+  "vitals": {
+    "weight": "124 kg",
+    "height": "194 cm",
+    "bmi": "32.9",
+    "bp": "149/77 mmHg",
+    "hr": "77 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "05 Feb 2025",
+  "enc_ref": "Dr. H. Martens (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Re-evaluation for treatment decision following recent PSA rise to 10.0 ng/mL and confirmation of prior prostate cancer diagnosis."
+    },
+    {
+      "s": "History",
+      "t": "Long-standing referral for prostate cancer management. The patient is a 56-year-old retired bus driver, currently living independently in a retirement community with his wife. He has a medical history of hypertension and hypercholesterolaemia, managed with valsartan, metoprolol, and atorvastatin. He reports mild lower urinary tract symptoms with an IPSS score of 1/35. He engages in light weight-training at home twice weekly and consumes approximately 7 units of alcohol per week. Recent appointments include a pain clinic visit for chronic shoulder pain and routine podiatry care. He has previously declined participation in research trials."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum, a palpable nodule is noted in the left lateral aspect of the prostate, consistent with a clinical T2a stage. The prostate is otherwise symmetrically enlarged. General examination is unremarkable with stable vital signs."
+    }
+  ],
+  "occupation": "retired bus driver",
+  "marital": "Married",
+  "living": "Lives in retirement community (independent unit)",
+  "next_of_kin": "Sibling (brother)",
+  "recent_other": [
+    "Pain clinic — chronic shoulder pain",
+    "Podiatry — routine foot care"
+  ],
+  "alcohol": "7 units / week",
+  "exercise": "Light weight-training at home, 2x/week",
+  "ipss": "IPSS score: 1/35 (mild LUTS)",
+  "admin": "Patient declined research participation previously; respect for AS-related trials.",
+  "mri_hospital": "Bravis Ziekenhuis",
+  "bx_isup": 2,
+  "bx_gl_prim": 3,
+  "bx_gl_sec": 4,
+  "ct": "cT2a",
+  "active_treatment_flag": 0
+}

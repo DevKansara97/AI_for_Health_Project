@@ -1,0 +1,19 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "psa": "important",
+    "psad": "noted",
+    "vol": "noted",
+    "pirads": "important",
+    "dre": "noted",
+    "fh": "noted",
+    "comorbidity": "noted",
+    "cspca": "not_used",
+    "age": "important",
+    "bx": "important"
+  },
+  "reveal_sequence": [
+    "radiology_report"
+  ],
+  "free_text": "Biopsy not recommended (model risk score 0.38 vs decision threshold 0.48). Supporting this: PSA 2.7 ng/mL; PI-RADS 2 (8 mm lesion); PSA density 0.05. Context: age 68; no prior biopsy. Based on the structured clinical variables and the MRI report."
+}

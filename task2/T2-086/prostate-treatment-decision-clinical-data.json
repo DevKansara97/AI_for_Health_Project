@@ -1,0 +1,109 @@
+{
+  "radiology_report": "Antoni van Leeuwenhoek\nDepartment of Radiology\nDate: 12 Dec 2024\nExam: mpMRI Prostate\nClinical indication: PSA 17.0 ng/mL, prior negative biopsy, elevated PSA density.\nFINDINGS: Prostate volume measures 48.89 mL. T2-weighted imaging demonstrates a well-defined, hypointense lesion in the peripheral zone of the left posterior mid-gland, measuring approximately 18 x 14 x 16 mm. The lesion shows marked restricted diffusion on DWI (b=1400) with corresponding low ADC values. Dynamic contrast-enhanced sequences reveal early, intense enhancement of the lesion. No extracapsular extension or seminal vesicle invasion is identified.\nIMPRESSION: PI-RADS 5 lesion in the left posterior peripheral zone. Prostate volume 48.89 mL, PSA density 0.35 ng/mL/mL. Clinical stage cT1c. csPCa predicted probability 0.86317605.",
+  "previous_notes": [
+    {
+      "date": "18 May 2024",
+      "author": "Dr. N. Kuiper (GP)",
+      "text": "Patient attended for routine follow-up. PSA was measured at 9.5 ng/mL, showing a significant rise from the previous value of 5.3 ng/mL in July 2023. Given the persistent elevation and rising trend, a repeat multiparametric MRI was arranged to evaluate for any new suspicious lesions prior to considering further tissue sampling."
+    },
+    {
+      "date": "15 Sep 2024",
+      "author": "Dr. N. Kuiper (GP)",
+      "text": "Follow-up consultation regarding the markedly elevated PSA of 17.0 ng/mL. The patient reported mild lower urinary tract symptoms but denied any bone pain or systemic symptoms. A recent mpMRI at Antoni van Leeuwenhoek revealed a PI-RADS 5 lesion. The patient is referred for urological re-evaluation to discuss the discrepancy between the imaging findings and the prior negative biopsy results."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Sep 2022",
+      "val": 3.0
+    },
+    {
+      "date": "Jul 2023",
+      "val": 5.3
+    },
+    {
+      "date": "Apr 2024",
+      "val": 9.5
+    },
+    {
+      "date": "Jan 2025",
+      "val": 17.0
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "17.0 ng/mL",
+      "date": "15 Dec 2024",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "4.47 ng/mL",
+      "date": "15 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "26%",
+      "date": "15 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "16.1 g/dL",
+      "date": "15 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "6.2 x10^9/L",
+      "date": "15 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "268 x10^9/L",
+      "date": "15 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "96 umol/L",
+      "date": "15 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "15 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "10.6 nmol/L",
+      "date": "15 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "83 U/L",
+      "date": "15 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "180 U/L",
+      "date": "15 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "HbA1c",
+      "val": "5.5 %",
+      "date": "15 Dec 2024",
+      "flag": ""
+    }
+  ],
+  "family_history": "Unknown",
+  "pathology_report": "Biopsy timepoint 1: The submitted prostate tissue cores were processed and reviewed. No malignant glands were identified. The Gleason score is 0+0, corresponding to ISUP grade group 0. No cribriform or intraductal patterns were identified. Perineural invasion was not observed.\n\nSummary of trajectory: The histological findings across the available biopsy timepoint remain consistent with benign prostate tissue, with no evidence of malignancy or high-risk features.\n\nAI-predicted ISUP grade group (digital pathology): grade group 0."
+}
